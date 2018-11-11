@@ -5,8 +5,7 @@ from pathlib import Path
 
 URL_list = []
 
-base_path='data_pre/'
-
+base_path='data_lecturebank/'
 data_path='lecturebank.tsv'
 
 
@@ -56,11 +55,10 @@ for key,item in resource_dict.items():
     print ('Now downloading...',key)
 
     url_list = item
-    for url in url_list:
+    for id,url in enumerate(url_list):
 
-        name = url.split('|')[-1]+'_'+ Path(url.split('|')[0]).name
-        print (name)
-        url = url.split('|')[-1]
+        name = str(id)+"_"+url.split('|')[-1]+'_'+ Path(url.split('|')[0]).name
+        url = url.split('|')[0]
 
         command = ["wget", "-O", os.path.join(out_path,name), url, "--timeout=30", "--tries=3"]
         line = sp.call(command)
