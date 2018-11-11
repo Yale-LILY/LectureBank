@@ -1,0 +1,208 @@
+2,Anaphora Resolution,https://en.wikipedia.org/wiki/Anaphora_(linguistics)
+3,Generative Adversarial Networks,https://en.wikipedia.org/wiki/Generative_adversarial_network
+4,Neural Machine Translation,https://en.wikipedia.org/wiki/Neural_machine_translation
+5,Variational Autoencoders,https://en.wikipedia.org/wiki/Autoencoder#Variational_autoencoder_(VAE)
+6,IBM Translation Models,https://en.wikipedia.org/wiki/IBM_alignment_models
+7,BLEU,https://en.wikipedia.org/wiki/BLEU
+8,ROUGE,https://en.wikipedia.org/wiki/ROUGE_(metric)
+9,Scientific article summarization,NULL
+10,Open information extraction,https://en.wikipedia.org/wiki/Open_information_extraction
+11,Sentence simplification,https://en.wikipedia.org/wiki/Text_simplification
+12,Attention Models,NULL
+13,Knowledge graph,https://en.wikipedia.org/wiki/Ontology_(information_science)
+14,Semantic Role Labeling,https://en.wikipedia.org/wiki/Semantic_role_labeling
+15,Abstract Meaning Representation,https://en.wikipedia.org/wiki/Abstract_Meaning_Representation
+16,Coreference and Coreference Resolution,https://en.wikipedia.org/wiki/Coreference#Coreference_resolution
+17,Machine Reading Comprehension,NULL
+18,Context Free Grammar,https://en.wikipedia.org/wiki/Context-free_grammar
+19,Context sensitive grammar,https://en.wikipedia.org/wiki/Context-sensitive_grammar
+20,Domain Adaptation,https://en.wikipedia.org/wiki/Domain_adaptation
+21,Transfer Learning,https://en.wikipedia.org/wiki/Transfer_learning
+22,Capsule Networks,NULL
+23,Reinforcement Learning,https://en.wikipedia.org/wiki/Reinforcement_learning
+24,Q Learning,https://en.wikipedia.org/wiki/Q-learning
+25,DQN,NULL
+26,Backpropagation,https://en.wikipedia.org/wiki/Backpropagation
+27,Word Embedding,https://en.wikipedia.org/wiki/Word_embedding
+28,Logistic Regression,https://en.wikipedia.org/wiki/Logistic_regression
+29,Semantic Parsing,https://en.wikipedia.org/wiki/Semantic_analysis_(computational)
+30,Stemming,https://en.wikipedia.org/wiki/Stemming
+31,Sentiment Analysis,https://en.wikipedia.org/wiki/Sentiment_analysis
+32,Penn Treebank,https://en.wikipedia.org/wiki/Treebank
+33,Dependency Parsing,https://en.wikipedia.org/wiki/Dependency_grammar
+34,Tree Adjoining Grammar,https://en.wikipedia.org/wiki/Tree-adjoining_grammar
+35,Combinatory Categorial Grammar,https://en.wikipedia.org/wiki/Combinatory_categorial_grammar
+36,Relation Extraction,https://en.wikipedia.org/wiki/Relationship_extraction
+37,Event Detection,NULL
+38,Language Modeling,https://en.wikipedia.org/wiki/Language_model
+39,Named Entity Recognition,https://en.wikipedia.org/wiki/Named-entity_recognition
+40,Word Segmentation,https://en.wikipedia.org/wiki/Text_segmentation
+41,Sentence Boundary Recognition,https://en.wikipedia.org/wiki/Sentence_boundary_disambiguation
+42,Optical Character Recognition,https://en.wikipedia.org/wiki/Optical_character_recognition
+43,Automated essay scoring,https://en.wikipedia.org/wiki/Automated_essay_scoring
+44,Latent Dirichlet allocation,https://en.wikipedia.org/wiki/Latent_Dirichlet_allocation
+45,Latent semantic indexing,https://en.wikipedia.org/wiki/Latent_semantic_analysis
+46,Language Identification,https://en.wikipedia.org/wiki/Language_identification
+47,Bayes theorem,https://en.wikipedia.org/wiki/Bayes%27_theorem
+48,Hidden Markov Models,https://en.wikipedia.org/wiki/Hidden_Markov_model
+49,Conditional Random Fields,https://en.wikipedia.org/wiki/Conditional_random_field
+50,deep belief networks,https://en.wikipedia.org/wiki/Deep_belief_network
+51,Word sense disambiguation,https://en.wikipedia.org/wiki/Word-sense_disambiguation
+52,Part of Speech tagging,https://en.wikipedia.org/wiki/Part-of-speech_tagging
+53,Question answering,https://en.wikipedia.org/wiki/Question_answering
+54,Automatic summarization,https://en.wikipedia.org/wiki/Automatic_summarization
+55,Supertagging,NULL
+56,Recursive Neural Network,https://en.wikipedia.org/wiki/Recursive_neural_network
+57,multi-Document Summarization,https://en.wikipedia.org/wiki/Multi-document_summarization
+58,Variational Bayes,https://en.wikipedia.org/wiki/Variational_Bayesian_methods
+59,Discourse Model,https://en.wikipedia.org/wiki/Discourse_representation_theory
+60,Morphological Disambiguation,https://en.wikipedia.org/wiki/Morphology
+61,Weakly-supervised learning,https://en.wikipedia.org/wiki/Semi-supervised_learning
+62,One-shot learning,https://en.wikipedia.org/wiki/One-shot_learning
+63,Neural turing machine,https://en.wikipedia.org/wiki/Neural_Turing_machine
+64,Bootstrapping,https://en.wikipedia.org/wiki/Bootstrapping
+65,Distributional semantics,https://en.wikipedia.org/wiki/Distributional_semantics
+66,Shallow parsing,https://en.wikipedia.org/wiki/Shallow_parsing
+67,A* search,https://en.wikipedia.org/wiki/A*_search_algorithm
+68,Transliteration,https://en.wikipedia.org/wiki/Transliteration
+69,Lexicography,https://en.wikipedia.org/wiki/Lexicography
+70,Chat bots,https://en.wikipedia.org/wiki/Chatbot
+71,Dialog Systems,https://en.wikipedia.org/wiki/Dialog_system
+72,Multi-task Learning,https://en.wikipedia.org/wiki/Multi-task_learning
+73,Multilingual Word,NULL
+74,Evaluation Metrics,https://en.wikipedia.org/wiki/Precision_and_recall
+75,Linear Regression,https://en.wikipedia.org/wiki/Linear_regression
+76,Convex Optimization,https://en.wikipedia.org/wiki/Convex_optimization
+77,Newton Method,https://en.wikipedia.org/wiki/Newton%27s_method
+78,Dual Problems,https://en.wikipedia.org/wiki/Duality_(optimization)
+79,Random Forest,https://en.wikipedia.org/wiki/Random_forest
+80,Radial Basis Function Network,https://en.wikipedia.org/wiki/Radial_basis_function_network
+81,Kernel Function,https://en.wikipedia.org/wiki/Positive-definite_kernel
+82,Boltzmann Machine,https://en.wikipedia.org/wiki/Boltzmann_machine
+83,Expectation-Maximization (EM) Algorithm,https://en.wikipedia.org/wiki/Expectation%E2%80%93maximization_algorithm
+84,dimensionality reduction,https://en.wikipedia.org/wiki/Dimensionality_reduction
+85,First-order logic,https://en.wikipedia.org/wiki/First-order_logic
+86,Natural language generation,https://en.wikipedia.org/wiki/Natural_language_generation
+87,Noisy channel model,https://en.wikipedia.org/wiki/Noisy_channel_model
+88,Perceptrons algorithm,https://en.wikipedia.org/wiki/Perceptron
+89,SVM,https://en.wikipedia.org/wiki/Support_vector_machine
+90,Decision Trees,https://en.wikipedia.org/wiki/Decision_tree
+91,Clustering,https://en.wikipedia.org/wiki/Cluster_analysis
+92,K-nn,https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm
+93,Random walks,https://en.wikipedia.org/wiki/Random_walk
+94,Harmonic functions,https://en.wikipedia.org/wiki/Harmonic_function
+95,PageRank,https://en.wikipedia.org/wiki/PageRank
+96,Topic modeling,https://en.wikipedia.org/wiki/Topic_model
+97,Word2Vec,https://en.wikipedia.org/wiki/Word2vec
+98,CNN's,https://en.wikipedia.org/wiki/Convolutional_neural_network
+99,Knowledge representation,https://en.wikipedia.org/wiki/Knowledge_representation_and_reasoning
+100,Markov decision processes,https://en.wikipedia.org/wiki/Markov_decision_process
+101,Autonomous cars,https://en.wikipedia.org/wiki/Autonomous_car
+102,Phonetics,https://en.wikipedia.org/wiki/Phonetics
+103,Speech recognition,https://en.wikipedia.org/wiki/Speech_recognition
+104,Crowdsourcing,https://en.wikipedia.org/wiki/Crowdsourcing
+105,Matrix factorization,https://en.wikipedia.org/wiki/Matrix_decomposition
+106,Spectral methods,https://en.wikipedia.org/wiki/Spectral_method
+107,Genetic algorithms,https://en.wikipedia.org/wiki/Genetic_algorithm
+108,Ensemble learning,https://en.wikipedia.org/wiki/Ensemble_learning
+109,Expert systems,https://en.wikipedia.org/wiki/Expert_system
+110,Bayesian network,https://en.wikipedia.org/wiki/Bayesian_network
+111,Text mining,https://en.wikipedia.org/wiki/Text_mining
+112,Bagging,https://en.wikipedia.org/wiki/Bootstrap_aggregating
+113,Maximum likelihood estimation,https://en.wikipedia.org/wiki/Maximum_likelihood_estimation
+114,Graphical models,https://en.wikipedia.org/wiki/Graphical_model
+115,Markov Chain Monte Carlo,https://en.wikipedia.org/wiki/Markov_chain_Monte_Carlo
+116,K means,https://en.wikipedia.org/wiki/K-means_clustering
+117,Earley parsing,https://en.wikipedia.org/wiki/Earley_parser
+118,Propositional Logic,https://en.wikipedia.org/wiki/Propositional_calculus
+119,Gradient descent,https://en.wikipedia.org/wiki/Gradient_descent
+120,Search Engine indexing,https://en.wikipedia.org/wiki/Search_engine_indexing
+121,Tokenization,https://en.wikipedia.org/wiki/Lexical_analysis#Tokenization
+122,Finite-state machines,https://en.wikipedia.org/wiki/Finite-state_machine
+123,Textual entailment,https://en.wikipedia.org/wiki/Textual_entailment
+124,Constraint satisfaction,https://en.wikipedia.org/wiki/Constraint_satisfaction_problem
+125,Beam search,https://en.wikipedia.org/wiki/Beam_search
+126,Recommendation System,https://en.wikipedia.org/wiki/Recommender_system
+127,Matrix multiplication,https://en.wikipedia.org/wiki/Matrix_multiplication
+128,Differential calculus,https://en.wikipedia.org/wiki/Differential_calculus
+129,Facial Recognition Systems,https://en.wikipedia.org/wiki/Facial_recognition_system
+130,Backpropagation through time,https://en.wikipedia.org/wiki/Backpropagation_through_time
+131,Grammar checker,https://en.wikipedia.org/wiki/Grammar_checker
+132,Shift-Reduce Parsing,https://en.wikipedia.org/wiki/Shift-reduce_parser
+133,Speech Synthesis,https://en.wikipedia.org/wiki/Speech_synthesis
+134,Caption generation,https://en.wikipedia.org/wiki/Automatic_image_annotation
+135,Linear Programming,https://en.wikipedia.org/wiki/Linear_programming
+136,Inference,https://en.wikipedia.org/wiki/Inference
+137,Long Short-term memory networks,https://en.wikipedia.org/wiki/Long_short-term_memory
+138,Wordnet,https://en.wikipedia.org/wiki/WordNet
+139,Natural Language Interfaces,https://en.wikipedia.org/wiki/Natural-language_user_interface
+140,Probabilistic context-free grammars,https://en.wikipedia.org/wiki/Probabilistic_context-free_grammar
+141,Paraphrasing,https://en.wikipedia.org/wiki/Paraphrase
+142,Spectral clustering,https://en.wikipedia.org/wiki/Spectral_clustering
+143,Particle filter,https://en.wikipedia.org/wiki/Particle_filter
+144,Prosody,https://en.wikipedia.org/wiki/Prosody_(linguistics)
+145,Dynamic Programming,https://en.wikipedia.org/wiki/Dynamic_programming
+146,Language acquisition,https://en.wikipedia.org/wiki/Language_acquisition
+147,Spelling correction,https://en.wikipedia.org/wiki/Spell_checker
+148,Log-linear models,https://en.wikipedia.org/wiki/Log-linear_model
+149,Gated recurrent units,https://en.wikipedia.org/wiki/Gated_recurrent_unit
+150,Gibbs sampling,https://en.wikipedia.org/wiki/Gibbs_sampling
+151,Statistical machine translation,https://en.wikipedia.org/wiki/Statistical_machine_translation
+152,Compositional semantics,NULL
+153,Edit distance,https://en.wikipedia.org/wiki/Edit_distance
+154,Chomsky hierarchy,https://en.wikipedia.org/wiki/Chomsky_hierarchy
+155,Conditional probability,https://en.wikipedia.org/wiki/Conditional_probability
+156,Linear discriminant analysis,https://en.wikipedia.org/wiki/Linear_discriminant_analysis
+157,Regular expressions,https://en.wikipedia.org/wiki/Regular_expression
+158,Artificial neural network,https://en.wikipedia.org/wiki/Artificial_neural_network
+159,Bag of words model,https://en.wikipedia.org/wiki/Bag-of-words_model
+160,Bias-variance tradeoff,https://en.wikipedia.org/wiki/Bias%E2%80%93variance_tradeoff
+161,Computer Vision,https://en.wikipedia.org/wiki/Computer_vision
+162,Image Retrieval,https://en.wikipedia.org/wiki/Image_retrieval
+163,ImageNet,https://en.wikipedia.org/wiki/ImageNet
+164,Object Detection,https://en.wikipedia.org/wiki/Object_detection
+165,N-gram,https://en.wikipedia.org/wiki/N-gram#Skip-gram
+166,Singular-value decomposition,https://en.wikipedia.org/wiki/Singular-value_decomposition
+167,T-SNE,https://en.wikipedia.org/wiki/T-distributed_stochastic_neighbor_embedding
+168,Loss Function,https://en.wikipedia.org/wiki/Loss_function
+169,Monte Carlo Tree Search,https://en.wikipedia.org/wiki/Monte_Carlo_tree_search
+170,Structured Prediction,https://en.wikipedia.org/wiki/Structured_prediction
+171,Feature Learning,https://en.wikipedia.org/wiki/Feature_learning
+172,Normalization,NULL
+173,Regularization,https://en.wikipedia.org/wiki/Regularization_(mathematics)
+174,Data preprocessing,https://en.wikipedia.org/wiki/Data_pre-processing
+175,Robotic locomotion,https://en.wikipedia.org/wiki/Robot_locomotion
+176,Human-robot interaction,https://en.wikipedia.org/wiki/Human%E2%80%93robot_interaction
+177,Network theory,https://en.wikipedia.org/wiki/Network_theory
+178,Entropy,https://en.wikipedia.org/wiki/Entropy_(information_theory)
+179,Cross entropy,https://en.wikipedia.org/wiki/Entropy_(information_theory)
+180,Activation functions,https://en.wikipedia.org/wiki/Activation_function
+181,Kullback-Leibler divergence,https://en.wikipedia.org/wiki/Kullback%E2%80%93Leibler_divergence
+182,Bidirectional recurrent neural networks,https://en.wikipedia.org/wiki/Bidirectional_recurrent_neural_networks
+183,Query Expansion,https://en.wikipedia.org/wiki/Query_expansion
+184,Bio Text Mining,https://en.wikipedia.org/wiki/Biomedical_text_mining
+185,Collaborative filtering,https://en.wikipedia.org/wiki/Collaborative_filtering
+186,character level language models,NULL
+187,Hierarchical models,https://en.wikipedia.org/wiki/Multilevel_model
+188,smoothing and backoff,https://en.wikipedia.org/wiki/Katz%27s_back-off_model
+189,Policy gradient methods,https://en.wikipedia.org/wiki/Reinforcement_learning
+190,Crawling the Web,https://en.wikipedia.org/wiki/Web_crawler
+191,citation networks,https://en.wikipedia.org/wiki/Citation_network
+192,Greedy algorithms,https://en.wikipedia.org/wiki/Greedy_algorithm
+193,pointer networks,NULL
+194,document representation,NULL
+195,Seq2seq,NULL
+196,Game playing in AI,https://en.wikipedia.org/wiki/Artificial_intelligence_(video_games)
+197,graph convolutional networks,NULL
+198,Lambda calculus,https://en.wikipedia.org/wiki/Lambda_calculus
+199,Highway networks,https://en.wikipedia.org/wiki/Highway_network
+200,Stack lstm,NULL
+201,multi-modal learning,https://en.wikipedia.org/wiki/Multimodal_learning
+202,linear algebra,NULL
+203,Probability,NULL
+204,descriptive statistics and hypothesis testing,NULL
+205,Information Theory: coding, compression, mutual information,NULL,NULL
+206,data structures and algorithms,NULL
+207,graph theory,NULL
+208,relational databases,NULL
+209,dual decomposition,NULL

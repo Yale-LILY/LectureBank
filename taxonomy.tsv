@@ -1,0 +1,306 @@
+id	topic_name	parent_topic	true_id
+0	Natural Language Processing	0	1201
+1	Introduction and Linguistics	0	1000
+2	Language Modeling, Syntax, Parsing	0	1001
+3	Semantics and Logic	0	1002
+4	Pragmatics, Discourse, Dialogue, Applications	0	1003
+5	Classification	0	1004
+6	Information Retrieval and Topic Modeling	0	1005
+7	Neural Networks and Deep Learning	0	1006
+8	Artificial Intelligence	0	1007
+9	Other Topics	0	1008
+11	Introduction to NLP	1	1009
+12	Mathematics	1	1010
+13	Python	1	1011
+14	Language and Linguistics	1	1012
+15	NLP Tasks	1	1013
+16	Theory of Computation	1	1014
+17	Data Structures and Algorithms	1	1564
+18	Mathematical Models	1	1202
+21	Language Modeling	2	1015
+22	Hidden Markov Models	2	1016
+23	Part of Speech Tagging	2	1017
+24	Syntax	2	1018
+25	Parsing	2	1019
+26	Unification	2	1020
+27	NACLO Problems	2	1021
+28	Parsing Issues	2	1022
+31	Lexical Semantics	3	1023
+32	Compositional Semantics	3	1024
+33	Semantic Analysis	3	1025
+34	Dimensionality Reduction	3	1026
+35	Paraphrasing	3	1027
+36	Logic and Knowledge Representation	3	1028
+38	Sentiment	3	1029
+39	Word Sense Disambiguation	3	1030
+41	Question Answering	4	1031
+42	Summarization	4	1032
+43	Text Generation	4	1033
+44	Discourse and Dialogue	4	1034
+45	Machine Translation	4	1035
+51	Introduction to Classification	5	1037
+52	Support Vector Machines and Kernels	5	1038
+54	Text Classification and Feature Selection	5	1039
+57	Clustering	5	1041
+58	Semi-supervised Learning	5	1563
+61	Information Retrieval	6	1042
+62	Document Ranking	6	1043
+64	Network Analysis	6	1044
+71	Deep Learning	7	1045
+72	Introduction to Word Embeddings	7	1046
+73	Deep Learning Tools	7	1047
+74	Neural Networks	7	1048
+75	Applications of Neural Networks	7	1049
+81	Introduction to Artificial Intelligence	8	1561
+82	Search	8	1565
+83	Logic and Reasoning	8	1566
+84	Uncertainty	8	1567
+85	Learning	8	1568
+86	Cognition and Perception	8	1569
+87	Robotics and Autonomous Cars	8	1570
+88	Other AI	8	1571
+91	Recent Developments	9	1050
+92	Lily Projects	9	1051
+94	Phonetics and Speech	9	1539
+99	Miscellaneous Topics	9	1265
+101	Prerequisite Mathematics	0	1554
+102	Statistics and Probability	0	1555
+103	Linguistics	0	1556
+104	Data Structures and Computer Science	0	1558
+105	Programming	0	1560
+106	Theory of Computation and Grammars	0	1557
+107	Machine Learning	0	1559
+111	Class Logistics	11	1580
+112	Introduction	11	1052
+113	History of NLP	11	1053
+114	Why is NLP Hard?	11	1054
+115	Methods used in NLP	11	1055
+121	Linear Algebra 1	12	1056
+122	Linear Algebra 2	12	1057
+123	Probabilities 1	12	1058
+124	Probabilities 2	12	1059
+125	Bayes Theorem	12	1060
+131	Python Basics	13	1063
+132	NLTK	13	1064
+133	NLP Resources	13	1065
+134	Machine Learning Resources	13	1066
+141	Linguistics Basics	14	1067
+142	Parts of Speech	14	1068
+143	Morphology and Lexicon	14	1069
+144	Word Distributions	14	1070
+151	NLP Tasks 1	15	1071
+152	NLP Tasks 2	15	1072
+153	Preprocessing	15	1073
+154	Working with Corpora	15	1313
+161	Regular Expressions	16	1074
+162	Introduction to Finite State Machines	16	1075
+163	Finite State Transducers	16	1076
+165	Context-Free Grammars	16	1078
+166	Language and Complexity	16	1079
+167	Context-Sensitive Grammars	16	1080
+171	Basic Data Structures and Algorithms	17	1314
+172	Graph Theory	17	1315
+173	Relational Databases	17	1316
+181	Integer Linear Programming	18	1221
+182	Spectral Methods	18	1264
+183	Dual Decomposition	18	1223
+184	Monte Carlo Methods	18	1317
+185	Physics methods	18	1318
+186	Bioinformatics Methods	18	1319
+187	Optimization	18	1320
+211	Introduction to Language Modeling	21	1081
+212	Smoothing and Interpolation	21	1082
+213	Evaluation of Language Modeling	21	1083
+214	The Noisy Channel	21	1084
+215	Introduction to Part of Speech Tagging	21	1085
+221	Introduction to Hidden Markov Models	22	1086
+222	Learning for Hidden Markov Models	22	1087
+231	Statistical Part of Speech Tagging	23	1088
+232	Information Extraction and Named Entity Recognition	23	1089
+233	Relation Extraction	23	1090
+234	Sequence Classification and Conditional Randomness	23	1091
+241	Syntax Basics	24	1092
+242	Parsing and Context-Free Grammars	24	1093
+243	Classic Parsing Methods	24	1094
+244	CKY Parsing	24	1095
+245	Earley Parsing	24	1096
+246	Penn Treebank	24	1097
+247	Parsing Evaluation	24	1562
+251	Probabilistic Grammars	25	1098
+252	Statistical Parsing	25	1099
+253	Lexicalized Parsing	25	1280
+254	Unlexicalized Parsing	25	1100
+255	Dependency Syntax	25	1281
+256	Introduction to Dependency Parsing	25	1282
+257	Transition-based Dependency Parsing	25	1545
+258	Evaluation of Dependency Parsing	25	1284
+261	Alternative Syntactic Formalisms	26	1101
+262	Features and Unification	26	1102
+263	Tree Adjoining Grammar	26	1103
+264	Combinatory Categorial Grammar	26	1104
+271	NACLO Problems on Parsing	27	1105
+281	NN Sequence Parsing	28	1106
+282	Prepositional Phrase Attachment 1	28	1107
+283	Prepositional Phrase Attachment 2	28	1536
+284	Prepositional Phrase Attachment 3	28	1537
+311	Text Similarity Intro	31	1108
+312	Stemming	31	1109
+313	Edit Distance	31	1110
+314	Semantic Similarity	31	1111
+315	Wordnet	31	1112
+316	Thesaurus-based Similarity	31	1113
+321	Vector Representations	32	1114
+322	Vector Semantics	32	1115
+341	Introduction to Dimensionality Reduction	34	1116
+342	Text Kernels	34	1581
+351	Entailment and Paraphrasing	35	1117
+352	Collocations	35	1118
+353	Lexical Acquisition	35	1119
+361	Introduction to Semantics and Logic	36	1120
+362	First Order Logic	36	1121
+363	Knowledge Representation	36	1216
+364	Inference	36	1217
+365	Semantic Parsing	36	1218
+367	Semantic Role Labeling	36	1220
+381	Sentiment Analysis	38	1122
+382	Sentiment Lexicons	38	1123
+391	Introduction to Word Sense Disambiguation	39	1124
+411	Question Answering Basics	41	1125
+412	Evaluation of Question Answering	41	1126
+413	QA Architecture and QA Systems 1	41	1127
+414	QA Architecture and QA Systems 2	41	1128
+421	Summarization 1	42	1129
+422	Summarization 2	42	1130
+423	Summarization 3	42	1131
+424	Summarization 4	42	1132
+425	Summarization Evaluation	42	1133
+426	Sentence Simplification	42	1134
+431	Natural Language Generation Basics	43	1135
+432	Natural Language Generation Systems	43	1136
+433	Natural Language Generation: Features and Unification	43	1137
+441	Discourse Analysis	44	1138
+442	Coherence and Prosody	44	1139
+443	Discourse Parsing	44	1140
+444	Dialogue	44	1141
+445	Dialogue Systems	44	1142
+451	Machine Translation Basics	45	1143
+452	Machine Translation Techniques	45	1144
+453	Noisy Channel Methods for Machine Translation	45	1145
+454	The IBM Models	45	1146
+455	Syntax-based Machine Translation	45	1147
+456	Phrase Based Machine Translation, Evaluation	45	1148
+457	Morphology and Semantics in Machine Translation	45	1149
+511	Classification and kNN 1	51	1153
+512	Classification and kNN 2	51	1154
+513	Generative and Discriminative Models 1	51	1155
+514	Generative and Discriminative Models 2	51	1156
+515	Perceptron	51	1157
+516	Logistic Regression 1	51	1158
+517	Logistic Regression 2	51	1159
+518	Log-Linear Models	51	1160
+521	Introduction to Support Vector Machines and Kernels	52	1161
+542	Examples of Text Classification	54	1162
+543	Feature Selection	54	1163
+544	Evaluation of Text Classification	54	1164
+545	Practical Considerations of Classification	54	1165
+571	Clustering 1	57	1167
+572	Clustering 2	57	1168
+581	Introduction to Semi Supervised Learning	58	1203
+582	Structured Learning	58	1321
+611	Introduction to Information Retrieval	61	1169
+612	Search Engine Architecture	61	1170
+613	Evaluation of Information Retrieval	61	1171
+614	Toolkits for Information Retrieval	61	1172
+622	Query Modification	62	1174
+623	Random Walks and Harmonic Functions	62	1175
+624	Semi Supervised Retrieval, Pagerank	62	1176
+625	Search Engines	62	1177
+631	Latent Variable Models	63	1178
+632	Topic Modeling	63	1179
+641	Introduction to Network Analysis	64	1180
+711	Introduction to Neural Networks and Deep Learning	71	1181
+712	Neural Architectures, Training Neural Networks	71	1182
+713	Miscellaneous Deep Learning	71	1183
+721	Word Embeddings	72	1186
+723	Neural Sentence Representation	72	1188
+731	Tools for Deep Learning	73	1189
+741	Recurrent Neural Networks	74	1190
+742	Long Short Term Memory Networks	74	1191
+743	Recursive Neural Networks	74	1192
+744	Convolutional Neural Networks	74	1193
+745	Neural Attention and Memory	74	1194
+751	Neural Language Modeling	75	1195
+752	Neural Parsing	75	1196
+753	Neural Machine Translation	75	1197
+754	Neural Summarization	75	1198
+755	Neural Question Answering	75	1199
+756	Neural Generation, Dialogue Systems	75	1200
+811	Introduction to AI	81	1300
+812	Programming Languages	81	1301
+813	Agent-based view of AI	81	1302
+821	Problem solving and search	82	1303
+822	Informed search	82	1304
+823	Heuristic search	82	1305
+824	Adversarial search	82	1306
+825	Game playing	82	1307
+826	Genetic algorithms	82	1308
+827	Constraint satisfaction	82	1309
+828	Planning	82	1310
+829	Multi-agent systems	82	1311
+831	Intro to Logic and Logical agents	83	1312
+832	Predicate Logic	83	1325
+833	First Order Logic (see topic 362)	83	1326
+834	Inference (see topic 364)	83	1327
+835	Knowledge representation (see topic 363)	83	1328
+841	Intro to uncertainty	84	1329
+842	Probabilistic reasoning (Bayesian Networks)	84	1330
+843	Probabilistic reasoning over time (MDP)	84	1331
+844	Particle filters	84	1332
+851	Intro to learning	85	1333
+852	Learning from examples	85	1334
+855	Neural Networks (see topic 74)	85	1335
+857	Reinforcement learning	85	1336
+861	Intro to Communication and Perception	86	1337
+862	Vision	86	1338
+863	Speech	86	1339
+871	Robotics	87	1340
+872	Autonomous cars	87	1341
+911	SyntaxNet	91	1206
+921	Miscellaneous Projects	91	1207
+941	Phonetics	94	1538
+942	Computational Phonology	94	1540
+943	Speech Signal Analysis	94	1541
+944	Automatic Speech Recognition	94	1542
+945	Text to Speech Generation	94	1543
+946	Prosody	94	1544
+951	NLP and Humor	95	1224
+952	Language Identification	95	1226
+953	Crowdsourcing	95	1227
+954	Computational Social Science	95	1228
+955	Arabic NLP	95	1229
+956	Computer-Aided Translation	95	1230
+957	Social Media Analysis	95	1231
+958	NLP and Vision	95	1232
+959	NLP and Bibliometrics	95	1233
+960	Grammar and Spelling Correction	96	1250
+961	Corpus Creation	96	1251
+962	Speech Processing	96	1252
+963	Chinese NLP	96	1253
+964	Computational Psycholinguistics	96	1254
+965	Authorship Attribution	96	1255
+967	Graph-based NLP	96	1257
+968	Language Acquisition	96	1258
+969	NLP for Historical Texts	96	1259
+970	Prior Knowledge	97	1260
+971	Structured Sparsity	97	1261
+972	Structured Prediction	97	1262
+973	NLP for Biology	97	1150
+974	NLP for Databases	97	1151
+975	Readability	97	1152
+976	Social Network Extraction	97	1546
+977	Spelling Correction	97	1266
+978	Domain Adaptation	97	1323
+979	NLP for the Humanities	97	1324
+980	Handwriting Recognition	98	1322
+981	Financial Applications	98	1584
+999	Others	99	9999
