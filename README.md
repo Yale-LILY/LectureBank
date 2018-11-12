@@ -29,7 +29,10 @@ Each line identifies a lecture file. Format:
 - `Venue`: Name of the university, or `GitHub`.
 
 ### download_all.py
-The scripts of downloading the resources from the urls of `lecturebank.tsv`. After running the scripts, all the resources will be downloaded into `data_lecturebank/` folder, organized by the `Domain` (for example, nlp, ir). 
+The scripts of downloading the resources from the urls of `lecturebank.tsv`. After running the scripts, all the resources will be downloaded into `data_lecturebank/` folder (change the `base_path` if you want), organized by the `Domain` (for example, `nlp`, `ir`). 
+The code is in python3, and you will need to install [`wget`](https://pypi.org/project/wget/) to run it.
+Run with:
+`python3 download_all.py`
 
 ### taxonomy.tsv
 Contains taxonomy topics and corresponding IDs referred by `lecturebank.tsv`.
