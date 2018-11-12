@@ -12,7 +12,7 @@ LectureBank Dataset is a manually-collected dataset of lecture slides. We collec
 ### lecturebank.tsv
 Each line identifies a lecture file. Format:
 
-(ID, Title, URL, Topic_ID, Year, Author, Domain, Venue)
+`(ID, Title, URL, Topic_ID, Year, Author, Domain, Venue)`
 
 
 - ID: Id of each line.
@@ -25,21 +25,21 @@ Each line identifies a lecture file. Format:
 - Venue: Name of the university, or 'GitHub'.
 
 ### download_all.py
-The scripts of downloading the resources from the urls of *lecturebank.tsv*.
+The scripts of downloading the resources from the urls of `lecturebank.tsv`. After running the scripts, all the resources will be downloaded into `data_lecturebank/` folder, organized by the `Domain` (for example, nlp, ir). 
 
 ### taxonomy.tsv
-Contains taxonomy topics and corresponding IDs referred by lecturebank.tsv.
+Contains taxonomy topics and corresponding IDs referred by `lecturebank.tsv`.
 
 
 ### 208topics.csv
 Contains the 208 topics which we annotated, format:
 
-(ID, Topic, Wiki_Page_URL)
+`(ID, Topic, Wiki_Page_URL)`
 
 ### prerequisite_annotation.csv
 Contains the prerequisite chain annotation for each possible pair from the 208 topics. Format:
 
-(Source_Topic_ID, Target_Topic_ID, If_prerequisite)
+`(Source_Topic_ID, Target_Topic_ID, If_prerequisite)`
 
 
 ### vocabulary.txt
