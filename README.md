@@ -15,14 +15,14 @@ Each line identifies a lecture file. Format:
 `(ID, Title, URL, Topic_ID, Year, Author, Domain, Venue)`
 
 
-- ID: Id of each line.
-- Title: File tile.
-- URL: Online URL.
-- Topic_ID: Classified taxonomy Topic ID, referring topics from taxonomy.tsv.
-- Year: Year of the course.
-- Author: The author name(s).
-- Domain: The domain (nlp, ir, dl, ml, ai).
-- Venue: Name of the university, or 'GitHub'.
+- `ID`: Id of each line.
+- `Title`: File tile.
+- `URL`: Online URL.
+- `Topic_ID`: Classified taxonomy Topic ID, referring topics from `taxonomy.tsv`.
+- `Year`: Year of the course.
+- `Author`: The author name(s).
+- `Domain`: The domain (nlp, ir, dl, ml, ai).
+- `Venue`: Name of the university, or `GitHub`.
 
 ### download_all.py
 The scripts of downloading the resources from the urls of `lecturebank.tsv`. After running the scripts, all the resources will be downloaded into `data_lecturebank/` folder, organized by the `Domain` (for example, nlp, ir). 
