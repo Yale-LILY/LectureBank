@@ -34,6 +34,8 @@ The code is in python3, and you will need to install [`wget`](https://pypi.org/p
 Run with:
 `python3 download_all.py`
 
+Due to the change of the links by the owner, some of the URLs may have broken.
+
 ### taxonomy.tsv
 Contains taxonomy topics and corresponding IDs referred by `lecturebank.tsv`.
 
