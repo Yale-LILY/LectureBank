@@ -2,6 +2,7 @@
 # LectureBank: a corpus for NLP Education and Prerequisite Chain Learning
 
 This is the github page for our paper *What Should I Learn First: Introducing LectureBank for NLP Education and Prerequisite Chain Learning* in the proceedings AAAI 2019. 
+![An example of prerequisite relations from lecture slides depicted as a directed graph](https://github.com/Yale-LILY/LectureBank/blob/master/imgs/slide_diagram_final.png)
 
 The list of descriptions can be found in the following:
 
