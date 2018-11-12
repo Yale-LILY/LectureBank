@@ -46,8 +46,8 @@ else:
 print ('Base path dir made..',base_path)
 
 print ('Now start downloading ....')
-
 count_fail = 0
+count_success = 0
 for key,item in resource_dict.items():
 
     out_path = os.path.join(base_path,key)
@@ -58,10 +58,18 @@ for key,item in resource_dict.items():
     for id,url in enumerate(url_list):
 
         name = str(id)+"_"+url.split('|')[-1]+'_'+ Path(url.split('|')[0]).name
+
         url = url.split('|')[0]
 
-        command = ["wget", "-O", os.path.join(out_path,name), url, "--timeout=30", "--tries=3"]
-        line = sp.call(command)
+        download_name = os.path.join(out_path,name)
 
-print ('Finish!')
+
+        try:
+            wget.download(url, download_name)
+            count_success += 1
+        except:
+            count_fail += 1
+
+print ('\n\nFinished downloading ...',count_success)
+print ('URL breaks on ...', count_fail)
 
