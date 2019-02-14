@@ -1,7 +1,7 @@
 
 # LectureBank: a corpus for NLP Education and Prerequisite Chain Learning
 
-This is the github page for our paper *What Should I Learn First: Introducing LectureBank for NLP Education and Prerequisite Chain Learning* in the proceedings AAAI 2019. 
+This is the github page for our paper [*What Should I Learn First: Introducing LectureBank for NLP Education and Prerequisite Chain Learning*](https://arxiv.org/abs/1811.12181) in the proceedings AAAI 2019. 
 
 Code for replicating the results will be uploaded soon. Stay tuned.
 
