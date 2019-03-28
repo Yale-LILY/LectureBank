@@ -1,14 +1,14 @@
 
-import csv,os,shutil
+import csv,os,shutil,wget,httplib2
 import subprocess as sp
 from pathlib import Path
 
 URL_list = []
 
-base_path='data_lecturebank/'
-data_path='lecturebank.tsv'
+base_path='../data_lecturebank20/'
+data_path='../labels/lecturebank20.tsv'
 
-
+file_format=['pdf','pptx','p']
 
 count = 0
 data = []
@@ -23,16 +23,18 @@ with open(data_path, "r") as resources:
         resource_type = row[-2]
         resource_url = row[2]
         resource_school = row[-1]
-        if resource_type in resource_dict.keys():
-            resource_dict[resource_type] += [resource_url+'|'+resource_school]
-        else:
-            resource_dict[resource_type] = [resource_url+'|'+resource_school]
+        resource_id= row[0]
+        resource_format=row[2].split('.')[-1]
 
-        count +=1
+        if resource_format in file_format:
+            if resource_format == 'p':
+                resource_format = 'pdf'
+            download_name = resource_id+'.'+resource_format
 
-print ('A list of urls found:')
-for key,item in resource_dict.items():
-    print (key, len(item))
+            resource_dict[download_name] = resource_url
+            count += 1
+
+
 
 print('In total..',count)
 
@@ -40,36 +42,34 @@ print('In total..',count)
 #check base path
 if os.path.exists(base_path):
     shutil.rmtree(base_path)
-else:
-    os.makedirs(base_path)
+
+os.makedirs(base_path)
 
 print ('Base path dir made..',base_path)
 
 print ('Now start downloading ....')
 count_fail = 0
 count_success = 0
+failed_list =[]
 for key,item in resource_dict.items():
 
-    out_path = os.path.join(base_path,key)
-    os.makedirs(out_path)
-    print ('Now downloading...',key)
+    out_file_path = os.path.join(base_path,key)
 
-    url_list = item
-    for id,url in enumerate(url_list):
+    download_url = item
 
-        name = str(id)+"_"+url.split('|')[-1]+'_'+ Path(url.split('|')[0]).name
+    try:
 
-        url = url.split('|')[0]
+        wget.download(download_url, out_file_path)
+        count_success += 1
 
-        download_name = os.path.join(out_path,name)
-
-
-        try:
-            wget.download(url, download_name)
-            count_success += 1
-        except:
-            count_fail += 1
+        print ('Downloading {} out of {}'.format(count_success,len(resource_dict)))
+    except:
+        failed_list.append(out_file_path)
+        count_fail += 1
+        print ('URL invalid')
 
 print ('\n\nFinished downloading ...',count_success)
 print ('URL breaks on ...', count_fail)
 
+for x in failed_list:
+    print (x)
