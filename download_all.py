@@ -3,10 +3,8 @@ import csv,os,shutil,wget,httplib2
 import subprocess as sp
 from pathlib import Path
 
-URL_list = []
-
-base_path='../data_lecturebank20/'
-data_path='../labels/lecturebank20.tsv'
+base_path='lecturebank_files/'
+data_path='ecturebank.tsv'
 
 file_format=['pdf','pptx','p']
 
