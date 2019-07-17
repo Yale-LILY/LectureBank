@@ -4,7 +4,7 @@ import subprocess as sp
 from pathlib import Path
 
 base_path='lecturebank_files/'
-data_path='ecturebank.tsv'
+data_path='lecturebank.tsv'
 
 file_format=['pdf','pptx','p']
 
