@@ -110,6 +110,18 @@ def loss_function_relation_semi(preds, labels, mu, logvar, n_nodes, norm, pos_we
     return cost_0 + cost_1 + KLD + class_cost
 
 def loss_function_relation(preds, labels, mu, logvar, n_nodes, norm, pos_weight):
+    """
+    Calculate the loss.
+
+    Args:
+        preds: (array): write your description
+        labels: (list): write your description
+        mu: (todo): write your description
+        logvar: (todo): write your description
+        n_nodes: (int): write your description
+        norm: (todo): write your description
+        pos_weight: (todo): write your description
+    """
 
     # combined_labels = torch.add(labels[0], labels[1]) - torch.eye(labels[0].shape[0])
 
@@ -132,6 +144,18 @@ def loss_function_relation(preds, labels, mu, logvar, n_nodes, norm, pos_weight)
     return cost_0 + cost_1 + KLD
 
 def loss_function_original(preds, labels, mu, logvar, n_nodes, norm, pos_weight):
+    """
+    Calculate the accuracy.
+
+    Args:
+        preds: (array): write your description
+        labels: (list): write your description
+        mu: (todo): write your description
+        logvar: (todo): write your description
+        n_nodes: (int): write your description
+        norm: (todo): write your description
+        pos_weight: (array): write your description
+    """
 
     combined_labels = torch.add(labels[0], labels[1]) - torch.eye(labels[0].shape[0])
 

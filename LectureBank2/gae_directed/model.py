@@ -8,6 +8,17 @@ from layers import GraphConvolution, RelationalGraphConvolution
 
 class GCNModelVAE_Semi(nn.Module):
     def __init__(self, input_feat_dim, hidden_dim1, hidden_dim2, dropout, class_dim):
+        """
+        Initialize the network.
+
+        Args:
+            self: (todo): write your description
+            input_feat_dim: (int): write your description
+            hidden_dim1: (int): write your description
+            hidden_dim2: (int): write your description
+            dropout: (str): write your description
+            class_dim: (int): write your description
+        """
         super(GCNModelVAE_Semi, self).__init__()
         # self.gc1 = GraphConvolution(input_feat_dim, hidden_dim1, dropout, act=F.relu)
         # self.gc2 = GraphConvolution(hidden_dim1, hidden_dim2, dropout, act=lambda x: x)
@@ -27,10 +38,26 @@ class GCNModelVAE_Semi(nn.Module):
 
 
     def encode(self, x, adj):
+        """
+        Encode x as a binary representation.
+
+        Args:
+            self: (todo): write your description
+            x: (todo): write your description
+            adj: (todo): write your description
+        """
         hidden1 = self.gc1(x, adj)
         return self.gc2(hidden1, adj), self.gc3(hidden1, adj)
 
     def reparameterize(self, mu, logvar):
+        """
+        Reparameters
+
+        Args:
+            self: (todo): write your description
+            mu: (todo): write your description
+            logvar: (bool): write your description
+        """
         if self.training:
             std = torch.exp(logvar)
             eps = torch.randn_like(std)
@@ -53,6 +80,16 @@ class GCNModelVAE_Semi(nn.Module):
 
 class GCNModelVAE(nn.Module):
     def __init__(self, input_feat_dim, hidden_dim1, hidden_dim2, dropout):
+        """
+        Initialize the network.
+
+        Args:
+            self: (todo): write your description
+            input_feat_dim: (int): write your description
+            hidden_dim1: (int): write your description
+            hidden_dim2: (int): write your description
+            dropout: (str): write your description
+        """
         super(GCNModelVAE, self).__init__()
         # self.gc1 = GraphConvolution(input_feat_dim, hidden_dim1, dropout, act=F.relu)
         # self.gc2 = GraphConvolution(hidden_dim1, hidden_dim2, dropout, act=lambda x: x)
@@ -64,10 +101,26 @@ class GCNModelVAE(nn.Module):
         self.dc = InnerProductDecoder(dropout, act=lambda x: x)
 
     def encode(self, x, adj):
+        """
+        Encode x as a binary representation.
+
+        Args:
+            self: (todo): write your description
+            x: (todo): write your description
+            adj: (todo): write your description
+        """
         hidden1 = self.gc1(x, adj)
         return self.gc2(hidden1, adj), self.gc3(hidden1, adj)
 
     def reparameterize(self, mu, logvar):
+        """
+        Reparameters
+
+        Args:
+            self: (todo): write your description
+            mu: (todo): write your description
+            logvar: (bool): write your description
+        """
         if self.training:
             std = torch.exp(logvar)
             eps = torch.randn_like(std)
@@ -88,11 +141,28 @@ class InnerProductDecoder(nn.Module):
     """Decoder for using inner product for prediction."""
 
     def __init__(self, dropout, act=torch.sigmoid):
+        """
+        Initialize the chat initialization.
+
+        Args:
+            self: (todo): write your description
+            dropout: (str): write your description
+            act: (str): write your description
+            torch: (todo): write your description
+            sigmoid: (str): write your description
+        """
         super(InnerProductDecoder, self).__init__()
         self.dropout = dropout
         self.act = act
 
     def forward(self, z):
+        """
+        Forward computation.
+
+        Args:
+            self: (todo): write your description
+            z: (todo): write your description
+        """
         z = F.dropout(z, self.dropout, training=self.training)
         adj = self.act(torch.mm(z, z.t()))
         return adj
