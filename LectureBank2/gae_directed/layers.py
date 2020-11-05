@@ -11,6 +11,18 @@ class GraphConvolution(Module):
     """
 
     def __init__(self, in_features, out_features, dropout=0., act=F.relu):
+        """
+        Initialize the network.
+
+        Args:
+            self: (todo): write your description
+            in_features: (int): write your description
+            out_features: (int): write your description
+            dropout: (str): write your description
+            act: (str): write your description
+            F: (int): write your description
+            relu: (todo): write your description
+        """
         super(GraphConvolution, self).__init__()
         self.in_features = in_features
         self.out_features = out_features
@@ -20,9 +32,23 @@ class GraphConvolution(Module):
         self.reset_parameters()
 
     def reset_parameters(self):
+        """
+        Reset the parameters.
+
+        Args:
+            self: (todo): write your description
+        """
         torch.nn.init.xavier_uniform_(self.weight)
 
     def forward(self, input, adj):
+        """
+        Forward computation.
+
+        Args:
+            self: (todo): write your description
+            input: (todo): write your description
+            adj: (todo): write your description
+        """
         input = F.dropout(input, self.dropout, self.training)
         support = torch.mm(input, self.weight)
         output = torch.spmm(adj, support)
@@ -30,6 +56,12 @@ class GraphConvolution(Module):
         return output
 
     def __repr__(self):
+        """
+        Return a repr representation of this object.
+
+        Args:
+            self: (todo): write your description
+        """
         return self.__class__.__name__ + ' (' \
                + str(self.in_features) + ' -> ' \
                + str(self.out_features) + ')'
@@ -41,6 +73,18 @@ class RelationalGraphConvolution(Module):
     """
 
     def __init__(self, in_features, out_features, dropout=0., act=F.relu):
+        """
+        Initialize features.
+
+        Args:
+            self: (todo): write your description
+            in_features: (int): write your description
+            out_features: (int): write your description
+            dropout: (str): write your description
+            act: (str): write your description
+            F: (int): write your description
+            relu: (todo): write your description
+        """
         super(RelationalGraphConvolution, self).__init__()
         self.in_features = in_features
         self.out_features = out_features
@@ -68,6 +112,12 @@ class RelationalGraphConvolution(Module):
     #     self.reset_parameters()
 
     def reset_parameters(self):
+        """
+        Reset the weights.
+
+        Args:
+            self: (todo): write your description
+        """
         torch.nn.init.xavier_uniform_(self.weight)
         torch.nn.init.xavier_uniform_(self.weight_dc)
         torch.nn.init.xavier_uniform_(self.weight_dd)
@@ -111,6 +161,12 @@ class RelationalGraphConvolution(Module):
         return final_output
 
     def __repr__(self):
+        """
+        Return a repr representation of this object.
+
+        Args:
+            self: (todo): write your description
+        """
         return self.__class__.__name__ + ' (' \
                + str(self.in_features) + ' -> ' \
                + str(self.out_features) + ')'

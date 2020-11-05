@@ -50,6 +50,12 @@ def load_data(dataset):
 
 
 def parse_index_file(filename):
+    """
+    Parse the index file.
+
+    Args:
+        filename: (str): write your description
+    """
     index = []
     for line in open(filename):
         index.append(int(line.strip()))
@@ -57,6 +63,12 @@ def parse_index_file(filename):
 
 
 def sparse_to_tuple(sparse_mx):
+    """
+    Convert a sparse sparse matrix to a sparse matrix.
+
+    Args:
+        sparse_mx: (todo): write your description
+    """
     if not sp.isspmatrix_coo(sparse_mx):
         sparse_mx = sparse_mx.tocoo()
     coords = np.vstack((sparse_mx.row, sparse_mx.col)).transpose()
@@ -66,6 +78,12 @@ def sparse_to_tuple(sparse_mx):
 
 
 def mask_test_edges_ori(adj):
+    """
+    Generate edges of a random edge.
+
+    Args:
+        adj: (todo): write your description
+    """
     # Function to build test set with 10% positive links
     # NOTE: Splits are randomized and results might slightly deviate from reported numbers in the paper.
     # TODO: Clean up.
@@ -92,6 +110,14 @@ def mask_test_edges_ori(adj):
     train_edges = np.delete(edges, np.hstack([test_edge_idx, val_edge_idx]), axis=0)
 
     def ismember(a, b, tol=5):
+        """
+        Return true if two arrays are equal.
+
+        Args:
+            a: (int): write your description
+            b: (int): write your description
+            tol: (float): write your description
+        """
         rows_close = np.all(np.round(a - b[:, None], tol) == 0, axis=-1)
         return np.any(rows_close)
 
@@ -176,7 +202,22 @@ def sparse_mx_to_torch_sparse_tensor(sparse_mx):
 
 
 def get_roc_score(emb, adj_orig, edges_pos, edges_neg):
+    """
+    Get roc curve
+
+    Args:
+        emb: (todo): write your description
+        adj_orig: (todo): write your description
+        edges_pos: (todo): write your description
+        edges_neg: (todo): write your description
+    """
     def sigmoid(x):
+        """
+        Return the sigmoid
+
+        Args:
+            x: (float): write your description
+        """
         return 1 / (1 + np.exp(-x))
 
     # Predict on test set of edges
@@ -210,6 +251,11 @@ N_CONCEPT = 322
 THD_WMD = 0.8
 
 def my_load_data():
+    """
+    My_load data. feature.
+
+    Args:
+    """
     # load features and adj matrix
     # feature_path='test_data/features.tsv'
     # adj_path = 'test_data/adj_matrix.tsv'
@@ -766,6 +812,14 @@ def mask_train_edges(adj):
 
 
     def ismember(a, b, tol=5):
+        """
+        Check if two arrays.
+
+        Args:
+            a: (int): write your description
+            b: (int): write your description
+            tol: (float): write your description
+        """
         rows_close = np.all(np.round(a - b[:, None], tol) == 0, axis=-1)
         return (np.all(np.any(rows_close, axis=-1), axis=-1) and
                 np.all(np.any(rows_close, axis=0), axis=0))
@@ -873,6 +927,14 @@ def make_test_edges(adj, adj_test):
 
 
     def ismember(a, b, tol=5):
+        """
+        Check if two arrays.
+
+        Args:
+            a: (int): write your description
+            b: (int): write your description
+            tol: (float): write your description
+        """
         rows_close = np.all(np.round(a - b[:, None], tol) == 0, axis=-1)
         return (np.all(np.any(rows_close, axis=-1), axis=-1) and
                 np.all(np.any(rows_close, axis=0), axis=0))
@@ -1001,6 +1063,13 @@ def my_eval_test(emb, adj_orig, edges_pos, edges_neg):
 
 
 def get_accuracy(labels,preds):
+    """
+    Calculate accuracy.
+
+    Args:
+        labels: (todo): write your description
+        preds: (array): write your description
+    """
 
     # preds = np.expand_dims(preds,axis=1)
     # threshold is 0.5, x = preds_all.copy()
