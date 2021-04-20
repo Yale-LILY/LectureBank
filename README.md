@@ -56,6 +56,8 @@ Contains 1221 vocabulary terms combined from taxonomy, 208 topics and terms extr
 
 
 
+### LectureBank1and2.tsv
+This is a combined version of LectureBank1 and LectureBank2. We will release LectureBank3 and a cross-domain version of LectureBank! Stay tuned!
 
 
 
