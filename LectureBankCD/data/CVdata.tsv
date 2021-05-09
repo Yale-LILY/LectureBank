@@ -1,0 +1,1042 @@
+Title	URL	Year	Author	Resource Type	Venue
+Lecture 11: LoG Edge and Blob Finding	www.cse.psu.edu/~rtc12/CSE486/lecture11.pdf	2007	Robert Collins	lecture	Penn State University
+Lecture 19: Essential and Fundamental Matrices	www.cse.psu.edu/~rtc12/CSE486/lecture19.pdf	2007	Robert Collins	lecture	Penn State University
+Lecture 01: Intro to Computer Vision	www.cse.psu.edu/~rtc12/CSE486/lecture01.pdf	2007	Robert Collins	lecture	Penn State University
+Lecture 03: Linear Operators and Convolution	www.cse.psu.edu/~rtc12/CSE486/lecture03.pdf	2007	Robert Collins	lecture	Penn State University
+Lecture 29: Video Tracking: Mean-shift	www.cse.psu.edu/~rtc12/CSE486/lecture29.pdf	2007	Robert Collins	lecture	Penn State University
+Lecture 13: Camera Projection (Intrinsics)	www.cse.psu.edu/~rtc12/CSE486/lecture13.pdf	2007	Robert Collins	lecture	Penn State University
+Lecture 26: Color and Light	www.cse.psu.edu/~rtc12/CSE486/lecture26.pdf	2007	Robert Collins	lecture	Penn State University
+Lecture 28: Intro to Tracking	www.cse.psu.edu/~rtc12/CSE486/lecture28.pdf	2007	Robert Collins	lecture	Penn State University
+Lecture 17: Stabilization and Mosaicing	www.cse.psu.edu/~rtc12/CSE486/lecture17.pdf	2007	Robert Collins	lecture	Penn State University
+Lecture 15: Robust Estimation: RANSAC	www.cse.psu.edu/~rtc12/CSE486/lecture15.pdf	2007	Robert Collins	lecture	Penn State University
+Lecture 32: Object Recognition : PCA / Eigenfaces	www.cse.psu.edu/~rtc12/CSE486/lecture32.pdf	2007	Robert Collins	lecture	Penn State University
+Lecture 10: Image Pyramids	www.cse.psu.edu/~rtc12/CSE486/lecture10.pdf	2007	Robert Collins	lecture	Penn State University
+Lecture 21: Stereo Reconstruction	www.cse.psu.edu/~rtc12/CSE486/lecture21.pdf	2007	Robert Collins	lecture	Penn State University
+Lecture 31: Object Recognition : SIFT Keys	www.cse.psu.edu/~rtc12/CSE486/lecture31.pdf	2007	Robert Collins	lecture	Penn State University
+Lecture 12: Camera Projection (Extrinsics)	www.cse.psu.edu/~rtc12/CSE486/lecture12.pdf	2007	Robert Collins	lecture	Penn State University
+Lecture 14: Parameter Estimation; Image Warping	www.cse.psu.edu/~rtc12/CSE486/lecture14.pdf	2007	Robert Collins	lecture	Penn State University
+Lecture 16: Planar Homographies	www.cse.psu.edu/~rtc12/CSE486/lecture16.pdf	2007	Robert Collins	lecture	Penn State University
+Lecture 18: Generalized Stereo	www.cse.psu.edu/~rtc12/CSE486/lecture18.pdf	2007	Robert Collins	lecture	Penn State University
+Lecture 08: Introduction to Stereo	www.cse.psu.edu/~rtc12/CSE486/lecture08.pdf	2007	Robert Collins	lecture	Penn State University
+Lecture 05: Edge Detection	www.cse.psu.edu/~rtc12/CSE486/lecture05.pdf	2007	Robert Collins	lecture	Penn State University
+Lecture 06: Corner Detection	www.cse.psu.edu/~rtc12/CSE486/lecture06.pdf	2007	Robert Collins	lecture	Penn State University
+Lecture 25: Structure From Motion (SFM)	www.cse.psu.edu/~rtc12/CSE486/lecture25.pdf	2007	Robert Collins	lecture	Penn State University
+Final Exam Study Guide	www.cse.psu.edu/~rtc12/CSE486/FinalExamStudyGuide.pdf	2007	Robert Collins	lecture	Penn State University
+Lecture 22: Camera Motion Field	www.cse.psu.edu/~rtc12/CSE486/lecture22.pdf	2007	Robert Collins	lecture	Penn State University
+Lecture 07: Template Matching	www.cse.psu.edu/~rtc12/CSE486/lecture07.pdf	2007	Robert Collins	lecture	Penn State University
+Lecture 30: Video Tracking: Lucas-Kanade	www.cse.psu.edu/~rtc12/CSE486/lecture30.pdf	2007	Robert Collins	lecture	Penn State University
+Lecture 24: Video Change Detection	www.cse.psu.edu/~rtc12/CSE486/lecture24.pdf	2007	Robert Collins	lecture	Penn State University
+Lecture 04: Smoothing	www.cse.psu.edu/~rtc12/CSE486/lecture04.pdf	2007	Robert Collins	lecture	Penn State University
+Lecture 27: Application: Skin Color	www.cse.psu.edu/~rtc12/CSE486/lecture27.pdf	2007	Robert Collins	lecture	Penn State University
+Lecture 02: Intensity Surfaces and Gradients	www.cse.psu.edu/~rtc12/CSE486/lecture02.pdf	2007	Robert Collins	lecture	Penn State University
+Lecture 20: The 8-point algorithm	www.cse.psu.edu/~rtc12/CSE486/lecture20.pdf	2007	Robert Collins	lecture	Penn State University
+Lecture 23: Optic Flow	www.cse.psu.edu/~rtc12/CSE486/lecture23.pdf	2007	Robert Collins	lecture	Penn State University
+Lecture 09: Stereo Algorithms	www.cse.psu.edu/~rtc12/CSE486/lecture09.pdf	2007	Robert Collins	lecture	Penn State University
+Handout 2: Image Structure	pages.cs.wisc.edu/~dyer/cs766/readings/edge-detection-cipolla.pdf	2006	Chuck Dyer	lecture	University of Wisconsin–Madison
+Handout 3: Projection	pages.cs.wisc.edu/~dyer/cs766/readings/projection-cipolla.pdf	2006	Chuck Dyer	lecture	University of Wisconsin–Madison
+Edge Detection	pages.cs.wisc.edu/~dyer/cs766/readings/edge-detection-huttenlocher.pdf	2006	Chuck Dyer	lecture	University of Wisconsin–Madison
+Handout 4: Stereo Vision	pages.cs.wisc.edu/~dyer/cs766/readings/stereo-cipolla.pdf	2006	Chuck Dyer	lecture	University of Wisconsin–Madison
+Image-Based Rendering and Modeling	pages.cs.wisc.edu/~dyer/cs766/slides/ibr/ibr-2up.pdf	2006	Chuck Dyer	lecture	University of Wisconsin–Madison
+Snakes	pages.cs.wisc.edu/~dyer/cs766/slides/snakes/Snakes-2up.pdf	2006	Chuck Dyer	lecture	University of Wisconsin–Madison
+Image Segmentation	pages.cs.wisc.edu/~dyer/cs766/slides/segmentation/segment-2up.pdf	2006	Chuck Dyer	lecture	University of Wisconsin–Madison
+Level Set Methods	pages.cs.wisc.edu/~dyer/cs766/slides/levelsets/levelsets-2up.pdf	2006	Chuck Dyer	lecture	University of Wisconsin–Madison
+Digital Image Formation	pages.cs.wisc.edu/~dyer/cs766/slides/image-formation/Image-form-2up.pdf	2006	Chuck Dyer	lecture	University of Wisconsin–Madison
+Perspective	pages.cs.wisc.edu/~dyer/cs766/slides/image-formation/perspective-2up.pdf	2006	Chuck Dyer	lecture	University of Wisconsin–Madison
+Normalized Cut Method for Image Segmentation	pages.cs.wisc.edu/~dyer/cs766/slides/ncut/ncut-2up.pdf	2006	Chuck Dyer	lecture	University of Wisconsin–Madison
+Volumetric Scene Reconstruction from Multiple Views	pages.cs.wisc.edu/~dyer/cs766/slides/voxel-coloring/voxel-coloring-2up.pdf	2006	Chuck Dyer	lecture	University of Wisconsin–Madison
+Binocular Stereo	pages.cs.wisc.edu/~dyer/cs766/slides/stereo/stereo-2up.pdf	2006	Chuck Dyer	lecture	University of Wisconsin–Madison
+Tracking using CONDENSATION: Conditional Density Propagation	pages.cs.wisc.edu/~dyer/cs766/slides/motion/condensation-2up.pdf	2006	Chuck Dyer	lecture	University of Wisconsin–Madison
+Layered Image Representation	pages.cs.wisc.edu/~dyer/cs766/slides/motion/layers-2up.pdf	2006	Chuck Dyer	lecture	University of Wisconsin–Madison
+Motion Estimation	pages.cs.wisc.edu/~dyer/cs766/slides/motion/motion-2up.pdf	2006	Chuck Dyer	lecture	University of Wisconsin–Madison
+Edge Detection	pages.cs.wisc.edu/~dyer/cs766/slides/edges/edges-2up.pdf	2006	Chuck Dyer	lecture	University of Wisconsin–Madison
+Recognizing and Learning Object Categories	pages.cs.wisc.edu/~dyer/cs766/slides/obj-recog/learning-recognition-2up.pdf	2006	Chuck Dyer	lecture	University of Wisconsin–Madison
+Object Recognition	pages.cs.wisc.edu/~dyer/cs766/slides/obj-recog/obj-recog-2up.pdf	2006	Chuck Dyer	lecture	University of Wisconsin–Madison
+Marr's Theory of Vision	pages.cs.wisc.edu/~dyer/cs766/slides/marr/marr-2up.pdf	2006	Chuck Dyer	lecture	University of Wisconsin–Madison
+Feature Detection and Matching	pages.cs.wisc.edu/~dyer/cs766/slides/matching/matching-2up.pdf	2006	Chuck Dyer	lecture	University of Wisconsin–Madison
+Appearance-Based Recognition	pages.cs.wisc.edu/~dyer/cs766/slides/eigenfaces/eigenfaces-2up.pdf	2006	Chuck Dyer	lecture	University of Wisconsin–Madison
+Texture	pages.cs.wisc.edu/~dyer/cs766/slides/texture/texture-2up.pdf	2006	Chuck Dyer	lecture	University of Wisconsin–Madison
+Lecture 1: Correspondence and Features	cseweb.ucsd.edu/~mkchandraker/classes/CSE152/Winter2019/Lectures/lec01_correspondence.pdf	2019	Manmohan Chandraker	lecture	University of California, San Diego
+Lecture 5: 3D Reconstruction	cseweb.ucsd.edu/~mkchandraker/classes/CSE152/Winter2019/Lectures/lec05_sfm.pdf	2019	Manmohan Chandraker	lecture	University of California, San Diego
+Lecture 6: Epipolar Geometry	cseweb.ucsd.edu/~mkchandraker/classes/CSE152/Winter2019/Lectures/lec06_epipolar.pdf	2019	Manmohan Chandraker	lecture	University of California, San Diego
+Lecture 7: Stereo	cseweb.ucsd.edu/~mkchandraker/classes/CSE152/Winter2019/Lectures/lec07_stereo.pdf	2019	Manmohan Chandraker	lecture	University of California, San Diego
+Lecture 8: Stereo	cseweb.ucsd.edu/~mkchandraker/classes/CSE152/Winter2019/Lectures/lec08_stereo.pdf	2019	Manmohan Chandraker	lecture	University of California, San Diego
+Lecture 12: Image Classification	cseweb.ucsd.edu/~mkchandraker/classes/CSE152/Winter2019/Lectures/lec12_classification.pdf	2019	Manmohan Chandraker	lecture	University of California, San Diego
+Lecture 10: Recognition	cseweb.ucsd.edu/~mkchandraker/classes/CSE152/Winter2019/Lectures/lec10_recognition.pdf	2019	Manmohan Chandraker	lecture	University of California, San Diego
+Lecture 16: Training CNNs	cseweb.ucsd.edu/~mkchandraker/classes/CSE152/Winter2019/Lectures/lec16_cnn.pdf	2019	Manmohan Chandraker	lecture	University of California, San Diego
+Lecture 9: Stereo and MVS	cseweb.ucsd.edu/~mkchandraker/classes/CSE152/Winter2019/Lectures/lec09_stereo_mvs.pdf	2019	Manmohan Chandraker	lecture	University of California, San Diego
+Lecture 4: 3D Reconstruction	cseweb.ucsd.edu/~mkchandraker/classes/CSE152/Winter2019/Lectures/lec04_twoviewreconstruction.pdf	2019	Manmohan Chandraker	lecture	University of California, San Diego
+Lecture 14: Convolutional Neural Networks	cseweb.ucsd.edu/~mkchandraker/classes/CSE152/Winter2019/Lectures/lec14_cnn.pdf	2019	Manmohan Chandraker	lecture	University of California, San Diego
+Lecture 13: Feature Learning	cseweb.ucsd.edu/~mkchandraker/classes/CSE152/Winter2019/Lectures/lec13_featurelearning.pdf	2019	Manmohan Chandraker	lecture	University of California, San Diego
+Lecture 18: Review	cseweb.ucsd.edu/~mkchandraker/classes/CSE152/Winter2019/Lectures/lec18_review.pdf	2019	Manmohan Chandraker	lecture	University of California, San Diego
+Lecture 2: SIFT	cseweb.ucsd.edu/~mkchandraker/classes/CSE152/Winter2019/Lectures/lec02_sift.pdf	2019	Manmohan Chandraker	lecture	University of California, San Diego
+Lecture 15: Optimization in CNNs	cseweb.ucsd.edu/~mkchandraker/classes/CSE152/Winter2019/Lectures/lec15_cnn.pdf	2019	Manmohan Chandraker	lecture	University of California, San Diego
+Lecture 17: CNN Architectures	cseweb.ucsd.edu/~mkchandraker/classes/CSE152/Winter2019/Lectures/lec17_cnn.pdf	2019	Manmohan Chandraker	lecture	University of California, San Diego
+Lecture 11: Image Retrieval	cseweb.ucsd.edu/~mkchandraker/classes/CSE152/Winter2019/Lectures/lec11_retrieval.pdf	2019	Manmohan Chandraker	lecture	University of California, San Diego
+Lecture 3: SIFT, Cameras	cseweb.ucsd.edu/~mkchandraker/classes/CSE152/Winter2019/Lectures/lec03_cameras.pdf	2019	Manmohan Chandraker	lecture	University of California, San Diego
+Lecture 0: Introduction	cseweb.ucsd.edu/~mkchandraker/classes/CSE152/Winter2019/Lectures/lec00_introduction.pdf	2019	Manmohan Chandraker	lecture	University of California, San Diego
+Matching and Fitting	people.cs.pitt.edu/~kovashka/cs1699_fa15/vision_09_hough.pdf	2015	Adriana Kovashka	lecture	University of Pittsburgh
+Color	people.cs.pitt.edu/~kovashka/cs1699_fa15/vision_07_color.pdf	2015	Adriana Kovashka	lecture	University of Pittsburgh
+Human Pose and Actions	people.cs.pitt.edu/~kovashka/cs1699_fa15/vision_27_pose_actions.pdf	2015	Adriana Kovashka	lecture	University of Pittsburgh
+Epipolar Geometry and Stereo Vision	people.cs.pitt.edu/~kovashka/cs1699_fa15/vision_12_stereo.pdf	2015	Adriana Kovashka	lecture	University of Pittsburgh
+Midterm Review	people.cs.pitt.edu/~kovashka/cs1699_fa15/vision_13_review.pdf	2015	Adriana Kovashka	lecture	University of Pittsburgh
+Support Vector Machines	people.cs.pitt.edu/~kovashka/cs1699_fa15/vision_17_svms.pdf	2015	Adriana Kovashka	lecture	University of Pittsburgh
+Unsupervised Learning	people.cs.pitt.edu/~kovashka/cs1699_fa15/vision_24b_unsupervised.pdf	2015	Adriana Kovashka	lecture	University of Pittsburgh
+Introduction	people.cs.pitt.edu/~kovashka/cs1699_fa15/vision_01_intro.pdf	2015	Adriana Kovashka	lecture	University of Pittsburgh
+Human Factors: Crowdsourcing Labels + Gaze/ Saliency	people.cs.pitt.edu/~kovashka/cs1699_fa15/vision_23_human.pdf	2015	Adriana Kovashka	lecture	University of Pittsburgh
+Detection III: Analyzing and Debugging Detection Methods	people.cs.pitt.edu/~kovashka/cs1699_fa15/vision_22_detection_failures.pdf	2015	Adriana Kovashka	lecture	University of Pittsburgh
+Local Image Features: Extraction and Description	people.cs.pitt.edu/~kovashka/cs1699_fa15/vision_06_features.pdf	2015	Adriana Kovashka	lecture	University of Pittsburgh
+Matlab Tutorial	people.cs.pitt.edu/~kovashka/cs1699_fa15/vision_02_matlab_hw1.pdf	2015	Adriana Kovashka	lecture	University of Pittsburgh
+Intro to Machine Learning & Visual Recognition - Part II	people.cs.pitt.edu/~kovashka/cs1699_fa15/vision_16_ml_recognition_intro_part2.pdf	2015	Adriana Kovashka	lecture	University of Pittsburgh
+Detection II: Deformable Part Models	people.cs.pitt.edu/~kovashka/cs1699_fa15/vision_21_dpms.pdf	2015	Adriana Kovashka	lecture	University of Pittsburgh
+Introduction to Machine Learning & Visual Recognition - Part I	people.cs.pitt.edu/~kovashka/cs1699_fa15/vision_15_ml_recognition_intro_part1.pdf	2015	Adriana Kovashka	lecture	University of Pittsburgh
+Edges and Binary Images	people.cs.pitt.edu/~kovashka/cs1699_fa15/vision_05_edges.pdf	2015	Adriana Kovashka	lecture	University of Pittsburgh
+Feature Matching + Indexing and Retrieval	people.cs.pitt.edu/~kovashka/cs1699_fa15/vision_10_matching_retrieval.pdf	2015	Adriana Kovashka	lecture	University of Pittsburgh
+Segmentation and Grouping	people.cs.pitt.edu/~kovashka/cs1699_fa15/vision_08_segmentation.pdf	2015	Adriana Kovashka	lecture	University of Pittsburgh
+Detection I: Faces	people.cs.pitt.edu/~kovashka/cs1699_fa15/vision_20_faces.pdf	2015	Adriana Kovashka	lecture	University of Pittsburgh
+Seam Carving for Content-Aware Image Resizing	people.cs.pitt.edu/~kovashka/cs1699_fa15/avidan.pdf	2015	Adriana Kovashka	lecture	University of Pittsburgh
+Projective Transformations + Image Stitching	people.cs.pitt.edu/~kovashka/cs1699_fa15/vision_11_homographies.pdf	2015	Adriana Kovashka	lecture	University of Pittsburgh
+Texture and Other Uses of Filters	people.cs.pitt.edu/~kovashka/cs1699_fa15/vision_04_texture_pyramids.pdf	2015	Adriana Kovashka	lecture	University of Pittsburgh
+Tracking	people.cs.pitt.edu/~kovashka/cs1699_fa15/vision_26_tracking.pdf	2015	Adriana Kovashka	lecture	University of Pittsburgh
+Active Learning	people.cs.pitt.edu/~kovashka/cs1699_fa15/vision_24_active.pdf	2015	Adriana Kovashka	lecture	University of Pittsburgh
+Filters and Texture	people.cs.pitt.edu/~kovashka/cs1699_fa15/vision_03_filters_texture.pdf	2015	Adriana Kovashka	lecture	University of Pittsburgh
+Bias-Variance Trade-off + Other Models and Problems	people.cs.pitt.edu/~kovashka/cs1699_fa15/vision_18_overfitting_other.pdf	2015	Adriana Kovashka	lecture	University of Pittsburgh
+Interactive Image Search with Attributes	people.cs.pitt.edu/~kovashka/cs1699_fa15/vision_19_search_attributes.pdf	2015	Adriana Kovashka	lecture	University of Pittsburgh
+Deep Learning	people.cs.pitt.edu/~kovashka/cs1699_fa15/vision_25_deep_learning.pdf	2015	Adriana Kovashka	lecture	University of Pittsburgh
+Final Review	people.cs.pitt.edu/~kovashka/cs1699_fa15/vision_28_final_review.pdf	2015	Adriana Kovashka	lecture	University of Pittsburgh
+Lecture 15: Epipolar Geometry	web.engr.oregonstate.edu/~sinisa/courses/OSU/CS556/lectures/CS556_15.pdf	2016	Sinisa Todorovic	lecture	Oregon State University
+Lecture 16: Homography	web.engr.oregonstate.edu/~sinisa/courses/OSU/CS556/lectures/CS556_16.pdf	2016	Sinisa Todorovic	lecture	Oregon State University
+Lecture 3: Interest Points	web.engr.oregonstate.edu/~sinisa/courses/OSU/CS556/lectures/CS556_3.pdf	2016	Sinisa Todorovic	lecture	Oregon State University
+Lecture 4: Point Descriptors	web.engr.oregonstate.edu/~sinisa/courses/OSU/CS556/lectures/CS556_4.pdf	2016	Sinisa Todorovic	lecture	Oregon State University
+Lecture 13: Epipolar Geometry	web.engr.oregonstate.edu/~sinisa/courses/OSU/CS556/lectures/CS556_13.pdf	2016	Sinisa Todorovic	lecture	Oregon State University
+Lecture 17: Edges, Shapes, Contours, Curves, Boundaries	web.engr.oregonstate.edu/~sinisa/courses/OSU/CS556/lectures/CS556_17.pdf	2016	Sinisa Todorovic	lecture	Oregon State University
+Lecture 8: Stereo	web.engr.oregonstate.edu/~sinisa/courses/OSU/CS556/lectures/CS556_8.pdf	2016	Sinisa Todorovic	lecture	Oregon State University
+Lecture 5: MATLAB Practice Session I	web.engr.oregonstate.edu/~sinisa/courses/OSU/CS556/lectures/CS556_5.pdf	2016	Sinisa Todorovic	lecture	Oregon State University
+Lecture 2: Basic Matlab Commands	web.engr.oregonstate.edu/~sinisa/courses/OSU/CS556/lectures/CS556_2.pdf	2016	Sinisa Todorovic	lecture	Oregon State University
+Lecture 7: Matching	web.engr.oregonstate.edu/~sinisa/courses/OSU/CS556/lectures/CS556_7.pdf	2016	Sinisa Todorovic	lecture	Oregon State University
+Lecture 21: Meanshift	web.engr.oregonstate.edu/~sinisa/courses/OSU/CS556/lectures/CS556_21.pdf	2016	Sinisa Todorovic	lecture	Oregon State University
+Lecture 10: Deep Convolutional Neural Networks	web.engr.oregonstate.edu/~sinisa/courses/OSU/CS556/lectures/CS556_10.pdf	2016	Sinisa Todorovic	lecture	Oregon State University
+Lecture 6: Interest Point Matching	web.engr.oregonstate.edu/~sinisa/courses/OSU/CS556/lectures/CS556_6.pdf	2016	Sinisa Todorovic	lecture	Oregon State University
+Lecture 14: Three Stereo Problems	web.engr.oregonstate.edu/~sinisa/courses/OSU/CS556/lectures/CS556_14.pdf	2016	Sinisa Todorovic	lecture	Oregon State University
+Lecture 18: Color	web.engr.oregonstate.edu/~sinisa/courses/OSU/CS556/lectures/CS556_18.pdf	2016	Sinisa Todorovic	lecture	Oregon State University
+Lecture 1: Introduction	web.engr.oregonstate.edu/~sinisa/courses/OSU/CS556/lectures/CS556_1.pdf	2016	Sinisa Todorovic	lecture	Oregon State University
+Lecture 12: Perspective projection	web.engr.oregonstate.edu/~sinisa/courses/OSU/CS556/lectures/CS556_12.pdf	2016	Sinisa Todorovic	lecture	Oregon State University
+Lecture 11: Image Formation	web.engr.oregonstate.edu/~sinisa/courses/OSU/CS556/lectures/CS556_11.pdf	2016	Sinisa Todorovic	lecture	Oregon State University
+Local Invariant Features: What? Why? When? How?	web.engr.oregonstate.edu/~sinisa/courses/OSU/CS556/literature/FeaturesTutorial_ECCV06.pdf	2016	Sinisa Todorovic	lecture	Oregon State University
+Mean Shift: A Robust Approach Toward Feature Space Analysis	web.engr.oregonstate.edu/~sinisa/courses/OSU/CS556/literature/Meanshift.pdf	2016	Sinisa Todorovic	lecture	Oregon State University
+Lecture 15: Weight Initialization, Momentum and Learning Rates	euler.stat.yale.edu/~tba3/stat665/lectures/lec15/lecture15.pdf	2016	Taylor B. Arnold	lecture	Yale University
+Lecture 22: Theory, Depth, Representation, Future	euler.stat.yale.edu/~tba3/stat665/lectures/lec22/lecture22.pdf	2016	Taylor B. Arnold	lecture	Yale University
+Lecture 02: Linear Classification methods I	euler.stat.yale.edu/~tba3/stat665/lectures/lec02/lecture02.pdf	2016	Taylor B. Arnold	lecture	Yale University
+Lecture 11: Support Vector Machines III	euler.stat.yale.edu/~tba3/stat665/lectures/lec11/lecture11.pdf	2016	Taylor B. Arnold	lecture	Yale University
+Lecture 16: Neural Network Software	euler.stat.yale.edu/~tba3/stat665/lectures/lec16/lecture16.pdf	2016	Taylor B. Arnold	lecture	Yale University
+Lecture 18: Transfer Learning and Computer Vision	euler.stat.yale.edu/~tba3/stat665/lectures/lec18/lecture18.pdf	2016	Taylor B. Arnold	lecture	Yale University
+Lecture 03: Linear Classification methods II	euler.stat.yale.edu/~tba3/stat665/lectures/lec03/lecture03.pdf	2016	Taylor B. Arnold	lecture	Yale University
+Lecture 05: Additive Models	euler.stat.yale.edu/~tba3/stat665/lectures/lec05/lecture05.pdf	2016	Taylor B. Arnold	lecture	Yale University
+Lecture 08: Decision Trees II	euler.stat.yale.edu/~tba3/stat665/lectures/lec08/lecture08.pdf	2016	Taylor B. Arnold	lecture	Yale University
+Lecture 10: Support Vector Machines II	euler.stat.yale.edu/~tba3/stat665/lectures/lec10/lecture10.pdf	2016	Taylor B. Arnold	lecture	Yale University
+Lecture 09: Linear Classification Models and Support Vector Machines	euler.stat.yale.edu/~tba3/stat665/lectures/lec09/lecture09.pdf	2016	Taylor B. Arnold	lecture	Yale University
+Lecture 13: Back-propagation	euler.stat.yale.edu/~tba3/stat665/lectures/lec13/lecture13.pdf	2016	Taylor B. Arnold	lecture	Yale University
+Lecture 20: Word Vector Embeddings	euler.stat.yale.edu/~tba3/stat665/lectures/lec20/lecture20.pdf	2016	Taylor B. Arnold	lecture	Yale University
+Lecture 17: Convolutional Neural Networks	euler.stat.yale.edu/~tba3/stat665/lectures/lec17/lecture17.pdf	2016	Taylor B. Arnold	lecture	Yale University
+Lecture 04: Least squares and classification	euler.stat.yale.edu/~tba3/stat665/lectures/lec04/lecture04.pdf	2016	Taylor B. Arnold	lecture	Yale University
+Lecture 07: Dimensonality Reduction with PCA	euler.stat.yale.edu/~tba3/stat665/lectures/lec07/lecture07.pdf	2016	Taylor B. Arnold	lecture	Yale University
+Lecture 13: Recurrent Neural Networks	euler.stat.yale.edu/~tba3/stat665/lectures/lec21/lecture21.pdf	2016	Taylor B. Arnold	lecture	Yale University
+Lecture 06: Decision Trees I	euler.stat.yale.edu/~tba3/stat665/lectures/lec06/lecture06.pdf	2016	Taylor B. Arnold	lecture	Yale University
+Lecture 12: Introduction to Neural Networks	euler.stat.yale.edu/~tba3/stat665/lectures/lec12/lecture12.pdf	2016	Taylor B. Arnold	lecture	Yale University
+Lecture 01: Course Overview	euler.stat.yale.edu/~tba3/stat665/lectures/lec01/lecture01.pdf	2016	Taylor B. Arnold	lecture	Yale University
+Lecture 14: Cost Functions and Regularization	euler.stat.yale.edu/~tba3/stat665/lectures/lec14/lecture14.pdf	2016	Taylor B. Arnold	lecture	Yale University
+Lecture 19: Computer Vision I	euler.stat.yale.edu/~tba3/stat665/lectures/lec19/lecture19.pdf	2016	Taylor B. Arnold	lecture	Yale University
+Binocular Stereopsis	http://www-inst.eecs.berkeley.edu/~cs280/sp15/lectures/12.pdf	2015	Jitendra Malik	lecture	UC Berkeley
+Markov Random FIelds in Vision	www-inst.eecs.berkeley.edu/~cs280/sp15/lectures/14.pdf	2015	Jitendra Malik	lecture	UC Berkeley
+Various camera configurations	www-inst.eecs.berkeley.edu/~cs280/sp15/lectures/13.pdf	2015	Jitendra Malik	lecture	UC Berkeley
+Rich Feature Hierarchies for Accurate Object Detection and Semantic Segmentation	www-inst.eecs.berkeley.edu/~cs280/sp15/lectures/10.pdf	2015	Jitendra Malik	lecture	UC Berkeley
+Deformable Part Models (DPM)	http://www-inst.eecs.berkeley.edu/~cs280/sp15/lectures/11.pdf	2015	Jitendra Malik	lecture	UC Berkeley
+Radiometry of Image Formation	www-inst.eecs.berkeley.edu/~cs280/sp15/lectures/5.pdf	2015	Jitendra Malik	lecture	UC Berkeley
+Fundamentals of Image Formation	http://www-inst.eecs.berkeley.edu/~cs280/sp15/lectures/2.pdf	2015	Jitendra Malik	lecture	UC Berkeley
+Visual Grouping: Contours and Regions in Natural Images	http://www-inst.eecs.berkeley.edu/~cs280/sp15/lectures/9.pdf	2015	Jitendra Malik	lecture	UC Berkeley
+A quick tour of differential geometry	www-inst.eecs.berkeley.edu/~cs280/sp15/lectures/20.pdf	2015	Jitendra Malik	lecture	UC Berkeley
+Measuring Optical Flow	http://www-inst.eecs.berkeley.edu/~cs280/sp15/lectures/16.pdf	2015	Jitendra Malik	lecture	UC Berkeley
+Detection, Segmentation and Fine-grained Localization	www-inst.eecs.berkeley.edu/~cs280/sp15/lectures/18.pdf	2015	Jitendra Malik	lecture	UC Berkeley
+Estimate pose and locating keypoints	http://www-inst.eecs.berkeley.edu/~cs280/sp15/lectures/19.pdf	2015	Jitendra Malik	lecture	UC Berkeley
+On Face Recognition	www-inst.eecs.berkeley.edu/~cs280/sp15/lectures/23.pdf	2015	Jitendra Malik	lecture	UC Berkeley
+Three-Dimensional Perception from a Single Image	www-inst.eecs.berkeley.edu/~cs280/sp15/lectures/22.pdf	2015	Jitendra Malik	lecture	UC Berkeley
+Dynamic Perspective	www-inst.eecs.berkeley.edu/~cs280/sp15/lectures/4.pdf	2015	Jitendra Malik	lecture	UC Berkeley
+The Three R's of Computer Vision: Recognition, Reconstruction & Reorganization	http://www-inst.eecs.berkeley.edu/~cs280/sp15/lectures/1.pdf	2015	Jitendra Malik	lecture	UC Berkeley
+On Transformations	www-inst.eecs.berkeley.edu/~cs280/sp15/lectures/3.pdf	2015	Jitendra Malik	lecture	UC Berkeley
+Human vision	www-inst.eecs.berkeley.edu/~cs280/sp15/lectures/7.pdf	2015	Jitendra Malik	lecture	UC Berkeley
+Action Recognition	www-inst.eecs.berkeley.edu/~cs280/sp15/lectures/17.pdf	2015	Jitendra Malik	lecture	UC Berkeley
+Scene Understanding from RGB-D Images	www-inst.eecs.berkeley.edu/~cs280/sp15/lectures/21.pdf	2015	Jitendra Malik	lecture	UC Berkeley
+MATLAB Tutorial	www.cs.rutgers.edu/~elgammal/classes/cs534/MATLAB_tutorial.pdf	2015	Ahmed Elgammal	lecture	Rutgers University
+Appearance-based vision	www.cs.rutgers.edu/~elgammal/classes/cs534/lectures/appearance-based-vision.pdf	2015	Ahmed Elgammal	lecture	Rutgers University
+Calibration	www.cs.rutgers.edu/~elgammal/classes/cs534/lectures/Calibration.pdf	2015	Ahmed Elgammal	lecture	Rutgers University
+Vision In Humans	www.cs.rutgers.edu/~elgammal/classes/cs534/lectures/VisionInHumans.pdf	2015	Ahmed Elgammal	lecture	Rutgers University
+Cameras	www.cs.rutgers.edu/~elgammal/classes/cs534/lectures/Cameras.pdf	2015	Ahmed Elgammal	lecture	Rutgers University
+Object Recognition	www.cs.rutgers.edu/~elgammal/classes/cs534/lectures/ObjectRecognition.pdf	2015	Ahmed Elgammal	lecture	Rutgers University
+Texture	www.cs.rutgers.edu/~elgammal/classes/cs534/lectures/Texture.pdf	2015	Ahmed Elgammal	lecture	Rutgers University
+Edges	www.cs.rutgers.edu/~elgammal/classes/cs534/lectures/Edges.pdf	2015	Ahmed Elgammal	lecture	Rutgers University
+Camera Geometry	www.cs.rutgers.edu/~elgammal/classes/cs534/lectures/CameraGeometry.pdf	2015	Ahmed Elgammal	lecture	Rutgers University
+Multiple View Geometry	www.cs.rutgers.edu/~elgammal/classes/cs534/lectures/MultipleViewGeometry.pdf	2015	Ahmed Elgammal	lecture	Rutgers University
+Computer Vision Segmentation III Statistical Nonparametric Methods for Segmentation	www.cs.rutgers.edu/~elgammal/classes/cs534/lectures/Segmentation3_meanshift.pdf	2015	Ahmed Elgammal	lecture	Rutgers University
+Camera Calibration	www.cs.rutgers.edu/~elgammal/classes/cs534/lectures/CameraCalibration-book-chapter.pdf	2015	Ahmed Elgammal	lecture	Rutgers University
+Local Features	www.cs.rutgers.edu/~elgammal/classes/cs534/lectures/LocalFeatures.pdf	2015	Ahmed Elgammal	lecture	Rutgers University
+Stereo Imaging	www.cs.rutgers.edu/~elgammal/classes/cs534/lectures/stereoimaging.pdf	2015	Ahmed Elgammal	lecture	Rutgers University
+Computer Vision Introduction	www.cs.rutgers.edu/~elgammal/classes/cs534/lectures/VisionIntro.pdf	2015	Ahmed Elgammal	lecture	Rutgers University
+Linear Filters	www.cs.rutgers.edu/~elgammal/classes/cs534/lectures/LinearFilters.pdf	2015	Ahmed Elgammal	lecture	Rutgers University
+3D Model-based Recognition	www.cs.rutgers.edu/~elgammal/classes/cs534/lectures/3D_modelbasedvision.pdf	2015	Ahmed Elgammal	lecture	Rutgers University
+Segmentation	www.cs.rutgers.edu/~elgammal/classes/cs534/lectures/segmentation.pdf	2015	Ahmed Elgammal	lecture	Rutgers University
+Color	www.cs.rutgers.edu/~elgammal/classes/cs534/lectures/Color.pdf	2015	Ahmed Elgammal	lecture	Rutgers University
+Fourier Transform	www.cs.rutgers.edu/~elgammal/classes/cs534/lectures/FourierTransform.pdf	2015	Ahmed Elgammal	lecture	Rutgers University
+Binary Image Analysis	www.cs.rutgers.edu/~elgammal/classes/cs534/lectures/binaryImageAnalysis.pdf	2015	Ahmed Elgammal	lecture	Rutgers University
+Model Fitting	www.cs.rutgers.edu/~elgammal/classes/cs534/lectures/modelfiting.pdf	2015	Ahmed Elgammal	lecture	Rutgers University
+Computer Vision Introduction	www.cse.wustl.edu/~ayan/courses/cse559a/PDFs/lec3_4UP.pdf	2019	Ayan Chakrabarti	lecture	Washington University in St. Louis
+Computer Vision Introduction	www.cse.wustl.edu/~ayan/courses/cse559a/PDFs/lec13.pdf	2019	Ayan Chakrabarti	lecture	Washington University in St. Louis
+Color	www.cse.wustl.edu/~ayan/courses/cse559a/PDFs/lec8_4UP.pdf	2019	Ayan Chakrabarti	lecture	Washington University in St. Louis
+Conditional GANs	www.cse.wustl.edu/~ayan/courses/cse559a/PDFs/lec28_4UP.pdf	2019	Ayan Chakrabarti	lecture	Washington University in St. Louis
+Efficient Computation	www.cse.wustl.edu/~ayan/courses/cse559a/PDFs/lec6.pdf	2019	Ayan Chakrabarti	lecture	Washington University in St. Louis
+Back-propagation	www.cse.wustl.edu/~ayan/courses/cse559a/PDFs/lec26_4UP.pdf	2019	Ayan Chakrabarti	lecture	Washington University in St. Louis
+Introduction to Computer Vision	www.cse.wustl.edu/~ayan/courses/cse559a/PDFs/lec1.pdf	2019	Ayan Chakrabarti	lecture	Washington University in St. Louis
+Fourier Transform	www.cse.wustl.edu/~ayan/courses/cse559a/PDFs/lec5.pdf	2019	Ayan Chakrabarti	lecture	Washington University in St. Louis
+Image Restoration	www.cse.wustl.edu/~ayan/courses/cse559a/PDFs/lec7.pdf	2019	Ayan Chakrabarti	lecture	Washington University in St. Louis
+Global Optimization	www.cse.wustl.edu/~ayan/courses/cse559a/PDFs/lec14.pdf	2019	Ayan Chakrabarti	lecture	Washington University in St. Louis
+Grouping & Segmentation	www.cse.wustl.edu/~ayan/courses/cse559a/PDFs/lec16.pdf	2019	Ayan Chakrabarti	lecture	Washington University in St. Louis
+Stochastic Gradient Descent	www.cse.wustl.edu/~ayan/courses/cse559a/PDFs/lec19_4UP.pdf	2019	Ayan Chakrabarti	lecture	Washington University in St. Louis
+Grouping & Segmentation	www.cse.wustl.edu/~ayan/courses/cse559a/PDFs/lec17_4UP.pdf	2019	Ayan Chakrabarti	lecture	Washington University in St. Louis
+Introduction to Computer Vision	www.cse.wustl.edu/~ayan/courses/cse559a/PDFs/lec1_4UP.pdf	2019	Ayan Chakrabarti	lecture	Washington University in St. Louis
+More About Architectures	www.cse.wustl.edu/~ayan/courses/cse559a/PDFs/lec23_4UP.pdf	2019	Ayan Chakrabarti	lecture	Washington University in St. Louis
+Image Restoration	www.cse.wustl.edu/~ayan/courses/cse559a/PDFs/lec7_4UP.pdf	2019	Ayan Chakrabarti	lecture	Washington University in St. Louis
+Photometric Stereo	www.cse.wustl.edu/~ayan/courses/cse559a/PDFs/lec10.pdf	2019	Ayan Chakrabarti	lecture	Washington University in St. Louis
+Efficient Computation	www.cse.wustl.edu/~ayan/courses/cse559a/PDFs/lec6_4UP.pdf	2019	Ayan Chakrabarti	lecture	Washington University in St. Louis
+Machine Learning	www.cse.wustl.edu/~ayan/courses/cse559a/PDFs/lec18.pdf	2019	Ayan Chakrabarti	lecture	Washington University in St. Louis
+Stochastic Gradient Descent	www.cse.wustl.edu/~ayan/courses/cse559a/PDFs/lec19.pdf	2019	Ayan Chakrabarti	lecture	Washington University in St. Louis
+Point-Cloud Processing	www.cse.wustl.edu/~ayan/courses/cse559a/PDFs/lec27_4UP.pdf	2019	Ayan Chakrabarti	lecture	Washington University in St. Louis
+Estimation	www.cse.wustl.edu/~ayan/courses/cse559a/PDFs/lec11_4UP.pdf	2019	Ayan Chakrabarti	lecture	Washington University in St. Louis
+Two View Geometry	www.cse.wustl.edu/~ayan/courses/cse559a/PDFs/lec13_4UP.pdf	2019	Ayan Chakrabarti	lecture	Washington University in St. Louis
+More About Architectures	www.cse.wustl.edu/~ayan/courses/cse559a/PDFs/lec23.pdf	2019	Ayan Chakrabarti	lecture	Washington University in St. Louis
+3D Transformations	www.cse.wustl.edu/~ayan/courses/cse559a/PDFs/lec12_4UP.pdf	2019	Ayan Chakrabarti	lecture	Washington University in St. Louis
+Regularization	www.cse.wustl.edu/~ayan/courses/cse559a/PDFs/lec24.pdf	2019	Ayan Chakrabarti	lecture	Washington University in St. Louis
+Back-propagation	www.cse.wustl.edu/~ayan/courses/cse559a/PDFs/lec26.pdf	2019	Ayan Chakrabarti	lecture	Washington University in St. Louis
+Estimation	www.cse.wustl.edu/~ayan/courses/cse559a/PDFs/lec11.pdf	2019	Ayan Chakrabarti	lecture	Washington University in St. Louis
+Variational Auto-encoders	www.cse.wustl.edu/~ayan/courses/cse559a/PDFs/lec28.pdf	2019	Ayan Chakrabarti	lecture	Washington University in St. Louis
+Stereo	www.cse.wustl.edu/~ayan/courses/cse559a/PDFs/lec25_4UP.pdf	2019	Ayan Chakrabarti	lecture	Washington University in St. Louis
+Grouping & Segmentation	www.cse.wustl.edu/~ayan/courses/cse559a/PDFs/lec17.pdf	2019	Ayan Chakrabarti	lecture	Washington University in St. Louis
+Phototmetric Stereo++	www.cse.wustl.edu/~ayan/courses/cse559a/PDFs/lec10_4UP.pdf	2019	Ayan Chakrabarti	lecture	Washington University in St. Louis
+Edge Detection	www.cse.wustl.edu/~ayan/courses/cse559a/PDFs/lec4_4UP.pdf	2019	Ayan Chakrabarti	lecture	Washington University in St. Louis
+Fourier Transform	www.cse.wustl.edu/~ayan/courses/cse559a/PDFs/lec5_4UP.pdf	2019	Ayan Chakrabarti	lecture	Washington University in St. Louis
+Grouping & Segmentation	www.cse.wustl.edu/~ayan/courses/cse559a/PDFs/lec16_4UP.pdf	2019	Ayan Chakrabarti	lecture	Washington University in St. Louis
+Object Detection	www.cse.wustl.edu/~ayan/courses/cse559a/PDFs/lec22.pdf	2019	Ayan Chakrabarti	lecture	Washington University in St. Louis
+Autograd	www.cse.wustl.edu/~ayan/courses/cse559a/PDFs/lec20.pdf	2019	Ayan Chakrabarti	lecture	Washington University in St. Louis
+3D Transformations	www.cse.wustl.edu/~ayan/courses/cse559a/PDFs/lec12.pdf	2019	Ayan Chakrabarti	lecture	Washington University in St. Louis
+Regularization	www.cse.wustl.edu/~ayan/courses/cse559a/PDFs/lec24_4UP.pdf	2019	Ayan Chakrabarti	lecture	Washington University in St. Louis
+Point-wise operations	www.cse.wustl.edu/~ayan/courses/cse559a/PDFs/lec3.pdf	2019	Ayan Chakrabarti	lecture	Washington University in St. Louis
+Radiance	www.cse.wustl.edu/~ayan/courses/cse559a/PDFs/lec9.pdf	2019	Ayan Chakrabarti	lecture	Washington University in St. Louis
+Radiance	www.cse.wustl.edu/~ayan/courses/cse559a/PDFs/lec9_4UP.pdf	2019	Ayan Chakrabarti	lecture	Washington University in St. Louis
+Edge Detection	www.cse.wustl.edu/~ayan/courses/cse559a/PDFs/lec4.pdf	2019	Ayan Chakrabarti	lecture	Washington University in St. Louis
+Sensor	www.cse.wustl.edu/~ayan/courses/cse559a/PDFs/lec2_4UP.pdf	2019	Ayan Chakrabarti	lecture	Washington University in St. Louis
+Autograd	www.cse.wustl.edu/~ayan/courses/cse559a/PDFs/lec20_4UP.pdf	2019	Ayan Chakrabarti	lecture	Washington University in St. Louis
+Point-cloud Processing	www.cse.wustl.edu/~ayan/courses/cse559a/PDFs/lec27.pdf	2019	Ayan Chakrabarti	lecture	Washington University in St. Louis
+Stereo Roundup	www.cse.wustl.edu/~ayan/courses/cse559a/PDFs/lec15.pdf	2019	Ayan Chakrabarti	lecture	Washington University in St. Louis
+Color	www.cse.wustl.edu/~ayan/courses/cse559a/PDFs/lec8.pdf	2019	Ayan Chakrabarti	lecture	Washington University in St. Louis
+Gradient Descent	www.cse.wustl.edu/~ayan/courses/cse559a/PDFs/lec18_4UP.pdf	2019	Ayan Chakrabarti	lecture	Washington University in St. Louis
+Object Detection	www.cse.wustl.edu/~ayan/courses/cse559a/PDFs/lec22_4UP.pdf	2019	Ayan Chakrabarti	lecture	Washington University in St. Louis
+Core Semantic Tasks in Vision	www.cse.wustl.edu/~ayan/courses/cse559a/PDFs/lec21_4UP.pdf	2019	Ayan Chakrabarti	lecture	Washington University in St. Louis
+Global Optimization	www.cse.wustl.edu/~ayan/courses/cse559a/PDFs/lec14_4UP.pdf	2019	Ayan Chakrabarti	lecture	Washington University in St. Louis
+Stereo Flow	www.cse.wustl.edu/~ayan/courses/cse559a/PDFs/lec15_4UP.pdf	2019	Ayan Chakrabarti	lecture	Washington University in St. Louis
+Core Semantic Tasks in Vision	www.cse.wustl.edu/~ayan/courses/cse559a/PDFs/lec21.pdf	2019	Ayan Chakrabarti	lecture	Washington University in St. Louis
+Stereo	www.cse.wustl.edu/~ayan/courses/cse559a/PDFs/lec25.pdf	2019	Ayan Chakrabarti	lecture	Washington University in St. Louis
+Sensor	www.cse.wustl.edu/~ayan/courses/cse559a/PDFs/lec2.pdf	2019	Ayan Chakrabarti	lecture	Washington University in St. Louis
+Estimating a Plane-to-Plane Homography with Angle-to-Angle and Point-to-Point Correspondences	engineering.purdue.edu/kak/computervision/ECE661Folder/Lecture5.pdf	2016	Avinash Kak	lecture	Purdue University
+Characterization of the Distortions by Projective Imaging and the Principle of Point/ Line Duality	engineering.purdue.edu/kak/computervision/ECE661Folder/Lecture4.pdf	2016	Avinash Kak	lecture	Purdue University
+Visual Perception and Edge Detection	engineering.purdue.edu/kak/computervision/ECE661Folder/Lecture8.pdf	2016	Avinash Kak	lecture	Purdue University
+Binocular stereo: Image Rectification and Scene Reconstruction	engineering.purdue.edu/kak/computervision/ECE661Folder/Lecture22.pdf	2016	Avinash Kak	lecture	Purdue University
+World 2D: Planar Projective Transformations and Transformation Groups	engineering.purdue.edu/kak/computervision/ECE661Folder/Lecture3.pdf	2016	Avinash Kak	lecture	Purdue University
+Extracting Interest Points and Their Descriptors (with Harris, SIFT and SURF) in Image Pairs and Establishing Point-to-Point Correspondences between the images	engineering.purdue.edu/kak/computervision/ECE661Folder/Lecture9.pdf	2016	Avinash Kak	lecture	Purdue University
+Modeling the Camera	engineering.purdue.edu/kak/computervision/ECE661Folder/Lecture16.pdf	2016	Avinash Kak	lecture	Purdue University
+Estimating Homographies with Linear Least-Squares Minimization	engineering.purdue.edu/kak/computervision/ECE661Folder/Lecture10.pdf	2016	Avinash Kak	lecture	Purdue University
+Some Cool Properties of the Camera Projection Matrix	engineering.purdue.edu/kak/computervision/ECE661Folder/Lecture17.pdf	2016	Avinash Kak	lecture	Purdue University
+Epipolar Geometry and the Fundamental Matrix	engineering.purdue.edu/kak/computervision/ECE661Folder/Lecture21.pdf	2016	Avinash Kak	lecture	Purdue University
+Camera Imaging of Various Geometrical Forms	engineering.purdue.edu/kak/computervision/ECE661Folder/Lecture18.pdf	2016	Avinash Kak	lecture	Purdue University
+World 3D: Representing Points, Planes and Lines	engineering.purdue.edu/kak/computervision/ECE661Folder/Lecture6.pdf	2016	Avinash Kak	lecture	Purdue University
+World 2D: Using Homogeneous Coordinates to Represent and Manipulate Points, Lines and Conices	engineering.purdue.edu/kak/computervision/ECE661Folder/Lecture2.pdf	2016	Avinash Kak	lecture	Purdue University
+Camera Calibration - Zhang's algorithm	engineering.purdue.edu/kak/computervision/ECE661Folder/Lecture19.pdf	2016	Avinash Kak	lecture	Purdue University
+Robust Homography Estimation with the RANSAC Algorithm	engineering.purdue.edu/kak/computervision/ECE661Folder/Lecture11.pdf	2016	Avinash Kak	lecture	Purdue University
+Stereo Vision	www.cs.unc.edu/~lazebnik/research/spring08/lec12_stereo.pdf	2008	Svetlana Lazebnik	lecture	University of North Carolina at Chapel Hill
+Edge Detection	www.cs.unc.edu/~lazebnik/research/spring08/lec06_edge.pdf	2008	Svetlana Lazebnik	lecture	University of North Carolina at Chapel Hill
+Structure from motion	www.cs.unc.edu/~lazebnik/research/spring08/lec14_sfm.pdf	2008	Svetlana Lazebnik	lecture	University of North Carolina at Chapel Hill
+Object Recognition: Conceptual Issues	www.cs.unc.edu/~lazebnik/research/spring08/lec16_recognition_issues.pdf	2008	Svetlana Lazebnik	lecture	University of North Carolina at Chapel Hill
+Segmentation	www.cs.unc.edu/~lazebnik/research/spring08/lec21_segmentation.pdf	2008	Svetlana Lazebnik	lecture	University of North Carolina at Chapel Hill
+Multi-view stereo	www.cs.unc.edu/~lazebnik/research/spring08/lec13_multiview_stereo.pdf	2008	Svetlana Lazebnik	lecture	University of North Carolina at Chapel Hill
+Visual motion	www.cs.unc.edu/~lazebnik/research/spring08/lec22_optical_flow.pdf	2008	Svetlana Lazebnik	lecture	University of North Carolina at Chapel Hill
+Feature extraction: Corners and blobs	www.cs.unc.edu/~lazebnik/research/spring08/lec07_corner_blob.pdf	2008	Svetlana Lazebnik	lecture	University of North Carolina at Chapel Hill
+Object Recognition: History and Overview	www.cs.unc.edu/~lazebnik/research/spring08/lec15_recognition_intro.pdf	2008	Svetlana Lazebnik	lecture	University of North Carolina at Chapel Hill
+Robust Real-Time Face Detection	www.cs.unc.edu/~lazebnik/research/spring08/viola_jones.pdf	2008	Svetlana Lazebnik	lecture	University of North Carolina at Chapel Hill
+Fitting: The Hough transform	www.cs.unc.edu/~lazebnik/research/spring08/lec08_hough.pdf	2008	Svetlana Lazebnik	lecture	University of North Carolina at Chapel Hill
+Image Alignment	www.cs.unc.edu/~lazebnik/research/spring08/lec10_alignment.pdf	2008	Svetlana Lazebnik	lecture	University of North Carolina at Chapel Hill
+Beyond bags of features: Adding spatial information	www.cs.unc.edu/~lazebnik/research/spring08/lec19_spatial.pdf	2008	Svetlana Lazebnik	lecture	University of North Carolina at Chapel Hill
+Capturing light	www.cs.unc.edu/~lazebnik/research/spring08/lec03_light.pdf	2008	Svetlana Lazebnik	lecture	University of North Carolina at Chapel Hill
+Harris and Laplacian Region Detectors	www.cs.unc.edu/~lazebnik/research/spring08/detectors.pdf	2008	Svetlana Lazebnik	lecture	University of North Carolina at Chapel Hill
+Face detection and recognition	www.cs.unc.edu/~lazebnik/research/spring08/lec20_face.pdf	2008	Svetlana Lazebnik	lecture	University of North Carolina at Chapel Hill
+Linear filtering	www.cs.unc.edu/~lazebnik/research/spring08/lec05_filter.pdf	2008	Svetlana Lazebnik	lecture	University of North Carolina at Chapel Hill
+Fitting: Concepts and recipes	www.cs.unc.edu/~lazebnik/research/spring08/lec09_fitting.pdf	2008	Svetlana Lazebnik	lecture	University of North Carolina at Chapel Hill
+The camera	www.cs.unc.edu/~lazebnik/research/spring08/lec02_camera.pdf	2008	Svetlana Lazebnik	lecture	University of North Carolina at Chapel Hill
+Computer Vision	www.cs.unc.edu/~lazebnik/research/spring08/lec01_intro.pdf	2008	Svetlana Lazebnik	lecture	University of North Carolina at Chapel Hill
+Camera calibration and epipolar geometry	www.cs.unc.edu/~lazebnik/research/spring08/lec11_epipolar.pdf	2008	Svetlana Lazebnik	lecture	University of North Carolina at Chapel Hill
+Tracking	www.cs.unc.edu/~lazebnik/research/spring08/lec23_tracking.pdf	2008	Svetlana Lazebnik	lecture	University of North Carolina at Chapel Hill
+Discriminative and generative methods for bags of features	www.cs.unc.edu/~lazebnik/research/spring08/lec18_discriminative_generative.pdf	2008	Svetlana Lazebnik	lecture	University of North Carolina at Chapel Hill
+Color	www.cs.unc.edu/~lazebnik/research/spring08/lec04_color.pdf	2008	Svetlana Lazebnik	lecture	University of North Carolina at Chapel Hill
+Bag-of-features models	www.cs.unc.edu/~lazebnik/research/spring08/lec17_bag_of_features.pdf	2008	Svetlana Lazebnik	lecture	University of North Carolina at Chapel Hill
+Convolutional Neural Networks	courses.engr.illinois.edu/cs543/sp2015/lectures/Lecture 29 - Convolutional Neural Networks -  Vision_Spring2015.pdf	2015	Derek Hoiem	lecture	University of Illinois at Urbana–Champaign
+Context and 3D Scenes	courses.engr.illinois.edu/cs543/sp2015/lectures/Lecture 27 - Context and 3D Scenes - Vision_Spring2015.pdf	2015	Derek Hoiem	lecture	University of Illinois at Urbana–Champaign
+Feature Tracking and Optimal Flow	courses.engr.illinois.edu/cs543/sp2015/lectures/Lecture 08 - Feature Tracking and Optical Flow - Vision_Spring2015.pdf	2015	Derek Hoiem	lecture	University of Illinois at Urbana–Champaign
+Interest Points	courses.engr.illinois.edu/cs543/sp2015/lectures/Lecture 07 - Interest Points - Vision_Spring2015.pdf	2015	Derek Hoiem	lecture	University of Illinois at Urbana–Champaign
+Detection with Parts-based Models	courses.engr.illinois.edu/cs543/sp2015/lectures/Lecture 24 - Detection with Parts-based Models - Vision_Spring2015.pdf	2015	Derek Hoiem	lecture	University of Illinois at Urbana–Champaign
+Structure from Motion	courses.engr.illinois.edu/cs543/sp2015/lectures/Lecture 15 - Structure from Motion - Vision_Spring2015.pdf	2015	Derek Hoiem	lecture	University of Illinois at Urbana–Champaign
+Photo Stitching	courses.engr.illinois.edu/cs543/sp2015/lectures/Lecture 13 - Photo Stitching - Vision_Spring2015.pdf	2015	Derek Hoiem	lecture	University of Illinois at Urbana–Champaign
+Calibration and Single-view Metrology	courses.engr.illinois.edu/cs543/sp2015/lectures/Lecture 12 - Calibration and Single-view Metrology - Vision_Spring2015.pdf	2015	Derek Hoiem	lecture	University of Illinois at Urbana–Champaign
+Alignment and Instance Recognition	courses.engr.illinois.edu/cs543/sp2015/lectures/Lecture 10 - Alignment and Instance Recognition - Vision_Spring2015.pdf	2015	Derek Hoiem	lecture	University of Illinois at Urbana–Champaign
+MRFs and Graph Cut Segmentation	courses.engr.illinois.edu/cs543/sp2015/lectures/Lecture 19 - MRFs and Graph Cut Segmentation - Vision_Spring2015.pdf	2015	Derek Hoiem	lecture	University of Illinois at Urbana–Champaign
+Fitting and Registration	courses.engr.illinois.edu/cs543/sp2015/lectures/Lecture 09 - Fitting and Registration - Vision_Spring2015.pdf	2015	Derek Hoiem	lecture	University of Illinois at Urbana–Champaign
+Templates, Pyramids and Filter Banks	courses.engr.illinois.edu/cs543/sp2015/lectures/Lecture 05 - Templates, Pyramids, and Filter Banks - Vision_Spring2015.pdf	2015	Derek Hoiem	lecture	University of Illinois at Urbana–Champaign
+Introduction	courses.engr.illinois.edu/cs543/sp2015/lectures/Lecture 01 - Introduction - Vision_Spring2015.pdf	2015	Derek Hoiem	lecture	University of Illinois at Urbana–Champaign
+Face Recognition	courses.engr.illinois.edu/cs543/sp2015/lectures/Lecture 20 - Face Recognition - Vision_Spring2015.pdf	2015	Derek Hoiem	lecture	University of Illinois at Urbana–Champaign
+Object Tracking	courses.engr.illinois.edu/cs543/sp2015/lectures/Lecture 25 - Object Tracking - Vision_Spring2015.pdf	2015	Derek Hoiem	lecture	University of Illinois at Urbana–Champaign
+Grouping and Segmentation	courses.engr.illinois.edu/cs543/sp2015/lectures/Lecture 17 - Grouping and Segmentation - Vision_Spring2015.pdf	2015	Derek Hoiem	lecture	University of Illinois at Urbana–Champaign
+Statistical Template Detection	courses.engr.illinois.edu/cs543/sp2015/lectures/Lecture 23 - Statistical Template Detection - Vision_Spring2015.pdf	2015	Derek Hoiem	lecture	University of Illinois at Urbana–Champaign
+Clustering	courses.engr.illinois.edu/cs543/sp2015/lectures/Lecture 16 - clustering - Vision_Spring2015.pdf	2015	Derek Hoiem	lecture	University of Illinois at Urbana–Champaign
+Image Categorization	courses.engr.illinois.edu/cs543/sp2015/lectures/Lecture 21 - Image Categorization -  Vision_Spring2015.pdf	2015	Derek Hoiem	lecture	University of Illinois at Urbana–Champaign
+Epipolar Geometry and Stereo	courses.engr.illinois.edu/cs543/sp2015/lectures/Lecture 14 - Epipolar Geometry and Stereo - Vision_Spring2015.pdf	2015	Derek Hoiem	lecture	University of Illinois at Urbana–Champaign
+Light and Shading	courses.engr.illinois.edu/cs543/sp2015/lectures/Lecture 02 - Light and Shading - Vision Fall 2015.pdf	2015	Derek Hoiem	lecture	University of Illinois at Urbana–Champaign
+Classifers	courses.engr.illinois.edu/cs543/sp2015/lectures/Lecture 22 - Classifiers - Vision_Spring2015.pdf	2015	Derek Hoiem	lecture	University of Illinois at Urbana–Champaign
+Edge Detection	courses.engr.illinois.edu/cs543/sp2015/lectures/Lecture 06 - Edge Detection - Vision_Spring2015.pdf	2015	Derek Hoiem	lecture	University of Illinois at Urbana–Champaign
+EM Mog	courses.engr.illinois.edu/cs543/sp2015/lectures/Lecture 18 - EM_Mog - Notes 2015.pdf	2015	Derek Hoiem	lecture	University of Illinois at Urbana–Champaign
+Thinking in Frequency	courses.engr.illinois.edu/cs543/sp2015/lectures/Lecture 04 - Thinking in Frequency - Vision_Spring2015.pdf	2015	Derek Hoiem	lecture	University of Illinois at Urbana–Champaign
+Image Filters	courses.engr.illinois.edu/cs543/sp2015/lectures/Lecture 03 - Image Filters - Vision_Spring2015.pdf	2015	Derek Hoiem	lecture	University of Illinois at Urbana–Champaign
+Projective Geometry and Camera Models	courses.engr.illinois.edu/cs543/sp2015/lectures/Lecture 11 - Projective Geometry and Camera Models - Vision_Spring2015.pdf	2015	Derek Hoiem	lecture	University of Illinois at Urbana–Champaign
+Summary and Discussion	courses.engr.illinois.edu/cs543/sp2015/lectures/Lecture 29 - Summary and Discussion - Vision_Spring2015.pdf	2015	Derek Hoiem	lecture	University of Illinois at Urbana–Champaign
+Action Recognition	courses.engr.illinois.edu/cs543/sp2015/lectures/Lecture 26 - Action Recognition - Vision_Spring2015.pdf	2015	Derek Hoiem	lecture	University of Illinois at Urbana–Champaign
+EM	courses.engr.illinois.edu/cs543/sp2015/lectures/Lecture 18 - EM - Vision_Spring2015.pdf	2015	Derek Hoiem	lecture	University of Illinois at Urbana–Champaign
+Useful Functions in Matlab	courses.engr.illinois.edu/cs543/sp2015/materials/Useful Functions in Matlab.pdf	2015	Derek Hoiem	lecture	University of Illinois at Urbana–Champaign
+Computer Vision - Lecture 1	cs.nyu.edu/~fergus/teaching/vision_2012/1_Intro.pdf	2012	Rob Fergus	lecture	New York University
+Projection Geometry	sites.cs.ucsb.edu/~yfwang/courses/cs281b/notes/9-projection-geometry.pdf	2018	Yuan-Fang Wang	lecture	University of California, Santa Barbara
+Camera	sites.cs.ucsb.edu/~yfwang/courses/cs281b/notes/8-camera.pdf	2018	Yuan-Fang Wang	lecture	University of California, Santa Barbara
+SfM	sites.cs.ucsb.edu/~yfwang/courses/cs281b/notes/12-SfM.pdf	2018	Yuan-Fang Wang	lecture	University of California, Santa Barbara
+Stereo	sites.cs.ucsb.edu/~yfwang/courses/cs281b/notes/11-stereo.pdf	2018	Yuan-Fang Wang	lecture	University of California, Santa Barbara
+Object Detection	sites.cs.ucsb.edu/~yfwang/courses/cs281b/notes/object_detection.pdf	2018	Yuan-Fang Wang	lecture	University of California, Santa Barbara
+Corner	sites.cs.ucsb.edu/~yfwang/courses/cs281b/notes/5-corner.pdf	2018	Yuan-Fang Wang	lecture	University of California, Santa Barbara
+Motion	sites.cs.ucsb.edu/~yfwang/courses/cs281b/notes/7-motion2.pdf	2018	Yuan-Fang Wang	lecture	University of California, Santa Barbara
+RNN	sites.cs.ucsb.edu/~yfwang/courses/cs281b/notes/RNN.pdf	2018	Yuan-Fang Wang	lecture	University of California, Santa Barbara
+Edge	sites.cs.ucsb.edu/~yfwang/courses/cs281b/notes/2-edge.pdf	2018	Yuan-Fang Wang	lecture	University of California, Santa Barbara
+Introduction to Reinforcement Learning	sites.cs.ucsb.edu/~yfwang/courses/cs281b/notes/rl.pdf	2018	Yuan-Fang Wang	lecture	University of California, Santa Barbara
+Introduction to Computer Vision	sites.cs.ucsb.edu/~yfwang/courses/cs281b/notes/1-introduction.pdf	2018	Yuan-Fang Wang	lecture	University of California, Santa Barbara
+Whirlwing Tour of Machine Learning	sites.cs.ucsb.edu/~yfwang/courses/cs281b/notes/PRML.pdf	2018	Yuan-Fang Wang	lecture	University of California, Santa Barbara
+Object Detection and Recognition	sites.cs.ucsb.edu/~yfwang/courses/cs281b/notes/13-recognition.pdf	2018	Yuan-Fang Wang	lecture	University of California, Santa Barbara
+2D Image Analysis	sites.cs.ucsb.edu/~yfwang/courses/cs281b/notes/4-2Danalysis.pdf	2018	Yuan-Fang Wang	lecture	University of California, Santa Barbara
+Edge Linking	sites.cs.ucsb.edu/~yfwang/courses/cs281b/notes/3-elink.pdf	2018	Yuan-Fang Wang	lecture	University of California, Santa Barbara
+Introduction to advanced computer vision	sites.cs.ucsb.edu/~yfwang/courses/cs281b/notes/introduction.pdf	2018	Yuan-Fang Wang	lecture	University of California, Santa Barbara
+Vision-to-Language Generation	sites.cs.ucsb.edu/~yfwang/courses/cs281b/notes/vision2language.pdf	2018	Yuan-Fang Wang	lecture	University of California, Santa Barbara
+Coding Basics	sites.cs.ucsb.edu/~yfwang/courses/cs281b/notes/codes.pdf	2018	Yuan-Fang Wang	lecture	University of California, Santa Barbara
+Image Stitching and Alignment	sites.cs.ucsb.edu/~yfwang/courses/cs281b/notes/6-stitching.pdf	2018	Yuan-Fang Wang	lecture	University of California, Santa Barbara
+Computer Vision and Image Analysis	sites.cs.ucsb.edu/~yfwang/courses/cs281b/pdf	2018	Yuan-Fang Wang	lecture	University of California, Santa Barbara
+Correlated and Time-Varying Events	sites.cs.ucsb.edu/~yfwang/courses/cs281b/pdf/markov.pdf	2018	Yuan-Fang Wang	lecture	University of California, Santa Barbara
+Unsupervised Learning	sites.cs.ucsb.edu/~yfwang/courses/cs281b/pdf/mixture.pdf	2018	Yuan-Fang Wang	lecture	University of California, Santa Barbara
+Nonparametric Techniques	sites.cs.ucsb.edu/~yfwang/courses/cs281b/pdf/nonparametric.pdf	2018	Yuan-Fang Wang	lecture	University of California, Santa Barbara
+Linear Regression	sites.cs.ucsb.edu/~yfwang/courses/cs281b/pdf/lr.pdf	2018	Yuan-Fang Wang	lecture	University of California, Santa Barbara
+Unsupervised Clustering	sites.cs.ucsb.edu/~yfwang/courses/cs281b/pdf/cluster.pdf	2018	Yuan-Fang Wang	lecture	University of California, Santa Barbara
+Performance and Generalization	sites.cs.ucsb.edu/~yfwang/courses/cs281b/pdf/performance.pdf	2018	Yuan-Fang Wang	lecture	University of California, Santa Barbara
+Patten Recognition Artificial Neural Networks and Machine Learning	sites.cs.ucsb.edu/~yfwang/courses/cs281b/pdf/intro.pdf	2018	Yuan-Fang Wang	lecture	University of California, Santa Barbara
+Linear Discriminant Functions	sites.cs.ucsb.edu/~yfwang/courses/cs281b/pdf/discriminant.pdf	2018	Yuan-Fang Wang	lecture	University of California, Santa Barbara
+Parameter Estimation	sites.cs.ucsb.edu/~yfwang/courses/cs281b/pdf/parameter.pdf	2018	Yuan-Fang Wang	lecture	University of California, Santa Barbara
+Support Vector and Kernel Methods for Pattern Recognition	sites.cs.ucsb.edu/~yfwang/courses/cs281b/pdf/svmtutorialPSB2002.pdf	2018	Yuan-Fang Wang	lecture	University of California, Santa Barbara
+Radial Basis Function Networks	sites.cs.ucsb.edu/~yfwang/courses/cs281b/pdf/rbf.pdf	2018	Yuan-Fang Wang	lecture	University of California, Santa Barbara
+Artificial Neural Networks	sites.cs.ucsb.edu/~yfwang/courses/cs281b/pdf/ANN.pdf	2018	Yuan-Fang Wang	lecture	University of California, Santa Barbara
+Deep Learning in Visual Recognition	sites.cs.ucsb.edu/~yfwang/courses/cs281b/pdf/deep_learning.pdf	2018	Yuan-Fang Wang	lecture	University of California, Santa Barbara
+Simple Perceptrons	sites.cs.ucsb.edu/~yfwang/courses/cs281b/pdf/perceptron1.pdf	2018	Yuan-Fang Wang	lecture	University of California, Santa Barbara
+Dimension Reduction	sites.cs.ucsb.edu/~yfwang/courses/cs281b/pdf/dimension.pdf	2018	Yuan-Fang Wang	lecture	University of California, Santa Barbara
+Independent Component Analysis	sites.cs.ucsb.edu/~yfwang/courses/cs281b/pdf/ica.pdf	2018	Yuan-Fang Wang	lecture	University of California, Santa Barbara
+Unsupervised Data Mining	sites.cs.ucsb.edu/~yfwang/courses/cs281b/pdf/rule.pdf	2018	Yuan-Fang Wang	lecture	University of California, Santa Barbara
+Unsupervised Learning - Using ANNs	sites.cs.ucsb.edu/~yfwang/courses/cs281b/pdf/learning.pdf	2018	Yuan-Fang Wang	lecture	University of California, Santa Barbara
+Data Filtering, Smoothing, and Prediction Kalman Filter + Particle Filter	sites.cs.ucsb.edu/~yfwang/courses/cs281b/pdf/KF_PF.pdf	2018	Yuan-Fang Wang	lecture	University of California, Santa Barbara
+Memory Models	sites.cs.ucsb.edu/~yfwang/courses/cs281b/pdf/hopfield.pdf	2018	Yuan-Fang Wang	lecture	University of California, Santa Barbara
+Multi-Layer Perception	sites.cs.ucsb.edu/~yfwang/courses/cs281b/pdf/perceptron2.pdf	2018	Yuan-Fang Wang	lecture	University of California, Santa Barbara
+Decision Trees	sites.cs.ucsb.edu/~yfwang/courses/cs281b/pdf/tree.pdf	2018	Yuan-Fang Wang	lecture	University of California, Santa Barbara
+Quadratic Programming	sites.cs.ucsb.edu/~yfwang/courses/cs281b/pdf/qp.pdf	2018	Yuan-Fang Wang	lecture	University of California, Santa Barbara
+Support Vector Machines	sites.cs.ucsb.edu/~yfwang/courses/cs281b/pdf/svm.pdf	2018	Yuan-Fang Wang	lecture	University of California, Santa Barbara
+Support Vector Machines - More Generally Kernel Methods	sites.cs.ucsb.edu/~yfwang/courses/cs281b/pdf/kernel.pdf	2018	Yuan-Fang Wang	lecture	University of California, Santa Barbara
+Adjoint Representations and the Derivative of exp	www.cis.upenn.edu/~cis610/cis610-18-sl3.pdf	2018	Jean H. Gallier	lecture	University of Pennsylvania
+The Lorentz Groups	www.cis.upenn.edu/~cis610/cis610-18-sl6.pdf	2018	Jean H. Gallier	lecture	University of Pennsylvania
+Fitting Smooth Paths on Riemannian Manifolds	www.cis.upenn.edu/~cis610/Fitting-smooth-paths-Riemm-manif-SO.pdf	2018	Jean H. Gallier	lecture	University of Pennsylvania
+The Derivation of the Exponential Map of Matrices	www.cis.upenn.edu/~cis610/deriv-exp.pdf	2018	Jean H. Gallier	lecture	University of Pennsylvania
+Riemannian Metrics, Riemmanian Manifolds	www.cis.upenn.edu/~cis610/cis610-18-sl11.pdf	2018	Jean H. Gallier	lecture	University of Pennsylvania
+The Quaternions and the Spaces	www.cis.upenn.edu/~cis610/cis610sl7.pdf	2018	Jean H. Gallier	lecture	University of Pennsylvania
+Robust Statistics over Riemmanian Manifolds for Computer Vision	www.cis.upenn.edu/~cis610/Subbarao_thesis.pdf	2018	Jean H. Gallier	lecture	University of Pennsylvania
+Manfiolds, Lie Groups, and Lie Algebras, "Baby Case"	www.cis.upenn.edu/~cis610/cis610-18-sl4.pdf	2018	Jean H. Gallier	lecture	University of Pennsylvania
+Optimization methods on Riemannian manifolds and their application to shape space	www.cis.upenn.edu/~cis610/Ring-Wirth-optim-Riemann.pdf	2018	Jean H. Gallier	lecture	University of Pennsylvania
+The Greatest Mathematical Paper of All Time	www.cis.upenn.edu/~cis610/coleman.pdf	2018	Jean H. Gallier	lecture	University of Pennsylvania
+Manifolds, Riemannian Geometry, Lie Groups and Harmonic Analysis, With Applications	www.cis.upenn.edu/~cis610/cis61011intro.pdf	2018	Jean H. Gallier	lecture	University of Pennsylvania
+Basics of the Differential Geometry of Curves	www.cis.upenn.edu/~cis610/gma-v2-chap19.pdf	2018	Jean H. Gallier	lecture	University of Pennsylvania
+Isometries, Local Isometries, Riemannian Coverings and Submersions, Killing Vector Fields	www.cis.upenn.edu/~cis610/cis610-18-sl15.pdf	2018	Jean H. Gallier	lecture	University of Pennsylvania
+Advanced Geometric Methods in Computer Science	www.cis.upenn.edu/~cis610/hw2-18.pdf	2018	Jean H. Gallier	lecture	University of Pennsylvania
+Review of Derivatives, Series and Vector Fields	www.cis.upenn.edu/~cis610/cis610-18-sl2.pdf	2018	Jean H. Gallier	lecture	University of Pennsylvania
+Curvature in Riemmanian Manifolds	www.cis.upenn.edu/~cis610/cis610-18-sl14.pdf	2018	Jean H. Gallier	lecture	University of Pennsylvania
+Choice of Riemannian Metrics for Rigid Body Kinematics	www.cis.upenn.edu/~cis610/SE3-Croke-Kumar.pdf	2018	Jean H. Gallier	lecture	University of Pennsylvania
+Lie Group Actions on Manifolds	www.cis.upenn.edu/~cis610/Lie-group-actions-Berndt.pdf	2018	Jean H. Gallier	lecture	University of Pennsylvania
+Review of Topology	www.cis.upenn.edu/~cis610/cis61011toprev.pdf	2018	Jean H. Gallier	lecture	University of Pennsylvania
+Manfiolds, Lie Groups, and Lie Algebra and Homogeneous Manifolds with Applications to Machine Learning Robotics, and Computer Vision	www.cis.upenn.edu/~cis610/cis610-18-sl1.pdf	2018	Jean H. Gallier	lecture	University of Pennsylvania
+Advanced Geometric Methods in Computer Science Homework 4	www.cis.upenn.edu/~cis610/hw4-18.pdf	2018	Jean H. Gallier	lecture	University of Pennsylvania
+Vector Fields, Lie Derivatives, Integral Curves, Flows	www.cis.upenn.edu/~cis610/cis610-18-sl8.pdf	2018	Jean H. Gallier	lecture	University of Pennsylvania
+Basics of the Differential Geometry of Curves	www.cis.upenn.edu/~cis610/gma-v2-chap20.pdf	2018	Jean H. Gallier	lecture	University of Pennsylvania
+Manifolds Arising from Group Actions	www.cis.upenn.edu/~cis610/cis610-18-sl18.pdf	2018	Jean H. Gallier	lecture	University of Pennsylvania
+Left-invariant Diffusions on the Space of Positions and Orientations and their Application to Cross-preserving Smoothing of HARDI images	www.cis.upenn.edu/~cis610/Duits-left-invariant-diffusion-2010.pdf	2018	Jean H. Gallier	lecture	University of Pennsylvania
+Geodesics on Riemannian Manifolds	www.cis.upenn.edu/~cis610/cis610-18-sl13.pdf	2018	Jean H. Gallier	lecture	University of Pennsylvania
+Connections on Manifolds	www.cis.upenn.edu/~cis610/cis610-18-sl12.pdf	2018	Jean H. Gallier	lecture	University of Pennsylvania
+Advanced Geometric Methods in Computer Science Jean Gallier Homework 1	www.cis.upenn.edu/~cis610/hw1-18.pdf	2018	Jean H. Gallier	lecture	University of Pennsylvania
+Lie Groups, Lie Algebras and the Exponential Map	www.cis.upenn.edu/~cis610/cis610-18-sl16.pdf	2018	Jean H. Gallier	lecture	University of Pennsylvania
+On the Early History of the Singular Value Decomposition	www.cis.upenn.edu/~cis610/gws.pdf	2018	Jean H. Gallier	lecture	University of Pennsylvania
+Morse Theory	www.cis.upenn.edu/~cis610/Morse-Theory-1.pdf	2018	Jean H. Gallier	lecture	University of Pennsylvania
+The Karcher Mean of Points on SOn	www.cis.upenn.edu/~cis610/Huper-Karcher-mean-SO.pdf	2018	Jean H. Gallier	lecture	University of Pennsylvania
+Manifolds, Tangent Spaces, Cotangent Spaces, Submanifolds	www.cis.upenn.edu/~cis610/cis610-18-sl7.pdf	2018	Jean H. Gallier	lecture	University of Pennsylvania
+Review of Groups and Group Actions	www.cis.upenn.edu/~cis610/cis610-18-sl5.pdf	2018	Jean H. Gallier	lecture	University of Pennsylvania
+Metrics, Connections, and Curvature on Lie Groups	www.cis.upenn.edu/~cis610/cis610-18-sl17.pdf	2018	Jean H. Gallier	lecture	University of Pennsylvania
+Partitions of Unity, Covering Maps	www.cis.upenn.edu/~cis610/cis610-18-sl9.pdf	2018	Jean H. Gallier	lecture	University of Pennsylvania
+Logarithms and Square Roots of Real Matrices Existence, Uniqueness and Applications in Medical Imaging	www.cis.upenn.edu/~cis610/matlog.pdf	2018	Jean H. Gallier	lecture	University of Pennsylvania
+Riemmanian geometry of Grassman manifolds with a view on algorithmic computation	www.cis.upenn.edu/~cis610/Diffgeom-Grassmann.Absil.pdf	2018	Jean H. Gallier	lecture	University of Pennsylvania
+Exponential Barycenters of the Canonical Cartan Connection and Invariant Means on Lie Groups	www.cis.upenn.edu/~cis610/Bi-Invar-Means-Pennec.pdf	2018	Jean H. Gallier	lecture	University of Pennsylvania
+Models of Lighting	www.cs.jhu.edu/~ayuille/courses/Canton/Day5/Day5Lectures/Lecture3_Day5_Lighting.pdf	2011	Alan L. Yuille	lecture	Johns Hopkins University
+Machine Learning: Structure and Latent	www.cs.jhu.edu/~ayuille/courses/Canton/Day5/Day5Lectures/Lecture6_Day5_Structure.pdf	2011	Alan L. Yuille	lecture	Johns Hopkins University
+Deformable Templates	www.cs.jhu.edu/~ayuille/courses/Canton/Day5/Day5Lectures/Lecture5_Day5_DTs.pdf	2011	Alan L. Yuille	lecture	Johns Hopkins University
+Tutorial on Spectral Clustering	www.cs.jhu.edu/~ayuille/courses/Canton/Day5/Day5Lectures/Lecture1_Day5_Spectral.pdf	2011	Alan L. Yuille	lecture	Johns Hopkins University
+Snakes and Region Competition	www.cs.jhu.edu/~ayuille/courses/Canton/Day5/Day5Lectures/Lecture2_Day5_Regions.pdf	2011	Alan L. Yuille	lecture	Johns Hopkins University
+AAMs and FORMS	www.cs.jhu.edu/~ayuille/courses/Canton/Day5/Day5Lectures/Lecture4_Day5_AAMs.pdf	2011	Alan L. Yuille	lecture	Johns Hopkins University
+FORMS: A Flexible Object Recognition and Modelling System	www.cs.jhu.edu/~ayuille/courses/Canton/Day5/Day5Examples/FORMS.pdf	2011	Alan L. Yuille	lecture	Johns Hopkins University
+Region Competition: Unifying Snakes, Region Growing and Bayes/MDL for Multiband Image Segmentation	www.cs.jhu.edu/~ayuille/courses/Canton/Day5/Day5Examples/region_competition_pami.pdf	2011	Alan L. Yuille	lecture	Johns Hopkins University
+Unsupervised Learning of Object Deformation Models	www.cs.jhu.edu/~ayuille/courses/Canton/Day5/Day5Examples/AAM's.pdf	2011	Alan L. Yuille	lecture	Johns Hopkins University
+KGBR Viewpoint-Lighting Ambiguity	www.cs.jhu.edu/~ayuille/courses/Canton/Day5/Day5Examples/GBR.pdf	2011	Alan L. Yuille	lecture	Johns Hopkins University
+Superpixel: Empirical Studies and Applications	www.cs.jhu.edu/~ayuille/courses/Canton/Day5/Day5Examples/Superpixels.pdf	2011	Alan L. Yuille	lecture	Johns Hopkins University
+Learning Object Representation from Lighting Variations	www.cs.jhu.edu/~ayuille/courses/Canton/Day5/Day5Examples/svd_eccvwork96.pdf	2011	Alan L. Yuille	lecture	Johns Hopkins University
+SVM	www.cs.jhu.edu/~ayuille/courses/Canton/Day3_4/Day3&4Lectures/Lecture4_Day3&4_SVM.pdf	2011	Alan L. Yuille	lecture	Johns Hopkins University
+HMM	www.cs.jhu.edu/~ayuille/courses/Canton/Day3_4/Day3&4Lectures/Lecture3_Day3&4_HMMs.pdf	2011	Alan L. Yuille	lecture	Johns Hopkins University
+AdaBoost	www.cs.jhu.edu/~ayuille/courses/Canton/Day3_4/Day3&4Lectures/Lecture5_Day3&4_AdaBoost.pdf	2011	Alan L. Yuille	lecture	Johns Hopkins University
+DP & Stereo	www.cs.jhu.edu/~ayuille/courses/Canton/Day3_4/Day3&4Lectures/Lecture1_Day3&4_Dp&Stereo.pdf	2011	Alan L. Yuille	lecture	Johns Hopkins University
+Rev Learn	www.cs.jhu.edu/~ayuille/courses/Canton/Day3_4/Day3&4Lectures/Lecture2_Day3&4_RevLearn.pdf	2011	Alan L. Yuille	lecture	Johns Hopkins University
+Extra Adaboost	www.cs.jhu.edu/~ayuille/courses/Canton/Day3_4/Day3&4Lectures/Day3&4_Extra_AdaBoost.pdf	2011	Alan L. Yuille	lecture	Johns Hopkins University
+A Bayesian Treatment of the Stereo Correspondence Problem Using Half-Occluded Regions	www.cs.jhu.edu/~ayuille/courses/Canton/Day3_4/Day3&4Examples/92--BayesianStereo-Belhumeur.pdf	2011	Alan L. Yuille	lecture	Johns Hopkins University
+Course: Model, Learning and Inference: Lecture 6	www.cs.jhu.edu/~ayuille/courses/Canton/Day3_4/Day3&4Examples/HMMlatex.pdf	2011	Alan L. Yuille	lecture	Johns Hopkins University
+Extract Highlights from Baseball Game Video with Hidden Markov Models	www.cs.jhu.edu/~ayuille/courses/Canton/Day3_4/Day3&4Examples/chang_peng_2002_2.pdf	2011	Alan L. Yuille	lecture	Johns Hopkins University
+Statistical Edge Detection	www.cs.jhu.edu/~ayuille/courses/Canton/Day1/LecturesDay1/Lecture3_Day1_Edges.pdf	2011	Alan L. Yuille	lecture	Johns Hopkins University
+Introduction to Computer Vision	www.cs.jhu.edu/~ayuille/courses/Canton/Day1/LecturesDay1/Lecture1_Day1_Intro.pdf	2011	Alan L. Yuille	lecture	Johns Hopkins University
+Manhattan World	www.cs.jhu.edu/~ayuille/courses/Canton/Day1/LecturesDay1/Lecture5_Day1_Manhattan.pdf	2011	Alan L. Yuille	lecture	Johns Hopkins University
+Basic Properties of Images	www.cs.jhu.edu/~ayuille/courses/Canton/Day1/LecturesDay1/Lecture2_Day1_Images.pdf	2011	Alan L. Yuille	lecture	Johns Hopkins University
+Weak Smoothness	www.cs.jhu.edu/~ayuille/courses/Canton/Day1/LecturesDay1/Lecture4_Day1_TVnorm.pdf	2011	Alan L. Yuille	lecture	Johns Hopkins University
+Manhattan World: Compass Direction from a Single Image by Bayesian Inference	www.cs.jhu.edu/~ayuille/courses/Canton/Day1/ExamplesDay1/ManhattanWorld.pdf	2011	Alan L. Yuille	lecture	Johns Hopkins University
+Bayesian models of object perception	www.cs.jhu.edu/~ayuille/courses/Canton/Day1/ExamplesDay1/Vision_and_the_Brain.pdf	2011	Alan L. Yuille	lecture	Johns Hopkins University
+A Statistical Approach to Multi-Scale Edge Detection	www.cs.jhu.edu/~ayuille/courses/Canton/Day1/ExamplesDay1/EdgeDetectionExamples.pdf	2011	Alan L. Yuille	lecture	Johns Hopkins University
+An information theory perspective on computational vision	www.cs.jhu.edu/~ayuille/courses/Canton/Day2/ExamplesDay2/Review_Vision_Models.pdf	2011	Alan L. Yuille	lecture	Johns Hopkins University
+Belief Propagation, Mean-field and Bethe approximations	www.cs.jhu.edu/~ayuille/courses/Canton/Day2/ExamplesDay2/MRFs&Inference.pdf	2011	Alan L. Yuille	lecture	Johns Hopkins University
+Statistical cues for Domain Specific Image Segmentation with Performance Analysis	www.cs.jhu.edu/~ayuille/courses/Canton/Day2/ExamplesDay2/LabelingRegions.pdf	2011	Alan L. Yuille	lecture	Johns Hopkins University
+GrabCut Interactive Foreground Extraction using Iterated Graph Cuts	www.cs.jhu.edu/~ayuille/courses/Canton/Day2/ExamplesDay2/GrabCut_Examples.pdf	2011	Alan L. Yuille	lecture	Johns Hopkins University
+Technical Introduction: A Primer on Probabilistic Inference	www.cs.jhu.edu/~ayuille/courses/Canton/Day2/ExamplesDay2/Tutorial_Bayesian_Inference.pdf	2011	Alan L. Yuille	lecture	Johns Hopkins University
+Filter, Random Fields and Maximum Entropy (FRAME): Towards a Unified Theory for Texture Modeling	www.cs.jhu.edu/~ayuille/courses/Canton/Day2/ExamplesDay2/FRAME.pdf	2011	Alan L. Yuille	lecture	Johns Hopkins University
+Belief Propagation, Mean-field and Bethe approximations	www.cs.jhu.edu/~ayuille/courses/Canton/Day2/ExamplesDay2/ReviewMRF_BP_MCMC.pdf	2011	Alan L. Yuille	lecture	Johns Hopkins University
+Learn with Hidden Variables	www.cs.jhu.edu/~ayuille/courses/Canton/Day2/LecturesDay2/Lecture5_Day2_LearnHidden.pdf	2011	Alan L. Yuille	lecture	Johns Hopkins University
+Learn MRF	www.cs.jhu.edu/~ayuille/courses/Canton/Day2/LecturesDay2/Lecture4_Day2_LearnMRF.pdf	2011	Alan L. Yuille	lecture	Johns Hopkins University
+Image Labelling	www.cs.jhu.edu/~ayuille/courses/Canton/Day2/LecturesDay2/Lecture1_Day2_Labeling.pdf	2011	Alan L. Yuille	lecture	Johns Hopkins University
+Probability on Graphics	www.cs.jhu.edu/~ayuille/courses/Canton/Day2/LecturesDay2/Lecture2_Day2_MRFs.pdf	2011	Alan L. Yuille	lecture	Johns Hopkins University
+Algorithms: MaxFlow/ Min-cut & Belief Propagation	www.cs.jhu.edu/~ayuille/courses/Canton/Day2/LecturesDay2/Lecture3_Day2_Inference.pdf	2011	Alan L. Yuille	lecture	Johns Hopkins University
+Interest Points and Corners	cs.brown.edu/courses/csci1430/lectures/2020Spring_06_InterestPointsAndCorners.pdf	2020	James Tompkin	lecture	Brown University
+Machine Learning Crash Course Unsupervised Learning	cs.brown.edu/courses/csci1430/lectures/2020Spring_09_MachineLearningCrashCourse_UnsupervisedLearning.pdf	2020	James Tompkin	lecture	Brown University
+Thinking in Frequency Part 2	cs.brown.edu/courses/csci1430/lectures/2020Spring_04_ThinkingInFrequencyPart2.pdf	2020	James Tompkin	lecture	Brown University
+Machine Learning Crash Course Supervised Learning	cs.brown.edu/courses/csci1430/lectures/2020Spring_10_MachineLearningCrashCourse_SupervisedLearning.pdf	2020	James Tompkin	lecture	Brown University
+Thinking in Frequency Part 1	cs.brown.edu/courses/csci1430/lectures/2020Spring_03_ThinkingInFrequencyPart1.pdf	2020	James Tompkin	lecture	Brown University
+Neural Networks CNN	cs.brown.edu/courses/csci1430/lectures/2020Spring_15_NeuralNetworks_CNNs.pdf	2020	James Tompkin	lecture	Brown University
+Big Data	cs.brown.edu/courses/csci1430/lectures/2020Spring_14_BigData.pdf	2020	James Tompkin	lecture	Brown University
+Local Image Features and Matching	cs.brown.edu/courses/csci1430/lectures/2020Spring_07_LocalImageFeaturesAndMatching.pdf	2020	James Tompkin	lecture	Brown University
+Image Filtering	cs.brown.edu/courses/csci1430/lectures/2020Spring_02_ImageFiltering.pdf	2020	James Tompkin	lecture	Brown University
+Training Neural Networks	cs.brown.edu/courses/csci1430/lectures/2020Spring_16_TrainingNeuralNetworks.pdf	2020	James Tompkin	lecture	Brown University
+Recognition and Bag Of Words	cs.brown.edu/courses/csci1430/lectures/2020Spring_11_RecognitionAndBagOfWords.pdf	2020	James Tompkin	lecture	Brown University
+Large Scale Scene Recognition and Advanced Feature Encoding	cs.brown.edu/courses/csci1430/lectures/2020Spring_12_LargeScaleSceneRecognitionAndAdvancedFeatureEncoding.pdf	2020	James Tompkin	lecture	Brown University
+Edge Detection	cs.brown.edu/courses/csci1430/lectures/2020Spring_05_EdgeDetection.pdf	2020	James Tompkin	lecture	Brown University
+Cameras Light and Color	cs.brown.edu/courses/csci1430/lectures/2020Spring_08_CamerasLightAndColor.pdf	2020	James Tompkin	lecture	Brown University
+Detection With Sliding Windows Dalal Triggs Viola Jones	cs.brown.edu/courses/csci1430/lectures/2020Spring_13_DetectionWithSlidingWindowsDalalTriggsViolaJones.pdf	2020	James Tompkin	lecture	Brown University
+Introduction	cs.brown.edu/courses/csci1430/lectures/2020Spring_01_Introduction.pdf	2020	James Tompkin	lecture	Brown University
+Cameras Light and Color	cs.brown.edu/courses/csci1430/2019_Spring/lectures/2019Spring_08_CamerasLightAndColor.pdf	2019	James Tompkin	lecture	Brown University
+Thinking in Frequency Part 2	cs.brown.edu/courses/csci1430/2019_Spring/lectures/2019Spring_04_ThinkingInFrequencyPart2.pdf	2019	James Tompkin	lecture	Brown University
+Big Data	cs.brown.edu/courses/csci1430/2019_Spring/lectures/2019Spring_14_BigData.pdf	2019	James Tompkin	lecture	Brown University
+Stereo Introduction	cs.brown.edu/courses/csci1430/2019_Spring/lectures/2019Spring_21_StereoIntroduction.pdf	2019	James Tompkin	lecture	Brown University
+Image Filtering	cs.brown.edu/courses/csci1430/2019_Spring/lectures/2019Spring_02_ImageFiltering.pdf	2019	James Tompkin	lecture	Brown University
+Detection With Sliding Windows Dalal Triggs Viola Jones	cs.brown.edu/courses/csci1430/2019_Spring/lectures/2019Spring_13_DetectionWithSlidingWindowsDalalTriggsViolaJones.pdf	2019	James Tompkin	lecture	Brown University
+Recognition and Bag Of Words	cs.brown.edu/courses/csci1430/2019_Spring/lectures/2019Spring_11_RecognitionAndBagOfWords.pdf	2019	James Tompkin	lecture	Brown University
+Introduction	cs.brown.edu/courses/csci1430/2019_Spring/lectures/2019Spring_01_Introduction.pdf	2019	James Tompkin	lecture	Brown University
+Optical Flow	cs.brown.edu/courses/csci1430/2019_Spring/lectures/2019Spring_25_OpticalFlow.pdf	2019	James Tompkin	lecture	Brown University
+Training Neural Networks	cs.brown.edu/courses/csci1430/2019_Spring/lectures/2019Spring_16_TrainingNeuralNetworks.pdf	2019	James Tompkin	lecture	Brown University
+Machine Learning Crash Course Unsupervised Learning	cs.brown.edu/courses/csci1430/2019_Spring/lectures/2019Spring_09_MachineLearningCrashCourse_UnsupervisedLearning.pdf	2019	James Tompkin	lecture	Brown University
+Large Scale Scene Recognition and Advanced Feature Encoding	cs.brown.edu/courses/csci1430/2019_Spring/lectures/2019Spring_12_LargeScaleSceneRecognitionAndAdvancedFeatureEncoding.pdf	2019	James Tompkin	lecture	Brown University
+Depth Cameras	cs.brown.edu/courses/csci1430/2019_Spring/lectures/2019Spring_23_DepthCameras.pdf	2019	James Tompkin	lecture	Brown University
+Social Good and Dataset Bias	cs.brown.edu/courses/csci1430/2019_Spring/lectures/2019Spring_19_SocialGoodandDatasetBias.pdf	2019	James Tompkin	lecture	Brown University
+What do CNNs Learn	cs.brown.edu/courses/csci1430/2019_Spring/lectures/2019Spring_17_WhatDoCNNsLearn.pdf	2019	James Tompkin	lecture	Brown University
+Realtime Pose Estimation	cs.brown.edu/courses/csci1430/2019_Spring/lectures/2019Spring_24_RealtimePoseEstimation.pdf	2019	James Tompkin	lecture	Brown University
+Cameras and Calibration	cs.brown.edu/courses/csci1430/2019_Spring/lectures/2019Spring_20_CamerasAndCalibration.pdf	2019	James Tompkin	lecture	Brown University
+Interest Points and Corners	cs.brown.edu/courses/csci1430/2019_Spring/lectures/2019Spring_06_InterestPointsAndCorners.pdf	2019	James Tompkin	lecture	Brown University
+Stereo Disparity	cs.brown.edu/courses/csci1430/2019_Spring/lectures/2019Spring_22_StereoDisparity.pdf	2019	James Tompkin	lecture	Brown University
+Edge Detection	cs.brown.edu/courses/csci1430/2019_Spring/lectures/2019Spring_05_EdgeDetection.pdf	2019	James Tompkin	lecture	Brown University
+Local Image Features and Matching	cs.brown.edu/courses/csci1430/2019_Spring/lectures/2019Spring_07_LocalImageFeaturesAndMatching.pdf	2019	James Tompkin	lecture	Brown University
+Exploring CNN Architectures	cs.brown.edu/courses/csci1430/2019_Spring/lectures/2019Spring_18_ExploringCNNArchitectures.pdf	2019	James Tompkin	lecture	Brown University
+Thinking in Frequency Part 1	cs.brown.edu/courses/csci1430/2019_Spring/lectures/2019Spring_03_ThinkingInFrequencyPart1.pdf	2019	James Tompkin	lecture	Brown University
+Machine Learning Crash Course Supervised Learning	cs.brown.edu/courses/csci1430/2019_Spring/lectures/2019Spring_10_MachineLearningCrashCourse_SupervisedLearning.pdf	2019	James Tompkin	lecture	Brown University
+Neural Networks CNN	cs.brown.edu/courses/csci1430/2019_Spring/lectures/2019Spring_15_NeuralNetworks_CNNs.pdf	2019	James Tompkin	lecture	Brown University
+Large Scale Instance Recognition	cs.brown.edu/courses/csci1430/2017_Fall/lectures_Fall2017/13_Fall2017_LargeScaleInstanceRecognition.pdf	2017	James Tompkin	lecture	Brown University
+An Introduction to Computer Vision	www.eecs.northwestern.edu/~yingwu/teaching/EECS432/Notes/intro.pdf	2017	Ying Wu	lecture	Brown University
+Fundamentals of Computer Vision	www.cse.unr.edu/~bebis/CS485/Handouts/ShahBook.pdf	1997	Mubarak Shah	lecture	Brown University
+Lucas-Kanade 20 Years On: A Unifying Framework	www.cs.cmu.edu/~16385/s14/lec_slides/Baker&Matthews.pdf	2014	Simon Baker and Ian Matthews	lecture	Carnegie Mellon University
+Pose Estimation	www.cs.cmu.edu/~16385/s17/Slides/11.3_Pose_Estimation.pdf	2017	Kris Kitani	lecture	Carnegie Mellon University
+Finding Corners	www.cs.cmu.edu/~16385/s17/Slides/6.0_Finding_Corners.pdf	2017	Kris Kitani	lecture	Carnegie Mellon University
+2D Alignment RANSAC	www.cs.cmu.edu/~16385/s17/Slides/10.3_2D_Alignment__RANSAC.pdf	2017	Kris Kitani	lecture	Carnegie Mellon University
+Feature Descriptors 1	www.cs.cmu.edu/~16385/s17/Slides/7.1_Feature_Descriptors_1.pdf	2017	Kris Kitani	lecture	Carnegie Mellon University
+Perceptron	www.cs.cmu.edu/~16385/s17/Slides/9.1_Perceptron.pdf	2017	Kris Kitani	lecture	Carnegie Mellon University
+Image Alignment	www.cs.cmu.edu/~16385/s17/Slides/14.4_Alignment__LucasKanade.pdf	2017	Kris Kitani	lecture	Carnegie Mellon University
+Image Gradients	www.cs.cmu.edu/~16385/s17/Slides/4.0_Image_Gradients_and_Gradient_Filtering.pdf	2017	Kris Kitani	lecture	Carnegie Mellon University
+Generalized Hough Transform	www.cs.cmu.edu/~16385/s17/Slides/5.4_Generalized_Hough_Transform.pdf	2017	Kris Kitani	lecture	Carnegie Mellon University
+Extracting Edges	www.cs.cmu.edu/~16385/s17/Slides/5.1_Extracting_Edges.pdf	2017	Kris Kitani	lecture	Carnegie Mellon University
+Filtering vs Convolution	www.cs.cmu.edu/~16385/s17/Slides/4.1_FilteringVsConvolution.pdf	2017	Kris Kitani	lecture	Carnegie Mellon University
+Probability Basics	www.cs.cmu.edu/~16385/s17/Slides/8.1_Probability_Basics.pdf	2017	Kris Kitani	lecture	Carnegie Mellon University
+2D Transforms	www.cs.cmu.edu/~16385/s17/Slides/10.0_2D_Transforms.pdf	2017	Kris Kitani	lecture	Carnegie Mellon University
+Reconstruction	www.cs.cmu.edu/~16385/s17/Slides/12.5_Reconstruction.pdf	2017	Kris Kitani	lecture	Carnegie Mellon University
+Fundamental Matrix	www.cs.cmu.edu/~16385/s17/Slides/12.3_Fundamental_Matrix.pdf	2017	Kris Kitani	lecture	Carnegie Mellon University
+KLT Tracker	www.cs.cmu.edu/~16385/s17/Slides/15.1_Tracking__KLT.pdf	2017	Kris Kitani	lecture	Carnegie Mellon University
+2D Alignment: Linear Least Squares	www.cs.cmu.edu/~16385/s17/Slides/10.1_2D_Alignment__LLS.pdf	2017	Kris Kitani	lecture	Carnegie Mellon University
+Optical Flow: Constant Flow	www.cs.cmu.edu/~16385/s17/Slides/14.2_OF__ConstantFlow.pdf	2017	Kris Kitani	lecture	Carnegie Mellon University
+MonoSLAM: Real-Time Single Camera SLAM	www.cs.cmu.edu/~16385/s17/Slides/16.5_MonoSLAM.pdf	2017	Kris Kitani	lecture	Carnegie Mellon University
+Classification	www.cs.cmu.edu/~16385/s17/Slides/8.3_Classification.pdf	2017	Kris Kitani	lecture	Carnegie Mellon University
+Kalman Filtering	www.cs.cmu.edu/~16385/s17/Slides/16.3_Kalman_Filtering.pdf	2017	Kris Kitani	lecture	Carnegie Mellon University
+Stereo Rectification	www.cs.cmu.edu/~16385/s17/Slides/13.1_Stereo_Rectification.pdf	2017	Kris Kitani	lecture	Carnegie Mellon University
+Singular Value Decomposition	www.cs.cmu.edu/~16385/s17/Slides/11.5_SVD.pdf	2017	Kris Kitani	lecture	Carnegie Mellon University
+Triangulation	www.cs.cmu.edu/~16385/s17/Slides/11.4_Triangulation.pdf	2017	Kris Kitani	lecture	Carnegie Mellon University
+Backpropagation	www.cs.cmu.edu/~16385/s17/Slides/9.5_Backpropagation.pdf	2017	Kris Kitani	lecture	Carnegie Mellon University
+Gaussian Filter	www.cs.cmu.edu/~16385/s17/Slides/2.3_Gaussian_Filter.pdf	2017	Kris Kitani	lecture	Carnegie Mellon University
+Convolution Nets	www.cs.cmu.edu/~16385/s17/Slides/9.7 16385_ConvNets_Lecture_2.pdf	2017	Kris Kitani	lecture	Carnegie Mellon University
+Stereo Matching	www.cs.cmu.edu/~16385/s17/Slides/13.2_Stereo_Matching.pdf	2017	Kris Kitani	lecture	Carnegie Mellon University
+Wrap Up	www.cs.cmu.edu/~16385/s17/Slides/17.0_Wrap_Up.pdf	2017	Kris Kitani	lecture	Carnegie Mellon University
+Direct Linear Transform	www.cs.cmu.edu/~16385/s17/Slides/10.2_2D_Alignment__DLT.pdf	2017	Kris Kitani	lecture	Carnegie Mellon University
+Temporal Inference	www.cs.cmu.edu/~16385/s17/Slides/16.2_Temporal_Inference.pdf	2017	Kris Kitani	lecture	Carnegie Mellon University
+Visualizing Quadratics	www.cs.cmu.edu/~16385/s17/Slides/6.1_Visualizing_Quadratics.pdf	2017	Kris Kitani	lecture	Carnegie Mellon University
+Epipolar Geometry	www.cs.cmu.edu/~16385/s17/Slides/12.1_Epipolar_Geometry.pdf	2017	Kris Kitani	lecture	Carnegie Mellon University
+Perceptron Training	www.cs.cmu.edu/~16385/s17/Slides/9.3_Perceptron_Training.pdf	2017	Kris Kitani	lecture	Carnegie Mellon University
+Tracking Mean Shift	www.cs.cmu.edu/~16385/s17/Slides/15.2_Tracking__Mean_Shift.pdf	2017	Kris Kitani	lecture	Carnegie Mellon University
+Subsampling	www.cs.cmu.edu/~16385/s17/Slides/3.0_Subsampling.pdf	2017	Kris Kitani	lecture	Carnegie Mellon University
+Camera Matrix	www.cs.cmu.edu/~16385/s17/Slides/11.1_Camera_matrix.pdf	2017	Kris Kitani	lecture	Carnegie Mellon University
+Brightness Constancy	www.cs.cmu.edu/~16385/s17/Slides/14.1_Brightness_Constancy.pdf	2017	Kris Kitani	lecture	Carnegie Mellon University
+Camera Models	www.cs.cmu.edu/~16385/s17/Slides/11.2_Camera_Models.pdf	2017	Kris Kitani	lecture	Carnegie Mellon University
+Box Filter	www.cs.cmu.edu/~16385/s17/Slides/2.2_Box_Filter.pdf	2017	Kris Kitani	lecture	Carnegie Mellon University
+Essential Matrix	www.cs.cmu.edu/~16385/s17/Slides/12.2_Essential_Matrix.pdf	2017	Kris Kitani	lecture	Carnegie Mellon University
+Point Processing	www.cs.cmu.edu/~16385/s17/Slides/2.1_Point_Processing.pdf	2017	Kris Kitani	lecture	Carnegie Mellon University
+CNNs and Deep Learning	www.cs.cmu.edu/~16385/s17/Slides/9.6 CNNs_and_Deep_Learning.pdf	2017	Kris Kitani	lecture	Carnegie Mellon University
+Line Parametrizations	www.cs.cmu.edu/~16385/s17/Slides/5.2_Line_Parameterizations.pdf	2017	Kris Kitani	lecture	Carnegie Mellon University
+More Feature Descriptors	www.cs.cmu.edu/~16385/s17/Slides/7.2_Feature_Descriptors_2.pdf	2017	Kris Kitani	lecture	Carnegie Mellon University
+Class Overview	www.cs.cmu.edu/~16385/s17/Slides/1.3_Class_Overview.pdf	2017	Kris Kitani	lecture	Carnegie Mellon University
+Neural Network	www.cs.cmu.edu/~16385/s17/Slides/9.2_Neural_Network.pdf	2017	Kris Kitani	lecture	Carnegie Mellon University
+Staff Introduction	www.cs.cmu.edu/~16385/s17/Slides/1.0_Staff_Introduction.pdf	2017	Kris Kitani	lecture	Carnegie Mellon University
+Object Recognition	www.cs.cmu.edu/~16385/s17/Slides/8.0_Object_Recognition.pdf	2017	Kris Kitani	lecture	Carnegie Mellon University
+Bag of Visual Words	www.cs.cmu.edu/~16385/s17/Slides/8.2_Bag_of_Visual_Words.pdf	2017	Kris Kitani	lecture	Carnegie Mellon University
+Image Pyramid	www.cs.cmu.edu/~16385/s17/Slides/3.1_Image_Pyramid.pdf	2017	Kris Kitani	lecture	Carnegie Mellon University
+Point Algorithm	www.cs.cmu.edu/~16385/s17/Slides/12.4_8Point_Algorithm.pdf	2017	Kris Kitani	lecture	Carnegie Mellon University
+Two View Geomtry	www.cs.cmu.edu/~16385/s17/Slides/11.0_TwoView_Geometry.pdf	2017	Kris Kitani	lecture	Carnegie Mellon University
+Image Alignment	www.cs.cmu.edu/~16385/s17/Slides/14.5_Alignment__BakerMatthews.pdf	2017	Kris Kitani	lecture	Carnegie Mellon University
+Hough Transform	www.cs.cmu.edu/~16385/s17/Slides/5.3_Hough_Transform.pdf	2017	Kris Kitani	lecture	Carnegie Mellon University
+Image Filtering	www.cs.cmu.edu/~16385/s17/Slides/2.0_Image_Filtering.pdf	2017	Kris Kitani	lecture	Carnegie Mellon University
+Extended Kalman Filter	www.cs.cmu.edu/~16385/s17/Slides/16.4_Extended_Kalman_Filter.pdf	2017	Kris Kitani	lecture	Carnegie Mellon University
+Harris Corner Detector	www.cs.cmu.edu/~16385/s17/Slides/6.2_Harris_Corner_Detector.pdf	2017	Kris Kitani	lecture	Carnegie Mellon University
+Designing Descriptors	www.cs.cmu.edu/~16385/s17/Slides/7.0_Designing_Descriptors.pdf	2017	Kris Kitani	lecture	Carnegie Mellon University
+Multiscale Detection	www.cs.cmu.edu/~16385/s17/Slides/6.3_Multiscale_Detection.pdf	2017	Kris Kitani	lecture	Carnegie Mellon University
+What is Computer Vision	www.cs.cmu.edu/~16385/s17/Slides/1.1_What_is_Computer_Vision.pdf	2017	Kris Kitani	lecture	Carnegie Mellon University
+SIFT Detector and Descriptor	www.cs.cmu.edu/~16385/s17/Slides/7.3_SIFT_Detector_and_Descriptor.pdf	2017	Kris Kitani	lecture	Carnegie Mellon University
+Temporal State Models	www.cs.cmu.edu/~16385/s17/Slides/16.1_Temporal_State_Models.pdf	2017	Kris Kitani	lecture	Carnegie Mellon University
+Defining Boundaries	www.cs.cmu.edu/~16385/s17/Slides/5.0_Defining_Boundaries.pdf	2017	Kris Kitani	lecture	Carnegie Mellon University
+Optical Flow: Horn-Schunck	www.cs.cmu.edu/~16385/s17/Slides/14.3_OF__HornSchunck.pdf	2017	Kris Kitani	lecture	Carnegie Mellon University
+Visualization Gradient Descent	www.cs.cmu.edu/~16385/s17/Slides/9.4_Visualizing_Gradient_Descent.pdf	2017	Kris Kitani	lecture	Carnegie Mellon University
+Lecture 13: Triangulation	www.cs.cmu.edu/~16385/lectures/lecture13.pdf	2020	Margaret Morrison	lecture	Carnegie Mellon University
+Lecture 7: Image Transformations	www.cs.cmu.edu/~16385/lectures/lecture7.pdf	2020	Margaret Morrison	lecture	Carnegie Mellon University
+Lecture 10: Imaging	www.cs.cmu.edu/~16385/lectures/lecture10.pdf	2020	Margaret Morrison	lecture	Carnegie Mellon University
+Lecture 12: Triangulation	www.cs.cmu.edu/~16385/lectures/lecture12.pdf	2020	Margaret Morrison	lecture	Carnegie Mellon University
+Lecture 14: Radiometry and reflectance	www.cs.cmu.edu/~16385/lectures/lecture14.pdf	2020	Margaret Morrison	lecture	Carnegie Mellon University
+Lecture 2: Image Filtering	www.cs.cmu.edu/~16385/lectures/lecture2.pdf	2020	Margaret Morrison	lecture	Carnegie Mellon University
+Lecture 9: Image Homographies	www.cs.cmu.edu/~16385/lectures/lecture9.pdf	2020	Margaret Morrison	lecture	Carnegie Mellon University
+Lecture 3: Image pyramids and frequency domain	www.cs.cmu.edu/~16385/lectures/lecture3.pdf	2020	Margaret Morrison	lecture	Carnegie Mellon University
+Lecture 5: Detecting corners	www.cs.cmu.edu/~16385/lectures/lecture5.pdf	2020	Margaret Morrison	lecture	Carnegie Mellon University
+Lecture 6: Feature detectors and descriptors	www.cs.cmu.edu/~16385/lectures/lecture6.pdf	2020	Margaret Morrison	lecture	Carnegie Mellon University
+Lecture 1: Introduction	www.cs.cmu.edu/~16385/lectures/lecture1.pdf	2020	Margaret Morrison	lecture	Carnegie Mellon University
+Lecture 4: Hough transform	www.cs.cmu.edu/~16385/lectures/lecture4.pdf	2020	Margaret Morrison	lecture	Carnegie Mellon University
+Lecture 11: Epipolar Imaging	www.cs.cmu.edu/~16385/s19/lectures/lecture11.pdf	2019	Ioannis Gkioulekas	lecture	Carnegie Mellon University
+Lecture 19: Introduction to Neural Networks	www.cs.cmu.edu/~16385/s19/lectures/lecture19.pdf	2019	Ioannis Gkioulekas	lecture	Carnegie Mellon University
+Lecture 13: Radiometry and reflectance	www.cs.cmu.edu/~16385/s19/lectures/lecture13.pdf	2019	Ioannis Gkioulekas	lecture	Carnegie Mellon University
+Lecture 26: Wrap-up	www.cs.cmu.edu/~16385/s19/lectures/lecture26.pdf	2019	Ioannis Gkioulekas	lecture	Carnegie Mellon University
+Lecture 7: 2D transformations (a.k.a. warping)	www.cs.cmu.edu/~16385/s19/lectures/lecture7.pdf	2019	Ioannis Gkioulekas	lecture	Carnegie Mellon University
+Lecture 17: Introduction to semantic vision	www.cs.cmu.edu/~16385/s19/lectures/lecture17.pdf	2019	Ioannis Gkioulekas	lecture	Carnegie Mellon University
+Lecture 15: Photometric stereo	www.cs.cmu.edu/~16385/s19/lectures/lecture15.pdf	2019	Ioannis Gkioulekas	lecture	Carnegie Mellon University
+Lecture 10: Two-view geometry	www.cs.cmu.edu/~16385/s19/lectures/lecture10.pdf	2019	Ioannis Gkioulekas	lecture	Carnegie Mellon University
+Lecture 21: Optical flow	www.cs.cmu.edu/~16385/s19/lectures/lecture21.pdf	2019	Ioannis Gkioulekas	lecture	Carnegie Mellon University
+Lecture 12: Structure from motion	www.cs.cmu.edu/~16385/s19/lectures/lecture12.pdf	2019	Ioannis Gkioulekas	lecture	Carnegie Mellon University
+Lecture 14: Radiometry and reflectance	www.cs.cmu.edu/~16385/s19/lectures/lecture14.pdf	2019	Ioannis Gkioulekas	lecture	Carnegie Mellon University
+Lecture 16: Digital Photography	www.cs.cmu.edu/~16385/s19/lectures/lecture16.pdf	2019	Ioannis Gkioulekas	lecture	Carnegie Mellon University
+Lecture 2: Image Filtering	www.cs.cmu.edu/~16385/s19/lectures/lecture2.pdf	2019	Ioannis Gkioulekas	lecture	Carnegie Mellon University
+Lecture 9: Geometric camera models	www.cs.cmu.edu/~16385/s19/lectures/lecture9.pdf	2019	Ioannis Gkioulekas	lecture	Carnegie Mellon University
+Lecture 3: Image pyramids and frequency domain	www.cs.cmu.edu/~16385/s19/lectures/lecture3.pdf	2019	Ioannis Gkioulekas	lecture	Carnegie Mellon University
+Lecture 18: Image classification	www.cs.cmu.edu/~16385/s19/lectures/lecture18.pdf	2019	Ioannis Gkioulekas	lecture	Carnegie Mellon University
+Lecture 5: Detecting corners	www.cs.cmu.edu/~16385/s19/lectures/lecture5.pdf	2019	Ioannis Gkioulekas	lecture	Carnegie Mellon University
+Lecture 25: Segmentation	www.cs.cmu.edu/~16385/s19/lectures/lecture25.pdf	2019	Ioannis Gkioulekas	lecture	Carnegie Mellon University
+Lecture 22: Alignment and tracking	www.cs.cmu.edu/~16385/s19/lectures/lecture22.pdf	2019	Ioannis Gkioulekas	lecture	Carnegie Mellon University
+Lecture 8: image homographies	www.cs.cmu.edu/~16385/s19/lectures/lecture8.pdf	2019	Ioannis Gkioulekas	lecture	Carnegie Mellon University
+Lecture 24: Looking for seams	www.cs.cmu.edu/~16385/s19/lectures/lecture24.pdf	2019	Ioannis Gkioulekas	lecture	Carnegie Mellon University
+Lecture 6: Feature Descriptors	www.cs.cmu.edu/~16385/s19/lectures/lecture6.pdf	2019	Ioannis Gkioulekas	lecture	Carnegie Mellon University
+Lecutre 1: Introduction	www.cs.cmu.edu/~16385/s19/lectures/lecture1.pdf	2019	Ioannis Gkioulekas	lecture	Carnegie Mellon University
+Lecture 20: Convolutional neural networks	www.cs.cmu.edu/~16385/s19/lectures/lecture20.pdf	2019	Ioannis Gkioulekas	lecture	Carnegie Mellon University
+Lecture 23: Temporal inference and SLAM	www.cs.cmu.edu/~16385/s19/lectures/lecture23.pdf	2019	Ioannis Gkioulekas	lecture	Carnegie Mellon University
+Lecture 4: Hough Transform	www.cs.cmu.edu/~16385/s19/lectures/lecture4.pdf	2019	Ioannis Gkioulekas	lecture	Carnegie Mellon University
+Lecture 5: Detecting corners	www.cs.cmu.edu/~16385/s15/lectures/Lecture5.pdf	2015	Kris Kitani	lecture	Carnegie Mellon University
+Lecture 4: Defining Boundaries	www.cs.cmu.edu/~16385/s15/lectures/Lecture4.pdf	2015	Kris Kitani	lecture	Carnegie Mellon University
+Lecture 8: Designing Descriptors	www.cs.cmu.edu/~16385/s15/lectures/Lecture8.pdf	2015	Kris Kitani	lecture	Carnegie Mellon University
+Lecture 22: Image Alignment	www.cs.cmu.edu/~16385/s15/lectures/Lecture22.pdf	2015	Kris Kitani	lecture	Carnegie Mellon University
+Lecture 3: Frequency Domain Filtering	www.cs.cmu.edu/~16385/s15/lectures/Lecture3.pdf	2015	Kris Kitani	lecture	Carnegie Mellon University
+Lecture 13: 2D Image Transforms	www.cs.cmu.edu/~16385/s15/lectures/Lecture13.pdf	2015	Kris Kitani	lecture	Carnegie Mellon University
+Lecture 1: What is Computer Vision	www.cs.cmu.edu/~16385/s15/lectures/Lecture1.pdf	2015	Kris Kitani	lecture	Carnegie Mellon University
+Lecture 9: Feature Description	www.cs.cmu.edu/~16385/s15/lectures/Lecture9.pdf	2015	Kris Kitani	lecture	Carnegie Mellon University
+Lecture 16: Two-View Geometry	www.cs.cmu.edu/~16385/s15/lectures/Lecture16.pdf	2015	Kris Kitani	lecture	Carnegie Mellon University
+Lecture 24: Mean-shift Tracker	www.cs.cmu.edu/~16385/s15/lectures/Lecture24.pdf	2015	Kris Kitani	lecture	Carnegie Mellon University
+Lecture 12: Bag-of-Visual-Word	www.cs.cmu.edu/~16385/s15/lectures/Lecture12.pdf	2015	Kris Kitani	lecture	Carnegie Mellon University
+Lecture 14: Midterm Review	www.cs.cmu.edu/~16385/s15/lectures/Lecture14.pdf	2015	Kris Kitani	lecture	Carnegie Mellon University
+Lecture 10: Object Recognition	www.cs.cmu.edu/~16385/s15/lectures/Lecture10.pdf	2015	Kris Kitani	lecture	Carnegie Mellon University
+Lecture 17: Pose Estimation	www.cs.cmu.edu/~16385/s15/lectures/Lecture17.pdf	2015	Kris Kitani	lecture	Carnegie Mellon University
+Lecture 23: KLT Tracker	www.cs.cmu.edu/~16385/s15/lectures/Lecture23.pdf	2015	Kris Kitani	lecture	Carnegie Mellon University
+Lecture 21: Lucas-Kanade Optical Flow	www.cs.cmu.edu/~16385/s15/lectures/Lecture21.pdf	2015	Kris Kitani	lecture	Carnegie Mellon University
+Lecture 18: Epipolar Geometry	www.cs.cmu.edu/~16385/s15/lectures/Lecture18.pdf	2015	Kris Kitani	lecture	Carnegie Mellon University
+Lecture 6: Generalized Hough Transform	www.cs.cmu.edu/~16385/s15/lectures/Lecture6.pdf	2015	Kris Kitani	lecture	Carnegie Mellon University
+Lecture 15: 2D Image Transform	www.cs.cmu.edu/~16385/s15/lectures/Lecture15.pdf	2015	Kris Kitani	lecture	Carnegie Mellon University
+Lecture 2: Image Manipulation	www.cs.cmu.edu/~16385/s15/lectures/Lecture2.pdf	2015	Kris Kitani	lecture	Carnegie Mellon University
+Lecture 19: Reconstruction	www.cs.cmu.edu/~16385/s15/lectures/Lecture19.pdf	2015	Kris Kitani	lecture	Carnegie Mellon University
+Lecture 20: Video and Motion Analysis	www.cs.cmu.edu/~16385/s15/lectures/Lecture20.pdf	2015	Kris Kitani	lecture	Carnegie Mellon University
+Lecture 11: Proabability Basics	www.cs.cmu.edu/~16385/s15/lectures/Lecture11.pdf	2015	Kris Kitani	lecture	Carnegie Mellon University
+Lecture 7: Detecting Corners	www.cs.cmu.edu/~16385/s15/lectures/Lecture7.pdf	2015	Kris Kitani	lecture	Carnegie Mellon University
+Lecture 11: Epipolar Imaging	www.cs.cmu.edu/~16385/s18/lectures/lecture11.pdf	2018	Ioannis Gkioulekas	lecture	Carnegie Mellon University
+Lecture 19: Introduction to neural networks	www.cs.cmu.edu/~16385/s18/lectures/lecture19.pdf	2018	Ioannis Gkioulekas	lecture	Carnegie Mellon University
+Lecture 13: Appearance and reflectance	www.cs.cmu.edu/~16385/s18/lectures/lecture13.pdf	2018	Ioannis Gkioulekas	lecture	Carnegie Mellon University
+Lecture 16: Segmentation	www.cs.cmu.edu/~16385/s18/lectures/lecture26.pdf	2018	Ioannis Gkioulekas	lecture	Carnegie Mellon University
+Lecture 7: 2D Transformations (a.k.a. warping)	www.cs.cmu.edu/~16385/s18/lectures/lecture7.pdf	2018	Ioannis Gkioulekas	lecture	Carnegie Mellon University
+Lecture 28: Wrap-up	www.cs.cmu.edu/~16385/s18/lectures/lecture28.pdf	2018	Ioannis Gkioulekas	lecture	Carnegie Mellon University
+Lecture 17: Introduction to Object Recognition	www.cs.cmu.edu/~16385/s18/lectures/lecture17.pdf	2018	Ioannis Gkioulekas	lecture	Carnegie Mellon University
+Lecture 15: Color	www.cs.cmu.edu/~16385/s18/lectures/lecture15.pdf	2018	Ioannis Gkioulekas	lecture	Carnegie Mellon University
+Lecture 10: Two-view geometry	www.cs.cmu.edu/~16385/s18/lectures/lecture10.pdf	2018	Ioannis Gkioulekas	lecture	Carnegie Mellon University
+Lecture 21: Face Recognition	www.cs.cmu.edu/~16385/s18/lectures/lecture21.pdf	2018	Ioannis Gkioulekas	lecture	Carnegie Mellon University
+Lecture 12: Structure from motion	www.cs.cmu.edu/~16385/s18/lectures/lecture12.pdf	2018	Ioannis Gkioulekas	lecture	Carnegie Mellon University
+Lecture 3b: Fourier Transform and Frequency Domain	www.cs.cmu.edu/~16385/s18/lectures/lecture3b.pdf	2018	Ioannis Gkioulekas	lecture	Carnegie Mellon University
+Lecture 14: Photometric stereo and shape from shading	www.cs.cmu.edu/~16385/s18/lectures/lecture14.pdf	2018	Ioannis Gkioulekas	lecture	Carnegie Mellon University
+Lecture 16: Digital Photography	www.cs.cmu.edu/~16385/s18/lectures/lecture16.pdf	2018	Ioannis Gkioulekas	lecture	Carnegie Mellon University
+Lecture 2: Image Filtering	www.cs.cmu.edu/~16385/s18/lectures/lecture2.pdf	2018	Ioannis Gkioulekas	lecture	Carnegie Mellon University
+Lecture 9: Camera models	www.cs.cmu.edu/~16385/s18/lectures/lecture9.pdf	2018	Ioannis Gkioulekas	lecture	Carnegie Mellon University
+Lecture 3: Subsampling and image pyramids	www.cs.cmu.edu/~16385/s18/lectures/lecture3.pdf	2018	Ioannis Gkioulekas	lecture	Carnegie Mellon University
+Lecture 18: Image classification	www.cs.cmu.edu/~16385/s18/lectures/lecture18.pdf	2018	Ioannis Gkioulekas	lecture	Carnegie Mellon University
+Lecture 5: Detecting corners	www.cs.cmu.edu/~16385/s18/lectures/lecture5.pdf	2018	Ioannis Gkioulekas	lecture	Carnegie Mellon University
+Lecture 25: Temporal inference and SLAM	www.cs.cmu.edu/~16385/s18/lectures/lecture25.pdf	2018	Ioannis Gkioulekas	lecture	Carnegie Mellon University
+Lecture 22: Optical flow	www.cs.cmu.edu/~16385/s18/lectures/lecture22.pdf	2018	Ioannis Gkioulekas	lecture	Carnegie Mellon University
+Lecture 8: Image homographies	www.cs.cmu.edu/~16385/s18/lectures/lecture8.pdf	2018	Ioannis Gkioulekas	lecture	Carnegie Mellon University
+Lecture 24: Tracking	www.cs.cmu.edu/~16385/s18/lectures/lecture24.pdf	2018	Ioannis Gkioulekas	lecture	Carnegie Mellon University
+Lecture 27: Segmentation	www.cs.cmu.edu/~16385/s18/lectures/lecture27.pdf	2018	Ioannis Gkioulekas	lecture	Carnegie Mellon University
+Lecture 6: Designing Descriptors	www.cs.cmu.edu/~16385/s18/lectures/lecture6.pdf	2018	Ioannis Gkioulekas	lecture	Carnegie Mellon University
+Lecture 1: Introduction	www.cs.cmu.edu/~16385/s18/lectures/lecture1.pdf	2018	Ioannis Gkioulekas	lecture	Carnegie Mellon University
+Lecture 20: Convolutional neural networks	www.cs.cmu.edu/~16385/s18/lectures/lecture20.pdf	2018	Ioannis Gkioulekas	lecture	Carnegie Mellon University
+Lecture 23: Image alignment	www.cs.cmu.edu/~16385/s18/lectures/lecture23.pdf	2018	Ioannis Gkioulekas	lecture	Carnegie Mellon University
+Lecture 4: Hough Transform	www.cs.cmu.edu/~16385/s18/lectures/lecture4.pdf	2018	Ioannis Gkioulekas	lecture	Carnegie Mellon University
+Linear Algebra	www.cs.toronto.edu/~mren/teach/csc411_19s/tut/tut02.pdf	2019	Mengye Ren	lecture	University of Toronto
+CSC411: Optimization for Machine Learning	www.cs.toronto.edu/~mren/teach/csc411_19s/tut/tut03.pdf	2019	Mengye Ren	lecture	University of Toronto
+CSC411: Midterm Review	www.cs.toronto.edu/~mren/teach/csc411_19s/tut/tut05.pdf	2019	Mengye Ren	lecture	University of Toronto
+Bayesian Inference and MCMC	www.cs.toronto.edu/~mren/teach/csc411_19s/tut/tut06.pdf	2019	Mengye Ren	lecture	University of Toronto
+Linear Algebra - Part II Projection, Eigendecomposition, SVD	www.cs.toronto.edu/~mren/teach/csc411_19s/tut/tut04.pdf	2019	Mengye Ren	lecture	University of Toronto
+Probability Theory for Machine Learning	www.cs.toronto.edu/~mren/teach/csc411_19s/tut/tut01.pdf	2019	Mengye Ren	lecture	University of Toronto
+CSC411: Final Review	www.cs.toronto.edu/~mren/teach/csc411_19s/tut/tut10.pdf	2019	Mengye Ren	lecture	University of Toronto
+Bayesian Optimization	www.cs.toronto.edu/~mren/teach/csc411_19s/tut/tut08.pdf	2019	Mengye Ren	lecture	University of Toronto
+Lecture 7: Linear Classification	www.cs.toronto.edu/~mren/teach/csc411_19s/lec/lec07.pdf	2019	Mengye Ren	lecture	University of Toronto
+Lecture 3: Decision Trees	www.cs.toronto.edu/~mren/teach/csc411_19s/lec/lec03.pdf	2019	Mengye Ren	lecture	University of Toronto
+Lecture 8: Linear Classification II	www.cs.toronto.edu/~mren/teach/csc411_19s/lec/lec08.pdf	2019	Mengye Ren	lecture	University of Toronto
+Lecture 13: Probabilistic Models I	www.cs.toronto.edu/~mren/teach/csc411_19s/lec/lec13.pdf	2019	Mengye Ren	lecture	University of Toronto
+Lecture 9: SVMs and Boosting	www.cs.toronto.edu/~mren/teach/csc411_19s/lec/lec09.pdf	2019	Mengye Ren	lecture	University of Toronto
+Lecture 5: Multilayer Perceptrons	www.cs.toronto.edu/~mren/teach/csc411_19s/lec/lec10_notes1.pdf	2019	Mengye Ren	lecture	University of Toronto
+Lecture 4: Ensemble I	www.cs.toronto.edu/~mren/teach/csc411_19s/lec/lec04_matt.pdf	2019	Mengye Ren	lecture	University of Toronto
+Lecture 14: Probabilistic Models II	www.cs.toronto.edu/~mren/teach/csc411_19s/lec/lec14.pdf	2019	Mengye Ren	lecture	University of Toronto
+Lecture 9: SVMs and Boosting	www.cs.toronto.edu/~mren/teach/csc411_19s/lec/lec09_matt.pdf	2019	Mengye Ren	lecture	University of Toronto
+Lecture 16: GMM	www.cs.toronto.edu/~mren/teach/csc411_19s/lec/lec16.pdf	2019	Mengye Ren	lecture	University of Toronto
+Lecture 6: Linear Regression	www.cs.toronto.edu/~mren/teach/csc411_19s/lec/lec06.pdf	2019	Mengye Ren	lecture	University of Toronto
+Lecture 2: Nearest Neighbours	www.cs.toronto.edu/~mren/teach/csc411_19s/lec/lec02.pdf	2019	Mengye Ren	lecture	University of Toronto
+Lecture 18: Matrix Factorizations	www.cs.toronto.edu/~mren/teach/csc411_19s/lec/lec18_matt.pdf	2019	Mengye Ren	lecture	University of Toronto
+Lecture 1: Introduction	www.cs.toronto.edu/~mren/teach/csc411_19s/lec/lec01.pdf	2019	Mengye Ren	lecture	University of Toronto
+Lecture 16: Expectation-Maximization for Mixture of Gaussians	www.cs.toronto.edu/~mren/teach/csc411_19s/lec/lec16_matt.pdf	2019	Mengye Ren	lecture	University of Toronto
+Lecture 10: Neural Networks	www.cs.toronto.edu/~mren/teach/csc411_19s/lec/lec10.pdf	2019	Mengye Ren	lecture	University of Toronto
+Lecture 11: Neural Networks II	www.cs.toronto.edu/~mren/teach/csc411_19s/lec/lec11_matt.pdf	2019	Mengye Ren	lecture	University of Toronto
+Lecture 18: Matrix Factorizations	www.cs.toronto.edu/~mren/teach/csc411_19s/lec/lec18.pdf	2019	Mengye Ren	lecture	University of Toronto
+Lecture 19: Bayesian Linear Regression	www.cs.toronto.edu/~mren/teach/csc411_19s/lec/lec19.pdf	2019	Mengye Ren	lecture	University of Toronto
+Lecture 23: Algorithmic Fairness	www.cs.toronto.edu/~mren/teach/csc411_19s/lec/lec23.pdf	2019	Mengye Ren	lecture	University of Toronto
+Lecture 3: Decision Trees	www.cs.toronto.edu/~mren/teach/csc411_19s/lec/lec03_matt.pdf	2019	Mengye Ren	lecture	University of Toronto
+Lecture 24: Review & Outlook	www.cs.toronto.edu/~mren/teach/csc411_19s/lec/lec24.pdf	2019	Mengye Ren	lecture	University of Toronto
+Lecture 5: Ensembles II	www.cs.toronto.edu/~mren/teach/csc411_19s/lec/lec05.pdf	2019	Mengye Ren	lecture	University of Toronto
+Lecture 10: Neural Networks	www.cs.toronto.edu/~mren/teach/csc411_19s/lec/lec10_matt.pdf	2019	Mengye Ren	lecture	University of Toronto
+Lecture 17: Expectation-Maximization	www.cs.toronto.edu/~mren/teach/csc411_19s/lec/lec17.pdf	2019	Mengye Ren	lecture	University of Toronto
+Lecture 20: Gaussian Processes	www.cs.toronto.edu/~mren/teach/csc411_19s/lec/lec20_matt.pdf	2019	Mengye Ren	lecture	University of Toronto
+Lecture 11: Convolutional Networks	www.cs.toronto.edu/~mren/teach/csc411_19s/lec/lec11_notes1.pdf	2019	Mengye Ren	lecture	University of Toronto
+Lecture 22: Reinforcement Learning II	www.cs.toronto.edu/~mren/teach/csc411_19s/lec/lec22.pdf	2019	Mengye Ren	lecture	University of Toronto
+Lecture 2: Nearest Neighbours	www.cs.toronto.edu/~mren/teach/csc411_19s/lec/lec02_matt.pdf	2019	Mengye Ren	lecture	University of Toronto
+Lecture 5: Ensembles II	www.cs.toronto.edu/~mren/teach/csc411_19s/lec/lec05_matt.pdf	2019	Mengye Ren	lecture	University of Toronto
+Lecture 20: Gaussian Processes	www.cs.toronto.edu/~mren/teach/csc411_19s/lec/lec20.pdf	2019	Mengye Ren	lecture	University of Toronto
+Lecture 4: Training a Classifier	www.cs.toronto.edu/~mren/teach/csc411_19s/lec/lec08_notes.pdf	2019	Mengye Ren	lecture	University of Toronto
+Lecture 6: Linear Regression	www.cs.toronto.edu/~mren/teach/csc411_19s/lec/lec06_matt.pdf	2019	Mengye Ren	lecture	University of Toronto
+Lecture 6: Backpropagation	www.cs.toronto.edu/~mren/teach/csc411_19s/lec/lec10_notes2.pdf	2019	Mengye Ren	lecture	University of Toronto
+Lecture 4: Ensemble I	www.cs.toronto.edu/~mren/teach/csc411_19s/lec/lec04.pdf	2019	Mengye Ren	lecture	University of Toronto
+Lecture 3: Linear Classification	www.cs.toronto.edu/~mren/teach/csc411_19s/lec/lec07_notes.pdf	2019	Mengye Ren	lecture	University of Toronto
+Lecture 19: Bayesian Linear Regression	www.cs.toronto.edu/~mren/teach/csc411_19s/lec/lec19_matt.pdf	2019	Mengye Ren	lecture	University of Toronto
+Lecture 15: K-Means	www.cs.toronto.edu/~mren/teach/csc411_19s/lec/lec15.pdf	2019	Mengye Ren	lecture	University of Toronto
+Lecture 17: Learning probabilistic models	www.cs.toronto.edu/~mren/teach/csc411_19s/lec/lec13_notes.pdf	2019	Mengye Ren	lecture	University of Toronto
+Lecture 12: Object Recognition with Conv Nets	www.cs.toronto.edu/~mren/teach/csc411_19s/lec/lec11_notes2.pdf	2019	Mengye Ren	lecture	University of Toronto
+Lecture 15: K-Means	www.cs.toronto.edu/~mren/teach/csc411_19s/lec/lec15_matt.pdf	2019	Mengye Ren	lecture	University of Toronto
+Lecture 12: Principal Component Analysis	www.cs.toronto.edu/~mren/teach/csc411_19s/lec/lec12_matt.pdf	2019	Mengye Ren	lecture	University of Toronto
+Lecture 21: Reinforcement Learning I	www.cs.toronto.edu/~mren/teach/csc411_19s/lec/lec21.pdf	2019	Mengye Ren	lecture	University of Toronto
+Computer Vision: Foundations and Applications	vision.stanford.edu/teaching/cs131_fall1718/files/cs131-class-notes.pdf	2017	Ranjay Krishna	lecture	Stanford University
+Segmentation	filebox.ece.vt.edu/~jbhuang/teaching/ece5554-4554/fa18/slides/Lecture_16_Segmentation.pdf	2018	Jia-Bin Huang	lecture	Virginia Tech
+Pyramid	filebox.ece.vt.edu/~jbhuang/teaching/ece5554-4554/fa18/slides/Lecture_05_Pyramid.pdf	2018	Jia-Bin Huang	lecture	Virginia Tech
+Structure from Motion	filebox.ece.vt.edu/~jbhuang/teaching/ece5554-4554/fa18/slides/Lecture_15_StructureFromMotion.pdf	2018	Jia-Bin Huang	lecture	Virginia Tech
+Feature Tracking	filebox.ece.vt.edu/~jbhuang/teaching/ece5554-4554/fa18/slides/Lecture_08_FeatureTracking.pdf	2018	Jia-Bin Huang	lecture	Virginia Tech
+Light	filebox.ece.vt.edu/~jbhuang/teaching/ece5554-4554/fa18/slides/Lecture_02_Light.pdf	2018	Jia-Bin Huang	lecture	Virginia Tech
+Interest Points	filebox.ece.vt.edu/~jbhuang/teaching/ece5554-4554/fa18/slides/Lecture_07_InterestPoints.pdf	2018	Jia-Bin Huang	lecture	Virginia Tech
+Frequency	filebox.ece.vt.edu/~jbhuang/teaching/ece5554-4554/fa18/slides/Lecture_04_Frequency.pdf	2018	Jia-Bin Huang	lecture	Virginia Tech
+Neural Network	filebox.ece.vt.edu/~jbhuang/teaching/ece5554-4554/fa18/slides/NeuralNetwork.pdf	2018	Jia-Bin Huang	lecture	Virginia Tech
+Epipolar Geometry	filebox.ece.vt.edu/~jbhuang/teaching/ece5554-4554/fa18/slides/Lecture_14_EpipolarGeometry.pdf	2018	Jia-Bin Huang	lecture	Virginia Tech
+Image Filters	filebox.ece.vt.edu/~jbhuang/teaching/ece5554-4554/fa18/slides/Lecture_03_ImageFilters.pdf	2018	Jia-Bin Huang	lecture	Virginia Tech
+Image Stitching	filebox.ece.vt.edu/~jbhuang/teaching/ece5554-4554/fa18/slides/Lecture_13_ImageStitching.pdf	2018	Jia-Bin Huang	lecture	Virginia Tech
+CNN	filebox.ece.vt.edu/~jbhuang/teaching/ece5554-4554/fa18/slides/Lecture_21_CNN.pdf	2018	Jia-Bin Huang	lecture	Virginia Tech
+Perspective Geometry	filebox.ece.vt.edu/~jbhuang/teaching/ece5554-4554/fa18/slides/Lecture_11_PerspectiveGeometry.pdf	2018	Jia-Bin Huang	lecture	Virginia Tech
+Introduction	filebox.ece.vt.edu/~jbhuang/teaching/ece5554-4554/fa18/slides/Lecture_01_Introduction.pdf	2018	Jia-Bin Huang	lecture	Virginia Tech
+Instance Recognition	filebox.ece.vt.edu/~jbhuang/teaching/ece5554-4554/fa18/slides/Lecture_10_InstanceRecognition.pdf	2018	Jia-Bin Huang	lecture	Virginia Tech
+Fitting and Alignment	filebox.ece.vt.edu/~jbhuang/teaching/ece5554-4554/fa18/slides/Lecture_09_FittingAndAlignment.pdf	2018	Jia-Bin Huang	lecture	Virginia Tech
+EM	filebox.ece.vt.edu/~jbhuang/teaching/ece5554-4554/fa18/slides/Lecture_17_EM.pdf	2018	Jia-Bin Huang	lecture	Virginia Tech
+Categorization	filebox.ece.vt.edu/~jbhuang/teaching/ece5554-4554/fa18/slides/Lecture_19_Categorization.pdf	2018	Jia-Bin Huang	lecture	Virginia Tech
+Calibration and Metrology	filebox.ece.vt.edu/~jbhuang/teaching/ece5554-4554/fa18/slides/Lecture_12_CalibrationAndMetrology.pdf	2018	Jia-Bin Huang	lecture	Virginia Tech
+Edges	filebox.ece.vt.edu/~jbhuang/teaching/ece5554-4554/fa18/slides/Lecture_06_Edges.pdf	2018	Jia-Bin Huang	lecture	Virginia Tech
+Lec 07 - Freq Domain Filtering	sce.umkc.edu/faculty-sites/lizhu/teaching/2019.fall.digital-image-processing/notes/lec07.pdf	2019	Zhu Li	lecture	University of Missouri–Kansas City
+Lec 03 - Image Formation - Geometry	sce.umkc.edu/faculty-sites/lizhu/teaching/2019.fall.digital-image-processing/notes/lec03.pdf	2019	Zhu Li	lecture	University of Missouri–Kansas City
+Lec 08 - Non Linear Filters	sce.umkc.edu/faculty-sites/lizhu/teaching/2019.fall.digital-image-processing/notes/lec08.pdf	2019	Zhu Li	lecture	University of Missouri–Kansas City
+Lec 13 - Mid Term Review	sce.umkc.edu/faculty-sites/lizhu/teaching/2019.fall.digital-image-processing/notes/lec13.pdf	2019	Zhu Li	lecture	University of Missouri–Kansas City
+Lec 09 - Non Linear Filtering Applications	sce.umkc.edu/faculty-sites/lizhu/teaching/2019.fall.digital-image-processing/notes/lec09.pdf	2019	Zhu Li	lecture	University of Missouri–Kansas City
+Lec 14 - Image Processing with Deep Conv Networks I	sce.umkc.edu/faculty-sites/lizhu/teaching/2019.fall.digital-image-processing/notes/lec14.pdf	2019	Zhu Li	lecture	University of Missouri–Kansas City
+Lec 16 - Transform Domain Image Processing I Dimension Reduction	sce.umkc.edu/faculty-sites/lizhu/teaching/2019.fall.digital-image-processing/notes/lec16.pdf	2019	Zhu Li	lecture	University of Missouri–Kansas City
+Lec 06 - Fourier Transform & Image Sampling	sce.umkc.edu/faculty-sites/lizhu/teaching/2019.fall.digital-image-processing/notes/lec06.pdf	2019	Zhu Li	lecture	University of Missouri–Kansas City
+Lec 02 - Image Formation - Color Space	sce.umkc.edu/faculty-sites/lizhu/teaching/2019.fall.digital-image-processing/notes/lec02.pdf	2019	Zhu Li	lecture	University of Missouri–Kansas City
+Lec 01 - Digital Image Processing (a modern approach) (DIPAMA)	sce.umkc.edu/faculty-sites/lizhu/teaching/2019.fall.digital-image-processing/notes/lec01.pdf	2019	Zhu Li	lecture	University of Missouri–Kansas City
+Lec 10 - Image Interpolation	sce.umkc.edu/faculty-sites/lizhu/teaching/2019.fall.digital-image-processing/notes/lec10.pdf	2019	Zhu Li	lecture	University of Missouri–Kansas City
+Lec 18 - Transform Domain Image Processing III	sce.umkc.edu/faculty-sites/lizhu/teaching/2019.fall.digital-image-processing/notes/lec18.pdf	2019	Zhu Li	lecture	University of Missouri–Kansas City
+Lec 19 - Applications: Denoising, Dark Image Enhancement, Super Resolution	sce.umkc.edu/faculty-sites/lizhu/teaching/2019.fall.digital-image-processing/notes/lec19.pdf	2019	Zhu Li	lecture	University of Missouri–Kansas City
+Lec 05 - Linear Filtering	sce.umkc.edu/faculty-sites/lizhu/teaching/2019.fall.digital-image-processing/notes/lec05.pdf	2019	Zhu Li	lecture	University of Missouri–Kansas City
+Lec 11 - Image Restoration I	sce.umkc.edu/faculty-sites/lizhu/teaching/2019.fall.digital-image-processing/notes/lec11.pdf	2019	Zhu Li	lecture	University of Missouri–Kansas City
+Lec 17 - Transform Domain Image Processing II	sce.umkc.edu/faculty-sites/lizhu/teaching/2019.fall.digital-image-processing/notes/lec17.pdf	2019	Zhu Li	lecture	University of Missouri–Kansas City
+Lec 20 - Part II Review & Final Projects Topics	sce.umkc.edu/faculty-sites/lizhu/teaching/2019.fall.digital-image-processing/notes/lec20.pdf	2019	Zhu Li	lecture	University of Missouri–Kansas City
+Lec 12 - Image Restoration II Wiener Filtering	sce.umkc.edu/faculty-sites/lizhu/teaching/2019.fall.digital-image-processing/notes/lec12.pdf	2019	Zhu Li	lecture	University of Missouri–Kansas City
+Lec 04 - Point Operatings & Quantization	sce.umkc.edu/faculty-sites/lizhu/teaching/2019.fall.digital-image-processing/notes/lec04.pdf	2019	Zhu Li	lecture	University of Missouri–Kansas City
+Lec 15 - Image Processing with CNN - II	sce.umkc.edu/faculty-sites/lizhu/teaching/2019.fall.digital-image-processing/notes/lec15.pdf	2019	Zhu Li	lecture	University of Missouri–Kansas City
+Feature Direction: SIFT	web.cecs.pdx.edu/~fliu/courses/cs410/notes/Lecture5.pdf	2020	Feng Liu	lecture	Portland State University
+Feature Detection: Edge, Corner	web.cecs.pdx.edu/~fliu/courses/cs410/notes/Lecture4.pdf	2020	Feng Liu	lecture	Portland State University
+Image alignment	web.cecs.pdx.edu/~fliu/courses/cs410/notes/Lecture8.pdf	2020	Feng Liu	lecture	Portland State University
+More on Filter, Feature Detection	web.cecs.pdx.edu/~fliu/courses/cs410/notes/Lecture3.pdf	2020	Feng Liu	lecture	Portland State University
+Structure from motion	web.cecs.pdx.edu/~fliu/courses/cs410/notes/Lecture13.pdf	2020	Feng Liu	lecture	Portland State University
+Course Overview	web.cecs.pdx.edu/~fliu/courses/cs410/notes/Lecture1.pdf	2020	Feng Liu	lecture	Portland State University
+Image warping	web.cecs.pdx.edu/~fliu/courses/cs410/notes/Lecture9.pdf	2020	Feng Liu	lecture	Portland State University
+Image classification	web.cecs.pdx.edu/~fliu/courses/cs410/notes/Lecture16.pdf	2020	Feng Liu	lecture	Portland State University
+Two-view geometry	web.cecs.pdx.edu/~fliu/courses/cs410/notes/Lecture12.pdf	2020	Feng Liu	lecture	Portland State University
+Introduction to object recognition	web.cecs.pdx.edu/~fliu/courses/cs410/notes/Lecture14.pdf	2020	Feng Liu	lecture	Portland State University
+Motion estimation	web.cecs.pdx.edu/~fliu/courses/cs410/notes/Lecture10.pdf	2020	Feng Liu	lecture	Portland State University
+Face detection	web.cecs.pdx.edu/~fliu/courses/cs410/notes/Lecture17.pdf	2020	Feng Liu	lecture	Portland State University
+Feature matching, fitting	web.cecs.pdx.edu/~fliu/courses/cs410/notes/Lecture6.pdf	2020	Feng Liu	lecture	Portland State University
+Machine learning approach to object recognition	web.cecs.pdx.edu/~fliu/courses/cs410/notes/Lecture15.pdf	2020	Feng Liu	lecture	Portland State University
+Filter	web.cecs.pdx.edu/~fliu/courses/cs410/notes/Lecture2.pdf	2020	Feng Liu	lecture	Portland State University
+Camera, calibration	web.cecs.pdx.edu/~fliu/courses/cs410/notes/Lecture11.pdf	2020	Feng Liu	lecture	Portland State University
+Fitting	web.cecs.pdx.edu/~fliu/courses/cs410/notes/Lecture7.pdf	2020	Feng Liu	lecture	Portland State University
+Building a Camera	3dvision.princeton.edu/courses/COS429/2014fa/slides/precept01/COS429_ps1_precept.pdf	2014	Jianxiong Xiao	lecture	Princeton University
+What is a Camera	3dvision.princeton.edu/courses/COS429/2014fa/slides/02_camera/COS429_ImageFormulation.pdf	2014	Jianxiong Xiao	lecture	Princeton University
+Let's Make the World Simpler	3dvision.princeton.edu/courses/COS429/2014fa/slides/06_simple_world/COS429_simple_world.pdf	2014	Jianxiong Xiao	lecture	Princeton University
+The Unreasonable Effectiveness of Big Visual Data	3dvision.princeton.edu/courses/COS429/2014fa/slides/14_data/COS429_big_data.pdf	2014	Jianxiong Xiao	lecture	Princeton University
+What is a Chair?	3dvision.princeton.edu/courses/COS429/2014fa/slides/12_object/COS429_ObjectRecognition.pdf	2014	Jianxiong Xiao	lecture	Princeton University
+Using the forest to see the trees	3dvision.princeton.edu/courses/COS429/2014fa/slides/13_scene/COS429_SceneRecognition.pdf	2014	Jianxiong Xiao	lecture	Princeton University
+Finding Nemo	3dvision.princeton.edu/courses/COS429/2014fa/slides/precept05/COS429_ps5_precept.pdf	2014	Jianxiong Xiao	lecture	Princeton University
+3D Shape Matching	3dvision.princeton.edu/courses/COS429/2014fa/slides/ShapeMatching/shapematching.pdf	2014	Jianxiong Xiao	lecture	Princeton University
+Stitching a Panorama	3dvision.princeton.edu/courses/COS429/2014fa/slides/precept03/COS429_ps3_precept.pdf	2014	Jianxiong Xiao	lecture	Princeton University
+RGB-D Object Recognition	3dvision.princeton.edu/courses/COS429/2014fa/slides/RGBD/RGBD.pdf	2014	Jianxiong Xiao	lecture	Princeton University
+This is how the brain really works	3dvision.princeton.edu/courses/COS429/2014fa/slides/15_deep_learning/COS429_deep_learning.pdf	2014	Jianxiong Xiao	lecture	Princeton University
+The Fundamental Matrix Song	3dvision.princeton.edu/courses/COS429/2014fa/slides/10_mvg/COS429_Fundamental_Matrix.pdf	2014	Jianxiong Xiao	lecture	Princeton University
+What Color is the Sky?	3dvision.princeton.edu/courses/COS429/2014fa/slides/03_color/COS429_color.pdf	2014	Jianxiong Xiao	lecture	Princeton University
+Reconstructing a Simpler World	3dvision.princeton.edu/courses/COS429/2014fa/slides/precept02/COS429_ps2_precept.pdf	2014	Jianxiong Xiao	lecture	Princeton University
+Building Rome in a Day	3dvision.princeton.edu/courses/COS429/2014fa/slides/11_sfm/COS429_SFM.pdf	2014	Jianxiong Xiao	lecture	Princeton University
+Assignment 4 Cloning Yourself	3dvision.princeton.edu/courses/COS429/2014fa/slides/precept04/COS429_ps4_precept.pdf	2014	Jianxiong Xiao	lecture	Princeton University
+Natural Image Statistics	3dvision.princeton.edu/courses/COS429/2014fa/slides/05_image_statistics/COS429_natural_image_statistics.pdf	2014	Jianxiong Xiao	lecture	Princeton University
+Where have the flowers gone? (motion and tracking)	3dvision.princeton.edu/courses/COS429/2014fa/slides/07_tracking/tracking_cos429.pdf	2014	Jianxiong Xiao	lecture	Princeton University
+Life story of a 3D point	3dvision.princeton.edu/courses/COS429/2014fa/slides/09_geometry/COS429_3D_point.pdf	2014	Jianxiong Xiao	lecture	Princeton University
+Superman Vision: Revealing Invisible Changes in the World	3dvision.princeton.edu/courses/COS429/2014fa/slides/08_motion/COS429_motion.pdf	2014	Jianxiong Xiao	lecture	Princeton University
+Computer Vision	3dvision.princeton.edu/courses/COS429/2014fa/slides/01_introduction/COS429_intro.pdf	2014	Jianxiong Xiao	lecture	Princeton University
+Let's test your beer goggles	3dvision.princeton.edu/courses/COS429/2014fa/slides/04_filtering/COS429_filtering.pdf	2014	Jianxiong Xiao	lecture	Princeton University
+Chapter 1: A Simple Vision System	groups.csail.mit.edu/vision/courses/6.869/notes/chapter_01_simplesystem.pdf	2013	Antonio Torralba	lecture	Massachusetts Institute of Technology
+Lecture 7: Textures	groups.csail.mit.edu/vision/courses/6.869/lectures/lecture7texture/lecture7.pdf	2013	Antonio Torralba	lecture	Massachusetts Institute of Technology
+Lecture 9: Image formation	groups.csail.mit.edu/vision/courses/6.869/lectures/lecture9imageformation/lecture9imageformation.pdf	2013	Antonio Torralba	lecture	Massachusetts Institute of Technology
+Lecture 4: Statistical Image Models	groups.csail.mit.edu/vision/courses/6.869/lectures/lecture4statisticalmodels/lecture4.pdf	2013	Antonio Torralba	lecture	Massachusetts Institute of Technology
+Lecture 8: Edges and segmentation	groups.csail.mit.edu/vision/courses/6.869/lectures/lecture8segmentation/lecture8segmentation.pdf	2013	Antonio Torralba	lecture	Massachusetts Institute of Technology
+Lecture 3: Image Pyramids	groups.csail.mit.edu/vision/courses/6.869/lectures/lecture3pyramids/lecture3pyramids.pdf	2013	Antonio Torralba	lecture	Massachusetts Institute of Technology
+Lecture 5: Statistical Image Models	groups.csail.mit.edu/vision/courses/6.869/lectures/lecture5staticticalmodels/lecture5.pdf	2013	Antonio Torralba	lecture	Massachusetts Institute of Technology
+Lecture 10: Image formation	groups.csail.mit.edu/vision/courses/6.869/lectures/lecture10calibrationAndStereo/lecture10imageformation.pdf	2013	Antonio Torralba	lecture	Massachusetts Institute of Technology
+Color and color constancy	groups.csail.mit.edu/vision/courses/6.869/lectures/lecture6/06color2011revision2012.pdf	2013	Antonio Torralba	lecture	Massachusetts Institute of Technology
+Lecture 12: Image Features	groups.csail.mit.edu/vision/courses/6.869/lectures/lecture12imagefeatures/lecture12imagefeatures.pdf	2013	Antonio Torralba	lecture	Massachusetts Institute of Technology
+Lecture 11: Shape from X	groups.csail.mit.edu/vision/courses/6.869/lectures/lecture11shapefromX/lecture11shapefromX.pdf	2013	Antonio Torralba	lecture	Massachusetts Institute of Technology
+Advances in Computer Vision	groups.csail.mit.edu/vision/courses/6.869/lectures/lecture1.pdf	2013	Antonio Torralba	lecture	Massachusetts Institute of Technology
+Lecture 2: Linear Filters	groups.csail.mit.edu/vision/courses/6.869/lectures/lecture2linarfilters/lecture2linearfilters.pdf	2013	Antonio Torralba	lecture	Massachusetts Institute of Technology
+Image formation - color	www.cs.cornell.edu/courses/cs6670/2017fa/lec3-color.pdf	2017	Bharath Hariharan	lecture	Cornell University
+Reconstruction - II	www.cs.cornell.edu/courses/cs6670/2017fa/lec5.pdf	2017	Bharath Hariharan	lecture	Cornell University
+Reconstruction - I	www.cs.cornell.edu/courses/cs6670/2017fa/lec4.pdf	2017	Bharath Hariharan	lecture	Cornell University
+All about rotations	www.cs.cornell.edu/courses/cs6670/2017fa/lec3-rotation.pdf	2017	Bharath Hariharan	lecture	Cornell University
+Lecture 2: Linear Filters	www.cs.cornell.edu/courses/cs6670/2017fa/lec2.pdf	2017	Bharath Hariharan	lecture	Cornell University
+Two-view geometry	www.cs.cornell.edu/courses/cs6670/2011sp/lectures/lec11_sfm1.pdf	2011	Noah Snavely	lecture	Cornell University
+Graph Cuts	www.cs.cornell.edu/courses/cs6670/2011sp/lectures/lec19_graphcuts.pdf	2011	Noah Snavely	lecture	Cornell University
+Feature Matching	www.cs.cornell.edu/courses/cs6670/2011sp/lectures/lec04_matching.pdf	2011	Noah Snavely	lecture	Cornell University
+Stereo	www.cs.cornell.edu/courses/cs6670/2011sp/lectures/lec10_stereo.pdf	2011	Noah Snavely	lecture	Cornell University
+Computer Vision	www.cs.cornell.edu/courses/cs6670/2011sp/lectures/lec00_intro.pdf	2011	Noah Snavely	lecture	Cornell University
+Bag of Words	www.cs.cornell.edu/courses/cs6670/2011sp/lectures/lec16_bag_of_words.pdf	2011	Noah Snavely	lecture	Cornell University
+Bag of words	www.cs.cornell.edu/courses/cs6670/2011sp/lectures/lec14_reco1.pdf	2011	Noah Snavely	lecture	Cornell University
+Computational photography 1: HDR	www.cs.cornell.edu/courses/cs6670/2011sp/lectures/lec22_hdr.pdf	2011	Noah Snavely	lecture	Cornell University
+Image Alignment and RANSAC	www.cs.cornell.edu/courses/cs6670/2011sp/lectures/lec08_alignment.pdf	2011	Noah Snavely	lecture	Cornell University
+Image Warping and Projection	www.cs.cornell.edu/courses/cs6670/2011sp/lectures/lec06_projection.pdf	2011	Noah Snavely	lecture	Cornell University
+Structure from motion	www.cs.cornell.edu/courses/cs6670/2011sp/lectures/lec13_mvs.pdf	2011	Noah Snavely	lecture	Cornell University
+	www.cs.cornell.edu/courses/cs6670/2011sp/lectures/lec24_recent.pdf	2011	Noah Snavely	lecture	Cornell University
+Lecture 5: Cameras and Projection	www.cs.cornell.edu/courses/cs6670/2011sp/lectures/lec05_cameras.pdf	2011	Noah Snavely	lecture	Cornell University
+Lecture 15: Eigenfaces	www.cs.cornell.edu/courses/cs6670/2011sp/lectures/lec15_reco2.pdf	2011	Noah Snavely	lecture	Cornell University
+Lecture 3a: Feature detection and matching	www.cs.cornell.edu/courses/cs6670/2011sp/lectures/lec03a_features.pdf	2011	Noah Snavely	lecture	Cornell University
+Lecture 2: Image filtering	www.cs.cornell.edu/courses/cs6670/2011sp/lectures/lec02_filter.pdf	2011	Noah Snavely	lecture	Cornell University
+Lecture 21: Light, reflectance and photometric stereo	www.cs.cornell.edu/courses/cs6670/2011sp/lectures/lec21_brdfs.pdf	2011	Noah Snavely	lecture	Cornell University
+Lecture 3: Image Resampling	www.cs.cornell.edu/courses/cs6670/2011sp/lectures/lec03_resample.pdf	2011	Noah Snavely	lecture	Cornell University
+Lecture 17: Parts-based models and context	www.cs.cornell.edu/courses/cs6670/2011sp/lectures/lec17_pictstruct.pdf	2011	Noah Snavely	lecture	Cornell University
+Lecture 23: Computational photography, part 2	www.cs.cornell.edu/courses/cs6670/2011sp/lectures/lec23_compphoto2.pdf	2011	Noah Snavely	lecture	Cornell University
+Lecture 7: Image Alignment and Panoramas	www.cs.cornell.edu/courses/cs6670/2011sp/lectures/lec07_panoramas.pdf	2011	Noah Snavely	lecture	Cornell University
+Lecture 12: Structure from motion	www.cs.cornell.edu/courses/cs6670/2011sp/lectures/lec12_sfm2.pdf	2011	Noah Snavely	lecture	Cornell University
+Lecture 18: Context and segmentation	www.cs.cornell.edu/courses/cs6670/2011sp/lectures/lec18_context.pdf	2011	Noah Snavely	lecture	Cornell University
+Lecture 26: Vision for the Internet	www.cs.cornell.edu/courses/cs6670/2011sp/lectures/lec26_internet.pdf	2011	Noah Snavely	lecture	Cornell University
+Lecture 25: Multi-view stereo, continued	www.cs.cornell.edu/courses/cs6670/2011sp/lectures/lec25_mvs2.pdf	2011	Noah Snavely	lecture	Cornell University
+Lecture 20: Light, reflectance and photometric stereo	www.cs.cornell.edu/courses/cs6670/2011sp/lectures/lec20_light.pdf	2011	Noah Snavely	lecture	Cornell University
+Lecture 9: Pyramid Blending	www.cs.cornell.edu/courses/cs6670/2011sp/lectures/lec09_svm.pdf	2011	Noah Snavely	lecture	Cornell University
+Action Recognition	www-inst.eecs.berkeley.edu/~cs280/sp15/lectures/17.pptx	2015	Jitendra Malik	lecture	University of California, Berkeley
+Human vision	www-inst.eecs.berkeley.edu/~cs280/sp15/lectures/7.pptx	2015	Jitendra Malik	lecture	University of California, Berkeley
+A quick tour of differential geometry	www-inst.eecs.berkeley.edu/~cs280/sp15/lectures/20.pptx	2015	Jitendra Malik	lecture	University of California, Berkeley
+The Three R's of Computer Vision	www-inst.eecs.berkeley.edu/~cs280/sp15/lectures/1.pptx	2015	Jitendra Malik	lecture	University of California, Berkeley
+Dynamic Perspective	www-inst.eecs.berkeley.edu/~cs280/sp15/lectures/4.pptx	2015	Jitendra Malik	lecture	University of California, Berkeley
+Various camera configurations	www-inst.eecs.berkeley.edu/~cs280/sp15/lectures/13.pptx	2015	Jitendra Malik	lecture	University of California, Berkeley
+Binocular Stereopsis	www-inst.eecs.berkeley.edu/~cs280/sp15/lectures/12.pptx	2015	Jitendra Malik	lecture	University of California, Berkeley
+Estimating pose and locating keypoints	www-inst.eecs.berkeley.edu/~cs280/sp15/lectures/19.pptx	2015	Jitendra Malik	lecture	University of California, Berkeley
+Scene Understanding from RGB-D Images	www-inst.eecs.berkeley.edu/~cs280/sp15/lectures/21.pptx	2015	Jitendra Malik	lecture	University of California, Berkeley
+Handwritten digit recognition	www-inst.eecs.berkeley.edu/~cs280/sp15/lectures/8.pptx	2015	Jitendra Malik	lecture	University of California, Berkeley
+Measuring Optical Flow	www-inst.eecs.berkeley.edu/~cs280/sp15/lectures/16.pptx	2015	Jitendra Malik	lecture	University of California, Berkeley
+Fundamentals of Image Formation	www-inst.eecs.berkeley.edu/~cs280/sp15/lectures/2.pptx	2015	Jitendra Malik	lecture	University of California, Berkeley
+Three-Dimensional Perception from a Single Image	www-inst.eecs.berkeley.edu/~cs280/sp15/lectures/22.pptx	2015	Jitendra Malik	lecture	University of California, Berkeley
+Markov Random Fields in Vision	www-inst.eecs.berkeley.edu/~cs280/sp15/lectures/14.pptx	2015	Jitendra Malik	lecture	University of California, Berkeley
+Rich Feature Hierarchies for Accurate Object Detection and Semantic Segmentation	www-inst.eecs.berkeley.edu/~cs280/sp15/lectures/10.pptx	2015	Jitendra Malik	lecture	University of California, Berkeley
+Radiometry of Image Formation	www-inst.eecs.berkeley.edu/~cs280/sp15/lectures/5.pptx	2015	Jitendra Malik	lecture	University of California, Berkeley
+Deformable Part Models	www-inst.eecs.berkeley.edu/~cs280/sp15/lectures/11.pptx	2015	Jitendra Malik	lecture	University of California, Berkeley
+Visual Grouping	www-inst.eecs.berkeley.edu/~cs280/sp15/lectures/9.pptx	2015	Jitendra Malik	lecture	University of California, Berkeley
+Solving for Stereo Correspondence	www-inst.eecs.berkeley.edu/~cs280/sp15/lectures/15.pptx	2015	Jitendra Malik	lecture	University of California, Berkeley
+On Transformations	www-inst.eecs.berkeley.edu/~cs280/sp15/lectures/3.pptx	2015	Jitendra Malik	lecture	University of California, Berkeley
+Detection, Segementation and Fine-grained Localization	www-inst.eecs.berkeley.edu/~cs280/sp15/lectures/18.pptx	2015	Jitendra Malik	lecture	University of California, Berkeley
+Image Processing	www-inst.eecs.berkeley.edu/~cs280/sp15/lectures/6.pptx	2015	Jitendra Malik	lecture	University of California, Berkeley
+On Face Recognition	www-inst.eecs.berkeley.edu/~cs280/sp15/lectures/23.pptx	2015	Jitendra Malik	lecture	University of California, Berkeley
+Summary and Discussion	courses.engr.illinois.edu/cs543/sp2015/lectures/Lecture 29 - Summary and Discussion - Vision_Spring2015.pptx	2015	Derek Hoiem	lecture	University of Illinois at Urbana–Champaign
+Statistical Template Detection	courses.engr.illinois.edu/cs543/sp2015/lectures/Lecture 23 - Statistical Template Detection - Vision_Spring2015.pptx	2015	Derek Hoiem	lecture	University of Illinois at Urbana–Champaign
+Interest Points	courses.engr.illinois.edu/cs543/sp2015/lectures/Lecture 07 - Interest Points - Vision_Spring2015.pptx	2015	Derek Hoiem	lecture	University of Illinois at Urbana–Champaign
+Projective Geometry and Camera Models	courses.engr.illinois.edu/cs543/sp2015/lectures/Lecture 11 - Projective Geometry and Camera Models - Vision_Spring2015.pptx	2015	Derek Hoiem	lecture	University of Illinois at Urbana–Champaign
+Structure from Motion	courses.engr.illinois.edu/cs543/sp2015/lectures/Lecture 15 - Structure from Motion - Vision_Spring2015.pptx	2015	Derek Hoiem	lecture	University of Illinois at Urbana–Champaign
+EM	courses.engr.illinois.edu/cs543/sp2015/lectures/Lecture 18 - EM - Vision_Spring2015.pptx	2015	Derek Hoiem	lecture	University of Illinois at Urbana–Champaign
+Grouping and Segmentation	courses.engr.illinois.edu/cs543/sp2015/lectures/Lecture 17 - Grouping and Segmentation - Vision_Spring2015.pptx	2015	Derek Hoiem	lecture	University of Illinois at Urbana–Champaign
+MRFs and Graph Cut Segmentation	courses.engr.illinois.edu/cs543/sp2015/lectures/Lecture 19 - MRFs and Graph Cut Segmentation - Vision_Spring2015.pptx	2015	Derek Hoiem	lecture	University of Illinois at Urbana–Champaign
+Introduction	courses.engr.illinois.edu/cs543/sp2015/lectures/Lecture 01 - Introduction - Vision_Spring2015.pptx	2015	Derek Hoiem	lecture	University of Illinois at Urbana–Champaign
+Templates, Pyramids and Filter Banks	courses.engr.illinois.edu/cs543/sp2015/lectures/Lecture 05 - Templates, Pyramids, and Filter Banks - Vision_Spring2015.pptx	2015	Derek Hoiem	lecture	University of Illinois at Urbana–Champaign
+Action Recognition	courses.engr.illinois.edu/cs543/sp2015/lectures/Lecture 26 - Action Recognition - Vision_Spring2015.pptx	2015	Derek Hoiem	lecture	University of Illinois at Urbana–Champaign
+Object Tracking	courses.engr.illinois.edu/cs543/sp2015/lectures/Lecture 25 - Object Tracking - Vision_Spring2015.pptx	2015	Derek Hoiem	lecture	University of Illinois at Urbana–Champaign
+Thinking in Frequency	courses.engr.illinois.edu/cs543/sp2015/lectures/Lecture 04 - Thinking in Frequency - Vision_Spring2015.pptx	2015	Derek Hoiem	lecture	University of Illinois at Urbana–Champaign
+Classifiers	courses.engr.illinois.edu/cs543/sp2015/lectures/Lecture 22 - Classifiers - Vision_Spring2015.pptx	2015	Derek Hoiem	lecture	University of Illinois at Urbana–Champaign
+Image Filters	courses.engr.illinois.edu/cs543/sp2015/lectures/Lecture 03 - Image Filters - Vision_Spring2015.pptx	2015	Derek Hoiem	lecture	University of Illinois at Urbana–Champaign
+Calibration	courses.engr.illinois.edu/cs543/sp2015/lectures/Lecture 12 - Calibration and Single-view Metrology - Vision_Spring2015.pptx	2015	Derek Hoiem	lecture	University of Illinois at Urbana–Champaign
+Alignment and Instance Recognition	courses.engr.illinois.edu/cs543/sp2015/lectures/Lecture 10 - Alignment and Instance Recognition - Vision_Spring2015.pptx	2015	Derek Hoiem	lecture	University of Illinois at Urbana–Champaign
+Light and Shading	courses.engr.illinois.edu/cs543/sp2015/lectures/Lecture 02 - Light and Shading - Vision Fall 2015.pptx	2015	Derek Hoiem	lecture	University of Illinois at Urbana–Champaign
+Context and 3D Scenes	courses.engr.illinois.edu/cs543/sp2015/lectures/Lecture 27 - Context and 3D Scenes - Vision_Spring2015.pptx	2015	Derek Hoiem	lecture	University of Illinois at Urbana–Champaign
+Edge Detection	courses.engr.illinois.edu/cs543/sp2015/lectures/Lecture 06 - Edge Detection - Vision_Spring2015.pptx	2015	Derek Hoiem	lecture	University of Illinois at Urbana–Champaign
+Feature Tracking and Optical Flow	courses.engr.illinois.edu/cs543/sp2015/lectures/Lecture 08 - Feature Tracking and Optical Flow - Vision_Spring2015.pptx	2015	Derek Hoiem	lecture	University of Illinois at Urbana–Champaign
+Detection with Parts-based Models	courses.engr.illinois.edu/cs543/sp2015/lectures/Lecture 24 - Detection with Parts-based Models - Vision_Spring2015.pptx	2015	Derek Hoiem	lecture	University of Illinois at Urbana–Champaign
+Photo Stitching	courses.engr.illinois.edu/cs543/sp2015/lectures/Lecture 13 - Photo Stitching - Vision_Spring2015.pptx	2015	Derek Hoiem	lecture	University of Illinois at Urbana–Champaign
+Epipolar Geometry and Stereo	courses.engr.illinois.edu/cs543/sp2015/lectures/Lecture 14 - Epipolar Geometry and Stereo - Vision_Spring2015.pptx	2015	Derek Hoiem	lecture	University of Illinois at Urbana–Champaign
+Convolutional Neural Networks	courses.engr.illinois.edu/cs543/sp2015/lectures/Lecture 29 - Convolutional Neural Networks -  Vision_Spring2015.pptx	2015	Derek Hoiem	lecture	University of Illinois at Urbana–Champaign
+Fitting and Registration	courses.engr.illinois.edu/cs543/sp2015/lectures/Lecture 09 - Fitting and Registration - Vision_Spring2015.pptx	2015	Derek Hoiem	lecture	University of Illinois at Urbana–Champaign
+Face Recognition	courses.engr.illinois.edu/cs543/sp2015/lectures/Lecture 20 - Face Recognition - Vision_Spring2015.pptx	2015	Derek Hoiem	lecture	University of Illinois at Urbana–Champaign
+Texture	vision.cs.utexas.edu/376-spring2018/slides/lecture5-spring2018.pptx	2018	Kristen Grauman	lecture	University of Texas at Austin
+Fitting: Deformable contours	vision.cs.utexas.edu/376-spring2018/slides/lecture9-spring2018.pptx	2018	Kristen Grauman	lecture	University of Texas at Austin
+Instance Recognition	vision.cs.utexas.edu/376-spring2018/slides/lecture18-spring2018.pptx	2018	Kristen Grauman	lecture	University of Texas at Austin
+Motion and Optical Flow	vision.cs.utexas.edu/376-spring2018/slides/lecture6-spring2018.pptx	2018	Kristen Grauman	lecture	University of Texas at Austin
+Fitting: Voting and the Hough Transform	vision.cs.utexas.edu/376-spring2018/slides/lecture8-spring2018.pptx	2018	Kristen Grauman	lecture	University of Texas at Austin
+Object detection as supervised classification	vision.cs.utexas.edu/376-spring2018/slides/lecture23-spring2018.pptx	2018	Kristen Grauman	lecture	University of Texas at Austin
+Image warping and stitching	vision.cs.utexas.edu/376-spring2018/slides/lecture15-spring2018.pptx	2018	Kristen Grauman	lecture	University of Texas at Austin
+Support vector machines and kernels	vision.cs.utexas.edu/376-spring2018/slides/lecture24-spring2018.pptx	2018	Kristen Grauman	lecture	University of Texas at Austin
+Image gradient and edges	vision.cs.utexas.edu/376-spring2018/slides/lecture3-spring2018.pptx	2018	Kristen Grauman	lecture	University of Texas at Austin
+Instance Recognition	vision.cs.utexas.edu/376-spring2018/slides/lecture19-spring2018.pptx	2018	Kristen Grauman	lecture	University of Texas at Austin
+Edges and binary images	vision.cs.utexas.edu/376-spring2018/slides/lecture4-spring2018.pptx	2018	Kristen Grauman	lecture	University of Texas at Austin
+Segementation & Grouping	vision.cs.utexas.edu/376-spring2018/slides/lecture10-spring2018.pptx	2018	Kristen Grauman	lecture	University of Texas at Austin
+Stereo	vision.cs.utexas.edu/376-spring2018/slides/lecture17-spring2018.pptx	2018	Kristen Grauman	lecture	University of Texas at Austin
+Fitting a transformation: Feature-based alignment	vision.cs.utexas.edu/376-spring2018/slides/lecture14-spring2018.pptx	2018	Kristen Grauman	lecture	University of Texas at Austin
+Object detection as supervised classification	vision.cs.utexas.edu/376-spring2018/slides/lecture22-spring2018.pptx	2018	Kristen Grauman	lecture	University of Texas at Austin
+Local invariant features part 2	vision.cs.utexas.edu/376-spring2018/slides/lecture13-spring2018.pptx	2018	Kristen Grauman	lecture	University of Texas at Austin
+Fitting: Voting and the Hough Transform	vision.cs.utexas.edu/376-spring2018/slides/lecture7-spring2018.pptx	2018	Kristen Grauman	lecture	University of Texas at Austin
+Deep learning for visual recognition	vision.cs.utexas.edu/376-spring2018/slides/lecture25-spring2018.pptx	2018	Kristen Grauman	lecture	University of Texas at Austin
+Local invariant feature detection	vision.cs.utexas.edu/376-spring2018/slides/lecture12-spring2018.pptx	2018	Kristen Grauman	lecture	University of Texas at Austin
+CNN wrapup and Visual attributes	vision.cs.utexas.edu/376-spring2018/slides/lecture26-spring2018.pptx	2018	Kristen Grauman	lecture	University of Texas at Austin
+Image projection	vision.cs.utexas.edu/376-spring2018/slides/lecture16-spring2018.pptx	2018	Kristen Grauman	lecture	University of Texas at Austin
+Recursive Compositional Models	www.cs.jhu.edu/~ayuille/courses/Canton/Day5/Day5Lectures/RCMs_Lecture6_Day5.pptx	2015	Alan Yuille	lecture	Johns Hopkins University
+Face Detection	www.cs.cmu.edu/~16385/s14/lec_slides/lec-22.pptx	2020	Ioannis (Yannis) Gkioulekas	lecture	Carnegie Mellon University
+Feature detectors and descdriptors	www.cs.cmu.edu/~16385/lectures/lecture6.pptx	2020	Ioannis (Yannis) Gkioulekas	lecture	Carnegie Mellon University
+Introduction	www.cs.cmu.edu/~16385/lectures/lecture1.pptx	2020	Ioannis (Yannis) Gkioulekas	lecture	Carnegie Mellon University
+Image pyramids and frequency domain	www.cs.cmu.edu/~16385/lectures/lecture3.pptx	2020	Ioannis (Yannis) Gkioulekas	lecture	Carnegie Mellon University
+Radiometry and reflectance	www.cs.cmu.edu/~16385/lectures/lecture14.pptx	2020	Ioannis (Yannis) Gkioulekas	lecture	Carnegie Mellon University
+Detecting corners	www.cs.cmu.edu/~16385/lectures/lecture5.pptx	2020	Ioannis (Yannis) Gkioulekas	lecture	Carnegie Mellon University
+Stereo	www.cs.cmu.edu/~16385/lectures/lecture13.pptx	2020	Ioannis (Yannis) Gkioulekas	lecture	Carnegie Mellon University
+Image filtering	www.cs.cmu.edu/~16385/lectures/lecture2.pptx	2020	Ioannis (Yannis) Gkioulekas	lecture	Carnegie Mellon University
+Hough transform	www.cs.cmu.edu/~16385/lectures/lecture4.pptx	2020	Ioannis (Yannis) Gkioulekas	lecture	Carnegie Mellon University
+2D Transformations (a.k.a. warping)	www.cs.cmu.edu/~16385/lectures/lecture7.pptx	2020	Ioannis (Yannis) Gkioulekas	lecture	Carnegie Mellon University
+Two-view geometry	www.cs.cmu.edu/~16385/lectures/lecture12.pptx	2020	Ioannis (Yannis) Gkioulekas	lecture	Carnegie Mellon University
+Geometric camera models	www.cs.cmu.edu/~16385/lectures/lecture10.pptx	2020	Ioannis (Yannis) Gkioulekas	lecture	Carnegie Mellon University
+Image homographies	www.cs.cmu.edu/~16385/lectures/lecture9.pptx	2020	Ioannis (Yannis) Gkioulekas	lecture	Carnegie Mellon University
+Feature detectors and descriptors	www.cs.cmu.edu/~16385/s19/lectures/lecture6.pptx	2019	Ioannis (Yannis) Gkioulekas	lecture	Carnegie Mellon University
+Introduction	www.cs.cmu.edu/~16385/s19/lectures/lecture1.pptx	2019	Ioannis (Yannis) Gkioulekas	lecture	Carnegie Mellon University
+Stereo	www.cs.cmu.edu/~16385/s19/lectures/lecture11.pptx	2019	Ioannis (Yannis) Gkioulekas	lecture	Carnegie Mellon University
+Image pyramids and frequency domain	www.cs.cmu.edu/~16385/s19/lectures/lecture3.pptx	2019	Ioannis (Yannis) Gkioulekas	lecture	Carnegie Mellon University
+Digital photography	www.cs.cmu.edu/~16385/s19/lectures/lecture16.pptx	2019	Ioannis (Yannis) Gkioulekas	lecture	Carnegie Mellon University
+Alignment and tracking	www.cs.cmu.edu/~16385/s19/lectures/lecture22.pptx	2019	Ioannis (Yannis) Gkioulekas	lecture	Carnegie Mellon University
+Radiometry and reflectance	www.cs.cmu.edu/~16385/s19/lectures/lecture14.pptx	2019	Ioannis (Yannis) Gkioulekas	lecture	Carnegie Mellon University
+Detecting corners	www.cs.cmu.edu/~16385/s19/lectures/lecture5.pptx	2019	Ioannis (Yannis) Gkioulekas	lecture	Carnegie Mellon University
+Radiometry and reflectance	www.cs.cmu.edu/~16385/s19/lectures/lecture13.pptx	2019	Ioannis (Yannis) Gkioulekas	lecture	Carnegie Mellon University
+Introduction to neural networks	www.cs.cmu.edu/~16385/s19/lectures/lecture19.pptx	2019	Ioannis (Yannis) Gkioulekas	lecture	Carnegie Mellon University
+Wrap-up	www.cs.cmu.edu/~16385/s19/lectures/lecture26.pptx	2019	Ioannis (Yannis) Gkioulekas	lecture	Carnegie Mellon University
+Optical flow	www.cs.cmu.edu/~16385/s19/lectures/lecture21.pptx	2019	Ioannis (Yannis) Gkioulekas	lecture	Carnegie Mellon University
+Segmentation	www.cs.cmu.edu/~16385/s19/lectures/lecture25.pptx	2019	Ioannis (Yannis) Gkioulekas	lecture	Carnegie Mellon University
+Image filtering	www.cs.cmu.edu/~16385/s19/lectures/lecture2.pptx	2019	Ioannis (Yannis) Gkioulekas	lecture	Carnegie Mellon University
+Image classification	www.cs.cmu.edu/~16385/s19/lectures/lecture18.pptx	2019	Ioannis (Yannis) Gkioulekas	lecture	Carnegie Mellon University
+Hough transform	www.cs.cmu.edu/~16385/s19/lectures/lecture4.pptx	2019	Ioannis (Yannis) Gkioulekas	lecture	Carnegie Mellon University
+Convolutonal neural networks	www.cs.cmu.edu/~16385/s19/lectures/lecture20.pptx	2019	Ioannis (Yannis) Gkioulekas	lecture	Carnegie Mellon University
+2D transformations (a.k.a. warping)	www.cs.cmu.edu/~16385/s19/lectures/lecture7.pptx	2019	Ioannis (Yannis) Gkioulekas	lecture	Carnegie Mellon University
+Structure from motion	www.cs.cmu.edu/~16385/s19/lectures/lecture12.pptx	2019	Ioannis (Yannis) Gkioulekas	lecture	Carnegie Mellon University
+Introduction to semantic vision	www.cs.cmu.edu/~16385/s19/lectures/lecture17.pptx	2019	Ioannis (Yannis) Gkioulekas	lecture	Carnegie Mellon University
+Image homographies	www.cs.cmu.edu/~16385/s19/lectures/lecture8.pptx	2019	Ioannis (Yannis) Gkioulekas	lecture	Carnegie Mellon University
+Two-view geometry	www.cs.cmu.edu/~16385/s19/lectures/lecture10.pptx	2019	Ioannis (Yannis) Gkioulekas	lecture	Carnegie Mellon University
+Geometric camera models	www.cs.cmu.edu/~16385/s19/lectures/lecture9.pptx	2019	Ioannis (Yannis) Gkioulekas	lecture	Carnegie Mellon University
+Photometric stereo	www.cs.cmu.edu/~16385/s19/lectures/lecture15.pptx	2019	Ioannis (Yannis) Gkioulekas	lecture	Carnegie Mellon University
+Temporal inference and SLAM	www.cs.cmu.edu/~16385/s19/lectures/lecture23.pptx	2019	Ioannis (Yannis) Gkioulekas	lecture	Carnegie Mellon University
+Looking for seams	www.cs.cmu.edu/~16385/s19/lectures/lecture24.pptx	2019	Ioannis (Yannis) Gkioulekas	lecture	Carnegie Mellon University
+Matlab Tutorial - Computational Photography	www.cs.cmu.edu/~16385/s19/materials/MATLAB_TUTORIAL.pptx	2019	Ioannis (Yannis) Gkioulekas	lecture	Carnegie Mellon University
+Designing descriptors	www.cs.cmu.edu/~16385/s18/lectures/lecture6.pptx	2018	Ioannis (Yannis) Gkioulekas	lecture	Carnegie Mellon University
+Introduction	www.cs.cmu.edu/~16385/s18/lectures/lecture1.pptx	2018	Ioannis (Yannis) Gkioulekas	lecture	Carnegie Mellon University
+Stereo	www.cs.cmu.edu/~16385/s18/lectures/lecture11.pptx	2018	Ioannis (Yannis) Gkioulekas	lecture	Carnegie Mellon University
+Subsampling and image pyramids	www.cs.cmu.edu/~16385/s18/lectures/lecture3.pptx	2018	Ioannis (Yannis) Gkioulekas	lecture	Carnegie Mellon University
+Digital photography	www.cs.cmu.edu/~16385/s18/lectures/lecture16.pptx	2018	Ioannis (Yannis) Gkioulekas	lecture	Carnegie Mellon University
+Optical flow	www.cs.cmu.edu/~16385/s18/lectures/lecture22.pptx	2018	Ioannis (Yannis) Gkioulekas	lecture	Carnegie Mellon University
+Photometric stereo and shape from shading	www.cs.cmu.edu/~16385/s18/lectures/lecture14.pptx	2018	Ioannis (Yannis) Gkioulekas	lecture	Carnegie Mellon University
+Detecting corners	www.cs.cmu.edu/~16385/s18/lectures/lecture5.pptx	2018	Ioannis (Yannis) Gkioulekas	lecture	Carnegie Mellon University
+Apperance and reflectance	www.cs.cmu.edu/~16385/s18/lectures/lecture13.pptx	2018	Ioannis (Yannis) Gkioulekas	lecture	Carnegie Mellon University
+Introduction to neural networks	www.cs.cmu.edu/~16385/s18/lectures/lecture19.pptx	2018	Ioannis (Yannis) Gkioulekas	lecture	Carnegie Mellon University
+Looking for seams	www.cs.cmu.edu/~16385/s18/lectures/lecture26.pptx	2018	Ioannis (Yannis) Gkioulekas	lecture	Carnegie Mellon University
+Wrap-up	www.cs.cmu.edu/~16385/s18/lectures/lecture28.pptx	2018	Ioannis (Yannis) Gkioulekas	lecture	Carnegie Mellon University
+Fourier Transform and Frequency Domain	www.cs.cmu.edu/~16385/s18/lectures/lecture3b.pptx	2018	Ioannis (Yannis) Gkioulekas	lecture	Carnegie Mellon University
+Face Recognition	www.cs.cmu.edu/~16385/s18/lectures/lecture21.pptx	2018	Ioannis (Yannis) Gkioulekas	lecture	Carnegie Mellon University
+Temporal inference and SLAM	www.cs.cmu.edu/~16385/s18/lectures/lecture25.pptx	2018	Ioannis (Yannis) Gkioulekas	lecture	Carnegie Mellon University
+Image filtering	www.cs.cmu.edu/~16385/s18/lectures/lecture2.pptx	2018	Ioannis (Yannis) Gkioulekas	lecture	Carnegie Mellon University
+Image classification	www.cs.cmu.edu/~16385/s18/lectures/lecture18.pptx	2018	Ioannis (Yannis) Gkioulekas	lecture	Carnegie Mellon University
+Hough transform	www.cs.cmu.edu/~16385/s18/lectures/lecture4.pptx	2018	Ioannis (Yannis) Gkioulekas	lecture	Carnegie Mellon University
+Convolutional neural networks	www.cs.cmu.edu/~16385/s18/lectures/lecture20.pptx	2018	Ioannis (Yannis) Gkioulekas	lecture	Carnegie Mellon University
+Segmentation	www.cs.cmu.edu/~16385/s18/lectures/lecture27.pptx	2018	Ioannis (Yannis) Gkioulekas	lecture	Carnegie Mellon University
+2D transformations (a.k.a. warping)	www.cs.cmu.edu/~16385/s18/lectures/lecture7.pptx	2018	Ioannis (Yannis) Gkioulekas	lecture	Carnegie Mellon University
+Structure from motion	www.cs.cmu.edu/~16385/s18/lectures/lecture12.pptx	2018	Ioannis (Yannis) Gkioulekas	lecture	Carnegie Mellon University
+Introduction to object recognition	www.cs.cmu.edu/~16385/s18/lectures/lecture17.pptx	2018	Ioannis (Yannis) Gkioulekas	lecture	Carnegie Mellon University
+Image homographies	www.cs.cmu.edu/~16385/s18/lectures/lecture8.pptx	2018	Ioannis (Yannis) Gkioulekas	lecture	Carnegie Mellon University
+Two-view geometry	www.cs.cmu.edu/~16385/s18/lectures/lecture10.pptx	2018	Ioannis (Yannis) Gkioulekas	lecture	Carnegie Mellon University
+Camera models	www.cs.cmu.edu/~16385/s18/lectures/lecture9.pptx	2018	Ioannis (Yannis) Gkioulekas	lecture	Carnegie Mellon University
+Color	www.cs.cmu.edu/~16385/s18/lectures/lecture15.pptx	2018	Ioannis (Yannis) Gkioulekas	lecture	Carnegie Mellon University
+Image alignment	www.cs.cmu.edu/~16385/s18/lectures/lecture23.pptx	2018	Ioannis (Yannis) Gkioulekas	lecture	Carnegie Mellon University
+Tracking	www.cs.cmu.edu/~16385/s18/lectures/lecture24.pptx	2018	Ioannis (Yannis) Gkioulekas	lecture	Carnegie Mellon University
+Matlab Tutorial - Computational Photography	www.cs.cmu.edu/~16385/s18/materials/MATLAB_TUTORIAL.pptx	2018	Ioannis (Yannis) Gkioulekas	lecture	Carnegie Mellon University
+The Gaussian Distribution	www.cs.toronto.edu/~mren/teach/csc411_19s/tut/tut07.pptx	2019	Ioannis (Yannis) Gkioulekas	lecture	University of Toronto
+Introduction	www.cs.virginia.edu/~vicente/recognition/slides/lecture01.pptx	2017	Vicente Ordóñez R	lecture	University of Virginia
+Basic Image Processing & Image Features	www.cs.virginia.edu/~vicente/recognition/slides/lecture02.pptx	2017	Vicente Ordóñez R	lecture	University of Virginia
+ImageNet Classification with Deep Convolutional Neural Networks	www.cs.virginia.edu/~vicente/recognition/slides/lecture07/lecture07.pptx	2017	Vicente Ordóñez R	lecture	University of Virginia
+Machine Learning I & II	www.cs.virginia.edu/~vicente/recognition/slides/lecture03and04.pptx	2017	Vicente Ordóñez R	lecture	University of Virginia
+Adversarial Examples, Generative Adversarial Networks, Style Transfer, etc.	www.cs.virginia.edu/~vicente/recognition/slides/adversarial.pptx	2017	Vicente Ordóñez R	lecture	University of Virginia
+Recurrent Neural Networks	www.cs.virginia.edu/~vicente/recognition/slides/lecture10and11.pptx	2017	Vicente Ordóñez R	lecture	University of Virginia
+Deep Learning for Vision + Convolutional Networks	www.cs.virginia.edu/~vicente/recognition/slides/lecture05and06.pptx	2017	Vicente Ordóñez R	lecture	University of Virginia
+Deep CNNs for Detection and Segmentation	www.cs.virginia.edu/~vicente/recognition/slides/lecture08and09.pptx	2017	Vicente Ordóñez R	lecture	University of Virginia
+Introduction	filebox.ece.vt.edu/~jbhuang/teaching/ece5554-4554/fa18/slides/Lecture_01_Introduction.pptx	2018	Jia-Bin Huang	lecture	Virginia Polytechnic Institute and State University
+MRF	filebox.ece.vt.edu/~jbhuang/teaching/ece5554-4554/fa18/slides/Lecture_18_MRF.pptx	2018	Jia-Bin Huang	lecture	Virginia Polytechnic Institute and State University
+Image Filters	filebox.ece.vt.edu/~jbhuang/teaching/ece5554-4554/fa18/slides/Lecture_03_ImageFilters.pptx	2018	Jia-Bin Huang	lecture	Virginia Polytechnic Institute and State University
+Frequency	filebox.ece.vt.edu/~jbhuang/teaching/ece5554-4554/fa18/slides/Lecture_04_Frequency.pptx	2018	Jia-Bin Huang	lecture	Virginia Polytechnic Institute and State University
+EM	filebox.ece.vt.edu/~jbhuang/teaching/ece5554-4554/fa18/slides/Lecture_17_EM.pptx	2018	Jia-Bin Huang	lecture	Virginia Polytechnic Institute and State University
+Epipolar Geometry	filebox.ece.vt.edu/~jbhuang/teaching/ece5554-4554/fa18/slides/Lecture_14_EpipolarGeometry.pptx	2018	Jia-Bin Huang	lecture	Virginia Polytechnic Institute and State University
+Image Stitching	filebox.ece.vt.edu/~jbhuang/teaching/ece5554-4554/fa18/slides/Lecture_13_ImageStitching.pptx	2018	Jia-Bin Huang	lecture	Virginia Polytechnic Institute and State University
+Instance Recognition	filebox.ece.vt.edu/~jbhuang/teaching/ece5554-4554/fa18/slides/Lecture_10_InstanceRecognition.pptx	2018	Jia-Bin Huang	lecture	Virginia Polytechnic Institute and State University
+Fitting and Alignment	filebox.ece.vt.edu/~jbhuang/teaching/ece5554-4554/fa18/slides/Lecture_09_FittingAndAlignment.pptx	2018	Jia-Bin Huang	lecture	Virginia Polytechnic Institute and State University
+Interest Points	filebox.ece.vt.edu/~jbhuang/teaching/ece5554-4554/fa18/slides/Lecture_07_InterestPoints.pptx	2018	Jia-Bin Huang	lecture	Virginia Polytechnic Institute and State University
+Structure from Motion	filebox.ece.vt.edu/~jbhuang/teaching/ece5554-4554/fa18/slides/Lecture_15_StructureFromMotion.pptx	2018	Jia-Bin Huang	lecture	Virginia Polytechnic Institute and State University
+Edges	filebox.ece.vt.edu/~jbhuang/teaching/ece5554-4554/fa18/slides/Lecture_06_Edges.pptx	2018	Jia-Bin Huang	lecture	Virginia Polytechnic Institute and State University
+Feature Tracking	filebox.ece.vt.edu/~jbhuang/teaching/ece5554-4554/fa18/slides/Lecture_08_FeatureTracking.pptx	2018	Jia-Bin Huang	lecture	Virginia Polytechnic Institute and State University
+Pyramid	filebox.ece.vt.edu/~jbhuang/teaching/ece5554-4554/fa18/slides/Lecture_05_Pyramid.pptx	2018	Jia-Bin Huang	lecture	Virginia Polytechnic Institute and State University
+CNN	filebox.ece.vt.edu/~jbhuang/teaching/ece5554-4554/fa18/slides/Lecture_21_CNN.pptx	2018	Jia-Bin Huang	lecture	Virginia Polytechnic Institute and State University
+Calibration and Metrology	filebox.ece.vt.edu/~jbhuang/teaching/ece5554-4554/fa18/slides/Lecture_12_CalibrationAndMetrology.pptx	2018	Jia-Bin Huang	lecture	Virginia Polytechnic Institute and State University
+Segmentation	filebox.ece.vt.edu/~jbhuang/teaching/ece5554-4554/fa18/slides/Lecture_16_Segmentation.pptx	2018	Jia-Bin Huang	lecture	Virginia Polytechnic Institute and State University
+Categorization	filebox.ece.vt.edu/~jbhuang/teaching/ece5554-4554/fa18/slides/Lecture_19_Categorization.pptx	2018	Jia-Bin Huang	lecture	Virginia Polytechnic Institute and State University
+Light	filebox.ece.vt.edu/~jbhuang/teaching/ece5554-4554/fa18/slides/Lecture_02_Light.pptx	2018	Jia-Bin Huang	lecture	Virginia Polytechnic Institute and State University
+Perspective Geometry	filebox.ece.vt.edu/~jbhuang/teaching/ece5554-4554/fa18/slides/Lecture_11_PerspectiveGeometry.pptx	2018	Jia-Bin Huang	lecture	Virginia Polytechnic Institute and State University
+The Generalized R-CNN Framework for Object Detection	filebox.ece.vt.edu/~jbhuang/teaching/ece5554-4554/fa18/slides/GeneralizedRCNN.pptx	2018	Jia-Bin Huang	lecture	Virginia Polytechnic Institute and State University
+Image Formulation	3dvision.princeton.edu/courses/COS429/2014fa/slides/02_camera/COS429_ImageFormulation.pptx	2014	Jianxiong Xiao	lecture	Princeton University
+Let's make the world simpler	3dvision.princeton.edu/courses/COS429/2014fa/slides/06_simple_world/COS429_simple_world.pptx	2014	Jianxiong Xiao	lecture	Princeton University
+The unreasonable effective of big visual data	3dvision.princeton.edu/courses/COS429/2014fa/slides/14_data/COS429_big_data.pptx	2014	Jianxiong Xiao	lecture	Princeton University
+What is a Chair?	3dvision.princeton.edu/courses/COS429/2014fa/slides/12_object/COS429_ObjectRecognition.pptx	2014	Jianxiong Xiao	lecture	Princeton University
+Using the forest to see the trees	3dvision.princeton.edu/courses/COS429/2014fa/slides/13_scene/COS429_SceneRecognition.pptx	2014	Jianxiong Xiao	lecture	Princeton University
+Finding Nemo	3dvision.princeton.edu/courses/COS429/2014fa/slides/precept05/COS429_ps5_precept.pptx	2014	Jianxiong Xiao	lecture	Princeton University
+3D Shape Matching	3dvision.princeton.edu/courses/COS429/2014fa/slides/ShapeMatching/shapematching.pptx	2014	Jianxiong Xiao	lecture	Princeton University
+Stitching a Panorama	3dvision.princeton.edu/courses/COS429/2014fa/slides/precept03/COS429_ps3_precept.pptx	2014	Jianxiong Xiao	lecture	Princeton University
+RGB-D object recognition	3dvision.princeton.edu/courses/COS429/2014fa/slides/RGBD/RGBD.pptx	2014	Jianxiong Xiao	lecture	Princeton University
+This is how the brain really works	3dvision.princeton.edu/courses/COS429/2014fa/slides/15_deep_learning/COS429_deep_learning.pptx	2014	Jianxiong Xiao	lecture	Princeton University
+The Fundamental Matrix Song	3dvision.princeton.edu/courses/COS429/2014fa/slides/10_mvg/COS429_Fundamental_Matrix.pptx	2014	Jianxiong Xiao	lecture	Princeton University
+What Color is the Sky?	3dvision.princeton.edu/courses/COS429/2014fa/slides/03_color/COS429_color.pptx	2014	Jianxiong Xiao	lecture	Princeton University
+Reconstructing a Simpler World	3dvision.princeton.edu/courses/COS429/2014fa/slides/precept02/COS429_ps2_precept.pptx	2014	Jianxiong Xiao	lecture	Princeton University
+Building Rome in a Day	3dvision.princeton.edu/courses/COS429/2014fa/slides/11_sfm/COS429_SFM.pptx	2014	Jianxiong Xiao	lecture	Princeton University
+Assignment 4 Cloning Yourself	3dvision.princeton.edu/courses/COS429/2014fa/slides/precept04/COS429_ps4_precept.pptx	2014	Jianxiong Xiao	lecture	Princeton University
+Natural Image Statistics	3dvision.princeton.edu/courses/COS429/2014fa/slides/05_image_statistics/COS429_natural_image_statistics.pptx	2014	Jianxiong Xiao	lecture	Princeton University
+Life story of a 3D point	3dvision.princeton.edu/courses/COS429/2014fa/slides/09_geometry/COS429_3D_point.pptx	2014	Jianxiong Xiao	lecture	Princeton University
+Superman Vision: Revealing Invisible Changes in the World	3dvision.princeton.edu/courses/COS429/2014fa/slides/08_motion/COS429_motion.pptx	2014	Jianxiong Xiao	lecture	Princeton University
+Computer Vision	3dvision.princeton.edu/courses/COS429/2014fa/slides/01_introduction/COS429_intro.pptx	2014	Jianxiong Xiao	lecture	Princeton University
+Let's test your beer goggles	3dvision.princeton.edu/courses/COS429/2014fa/slides/04_filtering/COS429_filtering.pptx	2014	Jianxiong Xiao	lecture	Princeton University
+Advances in Computer Vision	groups.csail.mit.edu/vision/courses/6.869/lectures/lecture1.pptx	2013	Antonio Torralba	lecture	Massachusetts Institute of Technology
+Textures	groups.csail.mit.edu/vision/courses/6.869/lectures/lecture7texture/lecture7.pptx	2013	Antonio Torralba	lecture	Massachusetts Institute of Technology
+Image formation	groups.csail.mit.edu/vision/courses/6.869/lectures/lecture9imageformation/lecture9imageformation.pptx	2013	Antonio Torralba	lecture	Massachusetts Institute of Technology
+Statistical Image Models	groups.csail.mit.edu/vision/courses/6.869/lectures/lecture4statisticalmodels/lecture4.pptx	2013	Antonio Torralba	lecture	Massachusetts Institute of Technology
+Edges and segmentation	groups.csail.mit.edu/vision/courses/6.869/lectures/lecture8segmentation/lecture8segmentation.pptx	2013	Antonio Torralba	lecture	Massachusetts Institute of Technology
+Statistical Image Models	groups.csail.mit.edu/vision/courses/6.869/lectures/lecture5staticticalmodels/lecture5.pptx	2013	Antonio Torralba	lecture	Massachusetts Institute of Technology
+Image formation	groups.csail.mit.edu/vision/courses/6.869/lectures/lecture10calibrationAndStereo/lecture10imageformation.pptx	2013	Antonio Torralba	lecture	Massachusetts Institute of Technology
+Image features	groups.csail.mit.edu/vision/courses/6.869/lectures/lecture12imagefeatures/lecture12imagefeatures.pptx	2013	Antonio Torralba	lecture	Massachusetts Institute of Technology
+Shape from X	groups.csail.mit.edu/vision/courses/6.869/lectures/lecture11shapefromX/lecture11shapefromX.pptx	2013	Antonio Torralba	lecture	Massachusetts Institute of Technology
+Linear filters	groups.csail.mit.edu/vision/courses/6.869/lectures/lecture2linarfilters/lecture2linearfilters.pptx	2013	Antonio Torralba	lecture	Massachusetts Institute of Technology
+The Correspondence Problem, Redux	www.cs.cornell.edu/courses/cs6670/2017fa/lec17.pptx	2017	Bharath Hariharan	lecture	Cornell University
+Adversaries	www.cs.cornell.edu/courses/cs6670/2017fa/lec23.pptx	2017	Bharath Hariharan	lecture	Cornell University
+Optical flow	www.cs.cornell.edu/courses/cs6670/2017fa/lec8.pptx	2017	Bharath Hariharan	lecture	Cornell University
+GANs and generative models	www.cs.cornell.edu/courses/cs6670/2017fa/lec22.pptx	2017	Bharath Hariharan	lecture	Cornell University
+Technical writing and choosing research projects	www.cs.cornell.edu/courses/cs6670/2017fa/writing.pptx	2017	Bharath Hariharan	lecture	Cornell University
+Recognition	www.cs.cornell.edu/courses/cs6670/2017fa/lec9.pptx	2017	Bharath Hariharan	lecture	Cornell University
+Embodied cognition	www.cs.cornell.edu/courses/cs6670/2017fa/lec21.pptx	2017	Bharath Hariharan	lecture	Cornell University
+The correspondence problem	www.cs.cornell.edu/courses/cs6670/2017fa/lec6.pptx	2017	Bharath Hariharan	lecture	Cornell University
+Video classification	www.cs.cornell.edu/courses/cs6670/2017fa/lec19.pptx	2017	Bharath Hariharan	lecture	Cornell University
+Recognition summary	www.cs.cornell.edu/courses/cs6670/2017fa/lec16.pptx	2017	Bharath Hariharan	lecture	Cornell University
+Computer Vision	www.cs.cornell.edu/courses/cs6670/2017fa/lec1.pptx	2017	Bharath Hariharan	lecture	Cornell University
+Semantic segmentation	www.cs.cornell.edu/courses/cs6670/2017fa/lec14.pptx	2017	Bharath Hariharan	lecture	Cornell University
+Taking inspiration from biology	www.cs.cornell.edu/courses/cs6670/2017fa/lec24.pptx	2017	Bharath Hariharan	lecture	Cornell University
+Non-linear classifiers and neural networks	www.cs.cornell.edu/courses/cs6670/2017fa/lec10.pptx	2017	Bharath Hariharan	lecture	Cornell University
+Object detection	www.cs.cornell.edu/courses/cs6670/2017fa/lec13.pptx	2017	Bharath Hariharan	lecture	Cornell University
+Recognition on videos	www.cs.cornell.edu/courses/cs6670/2017fa/lec18.pptx	2017	Bharath Hariharan	lecture	Cornell University
+Instance segmentation	www.cs.cornell.edu/courses/cs6670/2017fa/lec15.pptx	2017	Bharath Hariharan	lecture	Cornell University
+Dense correspondence	www.cs.cornell.edu/courses/cs6670/2017fa/lec7.pptx	2017	Bharath Hariharan	lecture	Cornell University
+Training convolutional networks	www.cs.cornell.edu/courses/cs6670/2017fa/lec11.pptx	2017	Bharath Hariharan	lecture	Cornell University
+Visual Question Answering	www.cs.cornell.edu/courses/cs6670/2017fa/lec20.pptx	2017	Bharath Hariharan	lecture	Cornell University
+Transfer Learning	www.cs.cornell.edu/courses/cs6670/2017fa/lec12.pptx	2017	Bharath Hariharan	lecture	Cornell University

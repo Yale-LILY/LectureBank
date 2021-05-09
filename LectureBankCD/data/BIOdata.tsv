@@ -1,0 +1,149 @@
+Title	URL	Year	Author	Resource Type	Venue
+Molecular Biology for Computer Scientists	www.cs.utsa.edu/~jruan/teaching/cs5263_spring_2017/readings/01-Hunter.pdf	2017	Lawrence Hunter	lecture	University of Texas at San Antonio
+Basic for Bioinformatics	www.cs.utsa.edu/~jruan/teaching/cs5263_spring_2017/readings/jzz_ch1.pdf	2017	Xuegong Zhang	lecture	University of Texas at San Antonio
+Basic Local Alignment Search Tool	www.biostat.wisc.edu/bmi576/papers/blast.pdf	1990	Stephen F. Altschul	lecture	University of Wisconsin-Madison
+Using Machine Learning to Design and Interpret Gene-Expression Microarrays	www.biostat.wisc.edu/bmi576/papers/molla.pdf	2004	Michael Molla	lecture	University of Wisconsin-Madison
+Life and its molecules a brief introduction	www.biostat.wisc.edu/bmi576/papers/hunter04.pdf	1994	Lawrence Hunter	lecture	University of Wisconsin-Madison
+Learning of Bayesian Network Structure from Massive Datasets: The "Sparse Candidate" Algorithm	www.biostat.wisc.edu/bmi576/papers/sparse.pdf	2013	Nir Friedman	lecture	University of Wisconsin-Madison
+CLUSTAL W: improving the sensitivity of progressive multiple sequence alignment through sequence weighting, position-specific gap penalities and weight matrix choice	www.biostat.wisc.edu/bmi576/papers/clustalw.pdf	1994	Julie D. Thompson	lecture	University of Wisconsin-Madison
+Gene Regulation and Motif Discovery Scribe notes for lecture 2 of CS284A	www.ics.uci.edu/~xhx/courses/CS284A-F08/lectures/CS284A_Scribe_Lec2.pdf	2008	James Foulds	lecture	University of California, Irvine
+Statistical Considerations of Multiple Testing	www.ics.uci.edu/~xhx/courses/CS284A-F08/lectures/FDR.pdf	2008	Xiaohui Xie	lecture	University of California, Irvine
+Motif Discovery and Statistical Analysis Scribe notes for CS284A	www.ics.uci.edu/~xhx/courses/CS284A-F08/lectures/scribe_note_motif_enumerate.pdf	2008	Xiaohui Xie	lecture	University of California, Irvine
+Molecular Biology for Computer Scientists	www.ics.uci.edu/~xhx/courses/CS284A-F08/lectures/readings/hunter.pdf	2008	Lawrence Hunter	lecture	University of California, Irvine
+Analysis of DNA Chips and Gene Networks	www.ics.uci.edu/~xhx/courses/CS284A-F08/lectures/CS284A_lecture_gene_expr.pdf	2008	Xiaohui Xie	lecture	University of California, Irvine
+Lecture 11: Learning from Hidden Markov Model	www.ics.uci.edu/~xhx/courses/CS284A-F08/lectures/CS284A_scribenotes_HMM2.pdf	2008	Lokesh Kumar	lecture	University of California, Irvine
+K-means and Hierarchical Clustering	www.ics.uci.edu/~xhx/courses/CS284A-F08/lectures/clustering_algorithm.pdf	2008	Xiaohui Xie	lecture	University of California, Irvine
+Modeling Motif Using Positional Weight Matrix	www.ics.uci.edu/~xhx/courses/CS284A-F08/lectures/CS284A_Lecture3.pdf	2008	Xiaohui Xie	lecture	University of California, Irvine
+Markov Chains and Hidden Markov Models	www.ics.uci.edu/~xhx/courses/CS284A-F08/lectures/CS284A_scribenotes_HMM.pdf	2008	Xiaohui Xie	lecture	University of California, Irvine
+Representations and Algorithms in Molecular Biology	www.ics.uci.edu/~xhx/courses/CS284A-F08/lectures/CS284A_scribenotes_Lecture3and4.pdf	2008	Xiaohui Xie	lecture	University of California, Irvine
+Algorithms for Sequence Alignment	www.ics.uci.edu/~xhx/courses/CS284A-F08/lectures/CS284A_BLAST.pdf	2008	Xiaohui Xie	lecture	University of California, Irvine
+Sequence alignment	www.ics.uci.edu/~xhx/courses/CS284A-F08/lectures/CS284A_scribenotes_seq_alignment.pdf	2008	Xiaohui Xie	lecture	University of California, Irvine
+k-Means and Hierarchical Clustering	www.ics.uci.edu/~xhx/courses/CS284A-F08/lectures/cs284_scribe_clustering.pdf	2008	Xiaohui Xie	lecture	University of California, Irvine
+Systematic determination of genetic network architecture	www.ics.uci.edu/~xhx/courses/CS284A-F08/lectures/CS284A_Lecture5_cellcycle.pdf	2008	Xiaohui Xie	lecture	University of California, Irvine
+Hidden Markov model and its application in sequence analysis	www.ics.uci.edu/~xhx/courses/CS284A-F08/lectures/HMM.pdf	2008	Xiaohui Xie	lecture	University of California, Irvine
+Motif representation using position weight matrix	www.ics.uci.edu/~xhx/courses/CS284A-F08/lectures/motif_mixture.pdf	2008	Xiaohui Xie	lecture	University of California, Irvine
+Representations and Algorithms in Molecular Biology	www.ics.uci.edu/~xhx/courses/CS284A-F08/lectures/CS284A_Lecture1.pdf	2008	Xiaohui Xie	lecture	University of California, Irvine
+Sequence alignment	www.ics.uci.edu/~xhx/courses/CS284A-F08/lectures/alignment.pdf	2008	Xiaohui Xie	lecture	University of California, Irvine
+EM-algorithm for motif discovery	www.ics.uci.edu/~xhx/courses/CS284A-F08/lectures/CS284A_Lecture5.pdf	2008	Xiaohui Xie	lecture	University of California, Irvine
+BLAST. The statistics of alignment scores	www.ics.uci.edu/~xhx/courses/CS284A-F08/lectures/CS284A_scribenotes_BLAST.pdf	2008	Xiaohui Xie	lecture	University of California, Irvine
+Notes on Motif Finding via Gradient Descent, EM, and Gibb's sampling	www.ics.uci.edu/~xhx/courses/CS284A-F08/lectures/cs284_scribe_EM_GibbsSampling.pdf	2008	Xiaohui Xie	lecture	University of California, Irvine
+Finding CpG islands	www.ics.uci.edu/~xhx/courses/CS284A-F08/lectures/GeneDiscovery.pdf	2008	Xiaohui Xie	lecture	University of California, Irvine
+Motif Discovery Algorithms	www.ics.uci.edu/~xhx/courses/CS284A-F08/lectures/CS284A_Lecture2.pdf	2008	Xiaohui Xie	lecture	University of California, Irvine
+Discrete Structures in Biomathematics	cobweb.cs.uga.edu/~cai/courses/compbio/2016spring/notes/Dismath-Bioinfo.pdf	2016	Liming Cai	lecture	University of Georgia
+Algorithms for Computational Biology	cobweb.cs.uga.edu/~cai/courses/compbio/2016spring/notes/NewNote2.pdf	2016	Liming Cai	lecture	University of Georgia
+Molecular biology for bioinformatics - a very short primer	cobweb.cs.uga.edu/~cai/courses/compbio/2016spring/notes/Bio-primer.pdf	2016	Liming Cai	lecture	University of Georgia
+Algorithms for Computational Biology	cobweb.cs.uga.edu/~cai/courses/compbio/2016spring/notes/NewNote4.pdf	2016	Liming Cai	lecture	University of Georgia
+Advanced Design and Analysis Techniques	cobweb.cs.uga.edu/~cai/courses/compbio/2016spring/notes/6470NewNote3.pdf	2016	Liming Cai	lecture	University of Georgia
+Gene Prediction: Statistical Approaches	cobweb.cs.uga.edu/~cai/courses/compbio/2016spring/notes/Chapter06/Ch06_GenePred_stat.pdf	2016	Liming Cai	lecture	University of Georgia
+Gene Prediction: Security-Based Approaches	cobweb.cs.uga.edu/~cai/courses/compbio/2016spring/notes/Chapter06/Ch06_GenePred_sim.pdf	2016	Liming Cai	lecture	University of Georgia
+Algorithms and Complexity	cobweb.cs.uga.edu/~cai/courses/compbio/2016spring/notes/NewNote1.pdf	2016	Liming Cai	lecture	University of Georgia
+Molecular Biology for Computer Scientists	www.cs.princeton.edu/~mona/IntroMaterials/hunter-bio-for-CS.pdf	2019	Mona Singh	lecture	Princeton University
+Predicting Protein Secondary and Supersecondary Structure	www.cs.princeton.edu/~mona/Chapter29.pdf	2019	Mona Singh	lecture	Princeton University
+Protein Motif Recognition I	www.cs.princeton.edu/~mona/Lecture/structuralmotifs-cc.pdf	2019	Mona Singh	lecture	Princeton University
+Topics in Computational Molecular Biology	www.cs.princeton.edu/~mona/Lecture/threading.pdf	2019	Mona Singh	lecture	Princeton University
+Multiple Sequence Alignments	www.cs.princeton.edu/~mona/Lecture/MSA-slides.pdf	2019	Mona Singh	lecture	Princeton University
+Phylogenetics	www.cs.princeton.edu/~mona/Lecture/phylogeny-slides.pdf	2019	Mona Singh	lecture	Princeton University
+Sequence Comparison: Local and Multiple Alignments	www.cs.princeton.edu/~mona/Lecture/align2.pdf	2019	Mona Singh	lecture	Princeton University
+Sequence Comparison: Global Sequence Alignments	www.cs.princeton.edu/~mona/Lecture/align1.pdf	2019	Mona Singh	lecture	Princeton University
+Motifs and Profile Analysis	www.cs.princeton.edu/~mona/Lecture/profiles.pdf	2019	Mona Singh	lecture	Princeton University
+Multiple Sequence Alignments II	www.cs.princeton.edu/~mona/Lecture/msa2.pdf	2019	Mona Singh	lecture	Princeton University
+Topics in Computational Molecular Biology	www.cs.princeton.edu/~mona/Lecture/DNA-chips.pdf	2019	Mona Singh	lecture	Princeton University
+Secondary structure prediction	www.cs.princeton.edu/~mona/Lecture/sec-structure.pdf	2019	Mona Singh	lecture	Princeton University
+Profile Hidden Markov Models	www.cs.princeton.edu/~mona/Lecture/HMM1.pdf	2019	Mona Singh	lecture	Princeton University
+Database Searching	www.cs.princeton.edu/~mona/Lecture/database.pdf	2019	Mona Singh	lecture	Princeton University
+Phylogeny	www.cs.princeton.edu/~mona/Lecture/phylogeny.pdf	2019	Mona Singh	lecture	Princeton University
+Multiple Sequence Alignments I	www.cs.princeton.edu/~mona/Lecture/msa1.pdf	2019	Mona Singh	lecture	Princeton University
+Medical Bioinformatics: Genome-wide Association Studies	cs.brown.edu/courses/csci2820/core/CSCI2820_syllabus.pdf	2010	Sorin Istrail	lecture	Brown University
+Medical Bioinformatics	cs.brown.edu/courses/csci2820/core/CSCI2820_topics.pdf	2010	Sorin Istrail	lecture	Brown University
+Linkage Disequalibrium	cs.brown.edu/courses/csci2820/notes/MB2013_class3.pdf	2010	Sorin Istrail	lecture	Brown University
+Computing Haplotype Frequencies and Haplotype Phasing via the Expectation Maximization (EM) Algorithm	cs.brown.edu/courses/csci2820/notes/HaplotypePhasingByEM.pdf	2010	Sorin Istrail	lecture	Brown University
+Midterm Class Summary	cs.brown.edu/courses/csci2820/handouts/CSCI 2820 Medical Bioinforamtics GWAS midterm-Fall2013-Nov 5.pdf	2010	Sorin Istrail	lecture	Brown University
+Expectation-Maximization Haplotype Phasing	cs.brown.edu/courses/csci2820/handouts/em_pseudocode.pdf	2010	Sorin Istrail	lecture	Brown University
+A gentle introduction to Hidden Markov Models	cs.brown.edu/courses/csci2820/handouts/A tutorial on hidden markov models.pdf	2010	Sorin Istrail	lecture	Brown University
+The HapMap Project Tutorial	cs.brown.edu/courses/csci2820/resources/hapmap_tutorial.pdf	2010	Sorin Istrail	lecture	Brown University
+Inference of Haplotypes from PCR-simplified Samples of Diploid Populations	cs.brown.edu/courses/csci2820/resources/clark_phasing.pdf	2010	Sorin Istrail	lecture	Brown University
+Genome-wide Association Studies	cs.brown.edu/courses/csci2820/resources/CSCI2820_pillar_flyer.pdf	2010	Sorin Istrail	lecture	Brown University
+Spooky halloween haplotype assembly	cs.brown.edu/courses/csci2820/pres/derek/16/haplotype_assembly_class2.pdf	2010	Sorin Istrail	lecture	Brown University
+Data and Haplotype Phasing	cs.brown.edu/courses/csci2820/pres/derek/4/aguiar_2820_c4.pdf	2010	Sorin Istrail	lecture	Brown University
+Haplotype assembly	cs.brown.edu/courses/csci2820/pres/derek/15/haplotype_assembly_class1.pdf	2010	Sorin Istrail	lecture	Brown University
+Polyploid haplotype assembly	cs.brown.edu/courses/csci2820/pres/derek/17/haplotype_assembly_class3.pdf	2010	Sorin Istrail	lecture	Brown University
+The Wright-Fisher and the Infinite Allele Models: Two Urns Models	cs.brown.edu/courses/csci2820/pres/sorin/12/UrnModels-WrightFisher-EwensSamplingLemma.pdf	2010	Sorin Istrail	lecture	Brown University
+Maximum Likelihood, Expectation Maximization and Haplotyping Phasing	cs.brown.edu/courses/csci2820/pres/sorin/5/maximum_likelihood_em2.pdf	2010	Sorin Istrail	lecture	Brown University
+Haplotype Phasing	cs.brown.edu/courses/csci2820/pres/sorin/5/MB2013_class5.pdf	2010	Sorin Istrail	lecture	Brown University
+A Heuristic to Infer ARGs	cs.brown.edu/courses/csci2820/pres/sorin/21/md.pdf	2010	Sorin Istrail	lecture	Brown University
+Analysing biological pathways in genome-wide association studies	cs.brown.edu/courses/csci2820/pres/sorin/11/MB2013- SNPs, the Human Genome, and Genome-Wide Disease Associations.pdf	2010	Sorin Istrail	lecture	Brown University
+Population Genetics: The Hardy-Weinberg Model for Two Loci	cs.brown.edu/courses/csci2820/pres/sorin/14/PopGen-Hardy-Weinberg2loci092110.pdf	2010	Sorin Istrail	lecture	Brown University
+Population Genetics: The Hardy-Weinberg Model for Two Loci	cs.brown.edu/courses/csci2820/pres/sorin/14/PopGen-Hardy-Weinberg091310.pdf	2010	Sorin Istrail	lecture	Brown University
+Computational Haplotype Phasing of Unrelated Individuals	cs.brown.edu/courses/csci2820/pres/sorin/8/MB2013_class8.pdf	2010	Sorin Istrail	lecture	Brown University
+Medical Bioinformatics	cs.brown.edu/courses/csci2820/pres/sorin/3/linkage_disequilibrium_intro.pdf	2010	Sorin Istrail	lecture	Brown University
+Computational Workflows for Genome-Wide Association Study II: Rare Variants	cs.brown.edu/courses/csci2820/pres/sorin/13/ComputationalWorkflowsGWAS 092712.pdf	2010	Sorin Istrail	lecture	Brown University
+Introduction to Markov Chains	cs.brown.edu/courses/csci2820/pres/sorin/13/Markov Chains Intro.pdf	2010	Sorin Istrail	lecture	Brown University
+Computational Workflows for Genome-Wide Association Study I	cs.brown.edu/courses/csci2820/pres/sorin/13/ComputationalWorkflowsGWAS 092312.pdf	2010	Sorin Istrail	lecture	Brown University
+URN MODELS in GENETICS: Wright-Fisher Models and the Ewens Sampling Lemma	cs.brown.edu/courses/csci2820/pres/sorin/13/UrnModels-WrightFisher-EwingSmaplingLemma.pdf	2010	Sorin Istrail	lecture	Brown University
+Genome-Wide Association Studies: An Outline of the Methodology	cs.brown.edu/courses/csci2820/pres/sorin/2/GWAS-general outline of topics092310.pdf	2010	Sorin Istrail	lecture	Brown University
+Phylogeny	www.cs.tufts.edu/comp/167/mona.phylogeny.pdf	2020	Donna Slonim	lecture	Tufts University
+aTEMPO: Pathway-Specific Temporal Anomalies for Precision Therapeutics	www.cs.tufts.edu/comp/167/PSB_atempo_2020.pdf	2020	Donna Slonim	lecture	Tufts University
+CSAX: Characterizing Systematic Anomalies in eXpression Data	www.cs.tufts.edu/comp/167/csax2015.pdf	2020	Donna Slonim	lecture	Tufts University
+The Importance of Bottlenecks in Protein Networks: Correlation with Gene Essentiality and Expression Dynamics	www.cs.tufts.edu/comp/167/bottlenecks.pdf	2020	Donna Slonim	lecture	Tufts University
+De novo assembly of human genomes with massively parallel short read sequencing	www.cs.tufts.edu/comp/167/SOAPdenovo.pdf	2020	Donna Slonim	lecture	Tufts University
+GAGE: A critical evaluation of genome assemblies and assembly algorithms	www.cs.tufts.edu/comp/167/genomeAssemblyGAGE.pdf	2020	Donna Slonim	lecture	Tufts University
+Gene set enrichment analysis: A knowledge-based approach for interpreting genome-wide expression profiles	www.cs.tufts.edu/comp/167/gsea.pdf	2020	Donna Slonim	lecture	Tufts University
+Biological networks	www.cs.tufts.edu/comp/167/arkinreview.pdf	2020	Donna Slonim	lecture	Tufts University
+Molecular Biology for Computer Scientists	www.cs.tufts.edu/comp/167/hunter.pdf	2020	Donna Slonim	lecture	Tufts University
+Toward the dynamic interactome: it's about time	www.cs.tufts.edu/comp/167/BIBdynamicNetsReview10.pdf	2020	Donna Slonim	lecture	Tufts University
+Computational Biology: Genomes, Networks, Evolution	ocw.mit.edu/ans7870/6/6.047/f15/MIT6_047F15_Compiled.pdf	2014	David K. Gifford	lecture	Massachusetts Institute of Technology
+Analysis of Genome Wide Association	ocw.mit.edu/courses/biology/7-91j-foundations-of-computational-and-systems-biology-spring-2014/lecture-slides/MIT7_91JS14_Lecture20.pdf	2014	David K. Gifford	lecture	Massachusetts Institute of Technology
+Modeling & Discovery of Sequence Motifs	ocw.mit.edu/courses/biology/7-91j-foundations-of-computational-and-systems-biology-spring-2014/lecture-slides/MIT7_91JS14_Lecture9.pdf	2014	David K. Gifford	lecture	Massachusetts Institute of Technology
+Modeling Scales	ocw.mit.edu/courses/biology/7-91j-foundations-of-computational-and-systems-biology-spring-2014/lecture-slides/MIT7_91JS14_Lecture12.pdf	2014	David K. Gifford	lecture	Massachusetts Institute of Technology
+ChIP-seq Analysis Irreproducible Discovery Rate (IDR) Analysis	ocw.mit.edu/courses/biology/7-91j-foundations-of-computational-and-systems-biology-spring-2014/lecture-slides/MIT7_91JS14_Lecture7.pdf	2014	David K. Gifford	lecture	Massachusetts Institute of Technology
+Global Alignment of Protein Sequences	ocw.mit.edu/courses/biology/7-91j-foundations-of-computational-and-systems-biology-spring-2014/lecture-slides/MIT7_91JS14_Lecture3.pdf	2014	David K. Gifford	lecture	Massachusetts Institute of Technology
+Library Complexity Short Read Alignment (Mapping)	ocw.mit.edu/courses/biology/7-91j-foundations-of-computational-and-systems-biology-spring-2014/lecture-slides/MIT7_91JS14_Lecture5.pdf	2014	David K. Gifford	lecture	Massachusetts Institute of Technology
+Predicting Protein Structure	ocw.mit.edu/courses/biology/7-91j-foundations-of-computational-and-systems-biology-spring-2014/lecture-slides/MIT7_91JS14_Lecture13.pdf	2014	David K. Gifford	lecture	Massachusetts Institute of Technology
+Genome Assembly	ocw.mit.edu/courses/biology/7-91j-foundations-of-computational-and-systems-biology-spring-2014/lecture-slides/MIT7_91JS14_Lecture6.pdf	2014	David K. Gifford	lecture	Massachusetts Institute of Technology
+Quantitative Trait Loci (QTLs)	ocw.mit.edu/courses/biology/7-91j-foundations-of-computational-and-systems-biology-spring-2014/lecture-slides/MIT7_91JS14_Lecture19.pdf	2014	David K. Gifford	lecture	Massachusetts Institute of Technology
+Analysis of Chromatin Structure	ocw.mit.edu/courses/biology/7-91j-foundations-of-computational-and-systems-biology-spring-2014/lecture-slides/MIT7_91JS14_Lecture18.pdf	2014	David K. Gifford	lecture	Massachusetts Institute of Technology
+Logic Modeling of Cell Signaling Networks	ocw.mit.edu/courses/biology/7-91j-foundations-of-computational-and-systems-biology-spring-2014/lecture-slides/MIT7_91JS14_Lecture17.pdf	2014	David K. Gifford	lecture	Massachusetts Institute of Technology
+Markov & Hidden Markov Models of Genomic & Protein Features	ocw.mit.edu/courses/biology/7-91j-foundations-of-computational-and-systems-biology-spring-2014/lecture-slides/MIT7_91JS14_Lecture10.pdf	2014	David K. Gifford	lecture	Massachusetts Institute of Technology
+Predicting protein interactions	ocw.mit.edu/courses/biology/7-91j-foundations-of-computational-and-systems-biology-spring-2014/lecture-slides/MIT7_91JS14_Lecture14.pdf	2014	David K. Gifford	lecture	Massachusetts Institute of Technology
+Foundations of Computational and Systems Biology	ocw.mit.edu/courses/biology/7-91j-foundations-of-computational-and-systems-biology-spring-2014/lecture-slides/MIT7_91JS14_Lecture1.pdf	2014	David K. Gifford	lecture	Massachusetts Institute of Technology
+Protein Interaction Networks	ocw.mit.edu/courses/biology/7-91j-foundations-of-computational-and-systems-biology-spring-2014/lecture-slides/MIT7_91JS14_Lecture16.pdf	2014	David K. Gifford	lecture	Massachusetts Institute of Technology
+Local Alignment (BLAST) and Statistics	ocw.mit.edu/courses/biology/7-91j-foundations-of-computational-and-systems-biology-spring-2014/lecture-slides/MIT7_91JS14_Lecture2.pdf	2014	David K. Gifford	lecture	Massachusetts Institute of Technology
+RNA Secondary Structure - Biological Function & Prediction	ocw.mit.edu/courses/biology/7-91j-foundations-of-computational-and-systems-biology-spring-2014/lecture-slides/MIT7_91JS14_Lecture11.pdf	2014	David K. Gifford	lecture	Massachusetts Institute of Technology
+Predicting protein interactions	ocw.mit.edu/courses/biology/7-91j-foundations-of-computational-and-systems-biology-spring-2014/lecture-slides/MIT7_91JS14_Lecture15.pdf	2014	David K. Gifford	lecture	Massachusetts Institute of Technology
+Comparative Genomics	ocw.mit.edu/courses/biology/7-91j-foundations-of-computational-and-systems-biology-spring-2014/lecture-slides/MIT7_91JS14_Lecture4.pdf	2014	David K. Gifford	lecture	Massachusetts Institute of Technology
+Understanding Transcription RNA-seq analysis	ocw.mit.edu/courses/biology/7-91j-foundations-of-computational-and-systems-biology-spring-2014/lecture-slides/MIT7_91JS14_Lecture8.pdf	2014	David K. Gifford	lecture	Massachusetts Institute of Technology
+Next-generation sequencing - Mapping short reads	www.cs.utsa.edu/~jruan/teaching/cs5263_spring_2017/slides/slide5_shortreadmapping.ppt	2017	Jianhua Ruan	lecture	University of Texas at San Antonio
+Biological networks Theory and applications	www.cs.utsa.edu/~jruan/teaching/cs5263_spring_2017/slides/networkBiology_2014.pptx	2017	Jianhua Ruan	lecture	University of Texas at San Antonio
+RNA Secondary Structure Prediction	www.cs.utsa.edu/~jruan/teaching/cs5263_spring_2017/slides/RNA.ppt	2017	Jianhua Ruan	lecture	University of Texas at San Antonio
+Introduction to Microarray Data Analysis	www.cs.utsa.edu/~jruan/teaching/cs5263_spring_2017/slides/microarray.ppt	2017	Jianhua Ruan	lecture	University of Texas at San Antonio
+Pair-wise Sequence Alignment	www.cs.utsa.edu/~jruan/teaching/cs5263_spring_2017/slides/slide2_alignment.ppt	2017	Jianhua Ruan	lecture	University of Texas at San Antonio
+Motif Finding	www.cs.utsa.edu/~jruan/teaching/cs5263_spring_2017/slides/slide6_motifFinding.ppt	2017	Jianhua Ruan	lecture	University of Texas at San Antonio
+Next-generation sequencing technology	www.cs.utsa.edu/~jruan/teaching/cs5263_spring_2017/slides/ngs.pptx	2017	Jianhua Ruan	lecture	University of Texas at San Antonio
+Exact String Matching Algorithms	www.cs.utsa.edu/~jruan/teaching/cs5263_spring_2017/slides/slide4_matching.ppt	2017	Jianhua Ruan	lecture	University of Texas at San Antonio
+Lectures 1 & 2: Introduction to Bioinformatics and Molecular Biology	www.cs.utsa.edu/~jruan/teaching/cs5263_spring_2017/slides/slide1_intro.ppt	2017	Jianhua Ruan	lecture	University of Texas at San Antonio
+Lecture 12-14: Markov Chain and Hidden Markov Models	www.cs.utsa.edu/~jruan/teaching/cs5263_spring_2017/slides/HMM_lecture.ppt	2017	Jianhua Ruan	lecture	University of Texas at San Antonio
+Multiple Sequence Alignment	www.cs.utsa.edu/~jruan/teaching/cs5263_spring_2017/slides/slide3_MSA.ppt	2017	Jianhua Ruan	lecture	University of Texas at San Antonio
+Clustering	cobweb.cs.uga.edu/~cai/courses/compbio/2016spring/notes/Chapter10/Ch10_Clustering.ppt	2016	Liming Cai	lecture	University of Georgia
+Molecular Evolution	cobweb.cs.uga.edu/~cai/courses/compbio/2016spring/notes/Chapter10/Ch10_MolEvo.ppt	2016	Liming Cai	lecture	University of Georgia
+Hidden Markov Models	cobweb.cs.uga.edu/~cai/courses/compbio/2016spring/notes/Chapter11/Ch11_HMM.ppt	2016	Liming Cai	lecture	University of Georgia
+Divide & Conquer Algorithms	cobweb.cs.uga.edu/~cai/courses/compbio/2016spring/notes/Chapter07/Ch07_DnC_LinearSpaceAlignment.ppt	2016	Liming Cai	lecture	University of Georgia
+Combinatorial Pattern Matching	cobweb.cs.uga.edu/~cai/courses/compbio/2016spring/notes/Chapter09/Ch09_CombinatorialPatternMatching.ppt	2016	Liming Cai	lecture	University of Georgia
+Graphic Algorithms in Bioinformatics	cobweb.cs.uga.edu/~cai/courses/compbio/2016spring/notes/Chapter08/Ch08_GraphsDNAseq.ppt	2016	Liming Cai	lecture	University of Georgia
+Protein Sequencing and Identification by Mass Spectrometry	cobweb.cs.uga.edu/~cai/courses/compbio/2016spring/notes/Chapter08/Ch08_MassSpec-new.ppt	2016	Liming Cai	lecture	University of Georgia
+Linkage Disequilibrium	cs.brown.edu/courses/csci2820/notes/MB2013_class3.pptx	2019	Sorin Istrail	lecture	Brown University
+Spooky halloween haplotype assembly	cs.brown.edu/courses/csci2820/pres/derek/16/haplotype_assembly_class2.pptx	2019	Sorin Istrail	lecture	Brown University
+Data and Haplotype Phasing	cs.brown.edu/courses/csci2820/pres/derek/4/aguiar_2820_c4.pptx	2019	Sorin Istrail	lecture	Brown University
+Haplotype assembly	cs.brown.edu/courses/csci2820/pres/derek/15/haplotype_assembly_class1.pptx	2019	Sorin Istrail	lecture	Brown University
+Polyploid haplotype assembly	cs.brown.edu/courses/csci2820/pres/derek/17/haplotype_assembly_class3.pptx	2019	Sorin Istrail	lecture	Brown University
+SNPs and the Human Genome	cs.brown.edu/courses/csci2820/pres/sorin/1/MB 2013 - SNPs and the Human Genome .ppt	2019	Sorin Istrail	lecture	Brown University
+Haplotype Block and Tagging SNPs	cs.brown.edu/courses/csci2820/pres/sorin/1/MB 2013 - Haplotype Block and Tagging SNPs.ppt	2019	Sorin Istrail	lecture	Brown University
+Genetic Variaton of Human Genome	cs.brown.edu/courses/csci2820/pres/sorin/1/Genetic Variaton of Human Genome -handout.pptx	2019	Sorin Istrail	lecture	Brown University
+SNPs, the Human Genome, and Genome-Wide Disease Associations	cs.brown.edu/courses/csci2820/pres/sorin/11/MB2013- SNPs, the Human Genome, and Genome-Wide Disease Associations.ppt	2019	Sorin Istrail	lecture	Brown University
+Dobzhansky and Galton and Fisher	cs.brown.edu/courses/csci2820/pres/sorin/2/MB 2013 Dobzhansky and Galton and Fisher.pptx	2019	Sorin Istrail	lecture	Brown University
+Haplotype Block and Tagging SNPs	cs.brown.edu/courses/csci2820/pres/sorin/2/MB 2013 Haplotype Block and Tagging SNPs .ppt	2019	Sorin Istrail	lecture	Brown University
+From Human Genome to Clinical Therapy	cs.brown.edu/courses/csci2820/pres/sorin/2/MB 2013 From Human Genome to Clinical Therapy.ppt	2019	Sorin Istrail	lecture	Brown University
+Data structure: Lookup Table Application: BLAST	www.eecs.wsu.edu/~ananth/CptS571/Lectures/LookupTable-BLAST.ppt	2020	Ananth Kalyanaraman	lecture	Washington State University
+Computational Genomics	www.eecs.wsu.edu/~ananth/CptS571/Lectures/CourseDetails.pptx	2020	Ananth Kalyanaraman	lecture	Washington State University
+Molecular Biology Primer	www.eecs.wsu.edu/~ananth/CptS571/Lectures/IntroToCompBio.pptx	2020	Ananth Kalyanaraman	lecture	Washington State University
+Global Alignment: Dynamic Programming Table	www.eecs.wsu.edu/~ananth/CptS571/Lectures/GlobalAlignment.ppt	2020	Ananth Kalyanaraman	lecture	Washington State University
+McCreight's algorithms for linear-time suffix tree construction	www.eecs.wsu.edu/~ananth/CptS571/Lectures/McCreightsAlgo_Example.pptx	2020	Ananth Kalyanaraman	lecture	Washington State University
