@@ -1,4 +1,4 @@
-# LectureBankCDV Dataset
+# LectureBankCD Dataset
 
 This is the repo for our ACL 2021 paper **Unsupervised Cross-Domain Prerequisite Chain Learning using Variational Graph Autoencoders**.
 
