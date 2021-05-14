@@ -13,5 +13,8 @@ If you use the data or code, please cite our paper:
     
     
 ## Data
+Similar format data with LectureBank2 and LectureBank under `Data` folder.
+Specifically, we provide spliting train/test/val for both CV and BIO domain under `BenchmarkData` folder. In each domain subfolder, we provide tuples of (`train.<fold>.tsv`,`test.<fold>.tsv`,`val.<fold>.tsv`). Our paper report mean results on these 5 splitings. 
+
 ## Code
 Stay tuned!
