@@ -12,6 +12,6 @@ The dataset, 322 proposed topics and the prerequisite annotations can be found i
 `lecturebank20.tsv`: *Lecturebank 2.0* dataset. Similar format with 1.0 version. Due to some regulations, you need to download the data using the URL links we provided. We could not distribute plain texts. 
 
 # code
-`gae_directed`: The code is built upon the [pygcn code (Pytorch)](https://github.com/tkipf/pygcn).
+`gae_directed`: The code is built upon [pygcn code (Pytorch)](https://github.com/tkipf/pygcn) and [vgae code (Pytorch)](https://github.com/zfjsail/gae-pytorch).
 Obviously you will need to process the data and load the annotated relations. But the code only provides a basic idea on the R-GAE model. 
 
