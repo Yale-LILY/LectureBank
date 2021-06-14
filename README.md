@@ -11,7 +11,18 @@ Code for replicating the results will be uploaded soon. Stay tuned.
 The list of descriptions can be found in the following:
 
 ### LectureBank Dataset
-LectureBank Dataset is a manually-collected dataset of lecture slides. We collected 1352 online lecture files from 60 courses covering 5 different domains,  including Natural Language Processing (nlp), Machine Learning (ml), Artificial Intelligence (ai), Deep Learning (dl) and Information Retrieval (ir).  In addition, we release the corresponding annotations for each slide file to the taxonomy described below.  We also provide an additional vocabulary list of size 1221 extracted from the corpus.  
+LectureBank Dataset is a manually-collected dataset of lecture slides. We collected 1352 online lecture files from 60 courses covering 5 different domains,  including Natural Language Processing (nlp), Machine Learning (ml), Artificial Intelligence (ai), Deep Learning (dl) and Information Retrieval (ir).  In addition, we release the corresponding annotations for each slide file to the taxonomy described below.  We also provide an additional vocabulary list of size 1221 extracted from the corpus. 
+
+### LectureBank version 3 (updated 2021-06-14)
+
+The newest release, lecturebank3.tsv, contains 5,000 entries. 
+
+The format has changed slightly from the earlier versions.
+
+`(ID, Title, URL, Topic_ID, Year, Instructor, Path, Venue)`
+
+- `Instructor`: The instructors' name(s).
+- `Path`: Path of the file
 
 ### lecturebank.tsv
 Each line identifies a lecture file. Format:
@@ -27,6 +38,10 @@ Each line identifies a lecture file. Format:
 - `Author`: The author name(s).
 - `Domain`: The domain (nlp, ir, dl, ml, ai).
 - `Venue`: Name of the university, or `GitHub`.
+
+### LectureBank1and2.tsv
+
+This is a combined version of LectureBank1 and LectureBank2. We will release LectureBank3 and a cross-domain version of LectureBank! Stay tuned!
 
 ### download_all.py
 The scripts of downloading the resources from the urls of `lecturebank.tsv`. After running the scripts, all the resources will be downloaded into `data_lecturebank/` folder (change the `base_path` if you want), organized by the `Domain` (for example, `nlp`, `ir`). 
