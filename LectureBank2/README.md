@@ -15,3 +15,14 @@ The dataset, 322 proposed topics and the prerequisite annotations can be found i
 `gae_directed`: The code is built upon [pygcn code (Pytorch)](https://github.com/tkipf/pygcn) and [vgae code (Pytorch)](https://github.com/zfjsail/gae-pytorch).
 Obviously you will need to process the data and load the annotated relations. But the code only provides a basic idea on the R-GAE model. 
 
+<br>
+<br>
+
+If you use the data or code, please cite our paper:
+
+    @article{li2020r,
+      title={R-vgae: Relational-variational graph autoencoder for unsupervised prerequisite chain learning},
+      author={Li, Irene and Fabbri, Alexander and Hingmire, Swapnil and Radev, Dragomir},
+      journal={COLING},
+      year={2020}
+    }
