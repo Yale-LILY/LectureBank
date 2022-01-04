@@ -70,12 +70,26 @@ Contains the prerequisite chain annotation for each possible pair from the 208 t
 Contains 1221 vocabulary terms combined from taxonomy, 208 topics and terms extracted from LectureBank.
 
 
-
 ### LectureBank1and2.tsv
-This is a combined version of LectureBank1 and LectureBank2. We will release LectureBank3 and a cross-domain version of LectureBank! Stay tuned!
+This is a combined version of LectureBank1 and LectureBank2. We also release the cross-domain version of LectureBank, please check the `LectureBankCD` folder.
 
+<br>
+<br>
 
+If you use the data or code, please cite our paper:
 
+    @inproceedings{li2019should,
+      title={What should i learn first: Introducing lecturebank for nlp education and prerequisite chain learning},
+      author={Li, Irene and Fabbri, Alexander R and Tung, Robert R and Radev, Dragomir R},
+      booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+      volume={33},
+      number={01},
+      pages={6674--6681},
+      year={2019}
+        }
+
+    
+    
 
 
 
