@@ -31,13 +31,13 @@ We went through a URL check on May, 2022, here are the valid resource numbers:
 - 3136 lb4.tsv
 - 1321 lb5.tsv
 
-**NOTE**: we combined all five batches of LectureBank, and remove duplicates and invlaid urls. All data can be found in `alldata.tsv` with a total number to be **7104**. 
+**NOTE**: we combined all five batches of LectureBank, and remove duplicates and invlaid urls. All data can be found in [`alldata.tsv`](https://github.com/Yale-LILY/LectureBank/blob/master/alldata.tsv) with a total number to be **7104**. 
 
 
 ## Taxonomy
 
 NLP taxonomy release. 
-In the file `taxonomy.csv`, we include the taxonomy with 320 topics in a tree structure. The topic ID for each topic shows the parent node. For example, `233 (Relation Extraction)` has a parent node to be `23 (Part of Speech Tagging)`, and topic `23` has its parent node to be `2 (Language Modeling, Syntax, Parsing)`.
+In the file [`taxonomy.csv`](https://github.com/Yale-LILY/LectureBank/blob/master/taxonomy.csv), we include the taxonomy with 320 topics in a tree structure. The topic ID for each topic shows the parent node. For example, `233 (Relation Extraction)` has a parent node to be `23 (Part of Speech Tagging)`, and topic `23` has its parent node to be `2 (Language Modeling, Syntax, Parsing)`.
 
 
 - `Topic ID`: Id of topic.
