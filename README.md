@@ -1,10 +1,9 @@
 # LILY LectureBank
 
-We provide LectureBank Data in `LB-Data`
 
 This is the repo for LectureBank Corpus, with all batches and updates. We release meta data in this repo. 
 
-Note that we also have a few works using part of the corpus, you can find more details in this [link](https://github.com/Yale-LILY/LectureBank).
+Note that we also have a few works using part of the corpus, you can find more details in the [LB-Paper](https://github.com/Yale-LILY/LectureBank/tree/master/LB-Paper) folder.
 
 
 
