@@ -1,0 +1,1323 @@
+	ID	Instructor	Title	Topic	URL	Venue	Year
+	1	Aaron Clauset	what are networks and how do we talk about them?	641	https://aaronclauset.github.io/courses/5352/csci5352_F21_L0.pdf	University of Colorado Boulder	2021
+	2	Aaron Clauset	Spreading Processes with Complications	641	https://aaronclauset.github.io/courses/5352//csci5352_F21_L10.pdf	University of Colorado Boulder	2021
+	3	Aaron Clauset	Modeling network growth	641	https://aaronclauset.github.io/courses/5352//csci5352_F21_L11b.pdf	University of Colorado Boulder	2021
+	4	Aaron Clauset	Network data incompleteness and sampling	641	https://aaronclauset.github.io/courses/5352//csci5352_F21_L11.pdf	University of Colorado Boulder	2021
+	5	Aaron Clauset	Rankings and importance in networks	641	https://aaronclauset.github.io/courses/5352//csci5352_F21_L12.pdf	University of Colorado Boulder	2021
+	6	Aaron Clauset	Ethics in networks	641	https://aaronclauset.github.io/courses/5352//csci5352_F21_L13.pdf	University of Colorado Boulder	2021
+	7	Aaron Clauset	What are networks?	641	https://aaronclauset.github.io/courses/5352//csci5352_F21_L1.pdf	University of Colorado Boulder	2021
+	8	Aaron Clauset	Representing and describing networks	641	https://aaronclauset.github.io/courses/5352//csci5352_F21_L2.pdf	University of Colorado Boulder	2021
+	9	Aaron Clauset	Random graph models	641	https://aaronclauset.github.io/courses/5352//csci5352_F21_L3.pdf	University of Colorado Boulder	2021
+	10	Aaron Clauset	Random graphs with heterogeneous degrees	641	https://aaronclauset.github.io/courses/5352//csci5352_F21_L4.pdf	University of Colorado Boulder	2021
+	12	Aaron Clauset	Predicting Missing Links in Networks	641	https://aaronclauset.github.io/courses/5352//csci5352_F21_L6.pdf	University of Colorado Boulder	2021
+	13	Aaron Clauset	Community structure and mixing patterns	641	https://aaronclauset.github.io/courses/5352//csci5352_F21_L7.pdf	University of Colorado Boulder	2021
+	14	Aaron Clauset	Detecting community structure	641	https://aaronclauset.github.io/courses/5352//csci5352_F21_L8.pdf	University of Colorado Boulder	2021
+	15	Aaron Clauset	Spreading Processes on Networks	641	https://aaronclauset.github.io/courses/5352//csci5352_F21_L9.pdf	University of Colorado Boulder	2021
+	16	Aaron Clauset	Assignment1	641	https://aaronclauset.github.io/courses/5352//csci5352_F21_PS1.pdf	University of Colorado Boulder	2021
+	17	Aaron Clauset	Assignment2	641	https://aaronclauset.github.io/courses/5352//csci5352_F21_PS2.pdf	University of Colorado Boulder	2021
+	18	Aaron Clauset	Assignment3	641	https://aaronclauset.github.io/courses/5352//csci5352_F21_PS3.pdf	University of Colorado Boulder	2021
+	19	Aaron Clauset	Assignment4	641	https://aaronclauset.github.io/courses/5352//csci5352_F21_PS4.pdf	University of Colorado Boulder	2021
+	20	Aaron Clauset	Assignment5	641	https://aaronclauset.github.io/courses/5352//csci5352_F21_PS5.pdf	University of Colorado Boulder	2021
+	21	Aaron Clauset	syllabus	641	https://aaronclauset.github.io/courses/5352//csci5352_F21_syllabus_public.pdf	University of Colorado Boulder	2021
+	35	Jelani Nelson	binomial	126	http://people.seas.harvard.edu/~cs125/fall16/binomial.pdf	Harvard University	2016
+	36	Jelani Nelson	bst_rotate	171	http://people.seas.harvard.edu/~cs125/fall16/bst_rotate.pdf	Harvard University	2016
+	38	Jelani Nelson	Finite Automata	171	http://people.seas.harvard.edu/~cs125/fall16/lec11.pdf	Harvard University	2016
+	39	Jelani Nelson	Nondeterminism	171	http://people.seas.harvard.edu/~cs125/fall16/lec12.pdf	Harvard University	2016
+	40	Jelani Nelson	Nondeterministic Polynomial Time	171	http://people.seas.harvard.edu/~cs125/fall16/lec13.pdf	Harvard University	2016
+	42	Jelani Nelson	Proof of the Cook-Levin Theorem	171	http://people.seas.harvard.edu/~cs125/fall16/lec15.pdf	Harvard University	2016
+	43	Jelani Nelson	Countability	171	http://people.seas.harvard.edu/~cs125/fall16/lec16.pdf	Harvard University	2016
+	44	Jelani Nelson	The Halting Problem	171	http://people.seas.harvard.edu/~cs125/fall16/lec17.pdf	Harvard University	2016
+	45	Jelani Nelson	Randomized Algorithms	171	http://people.seas.harvard.edu/~cs125/fall16/lec18.pdf	Harvard University	2016
+	46	Jelani Nelson	The dictionary problem	171	http://people.seas.harvard.edu/~cs125/fall16/lec19.pdf	Harvard University	2016
+	47	Jelani Nelson	Introduction	171	http://people.seas.harvard.edu/~cs125/fall16/lec1.pdf	Harvard University	2016
+	48	Jelani Nelson	2SAT	171	http://people.seas.harvard.edu/~cs125/fall16/lec20.pdf	Harvard University	2016
+	50	Jelani Nelson	probabilistically checkable proof	171	http://people.seas.harvard.edu/~cs125/fall16/lec22.pdf	Harvard University	2016
+	51	Jelani Nelson	Communication with noise, and error-correcting codes	171	http://people.seas.harvard.edu/~cs125/fall16/lec23.pdf	Harvard University	2016
+	52	Jelani Nelson	Greedy Algorithms	171	http://people.seas.harvard.edu/~cs125/fall16/lec2.pdf	Harvard University	2016
+	55	Jelani Nelson	Memoization/Dynamic Programming	171	http://people.seas.harvard.edu/~cs125/fall16/lec5.pdf	Harvard University	2016
+	56	Jelani Nelson	Minimum Spanning Tree	171	http://people.seas.harvard.edu/~cs125/fall16/lec6.pdf	Harvard University	2016
+	57	Jelani Nelson	The Origin of Computer Science	171	http://people.seas.harvard.edu/~cs125/fall16/lec7.pdf	Harvard University	2016
+	58	Jelani Nelson	shortest path algorithms	171	http://people.seas.harvard.edu/~cs125/fall16/lec8.pdf	Harvard University	2016
+	59	Jelani Nelson	Linear programs	171	http://people.seas.harvard.edu/~cs125/fall16/lec9.pdf	Harvard University	2016
+	65	Tim Roughgarden, Gregory Valiant	Lecture #15 and #16: The Fourier Transform and Convolution	184	https://web.stanford.edu/class/cs168/l15.pdf	Columbia University.	2021
+	68	Tim Roughgarden, Gregory Valiant	Lecture #1: Introduction and Consistent Hashing	111	https://web.stanford.edu/class/cs168/p4.pdf	Columbia University.	2021
+	76	Tim Roughgarden, Gregory Valiant	Lecture #9: The Singular Value Decomposition (SVD) and Low-Rank Matrix Approximations	341	https://web.stanford.edu/class/cs168/p9.pdf	Columbia University.	2021
+	77	Sanjoy Dasgupta	Boosting	134	https://cseweb.ucsd.edu/~dasgupta/250B/boosting-handout.pdf	UCSD	2020
+	78	Sanjoy Dasgupta	Convexity	127	https://cseweb.ucsd.edu/~dasgupta/250B/convexity-handout.pdf	UCSD	2020
+	79	Sanjoy Dasgupta	Decision trees	551	https://cseweb.ucsd.edu/~dasgupta/250B/dtree-handout.pdf	UCSD	2020
+	80	Sanjoy Dasgupta	Duality and convex programs	127	https://cseweb.ucsd.edu/~dasgupta/250B/duality-convex-handout.pdf	UCSD	2020
+	81	Sanjoy Dasgupta	Informative projections	999	https://cseweb.ucsd.edu/~dasgupta/250B/informative-projections-handout.pdf	UCSD	2020
+	82	Sanjoy Dasgupta	Kernel methods	521	https://cseweb.ucsd.edu/~dasgupta/250B/kernel-handout.pdf	UCSD	2020
+	83	Sanjoy Dasgupta	The landscape of machine learning	134	https://cseweb.ucsd.edu/~dasgupta/250B/landscape-handout.pdf	UCSD	2020
+	84	Sanjoy Dasgupta	Logistic regression	516	https://cseweb.ucsd.edu/~dasgupta/250B/logistic-regression-handout.pdf	UCSD	2020
+	85	Sanjoy Dasgupta	Multiclass linear prediction	511	https://cseweb.ucsd.edu/~dasgupta/250B/multiclass-handout.pdf	UCSD	2020
+	86	Sanjoy Dasgupta	Feedforward neural nets	711	https://cseweb.ucsd.edu/~dasgupta/250B/neural-nets-handout.pdf	UCSD	2020
+	87	Sanjoy Dasgupta	Nearest neighbor classification	521	https://cseweb.ucsd.edu/~dasgupta/250B/nn-handout.pdf	UCSD	2020
+	88	Sanjoy Dasgupta	A simple linear classifier	511	https://cseweb.ucsd.edu/~dasgupta/250B/perceptron-handout.pdf	UCSD	2020
+	89	Sanjoy Dasgupta	Random forests	521	https://cseweb.ucsd.edu/~dasgupta/250B/random-forests-handout.pdf	UCSD	2020
+	90	Sanjoy Dasgupta	Linear regression	516	https://cseweb.ucsd.edu/~dasgupta/250B/regression-handout.pdf	UCSD	2020
+	91	Sanjoy Dasgupta	Singular value decomposition	311	https://cseweb.ucsd.edu/~dasgupta/250B/svd-handout.pdf	UCSD	2020
+	92	Sanjoy Dasgupta	Support vector machines	311	https://cseweb.ucsd.edu/~dasgupta/250B/svm-handout.pdf	UCSD	2020
+	93	Sanjoy Dasgupta	Unconstrained optimization	127	https://cseweb.ucsd.edu/~dasgupta/250B/unconstrained-optimization-handout.pdf	UCSD	2020
+	94	Constantinos Daskalakis	Lecture 10: Hypothesis Testing	712	https://stellar.mit.edu/S/course/6/sp18/6.883/courseMaterial/topics/topic2/lectureNotes/6.883_-_lecture10b/6.883_-_lecture10b.pdf	MIT	2018
+	95	Constantinos Daskalakis	Lecture 11: Adversarial Examples and Misclassification Attacks	746	https://stellar.mit.edu/S/course/6/sp18/6.883/courseMaterial/topics/topic2/lectureNotes/lecture_11/lecture_11.pdf	MIT	2018
+	96	Constantinos Daskalakis	Lecture 12: Adversarial Examples and Misclassification Attacks II	746	https://stellar.mit.edu/S/course/6/sp18/6.883/courseMaterial/topics/topic2/lectureNotes/lecture_12/lecture_12.pdf	MIT	2018
+	97	Constantinos Daskalakis	Lecture 13: Adversarially Robust Generalization	746	https://stellar.mit.edu/S/course/6/sp18/6.883/courseMaterial/topics/topic2/lectureNotes/lecture_13/lecture_13.pdf	MIT	2018
+	98	Constantinos Daskalakis	Lecture 14: Data Poisoning and Differential Privacy	999	https://stellar.mit.edu/S/course/6/sp18/6.883/courseMaterial/topics/topic2/lectureNotes/lecture_14/lecture_14.pdf	MIT	2018
+	99	Constantinos Daskalakis	Bridging Theory and Practice	711	https://stellar.mit.edu/S/course/6/sp18/6.883/courseMaterial/topics/topic2/lectureNotes/Lecture_1_-_Introduction_-_costis1/Lecture_1_-_Introduction_-_costis.pdf	MIT	2018
+	100	Constantinos Daskalakis	Bridging Theory and Practice	711	https://stellar.mit.edu/S/course/6/sp18/6.883/courseMaterial/topics/topic2/lectureNotes/Lecture_1_-_Introduction_-_costis1/Lecture_1_-_Introduction_-_costis.pdf	MIT	2018
+	101	Constantinos Daskalakis	Introduction	711	https://stellar.mit.edu/S/course/6/sp18/6.883/courseMaterial/topics/topic2/lectureNotes/lecture_1/lecture_1.pdf	MIT	2018
+	102	Constantinos Daskalakis	Lecture 2: Overview of Continuous Optimization Methods	127	https://stellar.mit.edu/S/course/6/sp18/6.883/courseMaterial/topics/topic2/lectureNotes/lecture_2/lecture_2.pdf	MIT	2018
+	103	Constantinos Daskalakis	Lecture 3: Generalization Theory and Rademacher Complexity	712	https://stellar.mit.edu/S/course/6/sp18/6.883/courseMaterial/topics/topic2/lectureNotes/lecture_3/lecture_3.pdf	MIT	2018
+	104	Constantinos Daskalakis	ecture 4: Optimization Landscape of Deep Learning	127	https://stellar.mit.edu/S/course/6/sp18/6.883/courseMaterial/topics/topic2/lectureNotes/lecture_4/lecture_4.pdf	MIT	2018
+	105	Constantinos Daskalakis	Lecture 5: Generalization in Deep Learning	712	https://stellar.mit.edu/S/course/6/sp18/6.883/courseMaterial/topics/topic2/lectureNotes/lecture_5/lecture_5.pdf	MIT	2018
+	106	Constantinos Daskalakis	Lecture 6: Towards Understanding SGD	712	https://stellar.mit.edu/S/course/6/sp18/6.883/courseMaterial/topics/topic2/lectureNotes/lecture_6/lecture_6.pdf	MIT	2018
+	107	Constantinos Daskalakis	Lecture 7: Generative Models and Expectation-Maximization	514	https://stellar.mit.edu/S/course/6/sp18/6.883/courseMaterial/topics/topic2/lectureNotes/lecture_7/lecture_7.pdf	MIT	2018
+	108	Constantinos Daskalakis	Lecture 8: Game-theoretic View on GAN Dynamics	746	https://stellar.mit.edu/S/course/6/sp18/6.883/courseMaterial/topics/topic2/lectureNotes/lecture_8/lecture_8.pdf	MIT	2018
+	109	Constantinos Daskalakis	Lecture 9: Are GANs Truly Distributive Learners?	746	https://stellar.mit.edu/S/course/6/sp18/6.883/courseMaterial/topics/topic2/lectureNotes/lecture_9/lecture_9.pdf	MIT	2018
+	110	Francois Fleuret	Generative Adversarial Networks	746	https://fleuret.org/dlc/materials/dlc-handout-11-1-GAN.pdf	EPFL	2019
+	111	Francois Fleuret	Wasserstein GAN	746	https://fleuret.org/dlc/materials/dlc-handout-11-2-Wasserstein-GAN.pdf	EPFL	2019
+	112	Francois Fleuret	Conditional GAN and image translation	746	https://fleuret.org/dlc/materials/dlc-handout-11-3-conditional-GAN.pdf	EPFL	2019
+	113	Francois Fleuret	Model persistence and checkpoints	713	https://fleuret.org/dlc/materials/dlc-handout-11-4-persistence.pdf	EPFL	2019
+	114	Francois Fleuret	Recurrent Neural Networks	741	https://fleuret.org/dlc/materials/dlc-handout-12-1-RNN-basics.pdf	EPFL	2019
+	115	Francois Fleuret	LSTM and GRU	742	https://fleuret.org/dlc/materials/dlc-handout-12-2-LSTM-and-GRU.pdf	EPFL	2019
+	116	Francois Fleuret	Word embeddings and translation	721	https://fleuret.org/dlc/materials/dlc-handout-12-3-word-embeddings-and-translation.pdf	EPFL	2019
+	117	Francois Fleuret	From neural networks to deep learning	711	https://fleuret.org/dlc/materials/dlc-handout-1-1-from-anns-to-deep-learning.pdf	EPFL	2019
+	118	Francois Fleuret	Current applications and success	711	https://fleuret.org/dlc/materials/dlc-handout-1-2-current-success.pdf	EPFL	2019
+	119	Francois Fleuret	What is really happening	711	https://fleuret.org/dlc/materials/dlc-handout-1-3-what-is-happening.pdf	EPFL	2019
+	120	Francois Fleuret	Tensor basics and linear regression	711	https://fleuret.org/dlc/materials/dlc-handout-1-4-tensors-and-linear-regression.pdf	EPFL	2019
+	121	Francois Fleuret	High dimension tensors	711	https://fleuret.org/dlc/materials/dlc-handout-1-5-high-dimension-tensors.pdf	EPFL	2019
+	122	Francois Fleuret	Tensor internals	711	https://fleuret.org/dlc/materials/dlc-handout-1-6-tensor-internals.pdf	EPFL	2019
+	123	Francois Fleuret	Loss and risk	712	https://fleuret.org/dlc/materials/dlc-handout-2-1-loss-and-risk.pdf	EPFL	2019
+	124	Francois Fleuret	Over and under fitting	712	https://fleuret.org/dlc/materials/dlc-handout-2-2-overfitting.pdf	EPFL	2019
+	125	Francois Fleuret	Bias-variance dilemma	712	https://fleuret.org/dlc/materials/dlc-handout-2-3-bias-variance-dilemma.pdf	EPFL	2019
+	126	Francois Fleuret	Proper evaluation protocols	712	https://fleuret.org/dlc/materials/dlc-handout-2-4-evaluation-protocols.pdf	EPFL	2019
+	128	Francois Fleuret	The perceptron	515	https://fleuret.org/dlc/materials/dlc-handout-3-1-perceptron.pdf	EPFL	2019
+	129	Francois Fleuret	Probabilistic view of a linear classifier	632	https://fleuret.org/dlc/materials/dlc-handout-3-2-LDA.pdf	EPFL	2019
+	131	Francois Fleuret	Multi-Layer Perceptrons	515	https://fleuret.org/dlc/materials/dlc-handout-3-4-MLP.pdf	EPFL	2019
+	132	Francois Fleuret	Gradient descent	516	https://fleuret.org/dlc/materials/dlc-handout-3-5-gradient-descent.pdf	EPFL	2019
+	134	Francois Fleuret	DAG networks	712	https://fleuret.org/dlc/materials/dlc-handout-4-1-DAG-networks.pdf	EPFL	2019
+	135	Francois Fleuret	Autograd	712	https://fleuret.org/dlc/materials/dlc-handout-4-2-autograd.pdf	EPFL	2019
+	136	Francois Fleuret	PyTorch modules and batch processing	712	https://fleuret.org/dlc/materials/dlc-handout-4-3-modules-and-batch-processing.pdf	EPFL	2019
+	137	Francois Fleuret	Convolutions	744	https://fleuret.org/dlc/materials/dlc-handout-4-4-convolutions.pdf	EPFL	2019
+	138	Francois Fleuret	Pooling	744	https://fleuret.org/dlc/materials/dlc-handout-4-5-pooling.pdf	EPFL	2019
+	139	Francois Fleuret	Writing a PyTorch module	712	https://fleuret.org/dlc/materials/dlc-handout-4-6-writing-a-module.pdf	EPFL	2019
+	140	Francois Fleuret	Cross-entropy loss	712	https://fleuret.org/dlc/materials/dlc-handout-5-1-cross-entropy-loss.pdf	EPFL	2019
+	141	Francois Fleuret	Stochastic gradient descent	712	https://fleuret.org/dlc/materials/dlc-handout-5-2-SGD.pdf	EPFL	2019
+	142	Francois Fleuret	PyTorch optimizers	712	https://fleuret.org/dlc/materials/dlc-handout-5-3-optim.pdf	EPFL	2019
+	143	Francois Fleuret	L2 and L1 penalties	712	https://fleuret.org/dlc/materials/dlc-handout-5-4-l2-l1-penalties.pdf	EPFL	2019
+	144	Francois Fleuret	Parameter initialization	712	https://fleuret.org/dlc/materials/dlc-handout-5-5-initialization.pdf	EPFL	2019
+	146	Francois Fleuret	Writing an autograd function	712	https://fleuret.org/dlc/materials/dlc-handout-5-7-writing-an-autograd-function.pdf	EPFL	2019
+	147	Francois Fleuret	Benefits of depth	712	https://fleuret.org/dlc/materials/dlc-handout-6-1-benefits-of-depth.pdf	EPFL	2019
+	148	Francois Fleuret	Rectifiers	712	https://fleuret.org/dlc/materials/dlc-handout-6-2-rectifiers.pdf	EPFL	2019
+	149	Francois Fleuret	Dropout	712	https://fleuret.org/dlc/materials/dlc-handout-6-3-dropout.pdf	EPFL	2019
+	150	Francois Fleuret	Batch normalization	712	https://fleuret.org/dlc/materials/dlc-handout-6-4-batch-normalization.pdf	EPFL	2019
+	151	Francois Fleuret	Residual networks	712	https://fleuret.org/dlc/materials/dlc-handout-6-5-residual-networks.pdf	EPFL	2019
+	152	Francois Fleuret	Using GPUs	712	https://fleuret.org/dlc/materials/dlc-handout-6-6-using-GPUs.pdf	EPFL	2019
+	153	Francois Fleuret	Computer vision tasks	999	https://fleuret.org/dlc/materials/dlc-handout-8-1-CV-tasks.pdf	EPFL	2019
+	154	Francois Fleuret	Networks for image classification	999	https://fleuret.org/dlc/materials/dlc-handout-8-2-image-classification.pdf	EPFL	2019
+	155	Francois Fleuret	Networks for object detection	999	https://fleuret.org/dlc/materials/dlc-handout-8-3-object-detection.pdf	EPFL	2019
+	156	Francois Fleuret	Networks for semantic segmentation	999	https://fleuret.org/dlc/materials/dlc-handout-8-4-segmentation.pdf	EPFL	2019
+	157	Francois Fleuret	DataLoader and neuro-surgery	999	https://fleuret.org/dlc/materials/dlc-handout-8-5-dataloader-and-surgery.pdf	EPFL	2019
+	158	Francois Fleuret	Looking at parameters	713	https://fleuret.org/dlc/materials/dlc-handout-9-1-looking-at-parameters.pdf	EPFL	2019
+	159	Francois Fleuret	Looking at activations	713	https://fleuret.org/dlc/materials/dlc-handout-9-2-looking-at-activations.pdf	EPFL	2019
+	160	Francois Fleuret	Visualizing the processing in the input	713	https://fleuret.org/dlc/materials/dlc-handout-9-3-visualizing-in-input.pdf	EPFL	2019
+	161	Francois Fleuret	Optimizing inputs	713	https://fleuret.org/dlc/materials/dlc-handout-9-4-optimizing-inputs.pdf	EPFL	2019
+	162	Francois Fleuret	Transposed convolutions	744	https://fleuret.org/dlc/materials/dlc-handout-7-1-transposed-convolutions.pdf	EPFL	2019
+	163	Francois Fleuret	Deep Autoencoders	749	https://fleuret.org/dlc/materials/dlc-handout-7-2-autoencoders.pdf	EPFL	2019
+	164	Francois Fleuret	Denoising autoencoders	749	https://fleuret.org/dlc/materials/dlc-handout-7-3-denoising-autoencoders.pdf	EPFL	2019
+	165	Francois Fleuret	VAE	749	https://fleuret.org/dlc/materials/dlc-handout-7-4-VAE.pdf	EPFL	2019
+	166	Francois Fleuret	Generative Adversarial Networks	746	https://fleuret.org/dlc/materials/dlc-slides-11-1-GAN.pdf	EPFL	2019
+	167	Francois Fleuret	Wasserstein GAN	746	https://fleuret.org/dlc/materials/dlc-slides-11-2-Wasserstein-GAN.pdf	EPFL	2019
+	168	Francois Fleuret	Conditional GAN and image translation	746	https://fleuret.org/dlc/materials/dlc-slides-11-3-conditional-GAN.pdf	EPFL	2019
+	169	Francois Fleuret	Model persistence and checkpoints	713	https://fleuret.org/dlc/materials/dlc-slides-11-4-persistence.pdf	EPFL	2019
+	170	Francois Fleuret	Recurrent Neural Networks	741	https://fleuret.org/dlc/materials/dlc-slides-12-1-RNN-basics.pdf	EPFL	2019
+	171	Francois Fleuret	LSTM and GRU	742	https://fleuret.org/dlc/materials/dlc-slides-12-2-LSTM-and-GRU.pdf	EPFL	2019
+	172	Francois Fleuret	Word embeddings and translation	721	https://fleuret.org/dlc/materials/dlc-slides-12-3-word-embeddings-and-translation.pdf	EPFL	2019
+	173	Francois Fleuret	From neural networks to deep learning	711	https://fleuret.org/dlc/materials/dlc-slides-1-1-from-anns-to-deep-learning.pdf	EPFL	2019
+	174	Francois Fleuret	Current applications and success	711	https://fleuret.org/dlc/materials/dlc-slides-1-2-current-success.pdf	EPFL	2019
+	175	Francois Fleuret	What is really happening	711	https://fleuret.org/dlc/materials/dlc-slides-1-3-what-is-happening.pdf	EPFL	2019
+	176	Francois Fleuret	Tensor basics and linear regression	711	https://fleuret.org/dlc/materials/dlc-slides-1-4-tensors-and-linear-regression.pdf	EPFL	2019
+	177	Francois Fleuret	High dimension tensors	711	https://fleuret.org/dlc/materials/dlc-slides-1-5-high-dimension-tensors.pdf	EPFL	2019
+	178	Francois Fleuret	Tensor internals	711	https://fleuret.org/dlc/materials/dlc-slides-1-6-tensor-internals.pdf	EPFL	2019
+	179	Francois Fleuret	Loss and risk	712	https://fleuret.org/dlc/materials/dlc-slides-2-1-loss-and-risk.pdf	EPFL	2019
+	180	Francois Fleuret	Over and under fitting	712	https://fleuret.org/dlc/materials/dlc-slides-2-2-overfitting.pdf	EPFL	2019
+	181	Francois Fleuret	Bias-variance dilemma	712	https://fleuret.org/dlc/materials/dlc-slides-2-3-bias-variance-dilemma.pdf	EPFL	2019
+	182	Francois Fleuret	Proper evaluation protocols	712	https://fleuret.org/dlc/materials/dlc-slides-2-4-evaluation-protocols.pdf	EPFL	2019
+	184	Francois Fleuret	The perceptron	515	https://fleuret.org/dlc/materials/dlc-slides-3-1-perceptron.pdf	EPFL	2019
+	185	Francois Fleuret	Probabilistic view of a linear classifier	632	https://fleuret.org/dlc/materials/dlc-slides-3-2-LDA.pdf	EPFL	2019
+	187	Francois Fleuret	Multi-Layer Perceptrons	515	https://fleuret.org/dlc/materials/dlc-slides-3-4-MLP.pdf	EPFL	2019
+	188	Francois Fleuret	Gradient descent	516	https://fleuret.org/dlc/materials/dlc-slides-3-5-gradient-descent.pdf	EPFL	2019
+	190	Francois Fleuret	DAG networks	712	https://fleuret.org/dlc/materials/dlc-slides-4-1-DAG-networks.pdf	EPFL	2019
+	191	Francois Fleuret	Autograd	712	https://fleuret.org/dlc/materials/dlc-slides-4-2-autograd.pdf	EPFL	2019
+	192	Francois Fleuret	PyTorch modules and batch processing	712	https://fleuret.org/dlc/materials/dlc-slides-4-3-modules-and-batch-processing.pdf	EPFL	2019
+	193	Francois Fleuret	Convolutions	744	https://fleuret.org/dlc/materials/dlc-slides-4-4-convolutions.pdf	EPFL	2019
+	194	Francois Fleuret	Pooling	744	https://fleuret.org/dlc/materials/dlc-slides-4-5-pooling.pdf	EPFL	2019
+	195	Francois Fleuret	Writing a PyTorch module	712	https://fleuret.org/dlc/materials/dlc-slides-4-6-writing-a-module.pdf	EPFL	2019
+	196	Francois Fleuret	Cross-entropy loss	712	https://fleuret.org/dlc/materials/dlc-slides-5-1-cross-entropy-loss.pdf	EPFL	2019
+	197	Francois Fleuret	Stochastic gradient descent	712	https://fleuret.org/dlc/materials/dlc-slides-5-2-SGD.pdf	EPFL	2019
+	198	Francois Fleuret	PyTorch optimizers	712	https://fleuret.org/dlc/materials/dlc-slides-5-3-optim.pdf	EPFL	2019
+	199	Francois Fleuret	L2 and L1 penalties	712	https://fleuret.org/dlc/materials/dlc-slides-5-4-l2-l1-penalties.pdf	EPFL	2019
+	200	Francois Fleuret	Parameter initialization	712	https://fleuret.org/dlc/materials/dlc-slides-5-5-initialization.pdf	EPFL	2019
+	202	Francois Fleuret	Writing an autograd function	712	https://fleuret.org/dlc/materials/dlc-slides-5-7-writing-an-autograd-function.pdf	EPFL	2019
+	203	Francois Fleuret	Benefits of depth	712	https://fleuret.org/dlc/materials/dlc-slides-6-1-benefits-of-depth.pdf	EPFL	2019
+	204	Francois Fleuret	Rectifiers	712	https://fleuret.org/dlc/materials/dlc-slides-6-2-rectifiers.pdf	EPFL	2019
+	205	Francois Fleuret	Dropout	712	https://fleuret.org/dlc/materials/dlc-slides-6-3-dropout.pdf	EPFL	2019
+	206	Francois Fleuret	Batch normalization	712	https://fleuret.org/dlc/materials/dlc-slides-6-4-batch-normalization.pdf	EPFL	2019
+	207	Francois Fleuret	Residual networks	712	https://fleuret.org/dlc/materials/dlc-slides-6-5-residual-networks.pdf	EPFL	2019
+	208	Francois Fleuret	Using GPUs	712	https://fleuret.org/dlc/materials/dlc-slides-6-6-using-GPUs.pdf	EPFL	2019
+	209	Francois Fleuret	Computer vision tasks	999	https://fleuret.org/dlc/materials/dlc-slides-8-1-CV-tasks.pdf	EPFL	2019
+	210	Francois Fleuret	Networks for image classification	999	https://fleuret.org/dlc/materials/dlc-slides-8-2-image-classification.pdf	EPFL	2019
+	211	Francois Fleuret	Networks for object detection	999	https://fleuret.org/dlc/materials/dlc-slides-8-3-object-detection.pdf	EPFL	2019
+	212	Francois Fleuret	Networks for semantic segmentation	999	https://fleuret.org/dlc/materials/dlc-slides-8-4-segmentation.pdf	EPFL	2019
+	213	Francois Fleuret	DataLoader and neuro-surgery	999	https://fleuret.org/dlc/materials/dlc-slides-8-5-dataloader-and-surgery.pdf	EPFL	2019
+	214	Francois Fleuret	Looking at parameters	713	https://fleuret.org/dlc/materials/dlc-slides-9-1-looking-at-parameters.pdf	EPFL	2019
+	215	Francois Fleuret	Looking at activations	713	https://fleuret.org/dlc/materials/dlc-slides-9-2-looking-at-activations.pdf	EPFL	2019
+	216	Francois Fleuret	Visualizing the processing in the input	713	https://fleuret.org/dlc/materials/dlc-slides-9-3-visualizing-in-input.pdf	EPFL	2019
+	217	Francois Fleuret	Optimizing inputs	713	https://fleuret.org/dlc/materials/dlc-slides-9-4-optimizing-inputs.pdf	EPFL	2019
+	218	Francois Fleuret	Transposed convolutions	744	https://fleuret.org/dlc/materials/dlc-slides-7-1-transposed-convolutions.pdf	EPFL	2019
+	219	Francois Fleuret	Deep Autoencoders	749	https://fleuret.org/dlc/materials/dlc-slides-7-2-autoencoders.pdf	EPFL	2019
+	220	Francois Fleuret	Denoising autoencoders	749	https://fleuret.org/dlc/materials/dlc-slides-7-3-denoising-autoencoders.pdf	EPFL	2019
+	221	Francois Fleuret	VAE	749	https://fleuret.org/dlc/materials/dlc-slides-7-4-VAE.pdf	EPFL	2019
+	222	Jason Eisner	Bayesian Generative Modeling	514	https://www.cs.jhu.edu/~jason/465/PowerPoint/2011-07.lisbonschool-gen-bayes.ppt	JHU	2021
+	223	Jason Eisner	Ngrams	999	https://www.cs.jhu.edu/~jason/465/PowerPoint/lect01,3tr-ngram-gen.pdf	JHU	2021
+	224	Jason Eisner	Introduction	711	https://www.cs.jhu.edu/~jason/465/PowerPoint/lect01-intro.ppt	JHU	2021
+	225	Jason Eisner	Modeling Grammaticality	999	https://www.cs.jhu.edu/~jason/465/PowerPoint/lect02-modeling-grammaticality.ppt	JHU	2021
+	226	Jason Eisner	What are n-grams good for?	211	https://www.cs.jhu.edu/~jason/465/PowerPoint/lect03-ngram-apps.ppt	JHU	2021
+	227	Jason Eisner	unscrambling text	999	https://www.cs.jhu.edu/~jason/465/PowerPoint/lect04.5-unscrambling-text.ppt	JHU	2021
+	228	Jason Eisner	How to Use Probabilities	123	https://www.cs.jhu.edu/~jason/465/PowerPoint/lect04-prob-intro.ppt	JHU	2021
+	229	Jason Eisner	Bayes’ Theorem	125	https://www.cs.jhu.edu/~jason/465/PowerPoint/lect05-bayes.ppt	JHU	2021
+	230	Jason Eisner	Smoothing	125	https://www.cs.jhu.edu/~jason/465/PowerPoint/lect05-smoothing.ppt	JHU	2021
+	231	Jason Eisner	Syntactic Attributes	241	https://www.cs.jhu.edu/~jason/465/PowerPoint/lect06-syntactic-features.ppt	JHU	2021
+	232	Jason Eisner	Parsing	241	https://www.cs.jhu.edu/~jason/465/PowerPoint/lect08-parse.ppt	JHU	2021
+	233	Jason Eisner	CKY-Earley	244	https://www.cs.jhu.edu/~jason/465/PowerPoint/lect08tr-cky-earley.pdf	JHU	2021
+	234	Jason Eisner	Earley’s Algorithm	245	https://www.cs.jhu.edu/~jason/465/PowerPoint/lect10-earley.ppt	JHU	2021
+	235	Jason Eisner	Weighted Parsing, Probabilistic Parsing	251	https://www.cs.jhu.edu/~jason/465/PowerPoint/lect11-pcky.ppt	JHU	2021
+	236	Jason Eisner	Parsing Tricks	251	https://www.cs.jhu.edu/~jason/465/PowerPoint/lect12-parsetricks.ppt	JHU	2021
+	237	Jason Eisner	Human Sentence Processing	999	https://www.cs.jhu.edu/~jason/465/PowerPoint/lect13-human.ppt	JHU	2021
+	238	Jason Eisner	Semantics	322	https://www.cs.jhu.edu/~jason/465/PowerPoint/lect14-semantics.ppt	JHU	2021
+	239	Jason Eisner	Deep Learning for NLP	715	https://www.cs.jhu.edu/~jason/465/PowerPoint/lect15-neural.pptx	JHU	2021
+	240	Jason Eisner	Finite-State Methods	162	https://www.cs.jhu.edu/~jason/465/PowerPoint/lect16-fsmintro.ppt	JHU	2021
+	241	Jason Eisner	Building Finite-State Machines	162	https://www.cs.jhu.edu/~jason/465/PowerPoint/lect17-fsmbuild.ppt	JHU	2021
+	242	Jason Eisner	Finite-State Programming	162	https://www.cs.jhu.edu/~jason/465/PowerPoint/lect18-fsmexamples.ppt	JHU	2021
+	243	Jason Eisner	Finite-State and the Noisy Channel	162	https://www.cs.jhu.edu/~jason/465/PowerPoint/lect19-noisychannel.ppt	JHU	2021
+	244	Jason Eisner	Phonology	922	https://www.cs.jhu.edu/~jason/465/PowerPoint/lect20-phonology.ppt	JHU	2021
+	245	Jason Eisner	Part-of-Speech Tagging	231	https://www.cs.jhu.edu/~jason/465/PowerPoint/lect22-tagging.ppt	JHU	2021
+	246	Jason Eisner	Hidden Markov Models	221	https://www.cs.jhu.edu/~jason/465/PowerPoint/lect24-hmm.ppt	JHU	2021
+	247	Jason Eisner	The Expectation Maximization (EM) Algorithm	222	https://www.cs.jhu.edu/~jason/465/PowerPoint/lect26-em.ppt	JHU	2021
+	248	Jason Eisner	Learning in the Limit	999	https://www.cs.jhu.edu/~jason/465/PowerPoint/lect27-learnlimit.ppt	JHU	2021
+	249	Jason Eisner	Grouping Words	144	https://www.cs.jhu.edu/~jason/465/PowerPoint/lect29-groupwords.ppt	JHU	2021
+	250	Jason Eisner	Splitting Words	371	https://www.cs.jhu.edu/~jason/465/PowerPoint/lect30-splitwords.ppt	JHU	2021
+	251	Jason Eisner	Topic Model	999	https://www.cs.jhu.edu/~jason/465/PowerPoint/lect31-topicmodels.ppt	JHU	2021
+	252	Jason Eisner	Words vs. Terms	141	https://www.cs.jhu.edu/~jason/465/PowerPoint/lect31-wordsvsterms.ppt	JHU	2021
+	253	Jason Eisner	Machine translation: Word-based models and the EM algorithm	452	https://www.cs.jhu.edu/~jason/465/PowerPoint/lect32a-mt-word-based-models.pdf	JHU	2021
+	254	Jason Eisner	Machine translation: Decoding	451	https://www.cs.jhu.edu/~jason/465/PowerPoint/lect32b-mt-decoding.pdf	JHU	2021
+	255	Jason Eisner	Learning to Translate	451	https://www.cs.jhu.edu/~jason/465/PowerPoint/lect32-translation.ppt	JHU	2021
+	256	Jason Eisner	Text Categorization	999	https://www.cs.jhu.edu/~jason/465/PowerPoint/lect33-textcat.ppt	JHU	2021
+	257	Jason Eisner	Structured Prediction with Perceptrons and CRFs	961	https://www.cs.jhu.edu/~jason/465/PowerPoint/lect34-crf.ppt	JHU	2021
+	258	Jason Eisner	Current & Future NLP Research	999	https://www.cs.jhu.edu/~jason/465/PowerPoint/lect35-future.ppt	JHU	2021
+	259	Jason Eisner	NLP Tasks and Applications	999	https://www.cs.jhu.edu/~jason/465/PowerPoint/lect36-tasks.ppt	JHU	2021
+	260	Jason Eisner	Connecting the dots - I(NLP in Practice)	999	https://www.cs.jhu.edu/~jason/465/PowerPoint/lect-tasks-rao1.ppt	JHU	2021
+	261	Jason Eisner	Connecting the dots - II(NLP in Practice)	999	https://www.cs.jhu.edu/~jason/465/PowerPoint/lect-tasks-rao2.ppt	JHU	2021
+	262	Jason Eisner	Machine Translation	451	https://www.cs.jhu.edu/~jason/465/PowerPoint/lect-translation-lopez.pdf	JHU	2021
+	263	Jason Eisner	Machine Translation	451	https://www.cs.jhu.edu/~jason/465/PowerPoint/lect-translation-post.pdf	JHU	2021
+	264	Jean Mark Gawron	plot_2	999	https://gawron.sdsu.edu/python_for_ss/course_core/book_draft/pyplots/sample_plots_2.pdf	San Diego State University	2020
+	265	Jean Mark Gawron	plot_3	999	https://gawron.sdsu.edu/python_for_ss/course_core/book_draft/pyplots/sample_plots_3.pdf	San Diego State University	2020
+	266	Jean Mark Gawron	plot	999	https://gawron.sdsu.edu/python_for_ss/course_core/book_draft/pyplots/sample_plots.pdf	San Diego State University	2020
+	267	Jean Mark Gawron	Broadcasting	999	https://gawron.sdsu.edu/python_for_ss/course_core/lectures/broadcasting.pdf	San Diego State University	2020
+	268	Jean Mark Gawron	Dimensionality reduction with LSI	341	https://gawron.sdsu.edu/python_for_ss/course_core/lectures/dimensionality_reduction_svd_lsi.pdf	San Diego State University	2020
+	269	Jean Mark Gawron	Introduction	112	https://gawron.sdsu.edu/python_for_ss/course_core/lectures/intro_class_slides.pdf	San Diego State University	2020
+	270	Jean Mark Gawron	Latent Semantic Indexing	999	https://gawron.sdsu.edu/python_for_ss/course_core/lectures/lsi_intro.pdf	San Diego State University	2020
+	271	Jean Mark Gawron	Numbers and strings	999	https://gawron.sdsu.edu/python_for_ss/course_core/lectures/python_types_slides_one.pdf	San Diego State University	2020
+	272	Jean Mark Gawron	Lists, tuples, dicts	999	https://gawron.sdsu.edu/python_for_ss/course_core/lectures/python_types_slides_two.pdf	San Diego State University	2020
+	273	Jean Mark Gawron	Social Networks	999	https://gawron.sdsu.edu/python_for_ss/course_core/lectures/social_network_slides.pdf	San Diego State University	2020
+	274	Jean Mark Gawron	Aspect tutorial	811	https://gawron.sdsu.edu/semantics/course_core/lectures/aspect_tutorial.pdf	San Diego State University	2013
+	275	Jean Mark Gawron	Logical Translations	831	https://gawron.sdsu.edu/semantics/course_core/lectures/logic_lecture.pdf	San Diego State University	2013
+	276	Jean Mark Gawron	Logical form tutorial	831	https://gawron.sdsu.edu/semantics/course_core/lectures/logic_tran_tutorial.pdf	San Diego State University	2013
+	277	Jean Mark Gawron	Logical Translations	831	https://gawron.sdsu.edu/semantics/course_core/lectures/logic_tree.pdf	San Diego State University	2013
+	278	Jean Mark Gawron	Simple English to Logic	831	https://gawron.sdsu.edu/semantics/course_core/lectures/neither_nor_unless.pdf	San Diego State University	2013
+	279	Jean Mark Gawron	Varieties of meaning	311	https://gawron.sdsu.edu/semantics/course_core/lectures/new_intro.pdf	San Diego State University	2013
+	280	Jean Mark Gawron	Lexical Representations	311	https://gawron.sdsu.edu/semantics/course_core/lectures/new_lcs_slides.pdf	San Diego State University	2013
+	281	Jean Mark Gawron	Logical Translations	831	https://gawron.sdsu.edu/semantics/course_core/lectures/new_logic_lecture.pdf	San Diego State University	2013
+	282	Jean Mark Gawron	Predicate Logic	832	https://gawron.sdsu.edu/semantics/course_core/lectures/pred_logic_slides.pdf	San Diego State University	2013
+	283	Jean Mark Gawron	Presupposition	831	https://gawron.sdsu.edu/semantics/course_core/lectures/presupposition.pdf	San Diego State University	2013
+	284	Jean Mark Gawron	Russell’s Analysis	831	https://gawron.sdsu.edu/semantics/course_core/lectures/russell_discussion.pdf	San Diego State University	2013
+	285	Jean Mark Gawron	Set Theory	129	https://gawron.sdsu.edu/semantics/course_core/lectures/set_theory.pdf	San Diego State University	2013
+	286	Jean Mark Gawron	Statement logic/predicates	832	https://gawron.sdsu.edu/semantics/course_core/lectures/translating_english_into_statement_logic.pdf	San Diego State University	2013
+	287	Jean Mark Gawron	Logic trees & Truth Tables	832	https://gawron.sdsu.edu/semantics/course_core/lectures/tree_table_examples.pdf	San Diego State University	2013
+	288	Jean Mark Gawron	Truth Sets, Possible Worlds	129	https://gawron.sdsu.edu/semantics/course_core/lectures/truth_sets_possible_worlds.pdf	San Diego State University	2013
+	289	Jean Mark Gawron	Aspectual types of events	811	https://gawron.sdsu.edu/semantics/course_core/lectures/vendler.pdf	San Diego State University	2013
+	290	Katherine Keith	Machine Learning	134	https://drive.google.com/file/d/1U0Oke3NkSH1t22kr-_aiQce9iXUMwyxc/view	Allen Institute for Artificial Intelligence	2020
+	291	Katherine Keith	NumPy Intro and Gradient Descent Demo	131	https://drive.google.com/file/d/1EFX_hnFXLWubhpWz9XEz0Rd1yD49w_wC/view?usp=sharing	Allen Institute for Artificial Intelligence	2020
+	292	Katherine Keith	Matrices in Python	131	https://drive.google.com/file/d/1WvYGgTmuyB8glGK7zIV5I1hwarWfY4eY/view?usp=sharing	Allen Institute for Artificial Intelligence	2020
+	293	Katherine Keith	PYTHON REVIEW	131	https://drive.google.com/file/d/1Kw3pRYu16qglewf5PPP-Y2lEJvgYcDqs/view?usp=sharing	Allen Institute for Artificial Intelligence	2020
+	294	Katherine Keith	Backprop Examples	516	https://drive.google.com/file/d/1r2Hbfp2NkVGZvO72534KoomCUadRxF3x/view?usp=sharing	Allen Institute for Artificial Intelligence	2020
+	295	Katherine Keith	Ethics in Machine Learning	931	https://drive.google.com/file/d/1triGdIGVs2_eMn_u-YFeJwztfou6Nz9q/view?usp=sharing	Allen Institute for Artificial Intelligence	2020
+	296	Katherine Keith	Model selection: finding the best hyperparameters	712	https://drive.google.com/file/d/1IkyHQ85wz5-uJG5P3A177LWliqTKK1Rc/view?usp=sharing	Allen Institute for Artificial Intelligence	2020
+	297	Katherine Keith	Lecture 11: KNN and Decision Trees	551	https://drive.google.com/open?id=1Xnph9gyGYQYbJx8ch_GpVgfPIwwckf4K	Allen Institute for Artificial Intelligence	2020
+	298	Katherine Keith	Multi-Class Classification	511	https://drive.google.com/file/d/1W-YjopVIyXvfSPcYdPgOxNjjS1R4CUjt/view	Allen Institute for Artificial Intelligence	2020
+	299	Katherine Keith	K-Nearest Neighbors and Decision Trees	551	https://drive.google.com/file/d/1zbCrpgV7roqB9NESfdyeak-fyIDz9Li5/view?usp=sharing	Allen Institute for Artificial Intelligence	2020
+	300	Katherine Keith	Deep Learning/Neural Networks	712	https://drive.google.com/file/d/15_Py58rbP35zAJIvu4PdqrSGJFvG5BL2/view?usp=sharing	Allen Institute for Artificial Intelligence	2020
+	301	Katherine Keith	Neural Networks II: Back-propagation	712	https://drive.google.com/file/d/1zTVW_nW0ZWdVHTMuAKlGQUda_quthRHX/view?usp=sharing	Allen Institute for Artificial Intelligence	2020
+	302	Katherine Keith	Neural Networks, Part 3A: Regularization	712	https://drive.google.com/file/d/1_CoSfE6zLR0746QkeTaSEwQmlWCw-oxM/view?usp=sharing	Allen Institute for Artificial Intelligence	2020
+	303	Katherine Keith	Kernel Trick	521	https://drive.google.com/file/d/16Z73HFk5EqJuBNdyfq13drcJWIRV1YUF/view?usp=sharing	Allen Institute for Artificial Intelligence	2020
+	304	Katherine Keith	Support Vector Machines	521	https://drive.google.com/file/d/1mPNrG9aoU2NropJoG7EYnW8WgeVWR_cF/view?usp=sharing	Allen Institute for Artificial Intelligence	2020
+	305	Katherine Keith	Overview of Unsupervised Learning and K-Means Clustering	551	https://drive.google.com/file/d/16U6gjBdEPaLJ6jUkH7IHUBA3KqeRqbYF/view?usp=sharing	Allen Institute for Artificial Intelligence	2020
+	306	Katherine Keith	Expectation Maximization Algorithm	454	https://drive.google.com/file/d/1t_6TsV5VH-wt2BRAD_GSLhqsuGVP-qMg/view?usp=sharing	Allen Institute for Artificial Intelligence	2020
+	307	Katherine Keith	Expectation Maximization Algorithm	454	https://drive.google.com/file/d/1vI4XFxCC-vubDYiUswTU7tg6bw1dzzaA/view?usp=sharing	Allen Institute for Artificial Intelligence	2020
+	308	Katherine Keith	PCA	127	https://drive.google.com/file/d/1ouS1CleorHven7NxlAWUH6B9ivDBw1tg/view?usp=sharing	Allen Institute for Artificial Intelligence	2020
+	309	Katherine Keith	Bayesian Classification	511	https://drive.google.com/file/d/1gVgKNl7f-2DjvZQRaB6057rZIBmpEsw5/view?usp=sharing	Allen Institute for Artificial Intelligence	2020
+	310	Katherine Keith	Introduction to Reinforcement Learning	857	https://drive.google.com/file/d/1qXg2izJO_I8AwC2sE6Pm9lNjWhghvMFp/view?usp=sharing	Allen Institute for Artificial Intelligence	2020
+	311	Katherine Keith	Linear Regression	516	https://drive.google.com/open?id=1mXhMVmtG-UhK_nM-nC2iOIx1Xzlhngt8	Allen Institute for Artificial Intelligence	2020
+	312	Katherine Keith	Calculus	126	https://drive.google.com/file/d/1BZbELd8DSIhVL8YIDphADxGDINQEuA2y/view?usp=sharing	Allen Institute for Artificial Intelligence	2020
+	313	Katherine Keith	Gradient Descent	516	https://drive.google.com/open?id=1bC8gDmmHrKcILhH5xhxYYFrTo6ni2Jbn	Allen Institute for Artificial Intelligence	2020
+	314	Katherine Keith	Linear Algebra for ML	121	https://drive.google.com/file/d/1Hq5ixdnSt7rUlKZpqOG_L5HVPNrGUJrT/view?usp=sharing	Allen Institute for Artificial Intelligence	2020
+	315	Katherine Keith	Multivariate Linear Regression	516	https://drive.google.com/file/d/1duQi5ArPwn5eRHy7jko4n2oiOmOXRyoP/view?usp=sharing	Allen Institute for Artificial Intelligence	2020
+	316	Katherine Keith	Normal equations and vectorized gradient descent	516	https://drive.google.com/file/d/1O-0HxHHiLpUxmFFPHKnbfwqjVkxd69cu/view?usp=sharing	Allen Institute for Artificial Intelligence	2020
+	317	Katherine Keith	Logistic Regression	516	https://drive.google.com/file/d/1ZD80U4wmF_gGQbdXQtUNedIB61pW4ary/view?usp=sharing	Allen Institute for Artificial Intelligence	2020
+	318	Katherine Keith	Evaluating Models	134	https://drive.google.com/file/d/1M21aUHQjuhmOHs09tpVW_c4XkJmHW2zT/view?usp=sharing	Allen Institute for Artificial Intelligence	2020
+	319	Katherine Keith	Probability and Logarithms	123	https://drive.google.com/open?id=1Z-Vfnp_a2Y5YU9Izap-_Z38-Kc-xBMUw	Allen Institute for Artificial Intelligence	2020
+	320	Katherine Keith	Overfitting and Regularization	712	https://drive.google.com/file/d/1zm3hZoxrjSzsRbGO7SD5l1Ytw77PaHe1/view?usp=sharing	Allen Institute for Artificial Intelligence	2020
+	321	Katherine Keith	ML Review	134	https://drive.google.com/file/d/1ddSHPGKK7k0Yf3_h86Cv8VWMKNOwkQlk/view?usp=sharing	Allen Institute for Artificial Intelligence	2020
+	322	Katherine Keith	Vectorized Code	131	https://drive.google.com/file/d/1HfEAODlhP1hPsWo_xu-cLS9VL1GHvhmu/view?usp=sharing	Allen Institute for Artificial Intelligence	2020
+	323	Jure Leskovec	Machine Learning for Graphs	748	http://web.stanford.edu/class/cs224w/slides/01-intro.pdf	Stanford University	2021
+	324	Jure Leskovec	Traditional Methods for ML on Graphs	748	http://web.stanford.edu/class/cs224w/slides/02-tradition-ml.pdf	Stanford University	2021
+	325	Jure Leskovec	Node Embeddings	748	http://web.stanford.edu/class/cs224w/slides/03-nodeemb.pdf	Stanford University	2021
+	326	Jure Leskovec	Link Analysis: PageRank	748	http://web.stanford.edu/class/cs224w/slides/04-pagerank.pdf	Stanford University	2021
+	327	Jure Leskovec	Label Propagation for Node Classification	748	http://web.stanford.edu/class/cs224w/slides/05-message.pdf	Stanford University	2021
+	328	Jure Leskovec	Graph Neural Networks 1: GNN Model	748	http://web.stanford.edu/class/cs224w/slides/06-GNN1.pdf	Stanford University	2021
+	329	Jure Leskovec	Graph Neural Networks 2: Design Space	748	http://web.stanford.edu/class/cs224w/slides/07-GNN2.pdf	Stanford University	2021
+	330	Jure Leskovec	Applications of Graph Neural Networks	746	http://web.stanford.edu/class/cs224w/slides/08-GNN-application.pdf	Stanford University	2021
+	331	Jure Leskovec	Theory of Graph Neural Networks	746	http://web.stanford.edu/class/cs224w/slides/09-theory.pdf	Stanford University	2021
+	332	Jure Leskovec	Knowledge Graph Embeddings	363	http://web.stanford.edu/class/cs224w/slides/10-kg.pdf	Stanford University	2021
+	333	Jure Leskovec	Reasoning over Knowledge Graphs	363	http://web.stanford.edu/class/cs224w/slides/11-reasoning.pdf	Stanford University	2021
+	334	Jure Leskovec	Frequent Subgraph Mining with GNNs	748	http://web.stanford.edu/class/cs224w/slides/12-motifs.pdf	Stanford University	2021
+	335	Jure Leskovec	GNNs for Recommender Systems	748	http://web.stanford.edu/class/cs224w/slides/13-recsys.pdf	Stanford University	2021
+	336	Jure Leskovec	Community Structure in Networks	748	http://web.stanford.edu/class/cs224w/slides/14-communities.pdf	Stanford University	2021
+	337	Jure Leskovec	Deep Generative Models for Graphs	514	http://web.stanford.edu/class/cs224w/slides/15-deep-generation.pdf	Stanford University	2021
+	338	Jure Leskovec	Advanced Topics on GNNs	748	http://web.stanford.edu/class/cs224w/slides/16-advanced.pdf	Stanford University	2021
+	339	Jure Leskovec	Scaling Up GNNs	748	http://web.stanford.edu/class/cs224w/slides/17-scalable.pdf	Stanford University	2021
+	340	Jure Leskovec	Design Space of Graph Neural Networks	748	http://web.stanford.edu/class/cs224w/slides/20-conclusion.pdf	Stanford University	2021
+	341	Jure Leskovec	Exam Preparation	748	http://web.stanford.edu/class/cs224w/slides/Exam_Preparation.pdf	Stanford University	2021
+	342	Malik Magdon-Ismail	The Learning Problem	851	https://www.cs.rpi.edu/~magdon/courses/LFD-Slides/SlidesLect01-C.pdf	Rensselaer Polytechnic Institute	2020
+	343	Malik Magdon-Ismail	ML Resources	134	https://www.cs.rpi.edu/~magdon/courses/LFD-Slides/SlidesLect01.pdf	Rensselaer Polytechnic Institute	2020
+	344	Malik Magdon-Ismail	The Perceptron	515	https://www.cs.rpi.edu/~magdon/courses/LFD-Slides/SlidesLect02-C.pdf	Rensselaer Polytechnic Institute	2020
+	345	Malik Magdon-Ismail	The Perceptron	515	https://www.cs.rpi.edu/~magdon/courses/LFD-Slides/SlidesLect02.pdf	Rensselaer Polytechnic Institute	2020
+	346	Malik Magdon-Ismail	Is Learning Feasible?	134	https://www.cs.rpi.edu/~magdon/courses/LFD-Slides/SlidesLect03-C.pdf	Rensselaer Polytechnic Institute	2020
+	347	Malik Magdon-Ismail	Is Learning Feasible?	134	https://www.cs.rpi.edu/~magdon/courses/LFD-Slides/SlidesLect03.pdf	Rensselaer Polytechnic Institute	2020
+	348	Malik Magdon-Ismail	Real Learning is Feasible	134	https://www.cs.rpi.edu/~magdon/courses/LFD-Slides/SlidesLect04-C.pdf	Rensselaer Polytechnic Institute	2020
+	349	Malik Magdon-Ismail	Real Learning is Feasible	134	https://www.cs.rpi.edu/~magdon/courses/LFD-Slides/SlidesLect04.pdf	Rensselaer Polytechnic Institute	2020
+	350	Malik Magdon-Ismail	Digging Deeper into Feasibility of Learning	134	https://www.cs.rpi.edu/~magdon/courses/LFD-Slides/SlidesLect04Supp-C.pdf	Rensselaer Polytechnic Institute	2020
+	351	Malik Magdon-Ismail	Digging Deeper into Feasibility of Learning	134	https://www.cs.rpi.edu/~magdon/courses/LFD-Slides/SlidesLect04Supp.pdf	Rensselaer Polytechnic Institute	2020
+	352	Malik Magdon-Ismail	Training Versus Testing	712	https://www.cs.rpi.edu/~magdon/courses/LFD-Slides/SlidesLect05-C.pdf	Rensselaer Polytechnic Institute	2020
+	353	Malik Magdon-Ismail	Training Versus Testing	712	https://www.cs.rpi.edu/~magdon/courses/LFD-Slides/SlidesLect05.pdf	Rensselaer Polytechnic Institute	2020
+	354	Malik Magdon-Ismail	Bounding The Growth Function	134	https://www.cs.rpi.edu/~magdon/courses/LFD-Slides/SlidesLect06-C.pdf	Rensselaer Polytechnic Institute	2020
+	355	Malik Magdon-Ismail	Bounding The Growth Function	134	https://www.cs.rpi.edu/~magdon/courses/LFD-Slides/SlidesLect06.pdf	Rensselaer Polytechnic Institute	2020
+	356	Malik Magdon-Ismail	Approximation Versus Generalization	712	https://www.cs.rpi.edu/~magdon/courses/LFD-Slides/SlidesLect07-C.pdf	Rensselaer Polytechnic Institute	2020
+	357	Malik Magdon-Ismail	Approximation Versus Generalization	712	https://www.cs.rpi.edu/~magdon/courses/LFD-Slides/SlidesLect07.pdf	Rensselaer Polytechnic Institute	2020
+	358	Malik Magdon-Ismail	Linear Classification and Regression	516	https://www.cs.rpi.edu/~magdon/courses/LFD-Slides/SlidesLect08-C.pdf	Rensselaer Polytechnic Institute	2020
+	359	Malik Magdon-Ismail	Linear Classification and Regression	516	https://www.cs.rpi.edu/~magdon/courses/LFD-Slides/SlidesLect08.pdf	Rensselaer Polytechnic Institute	2020
+	360	Malik Magdon-Ismail	Empty File	999	https://www.cs.rpi.edu/~magdon/courses/LFD-Slides/SlidesLect08.ps.pdf	Rensselaer Polytechnic Institute	2020
+	361	Malik Magdon-Ismail	Logistic Regression and Gradient Descent	516	https://www.cs.rpi.edu/~magdon/courses/LFD-Slides/SlidesLect09-C.pdf	Rensselaer Polytechnic Institute	2020
+	362	Malik Magdon-Ismail	Logistic Regression and Gradient Descent	516	https://www.cs.rpi.edu/~magdon/courses/LFD-Slides/SlidesLect09.pdf	Rensselaer Polytechnic Institute	2020
+	363	Malik Magdon-Ismail	Nonlinear Transforms	511	https://www.cs.rpi.edu/~magdon/courses/LFD-Slides/SlidesLect10-C.pdf	Rensselaer Polytechnic Institute	2020
+	364	Malik Magdon-Ismail	Nonlinear Transforms	511	https://www.cs.rpi.edu/~magdon/courses/LFD-Slides/SlidesLect10.pdf	Rensselaer Polytechnic Institute	2020
+	365	Malik Magdon-Ismail	The Linear Model	512	https://www.cs.rpi.edu/~magdon/courses/LFD-Slides/SlidesLect11-C.pdf	Rensselaer Polytechnic Institute	2020
+	366	Malik Magdon-Ismail	Overfitting	512	https://www.cs.rpi.edu/~magdon/courses/LFD-Slides/SlidesLect11.pdf	Rensselaer Polytechnic Institute	2020
+	367	Malik Magdon-Ismail	Regularization	512	https://www.cs.rpi.edu/~magdon/courses/LFD-Slides/SlidesLect12-C.pdf	Rensselaer Polytechnic Institute	2020
+	368	Malik Magdon-Ismail	Regularization	512	https://www.cs.rpi.edu/~magdon/courses/LFD-Slides/SlidesLect12.pdf	Rensselaer Polytechnic Institute	2020
+	369	Malik Magdon-Ismail	Validation and Model Selection	712	https://www.cs.rpi.edu/~magdon/courses/LFD-Slides/SlidesLect13-C.pdf	Rensselaer Polytechnic Institute	2020
+	370	Malik Magdon-Ismail	Validation and Model Selection	712	https://www.cs.rpi.edu/~magdon/courses/LFD-Slides/SlidesLect13.pdf	Rensselaer Polytechnic Institute	2020
+	371	Malik Magdon-Ismail	Three Learning Principles	851	https://www.cs.rpi.edu/~magdon/courses/LFD-Slides/SlidesLect14-C.pdf	Rensselaer Polytechnic Institute	2020
+	372	Malik Magdon-Ismail	Three Learning Principles	851	https://www.cs.rpi.edu/~magdon/courses/LFD-Slides/SlidesLect14.pdf	Rensselaer Polytechnic Institute	2020
+	373	Malik Magdon-Ismail	Reflecting on Our Path - Epilogue to Part I	852	https://www.cs.rpi.edu/~magdon/courses/LFD-Slides/SlidesLect15-C.pdf	Rensselaer Polytechnic Institute	2020
+	374	Malik Magdon-Ismail	Reflecting on Our Path - Epilogue to Part I	852	https://www.cs.rpi.edu/~magdon/courses/LFD-Slides/SlidesLect15.pdf	Rensselaer Polytechnic Institute	2020
+	375	Malik Magdon-Ismail	Similarity and Nearest Neighbor	521	https://www.cs.rpi.edu/~magdon/courses/LFD-Slides/SlidesLect16-C.pdf	Rensselaer Polytechnic Institute	2020
+	376	Malik Magdon-Ismail	Similarity and Nearest Neighbor	521	https://www.cs.rpi.edu/~magdon/courses/LFD-Slides/SlidesLect16.pdf	Rensselaer Polytechnic Institute	2020
+	377	Malik Magdon-Ismail	Memory and Efficiency in Nearest Neighbor	521	https://www.cs.rpi.edu/~magdon/courses/LFD-Slides/SlidesLect17-C.pdf	Rensselaer Polytechnic Institute	2020
+	378	Malik Magdon-Ismail	Memory and Efficiency in Nearest Neighbor	521	https://www.cs.rpi.edu/~magdon/courses/LFD-Slides/SlidesLect17.pdf	Rensselaer Polytechnic Institute	2020
+	379	Malik Magdon-Ismail	Radial Basis Functions	521	https://www.cs.rpi.edu/~magdon/courses/LFD-Slides/SlidesLect18-C.pdf	Rensselaer Polytechnic Institute	2020
+	380	Malik Magdon-Ismail	Radial Basis Functions	521	https://www.cs.rpi.edu/~magdon/courses/LFD-Slides/SlidesLect18.pdf	Rensselaer Polytechnic Institute	2020
+	381	Malik Magdon-Ismail	A Peek At Unsupervised Learning	571	https://www.cs.rpi.edu/~magdon/courses/LFD-Slides/SlidesLect19-C.pdf	Rensselaer Polytechnic Institute	2020
+	382	Malik Magdon-Ismail	A Peek At Unsupervised Learning	571	https://www.cs.rpi.edu/~magdon/courses/LFD-Slides/SlidesLect19.pdf	Rensselaer Polytechnic Institute	2020
+	383	Malik Magdon-Ismail	Multilayer Perceptron	515	https://www.cs.rpi.edu/~magdon/courses/LFD-Slides/SlidesLect20-C.pdf	Rensselaer Polytechnic Institute	2020
+	384	Malik Magdon-Ismail	Multilayer Perceptron	515	https://www.cs.rpi.edu/~magdon/courses/LFD-Slides/SlidesLect20.pdf	Rensselaer Polytechnic Institute	2020
+	385	Malik Magdon-Ismail	Neural Networks: Backpropagation	516	https://www.cs.rpi.edu/~magdon/courses/LFD-Slides/SlidesLect21-C.pdf	Rensselaer Polytechnic Institute	2020
+	386	Malik Magdon-Ismail	Neural Networks: Backpropagation	516	https://www.cs.rpi.edu/~magdon/courses/LFD-Slides/SlidesLect21.pdf	Rensselaer Polytechnic Institute	2020
+	387	Malik Magdon-Ismail	Neural Networks and Overfitting	516	https://www.cs.rpi.edu/~magdon/courses/LFD-Slides/SlidesLect22-C.pdf	Rensselaer Polytechnic Institute	2020
+	388	Malik Magdon-Ismail	Neural Networks and Overfitting	516	https://www.cs.rpi.edu/~magdon/courses/LFD-Slides/SlidesLect22.pdf	Rensselaer Polytechnic Institute	2020
+	389	Malik Magdon-Ismail	SVM’s: Maximizing the Margin	521	https://www.cs.rpi.edu/~magdon/courses/LFD-Slides/SlidesLect23-C.pdf	Rensselaer Polytechnic Institute	2020
+	390	Malik Magdon-Ismail	SVM’s: Maximizing the Margin	521	https://www.cs.rpi.edu/~magdon/courses/LFD-Slides/SlidesLect23.pdf	Rensselaer Polytechnic Institute	2020
+	391	Malik Magdon-Ismail	The Optimal Hyperplane and Overfitting	712	https://www.cs.rpi.edu/~magdon/courses/LFD-Slides/SlidesLect24-C.pdf	Rensselaer Polytechnic Institute	2020
+	392	Malik Magdon-Ismail	The Optimal Hyperplane and Overfitting	712	https://www.cs.rpi.edu/~magdon/courses/LFD-Slides/SlidesLect24.pdf	Rensselaer Polytechnic Institute	2020
+	393	Malik Magdon-Ismail	The Kernel Trick	521	https://www.cs.rpi.edu/~magdon/courses/LFD-Slides/SlidesLect25-C.pdf	Rensselaer Polytechnic Institute	2020
+	394	Malik Magdon-Ismail	The Kernel Trick	521	https://www.cs.rpi.edu/~magdon/courses/LFD-Slides/SlidesLect25.pdf	Rensselaer Polytechnic Institute	2020
+	395	Malik Magdon-Ismail	Kernel Machines	521	https://www.cs.rpi.edu/~magdon/courses/LFD-Slides/SlidesLect26-C.pdf	Rensselaer Polytechnic Institute	2020
+	396	Malik Magdon-Ismail	Kernel Machines	521	https://www.cs.rpi.edu/~magdon/courses/LFD-Slides/SlidesLect26.pdf	Rensselaer Polytechnic Institute	2020
+	397	Malik Magdon-Ismail	Learning Aides	521	https://www.cs.rpi.edu/~magdon/courses/LFD-Slides/SlidesLect27-C.pdf	Rensselaer Polytechnic Institute	2020
+	398	Malik Magdon-Ismail	Learning Aides	521	https://www.cs.rpi.edu/~magdon/courses/LFD-Slides/SlidesLect27.pdf	Rensselaer Polytechnic Institute	2020
+	399	Malik Magdon-Ismail	Aggregation	111	https://www.cs.rpi.edu/~magdon/courses/LFD-Slides/SlidesLect28-C.pdf	Rensselaer Polytechnic Institute	2020
+	400	Malik Magdon-Ismail	Aggregation	111	https://www.cs.rpi.edu/~magdon/courses/LFD-Slides/SlidesLect28.pdf	Rensselaer Polytechnic Institute	2020
+	401	Keith Schwarz	Class Logics	111	https://web.stanford.edu/class/archive/cs/cs103/cs103.1202/lectures/00/Slides00.pdf	Stanford University	2021
+	402	Keith Schwarz	Mathematical Proofs	811	https://web.stanford.edu/class/archive/cs/cs103/cs103.1202/lectures/01/Slides01.pdf	Stanford University	2021
+	403	Keith Schwarz	Indirect Proofs	811	https://web.stanford.edu/class/archive/cs/cs103/cs103.1202/lectures/02/Slides02.pdf	Stanford University	2021
+	404	Keith Schwarz	Propositional Logic	831	https://web.stanford.edu/class/archive/cs/cs103/cs103.1202/lectures/03/Slides03.pdf	Stanford University	2021
+	405	Keith Schwarz	First-Order Logic	833	https://web.stanford.edu/class/archive/cs/cs103/cs103.1202/lectures/04/Slides04.pdf	Stanford University	2021
+	406	Keith Schwarz	First-Order Logic	833	https://web.stanford.edu/class/archive/cs/cs103/cs103.1202/lectures/05/Slides05.pdf	Stanford University	2021
+	407	Keith Schwarz	Binary Relations	811	https://web.stanford.edu/class/archive/cs/cs103/cs103.1202/lectures/06/Slides06.pdf	Stanford University	2021
+	408	Keith Schwarz	Binary Relations	811	https://web.stanford.edu/class/archive/cs/cs103/cs103.1202/lectures/07/Slides07.pdf	Stanford University	2021
+	409	Keith Schwarz	Functions	811	https://web.stanford.edu/class/archive/cs/cs103/cs103.1202/lectures/08/Slides08.pdf	Stanford University	2021
+	410	Keith Schwarz	Cardinality	811	https://web.stanford.edu/class/archive/cs/cs103/cs103.1202/lectures/09/Slides09.pdf	Stanford University	2021
+	411	Keith Schwarz	Graph Theory	748	https://web.stanford.edu/class/archive/cs/cs103/cs103.1202/lectures/10/Slides10.pdf	Stanford University	2021
+	412	Keith Schwarz	Graph Theory	748	https://web.stanford.edu/class/archive/cs/cs103/cs103.1202/lectures/11/Slides11.pdf	Stanford University	2021
+	413	Keith Schwarz	Mathematical Induction	811	https://web.stanford.edu/class/archive/cs/cs103/cs103.1202/lectures/12/Slides12.pdf	Stanford University	2021
+	414	Keith Schwarz	Mathematical Induction	811	https://web.stanford.edu/class/archive/cs/cs103/cs103.1202/lectures/13/Slides13.pdf	Stanford University	2021
+	415	Keith Schwarz	Finite Automata	811	https://web.stanford.edu/class/archive/cs/cs103/cs103.1202/lectures/14/Slides14.pdf	Stanford University	2021
+	416	Keith Schwarz	Finite Automata	811	https://web.stanford.edu/class/archive/cs/cs103/cs103.1202/lectures/15/Slides15.pdf	Stanford University	2021
+	417	Keith Schwarz	Finite Automata	811	https://web.stanford.edu/class/archive/cs/cs103/cs103.1202/lectures/16/Slides16.pdf	Stanford University	2021
+	418	Keith Schwarz	Regular Expressions	161	https://web.stanford.edu/class/archive/cs/cs103/cs103.1202/lectures/17/Slides17.pdf	Stanford University	2021
+	419	Keith Schwarz	Nonregular Languages	135	https://web.stanford.edu/class/archive/cs/cs103/cs103.1202/lectures/18/Slides18.pdf	Stanford University	2021
+	420	Keith Schwarz	Context-Free Grammars	242	https://web.stanford.edu/class/archive/cs/cs103/cs103.1202/lectures/19/Slides19.pdf	Stanford University	2021
+	421	Keith Schwarz	Turing Machines	811	https://web.stanford.edu/class/archive/cs/cs103/cs103.1202/lectures/20/Slides20.pdf	Stanford University	2021
+	422	Keith Schwarz	Turing Machines	811	https://web.stanford.edu/class/archive/cs/cs103/cs103.1202/lectures/21/Slides21.pdf	Stanford University	2021
+	423	Keith Schwarz	Turing Machines	811	https://web.stanford.edu/class/archive/cs/cs103/cs103.1202/lectures/22/Slides22.pdf	Stanford University	2021
+	424	Keith Schwarz	Unsolvable Problems	811	https://web.stanford.edu/class/archive/cs/cs103/cs103.1202/lectures/23/Slides23.pdf	Stanford University	2021
+	425	Keith Schwarz	Unsolvable Problems	811	https://web.stanford.edu/class/archive/cs/cs103/cs103.1202/lectures/24/Slides24.pdf	Stanford University	2021
+	426	Keith Schwarz	Complexity Theory	811	https://web.stanford.edu/class/archive/cs/cs103/cs103.1202/lectures/25/Slides25.pdf	Stanford University	2021
+	427	Keith Schwarz	Complexity Theory	811	https://web.stanford.edu/class/archive/cs/cs103/cs103.1202/lectures/26/Slides26.pdf	Stanford University	2021
+	428	Keith Schwarz	Wrap-up Lecture	112	https://web.stanford.edu/class/archive/cs/cs103/cs103.1202/lectures/27/Slides27.pdf	Stanford University	2021
+	429	Matus Telgarsky	PCA	341	https://mjt.cs.illinois.edu/ml/lec15.pdf	UIUC	2021
+	430	Matus Telgarsky	Overview	711	https://mjt.cs.illinois.edu/ml/lec1.pdf	UIUC	2021
+	431	Matus Telgarsky	Linear regression	511	https://mjt.cs.illinois.edu/ml/lec2.pdf	UIUC	2021
+	432	Matus Telgarsky	Logistic regression	516	https://mjt.cs.illinois.edu/ml/lec3.pdf	UIUC	2021
+	435	Matus Telgarsky	Support vector machines	521	https://mjt.cs.illinois.edu/ml/lec6.pdf	UIUC	2021
+	436	Matus Telgarsky	pytorch-basics-s22	731	https://mjt.cs.illinois.edu/ml/pytorch-basics-s22.pdf	UIUC	2021
+	437	Matus Telgarsky	Generative networks	746	https://mjt.cs.illinois.edu/ml/slides-gn-1.pdf	UIUC	2021
+	438	Matus Telgarsky	GANs	746	https://mjt.cs.illinois.edu/ml/slides-gn-2.pdf	UIUC	2021
+	439	Matus Telgarsky	k-means	571	https://mjt.cs.illinois.edu/ml/slides-kmeans.pdf	UIUC	2021
+	440	Matus Telgarsky	Maximum Likelihood Estimation	127	https://mjt.cs.illinois.edu/ml/slides-mle-1.pdf	UIUC	2021
+	441	Matus Telgarsky	MLE part 2	127	https://mjt.cs.illinois.edu/ml/slides-mle-2.pdf	UIUC	2021
+	442	Matus Telgarsky	E-M method for latent variable models	127	https://mjt.cs.illinois.edu/ml/slides-mle-3.pdf	UIUC	2021
+	443	Graham Neubig, Alan Black, Shinji Watanabe	Lang in 10: Hindi	962	http://phontron.com/class/multiling2022/assets/slides/multiling-01-intro-langin10.pdf	CMU	2022
+	444	Graham Neubig, Alan Black, Shinji Watanabe	Introduction	962	http://phontron.com/class/multiling2022/assets/slides/multiling-01-intro.pdf	CMU	2022
+	445	Graham Neubig, Alan Black, Shinji Watanabe	Speech Lectures	962	http://phontron.com/class/multiling2022/assets/slides/multiling-01-intro-speech.pdf	CMU	2022
+	446	Graham Neubig, Alan Black, Shinji Watanabe	Text Classification and Sequence Labeling	421	http://phontron.com/class/multiling2022/assets/slides/multiling-02-seqlabeling.pdf	CMU	2022
+	447	Graham Neubig, Alan Black, Shinji Watanabe	Typology: The Space of Languages	962	http://phontron.com/class/multiling2022/assets/slides/multiling-03-typology.pdf	CMU	2022
+	448	Graham Neubig, Alan Black, Shinji Watanabe	Words	962	http://phontron.com/class/multiling2022/assets/slides/multiling-04-words.pdf	CMU	2022
+	449	Graham Neubig, Alan Black, Shinji Watanabe	Translation, Translation Data, and Evaluation	451	http://phontron.com/class/multiling2022/assets/slides/multiling-05-translation.pdf	CMU	2022
+	450	Graham Neubig, Alan Black, Shinji Watanabe	Machine Translation/Sequence-to-sequence Models	753	http://phontron.com/class/multiling2022/assets/slides/multiling-06-mtmodels.pdf	CMU	2022
+	451	Graham Neubig, Alan Black, Shinji Watanabe	Data-based Strategies to Low-resource MT	962	http://phontron.com/class/multiling2022/assets/slides/multiling-07-mtaugmentation.pdf	CMU	2022
+	452	Graham Neubig, Alan Black, Shinji Watanabe	Language contact and change	962	http://phontron.com/class/multiling2022/assets/slides/multiling-08-languagechange.pdf	CMU	2022
+	453	Graham Neubig, Alan Black, Shinji Watanabe	Multilingual Training and Cross-lingual Transfer	962	http://phontron.com/class/multiling2022/assets/slides/multiling-09-multiling-training.pdf	CMU	2022
+	454	Graham Neubig, Alan Black, Shinji Watanabe	Unsupervised Machine Translation	962	http://phontron.com/class/multiling2022/assets/slides/multiling-10-unsupervisedmt.pdf	CMU	2022
+	455	Diana Inkpen	Here is a simplified example of the vector space retrieval model	999	https://www.site.uottawa.ca/~diana/csi4107/cosine_tf_idf_example.pdf	University of Ottawa	2021
+	456	Diana Inkpen	Cross-Language Information Retrieval	651	https://www.site.uottawa.ca/~diana/csi4107/Cross-LanguageIR.pdf	University of Ottawa	2021
+	457	Diana Inkpen	example_classif_clustering_sol	999	https://www.site.uottawa.ca/~diana/csi4107/example_classif_clustering_sol.pdf	University of Ottawa	2021
+	458	Diana Inkpen	The Anatomy of a Large-Scale Hypertextual Web Search Engine	625	https://www.site.uottawa.ca/~diana/csi4107/Google_SearchEngine.pdf	University of Ottawa	2021
+	459	Diana Inkpen	Consider the following web pages and the set of web pages they link to	999	https://www.site.uottawa.ca/~diana/csi4107/HITS_example_solution.pdf	University of Ottawa	2021
+	460	Diana Inkpen	Image Information Retrieval	611	https://www.site.uottawa.ca/~diana/csi4107/ImageIR.pdf	University of Ottawa	2021
+	461	Diana Inkpen	Basic Tokenizing, Indexing, and Implementation of Vector-Space Retrieval	614	https://www.site.uottawa.ca/~diana/csi4107/Implementation.pdf	University of Ottawa	2021
+	462	Diana Inkpen	Information Retrieval on the Internet	611	https://www.site.uottawa.ca/~diana/csi4107/IR_draft.pdf	University of Ottawa	2021
+	463	Diana Inkpen	Preliminaries	611	https://www.site.uottawa.ca/~diana/csi4107/L0.pdf	University of Ottawa	2021
+	464	Diana Inkpen	Probabilistic model Latent semantic indexing	631	https://www.site.uottawa.ca/~diana/csi4107/L10.pdf	University of Ottawa	2021
+	465	Diana Inkpen	Introduction	611	https://www.site.uottawa.ca/~diana/csi4107/L1.pdf	University of Ottawa	2021
+	466	Diana Inkpen	Introduction to Web Technology	611	https://www.site.uottawa.ca/~diana/csi4107/L2.pdf	University of Ottawa	2021
+	468	Diana Inkpen	Performance Evaluation of Information Retrieval Systems	613	https://www.site.uottawa.ca/~diana/csi4107/L4.pdf	University of Ottawa	2021
+	469	Diana Inkpen	Query Languages	622	https://www.site.uottawa.ca/~diana/csi4107/L5.pdf	University of Ottawa	2021
+	470	Diana Inkpen	Text Properties and Languages	611	https://www.site.uottawa.ca/~diana/csi4107/L6.pdf	University of Ottawa	2021
+	471	Diana Inkpen	Web Search. Web Spidering	625	https://www.site.uottawa.ca/~diana/csi4107/L7.pdf	University of Ottawa	2021
+	472	Diana Inkpen	Text Categorization	611	https://www.site.uottawa.ca/~diana/csi4107/L8.pdf	University of Ottawa	2021
+	473	Diana Inkpen	Text Clustering	624	https://www.site.uottawa.ca/~diana/csi4107/L9.pdf	University of Ottawa	2021
+	474	Diana Inkpen	Language Models for Information Retrieval and Web Search	626	https://www.site.uottawa.ca/~diana/csi4107/languageModels-IR.pdf	University of Ottawa	2021
+	475	Diana Inkpen	Sentiment Analysis	381	https://www.site.uottawa.ca/~diana/csi4107/lecture_sentiment_analysis.pdf	University of Ottawa	2021
+	476	Diana Inkpen	Advances & Link Analysis	642	https://www.site.uottawa.ca/~diana/csi4107/LinkAnalysis.pdf	University of Ottawa	2021
+	477	Diana Inkpen	Latent semantic indexing	631	https://www.site.uottawa.ca/~diana/csi4107/LSI.pdf	University of Ottawa	2021
+	478	Diana Inkpen	Naïve Bayes Classifiers	513	https://www.site.uottawa.ca/~diana/csi4107/NB.pdf	University of Ottawa	2021
+	479	Diana Inkpen	Neural Information Retrieval	757	https://www.site.uottawa.ca/~diana/csi4107/NeuralIR.pdf	University of Ottawa	2021
+	480	Diana Inkpen	PageRank_examples	624	https://www.site.uottawa.ca/~diana/csi4107/PageRank_examples.pdf	University of Ottawa	2021
+	481	Diana Inkpen	PageRank_examples	624	https://www.site.uottawa.ca/~diana/csi4107/PageRank.ppt	University of Ottawa	2021
+	482	Diana Inkpen	PageRank_examples	624	https://www.site.uottawa.ca/~diana/csi4107/PR_example_sol.pdf	University of Ottawa	2021
+	483	Diana Inkpen	PageRank	624	https://www.site.uottawa.ca/~diana/csi4107/PR.pdf	University of Ottawa	2021
+	484	Diana Inkpen	Open Domain Question Answering	411	https://www.site.uottawa.ca/~diana/csi4107/QA.pdf	University of Ottawa	2021
+	485	Diana Inkpen	Question Answering	411	https://www.site.uottawa.ca/~diana/csi4107/Q_example_sol.pdf	University of Ottawa	2021
+	486	Diana Inkpen	Introduction to Semantic Web Technologies & Linked Data	611	https://www.site.uottawa.ca/~diana/csi4107/SemWebLinkedData.pdf	University of Ottawa	2021
+	487	Diana Inkpen	Ranking and Learning	611	https://www.site.uottawa.ca/~diana/csi4107/TopicRankSimple.pdf	University of Ottawa	2021
+	488	Diana Inkpen	Transformers for NLP and IR	757	https://www.site.uottawa.ca/~diana/csi4107/TransformersBERT.pdf	University of Ottawa	2021
+	489	Diana Inkpen	Watson: An Overview of the DeepQA Project	757	https://www.site.uottawa.ca/~diana/csi4107/Watson.pdf	University of Ottawa	2021
+	490	Diana Inkpen	Web Markup Languages	999	https://www.site.uottawa.ca/~diana/csi4107/WebML.pdf	University of Ottawa	2021
+	491	Diana Inkpen	Word Embeddings	721	https://www.site.uottawa.ca/~diana/csi4107/WordEmbbedings.pdf	University of Ottawa	2021
+	492	Shuiwang Ji, Yaochen Xie	A Mathematical View of Attention Models in Deep Learning	745	https://people.tamu.edu/~sji/classes/attn.pdf	Texas A&M University	2019
+	493	Shuiwang Ji, Yaochen Xie	A Mathematical View of Attention Models in Deep Learning	745	https://people.tamu.edu/~sji/classes/attn-slides.pdf	Texas A&M University	2019
+	494	Shuiwang Ji, Yaochen Xie	Back-Propagation: From Fully Connected to Convolutional Layers	516	https://people.tamu.edu/~sji/classes/bp.pdf	Texas A&M University	2019
+	495	Shuiwang Ji, Yaochen Xie	Back-Propagation: From Fully Connected to Convolutional Layers	516	https://people.tamu.edu/~sji/classes/bp-slides.pdf	Texas A&M University	2019
+	496	Shuiwang Ji, Yaochen Xie	A Unified View of Loss Functions in Supervised Learning	712	https://people.tamu.edu/~sji/classes/loss.pdf	Texas A&M University	2019
+	497	Shuiwang Ji, Yaochen Xie	A Unified View of Loss Functions in Supervised Learning	712	https://people.tamu.edu/~sji/classes/loss-slides.pdf	Texas A&M University	2019
+	498	Shuiwang Ji, Yaochen Xie	Logistic Regression: From Binary to Multi-Class	516	https://people.tamu.edu/~sji/classes/LR.pdf	Texas A&M University	2019
+	499	Shuiwang Ji, Yaochen Xie	Logistic Regression: From Binary to Multi-Class	516	https://people.tamu.edu/~sji/classes/LR-slides.pdf	Texas A&M University	2019
+	500	Shuiwang Ji, Yaochen Xie	A Neural Network View of Kernel Methods	521	https://people.tamu.edu/~sji/classes/nnkernel.pdf	Texas A&M University	2019
+	501	Shuiwang Ji, Yaochen Xie	A Neural Network View of Kernel Methods	512	https://people.tamu.edu/~sji/classes/nnkernel-slides.pdf	Texas A&M University	2019
+	502	Shuiwang Ji, Yaochen Xie	Principal Component Analysis and Autoencoders	749	https://people.tamu.edu/~sji/classes/PCA.pdf	Texas A&M University	2019
+	503	Shuiwang Ji, Yaochen Xie	Principal Component Analysis and Autoencoders	749	https://people.tamu.edu/~sji/classes/PCA-slides.pdf	Texas A&M University	2019
+	504	Shuiwang Ji, Yaochen Xie	Syllabus	111	https://people.tamu.edu/~sji/classes/syllabus-CSCE636-DL-F2020.pdf	Texas A&M University	2019
+	505	Shuiwang Ji, Yaochen Xie	Syllabus	111	https://people.tamu.edu/~sji/classes/UG-ML-2019.pdf	Texas A&M University	2019
+	572	Emma Strubell	Introduction	112	http://demo.clab.cs.cmu.edu/11711fa20/slides/11711-01-introduction.pdf	CMU	2020
+	573	Emma Strubell	Linear text classification	541	http://demo.clab.cs.cmu.edu/11711fa20/slides/11711-02-linear-classification.pdf	CMU	2020
+	574	Emma Strubell	Nonlinear text classification	541	http://demo.clab.cs.cmu.edu/11711fa20/slides/11711-03-nonlinear-classification.pdf	CMU	2020
+	575	Emma Strubell	Vector semantics and word embeddings	721	http://demo.clab.cs.cmu.edu/11711fa20/slides/11711-04-word-vectors.pdf	CMU	2020
+	576	Emma Strubell	Language modeling	211	http://demo.clab.cs.cmu.edu/11711fa20/slides/11711-05-language-modeling.pdf	CMU	2020
+	577	Emma Strubell	Neural Language Modeling	751	http://demo.clab.cs.cmu.edu/11711fa20/slides/11711-06-neural-language-modeling.pdf	CMU	2020
+	578	Yulia Tsvetkov	Sequence labeling, POS tagging, Viterbi	234	http://demo.clab.cs.cmu.edu/11711fa20/slides/11711-07-POS-tagging.pdf	CMU	2020
+	579	Emma Strubell	Viterbi, discriminative sequence labeling, NER	234	http://demo.clab.cs.cmu.edu/11711fa20/slides/11711-08-ner-crfs.pdf	CMU	2020
+	580	Emma Strubell	CRFs, neural sequence labeling	752	http://demo.clab.cs.cmu.edu/11711fa20/slides/11711-09-crfs-neural-sequence-labeling.pdf	CMU	2020
+	581	Emma Strubell	Masked language modeling and Transformers	714	http://demo.clab.cs.cmu.edu/11711fa20/slides/11711-10-mlm-transformers.pdf	CMU	2020
+	582	Emma Strubell	Syntactic parsing and context-free grammars	165	http://demo.clab.cs.cmu.edu/11711fa20/slides/11711-11-parsing-pcfgs.pdf	CMU	2020
+	583	Emma Strubell	PCFGs & CKY	244	http://demo.clab.cs.cmu.edu/11711fa20/slides/11711-12-pcfgs-cky.pdf	CMU	2020
+	584	Yulia Tsvetkov	Dependency parsing	256	http://demo.clab.cs.cmu.edu/11711fa20/slides/11711-13-dependency-parsing1.pdf	CMU	2020
+	585	Emma Strubell	Graph-based dependency parsing	256	http://demo.clab.cs.cmu.edu/11711fa20/slides/11711-14-graph-dependency-parsing.pdf	CMU	2020
+	586	Robert Frederking	Formal Language Theory	999	http://demo.clab.cs.cmu.edu/11711fa20/slides/11711-15-flt.pdf	CMU	2020
+	587	Emma Strubell	Morphology	143	http://demo.clab.cs.cmu.edu/11711fa20/slides/11711-16-morphology.pdf	CMU	2020
+	588	Emma Strubell	Feature Structures and Unification Grammar	143	http://demo.clab.cs.cmu.edu/11711fa20/slides/11711-17-feature-structures-and-unification.pdf	CMU	2020
+	589	Emma Strubell	Semantics and First-Order Predicate Calculus	141	http://demo.clab.cs.cmu.edu/11711fa20/slides/11711-18-first-order-predicate-calculus.pdf	CMU	2020
+	590	Emma Strubell	Predicate-Argument Structure and Frame Semantic Parsing	141	http://demo.clab.cs.cmu.edu/11711fa20/slides/11711-19-pred-arg-structure-and-fsp.pdf	CMU	2020
+	591	Yonatan Bisk	Combinatory Categorial Grammars	141	http://demo.clab.cs.cmu.edu/11711fa20/slides/11711-20-ccg.pdf	CMU	2020
+	592	Emma Strubell	Reference Resolution and other Discourse phenomena	441	http://demo.clab.cs.cmu.edu/11711fa20/slides/11711-21-reference-resolution-and-discourse.pdf	CMU	2020
+	593	Emma Strubell	Natural Language Inference	364	http://demo.clab.cs.cmu.edu/11711fa20/slides/11711-22-nli-interpretable-nlp.pdf	CMU	2020
+	594	Yulia Tsvetkov	Machine Translation	451	http://demo.clab.cs.cmu.edu/11711fa20/slides/11711-23-machine-translation.pdf	CMU	2020
+	595	Chan Young Park	Summarization	421	http://demo.clab.cs.cmu.edu/11711fa20/slides/11711-24-summarization.pdf	CMU	2020
+	596	Emma Strubell	Sentiment Analysis	381	http://demo.clab.cs.cmu.edu/11711fa20/slides/11711-25-sentiment-analysis.pdf	CMU	2020
+	597	Sachin Kumar	recitation	999	http://demo.clab.cs.cmu.edu/11737fa20/recitations/assign1_recitation.pdf	CMU	2020
+	598	Graham Neubig	Lang in 10: Hindi	999	http://demo.clab.cs.cmu.edu/11737fa20/slides/Hindi_in_10.pdf	CMU	2020
+	599	Graham Neubig	Speech, Code Switching and Annotation	923	http://demo.clab.cs.cmu.edu/11737fa20/slides/Intro_Speech_CS.pdf	CMU	2020
+	600	Graham Neubig	Introduction	112	http://demo.clab.cs.cmu.edu/11737fa20/slides/multiling-01-intro-linguistics.pdf	CMU	2020
+	601	Graham Neubig	Introduction	112	http://demo.clab.cs.cmu.edu/11737fa20/slides/multiling-01-intro.pdf	CMU	2020
+	602	Yulia Tsvetkov	Typology: The Space of Languages	999	http://demo.clab.cs.cmu.edu/11737fa20/slides/multiling-02-typology.pdf	CMU	2020
+	603	Yulia Tsvetkov	Words, Parts of Speech, Morphology	143	http://demo.clab.cs.cmu.edu/11737fa20/slides/multiling-03-words.pdf	CMU	2020
+	604	Graham Neubig	Text Classification and Sequence Labeling	541	http://demo.clab.cs.cmu.edu/11737fa20/slides/multiling-04-seqlabeling.pdf	CMU	2020
+	605	Graham Neubig	Improved Modeling/Learning Methods for Sequence Labeling and Classification	234	http://demo.clab.cs.cmu.edu/11737fa20/slides/multiling-05-seqlabelingadv.pdf	CMU	2020
+	606	Yulia Tsvetkov	Translation	451	http://demo.clab.cs.cmu.edu/11737fa20/slides/multiling-06-translation.pdf	CMU	2020
+	607	Graham Neubig	Machine Translation/ Sequence-to-sequence Models	753	http://demo.clab.cs.cmu.edu/11737fa20/slides/multiling-07-mtmodels.pdf	CMU	2020
+	608	Graham Neubig	Data-based Strategies to Low-resource MT	452	http://demo.clab.cs.cmu.edu/11737fa20/slides/multiling-08-mtaugmentation.pdf	CMU	2020
+	609	Yulia Tsvetkov	Language contact	999	http://demo.clab.cs.cmu.edu/11737fa20/slides/multiling-09-languagecontact.pdf	CMU	2020
+	610	Xinyi Wang	Multilingual Training and Cross-lingual Transfer	999	http://demo.clab.cs.cmu.edu/11737fa20/slides/multiling-10-multilingual_training.pdf	CMU	2020
+	611	Graham Neubig	Unsupervised Machine Translation	753	http://demo.clab.cs.cmu.edu/11737fa20/slides/multiling-11-unsupervisedmt.pdf	CMU	2020
+	612	Graham Neubig	Morphological Analysis and Inflection	457	http://demo.clab.cs.cmu.edu/11737fa20/slides/multiling-17-morphology.pdf	CMU	2020
+	613	Graham Neubig	Dependency Parsing	256	http://demo.clab.cs.cmu.edu/11737fa20/slides/multiling-18-depparsing.pdf	CMU	2020
+	614	Graham Neubig	Active Learning	999	http://demo.clab.cs.cmu.edu/11737fa20/slides/multiling-20-active.pdf	CMU	2020
+	615	Graham Neubig	Code Switching, Pidgins and Creoles	999	http://demo.clab.cs.cmu.edu/11737fa20/slides/multilingual-11-codeswitching.pdf	CMU	2020
+	616	Graham Neubig	Speech	923	http://demo.clab.cs.cmu.edu/11737fa20/slides/multilingual-12-speech.pdf	CMU	2020
+	618	Minjoon Seo	Deep Learning Basics, Tokenization, Word Embedding	711	https://drive.google.com/file/d/11e7fpRWTW089Qvnivkh1fxxBQXxIcbvY/view	KAIST	2021
+	619	Minjoon Seo	Deep Learning Basics (3), Text Classification, Tokenization, Word Embedding	711	https://drive.google.com/file/d/1hWfX08e7mdjzbPgNn1txtbT3vOBINm6M/view	KAIST	2021
+	620	Minjoon Seo	Tokenization (2), Word Embedding, Recurrent Neural Networks	721	https://drive.google.com/file/d/11pa0p54qHVP9P4JHPa1QBUFrpOx_1N_V/view	KAIST	2021
+	621	Minjoon Seo	Recurrent Neural Networks	741	https://drive.google.com/file/d/11tGioYJPIwvO6orqTwkgyuUqxFpheZ8p/view	KAIST	2021
+	622	Minjoon Seo	Recurrent Neural Networks (2), Token Classification	741	https://drive.google.com/file/d/121Ga4V2U030RaLEPkRl5sDdoYTHyBN0c/view	KAIST	2021
+	623	Minjoon Seo	Token Classification, Retrieval	757	https://drive.google.com/file/d/12ESkOClHnxURjEc45MDidJK0WdwBXj9z/view	KAIST	2021
+	624	Minjoon Seo	Retrieval	757	https://drive.google.com/file/d/12KnsPNcRwmQezmxnjTLzaz7-bWQt81f0/view	KAIST	2021
+	625	Minjoon Seo	Text Generation, Encoder-Decoder	756	https://drive.google.com/file/d/1OlGeBWNJnTGB10pfdVOl6dp5E4WTeGYv/view	KAIST	2021
+	626	Minjoon Seo	Attention	745	https://drive.google.com/file/d/1--qPSaQgkB5HbeEwRZYDNeEdjasxQAB5/view	KAIST	2021
+	627	Minjoon Seo	Transformer	714	https://drive.google.com/file/d/1-cOaQyb-JiIPYA2E0akpt-ZQw4NnX_pl/view	KAIST	2021
+	628	Minjoon Seo	Transformer	714	https://drive.google.com/file/d/1-e1afB-rbwh7Xlvp_uu4K0TU6-wPYxUN/view	KAIST	2021
+	629	Minjoon Seo	Language Model, Regularization, Decoding	751	https://drive.google.com/file/d/105uffdFm9kk4vxsAOKbpNejtTiTfeYiH/view	KAIST	2021
+	630	Minjoon Seo	Pretrained Language Model	714	https://drive.google.com/file/d/1079QeGAsL8lUMJuL-UE8UrJBhTJIwriu/view	KAIST	2021
+	631	Minjoon Seo	BERT	714	https://drive.google.com/file/d/10B5wdxaQFvCh21O0Gi9hDn8c5189jcPH/view	KAIST	2021
+	632	Minjoon Seo	Hugging Face and Final Project Details	731	https://drive.google.com/file/d/10Ljc-WoOyvb8D1ZGtzrEi6OaYiFYBg-w/view	KAIST	2021
+	633	Minjoon Seo	Pretraining for Generation	714	https://drive.google.com/file/d/12LIFz0bPcs46UMXNKZWMY8lo9V1sCJo6/view	KAIST	2021
+	634	Minjoon Seo	Scaling Laws, In-context Learning	713	https://drive.google.com/file/d/1-DVP3fmGiW2SbCryQuMJV_1DL4QOlIEy/view	KAIST	2021
+	635	David Bamman	Text regression	126	https://people.ischool.berkeley.edu/~dbamman/info256_slides/10.regression.pdf	UC Berkeley	2021
+	636	David Bamman	Testing	123	https://people.ischool.berkeley.edu/~dbamman/info256_slides/11.tests.pdf	UC Berkeley	2021
+	637	David Bamman	Nonparametric tests	123	https://people.ischool.berkeley.edu/~dbamman/info256_slides/12.nonparametric_tests.pdf	UC Berkeley	2021
+	638	David Bamman	Annotation	999	https://people.ischool.berkeley.edu/~dbamman/info256_slides/13.annotation.pdf	UC Berkeley	2021
+	639	David Bamman	Neural networks	715	https://people.ischool.berkeley.edu/~dbamman/info256_slides/14.FFNN_CNN.pdf	UC Berkeley	2021
+	640	David Bamman	Attention/BERT	714	https://people.ischool.berkeley.edu/~dbamman/info256_slides/15.attention.pdf	UC Berkeley	2021
+	641	David Bamman	Prompting methods	713	https://people.ischool.berkeley.edu/~dbamman/info256_slides/16.prompting.pdf	UC Berkeley	2021
+	642	David Bamman	Interpretability	933	https://people.ischool.berkeley.edu/~dbamman/info256_slides/17.interpretability.pdf	UC Berkeley	2021
+	643	David Bamman	WordNet	315	https://people.ischool.berkeley.edu/~dbamman/info256_slides/18.wordnet.pdf	UC Berkeley	2021
+	644	David Bamman	POS Tagging	231	https://people.ischool.berkeley.edu/~dbamman/info256_slides/19.pos.pdf	UC Berkeley	2021
+	645	David Bamman	Introduction	711	https://people.ischool.berkeley.edu/~dbamman/info256_slides/1_intro.pdf	UC Berkeley	2021
+	646	David Bamman	NER	713	https://people.ischool.berkeley.edu/~dbamman/info256_slides/20.ner.pdf	UC Berkeley	2021
+	647	David Bamman	Multiword expressions	999	https://people.ischool.berkeley.edu/~dbamman/info256_slides/21.mwe.pdf	UC Berkeley	2021
+	648	David Bamman	Syntax	241	https://people.ischool.berkeley.edu/~dbamman/info256_slides/22.syntax.pdf	UC Berkeley	2021
+	649	David Bamman	Coreference resolution	442	https://people.ischool.berkeley.edu/~dbamman/info256_slides/23_coreference.pdf	UC Berkeley	2021
+	650	David Bamman	Information extraction	232	https://people.ischool.berkeley.edu/~dbamman/info256_slides/24_IE.pdf	UC Berkeley	2021
+	651	David Bamman	Sequence alignment	452	https://people.ischool.berkeley.edu/~dbamman/info256_slides/25_sequence_alignment.pdf	UC Berkeley	2021
+	652	David Bamman	Domain adaptation	957	https://people.ischool.berkeley.edu/~dbamman/info256_slides/26_domain_adaptation.pdf	UC Berkeley	2021
+	653	David Bamman	Domain adaptation	957	https://people.ischool.berkeley.edu/~dbamman/info256_slides/27_multimodal.pdf	UC Berkeley	2021
+	654	David Bamman	Words	141	https://people.ischool.berkeley.edu/~dbamman/info256_slides/2_words.pdf	UC Berkeley	2021
+	655	David Bamman	Finding Distinctive Terms	141	https://people.ischool.berkeley.edu/~dbamman/info256_slides/3_distinctive_words.pdf	UC Berkeley	2021
+	656	David Bamman	Dictionaries	141	https://people.ischool.berkeley.edu/~dbamman/info256_slides/4_dictionaries.pdf	UC Berkeley	2021
+	657	David Bamman	Vector semantics and word embeddings	721	https://people.ischool.berkeley.edu/~dbamman/info256_slides/5_lexical_semantics.pdf	UC Berkeley	2021
+	658	David Bamman	Contextual word embeddings	721	https://people.ischool.berkeley.edu/~dbamman/info256_slides/6_contextual_embeddings.pdf	UC Berkeley	2021
+	659	David Bamman	Clustering	624	https://people.ischool.berkeley.edu/~dbamman/info256_slides/7_clustering.pdf	UC Berkeley	2021
+	660	David Bamman	Topic models	632	https://people.ischool.berkeley.edu/~dbamman/info256_slides/8.topic_modeling.pdf	UC Berkeley	2021
+	661	David Bamman	Text classification	541	https://people.ischool.berkeley.edu/~dbamman/info256_slides/9.classification.pdf	UC Berkeley	2021
+	662	David Bamman	Part-of-speech tagging	215	https://people.ischool.berkeley.edu/~dbamman/nlp21_slides/10_pos.pdf	UC Berkeley	2021
+	663	David Bamman	MEMM/CRF	215	https://people.ischool.berkeley.edu/~dbamman/nlp21_slides/11_memm_crf.pdf	UC Berkeley	2021
+	664	David Bamman	Neural sequence labeling	752	https://people.ischool.berkeley.edu/~dbamman/nlp21_slides/12_neural_sequence_labeling.pdf	UC Berkeley	2021
+	665	David Bamman	Constituency syntax	241	https://people.ischool.berkeley.edu/~dbamman/nlp21_slides/13_syntax.pdf	UC Berkeley	2021
+	666	David Bamman	Phrase-structure parsing	252	https://people.ischool.berkeley.edu/~dbamman/nlp21_slides/14_phrase_structure_parsing.pdf	UC Berkeley	2021
+	667	David Bamman	Midterm review	999	https://people.ischool.berkeley.edu/~dbamman/nlp21_slides/15_review.pdf	UC Berkeley	2021
+	668	David Bamman	Dependency syntax	255	https://people.ischool.berkeley.edu/~dbamman/nlp21_slides/16_dependency_syntax.pdf	UC Berkeley	2021
+	669	David Bamman	Dependency parsing	255	https://people.ischool.berkeley.edu/~dbamman/nlp21_slides/17_dependency_parsing.pdf	UC Berkeley	2021
+	670	David Bamman	Semantic roles	331	https://people.ischool.berkeley.edu/~dbamman/nlp21_slides/18_semantic_roles.pdf	UC Berkeley	2021
+	671	David Bamman	WordNet, supersenses and WSD	371	https://people.ischool.berkeley.edu/~dbamman/nlp21_slides/19_word_senses.pdf	UC Berkeley	2021
+	672	David Bamman	Introduction	112	https://people.ischool.berkeley.edu/~dbamman/nlp21_slides/1_intro.pdf	UC Berkeley	2021
+	673	David Bamman	Coreference resolution	442	https://people.ischool.berkeley.edu/~dbamman/nlp21_slides/20_coreference.pdf	UC Berkeley	2021
+	674	David Bamman	Information Extraction	611	https://people.ischool.berkeley.edu/~dbamman/nlp21_slides/21_IE.pdf	UC Berkeley	2021
+	675	David Bamman	Question Answering	411	https://people.ischool.berkeley.edu/~dbamman/nlp21_slides/22_QA.pdf	UC Berkeley	2021
+	676	Katie Stasaski	Text Generation	431	https://people.ischool.berkeley.edu/~dbamman/nlp21_slides/23_TextGeneration.pdf	UC Berkeley	2021
+	677	Jon Gillick	Multimodal Natural Language Processing	999	https://people.ischool.berkeley.edu/~dbamman/nlp21_slides/24_MultiModalNLP.pdf	UC Berkeley	2021
+	678	David Bamman	Machine Translation	451	https://people.ischool.berkeley.edu/~dbamman/nlp21_slides/25_MT.pdf	UC Berkeley	2021
+	679	David Bamman	Social NLP	941	https://people.ischool.berkeley.edu/~dbamman/nlp21_slides/26_social.pdf	UC Berkeley	2021
+	680	David Bamman	Truth and ethics	931	https://people.ischool.berkeley.edu/~dbamman/nlp21_slides/2_truth_ethics.pdf	UC Berkeley	2021
+	681	David Bamman	Text classification	541	https://people.ischool.berkeley.edu/~dbamman/nlp21_slides/3_classification_1.pdf	UC Berkeley	2021
+	682	David Bamman	Text classification	541	https://people.ischool.berkeley.edu/~dbamman/nlp21_slides/4_classification_2.pdf	UC Berkeley	2021
+	683	David Bamman	Text classification	541	https://people.ischool.berkeley.edu/~dbamman/nlp21_slides/5_classification_3.pdf	UC Berkeley	2021
+	684	David Bamman	Language models	211	https://people.ischool.berkeley.edu/~dbamman/nlp21_slides/6_LM_1.pdf	UC Berkeley	2021
+	685	David Bamman	Language models	211	https://people.ischool.berkeley.edu/~dbamman/nlp21_slides/7_LM_2.pdf	UC Berkeley	2021
+	686	David Bamman	Vector semantics and word embeddings	721	https://people.ischool.berkeley.edu/~dbamman/nlp21_slides/8_vector_semantics.pdf	UC Berkeley	2021
+	687	David Bamman	Embeddings	721	https://people.ischool.berkeley.edu/~dbamman/nlp21_slides/9_embeddings_2.pdf	UC Berkeley	2021
+	688	Boaz Barak	HW1	999	https://github.com/boazbk/mltheoryseminar/blob/main/code/hw1/HW1.pdf	Harvard	2021
+	689	Boaz Barak	Introduction	711	https://boazbk.github.io/mltheoryseminar/lectures/seminar_lecture1.pdf	Harvard	2021
+	690	Boaz Barak	Introduction	711	https://boazbk.github.io/mltheoryseminar/lectures/seminar_lecture1.pptx	Harvard	2021
+	691	Boaz Barak	Dynamics & Bias	713	https://boazbk.github.io/mltheoryseminar/lectures/seminar_lecture2.pdf	Harvard	2021
+	692	Boaz Barak	Dynamics & Bias	713	http://files.boazbarak.org/misc/mltheory/ML_seminar_lecture_2.pptx	Harvard	2021
+	697	Boaz Barak	Robustness	713	http://files.boazbarak.org/misc/mltheory/ML_seminar_lecture4.pdf	Harvard	2021
+	698	Boaz Barak	Robustness	713	http://files.boazbarak.org/misc/mltheory/ML_seminar_lecture4.pptx	Harvard	2021
+	699	Boaz Barak	Inference and Statistical Physics	364	http://files.boazbarak.org/misc/mltheory/ML_seminar_lecture_5.pdf	Harvard	2021
+	700	Boaz Barak	Inference and Statistical Physics	364	http://files.boazbarak.org/misc/mltheory/ML_seminar_lecture_5.pptx	Harvard	2021
+	701	Boaz Barak	Causality, Fairness, Privacy	931	http://files.boazbarak.org/misc/mltheory/ML_seminar_lecture_6.pdf	Harvard	2021
+	702	Boaz Barak	Causality, Fairness, Privacy	931	http://files.boazbarak.org/misc/mltheory/ML_seminar_lecture_6.pptx	Harvard	2021
+	703	Boaz Barak	Privacy	931	http://files.boazbarak.org/misc/mltheory/ML_seminar_lecture7.pdf	Harvard	2021
+	704	Boaz Barak	Privacy	931	http://files.boazbarak.org/misc/mltheory/ML_seminar_lecture7.pptx	Harvard	2021
+	705	Sham M. Kakade	Towards a Theory of Generalization in Reinforcement Learning	857	http://files.boazbarak.org/misc/mltheory/sham1_ink.pdf	Harvard	2021
+	706	Sham M. Kakade	Towards a Theory of Generalization in Reinforcement Learning	857	http://files.boazbarak.org/misc/mltheory/sham1.pdf	Harvard	2021
+	707	Sham M. Kakade	Linear Bandits	857	http://files.boazbarak.org/misc/mltheory/sham2_ink.pdf	Harvard	2021
+	708	Sham M. Kakade	Linear Bandits	857	http://files.boazbarak.org/misc/mltheory/sham2.pdf	Harvard	2021
+	709	Dan Klein, John DeNero	Introduction	112	https://cal-cs288.github.io/sp20/slides/cs288_sp20_01_introduction_1up.pdf	UC Berkeley	2020
+	710	Dan Klein, John DeNero	Intorduction	112	https://cal-cs288.github.io/sp20/slides/cs288_sp20_01_introduction_6up.pdf	UC Berkeley	2020
+	715	Dan Klein, John DeNero	Neural Networks	715	https://cal-cs288.github.io/sp20/slides/cs288_sp20_03_neural_networks_1up.pdf	UC Berkeley	2020
+	716	Dan Klein, John DeNero	Neural Networks	715	https://cal-cs288.github.io/sp20/slides/cs288_sp20_03_neural_networks_4up.pdf	UC Berkeley	2020
+	717	Dan Klein, John DeNero	Machine Translation	451	https://cal-cs288.github.io/sp20/slides/cs288_sp20_04_translation_1up.pdf	UC Berkeley	2020
+	718	Dan Klein, John DeNero	Machine Translation	451	https://cal-cs288.github.io/sp20/slides/cs288_sp20_04_translation_4up.pdf	UC Berkeley	2020
+	719	Dan Klein, John DeNero	Statistical Translation	452	https://cal-cs288.github.io/sp20/slides/cs288_sp20_05_statistical_translation_1up.pdf	UC Berkeley	2020
+	720	Dan Klein, John DeNero	Statistical Translation	452	https://cal-cs288.github.io/sp20/slides/cs288_sp20_05_statistical_translation_4up.pdf	UC Berkeley	2020
+	721	Dan Klein, John DeNero	Neural Machine Translation	753	https://cal-cs288.github.io/sp20/slides/cs288_sp20_06_neural_translation_1up.pdf	UC Berkeley	2020
+	722	Dan Klein, John DeNero	Neural Machine Translation	753	https://cal-cs288.github.io/sp20/slides/cs288_sp20_06_neural_translation_4up.pdf	UC Berkeley	2020
+	723	Dan Klein, John DeNero	Speech Recognition and Synthesis	924	https://cal-cs288.github.io/sp20/slides/cs288_sp20_07_speech_1up.pdf	UC Berkeley	2020
+	724	Dan Klein, John DeNero	Speech Recognition and Synthesis	924	https://cal-cs288.github.io/sp20/slides/cs288_sp20_07_speech_4up.pdf	UC Berkeley	2020
+	725	Dan Klein, John DeNero	Syntax and Parsing	241	https://cal-cs288.github.io/sp20/slides/cs288_sp20_08_syntax_1up.pdf	UC Berkeley	2020
+	726	Dan Klein, John DeNero	Syntax and Parsing	241	https://cal-cs288.github.io/sp20/slides/cs288_sp20_08_syntax_4up.pdf	UC Berkeley	2020
+	727	Dan Klein, John DeNero	Neural Constituency Parsing	752	https://cal-cs288.github.io/sp20/slides/cs288_sp20_09_neural_syntax_1up.pdf	UC Berkeley	2020
+	728	Dan Klein, John DeNero	Neural Constituency Parsing	752	https://cal-cs288.github.io/sp20/slides/cs288_sp20_09_neural_syntax_4up.pdf	UC Berkeley	2020
+	729	Dan Klein, John DeNero	Multilingual Models	999	https://cal-cs288.github.io/sp20/slides/cs288_sp20_10_multilingual_1up.pdf	UC Berkeley	2020
+	730	Dan Klein, John DeNero	Multilingual Models	999	https://cal-cs288.github.io/sp20/slides/cs288_sp20_10_multilingual_4up.pdf	UC Berkeley	2020
+	731	Dan Klein, John DeNero	Interactive Machine Translation	452	https://cal-cs288.github.io/sp20/slides/cs288_sp20_11_interactive_mt_1up.pdf	UC Berkeley	2020
+	732	Dan Klein, John DeNero	Interactive Machine Translation	452	https://cal-cs288.github.io/sp20/slides/cs288_sp20_11_interactive_mt_4up.pdf	UC Berkeley	2020
+	733	Dan Klein, John DeNero	Compositional Semantics	322	https://cal-cs288.github.io/sp20/slides/cs288_sp20_12_semantics_1up.pdf	UC Berkeley	2020
+	734	Dan Klein, John DeNero	Compositional Semantics	322	https://cal-cs288.github.io/sp20/slides/cs288_sp20_12_semantics_4up.pdf	UC Berkeley	2020
+	735	Dan Klein, John DeNero	Diachronics	999	https://cal-cs288.github.io/sp20/slides/cs288_sp20_13_language_reconstruction_1up.pdf	UC Berkeley	2020
+	736	Dan Klein, John DeNero	Diachronics	999	https://cal-cs288.github.io/sp20/slides/cs288_sp20_13_language_reconstruction_4up.pdf	UC Berkeley	2020
+	737	Daniel Fried	Grounded Semantics	361	https://cal-cs288.github.io/sp20/slides/cs288_sp20_14_grounding_1up.pdf	UC Berkeley	2020
+	738	Daniel Fried	Grounded Semantics	361	https://cal-cs288.github.io/sp20/slides/cs288_sp20_14_grounding_4up.pdf	UC Berkeley	2020
+	739	Huda Khayrallah	IBM Model 1 and the EM Algorithm	454	https://cal-cs288.github.io/sp20/slides/lecture-ibm-model1.pdf	UC Berkeley	2020
+	740	Weiwei Sun	Overview of Natural Language Processing	112	https://www.cl.cam.ac.uk/~ws390/course/l90/lect01-overview.pdf	University of Cambridge	2020
+	741	Weiwei Sun	Morphology and Finite State Techniques	143	https://www.cl.cam.ac.uk/~ws390/course/l90/lect02-morphology.pdf	University of Cambridge	2020
+	742	Weiwei Sun	Part-of-Speech Tagging and Log-Linear Models	215	https://www.cl.cam.ac.uk/~ws390/course/l90/lect03-prediction.pdf	University of Cambridge	2020
+	752	Weiwei Sun	Binding	241	https://www.cl.cam.ac.uk/~ws390/course/syntax/binding.pdf	Peking University	2017
+	753	Weiwei Sun	Combinatory Categorial Grammar	241	https://www.cl.cam.ac.uk/~ws390/course/syntax/ccg.pdf	Peking University	2017
+	756	Weiwei Sun	Grammar Engineering	241	https://www.cl.cam.ac.uk/~ws390/course/syntax/ge-short.pdf	Peking University	2017
+	758	Weiwei Sun	Lexical-Functional Grammar	241	https://www.cl.cam.ac.uk/~ws390/course/syntax/lfgana.pdf	Peking University	2017
+	760	Weiwei Sun	Lexical-Functional Grammar	241	https://www.cl.cam.ac.uk/~ws390/course/syntax/lfgldd.pdf	Peking University	2017
+	761	Weiwei Sun	Minimalist Grammar	241	https://www.cl.cam.ac.uk/~ws390/course/syntax/mg.pdf	Peking University	2017
+	762	Weiwei Sun	Movement	241	https://www.cl.cam.ac.uk/~ws390/course/syntax/movement.pdf	Peking University	2017
+	763	Weiwei Sun	Tree-Adjoining Grammar	241	https://www.cl.cam.ac.uk/~ws390/course/syntax/tag.pdf	Peking University	2017
+	764	Weiwei Sun	Theta Roles	241	https://www.cl.cam.ac.uk/~ws390/course/syntax/theta.pdf	Peking University	2017
+	765	Graham Neubig	Introduction to Natural Language Processing	112	https://phontron.com/class/anlp2021/assets/slides/anlp-01-intro.pdf	Carnegie Mellon University	2021
+	766	Graham Neubig	Text Classification	541	https://phontron.com/class/anlp2021/assets/slides/anlp-02-classification.pdf	Carnegie Mellon University	2021
+	767	Graham Neubig	Language Modeling and Neural Networks	211	https://phontron.com/class/anlp2021/assets/slides/anlp-03-lm.pdf	Carnegie Mellon University	2021
+	768	Graham Neubig	Toolkit for NLP	131	https://phontron.com/class/anlp2021/assets/slides/anlp-04-toolkit.pdf	Carnegie Mellon University	2021
+	769	Graham Neubig	Recurrent Neural Networks	741	https://phontron.com/class/anlp2021/assets/slides/anlp-05-rnn.pdf	Carnegie Mellon University	2021
+	770	Graham Neubig	Conditioned Generation	431	https://phontron.com/class/anlp2021/assets/slides/anlp-06-condlm.pdf	Carnegie Mellon University	2021
+	771	Graham Neubig	Attention	745	https://phontron.com/class/anlp2021/assets/slides/anlp-07-attention.pdf	Carnegie Mellon University	2021
+	772	Graham Neubig	Pre-trained Sentence Representation	714	https://phontron.com/class/anlp2021/assets/slides/anlp-08-pretraining.pdf	Carnegie Mellon University	2021
+	773	Graham Neubig	Multi-task, Multi-domain, and Multi-lingual Learning	751	https://phontron.com/class/anlp2021/assets/slides/anlp-09-multitask.pdf	Carnegie Mellon University	2021
+	774	Graham Neubig	Prompting	751	https://phontron.com/class/anlp2021/assets/slides/anlp-10-prompting.pdf	Carnegie Mellon University	2021
+	775	Graham Neubig	Debugging and Understanding NLP Models	753	https://phontron.com/class/anlp2021/assets/slides/anlp-11-interpretation.pdf	Carnegie Mellon University	2021
+	776	Graham Neubig	Word Segmentation and Morphology	143	https://phontron.com/class/anlp2021/assets/slides/anlp-12-wordseg-morphology.pdf	Carnegie Mellon University	2021
+	777	Graham Neubig	Word Segmentation and Morphology	143	https://phontron.com/class/anlp2021/assets/slides/anlp-12-wordseg-morphology.pptx	Carnegie Mellon University	2021
+	778	Graham Neubig	NLP Experimental Design	711	https://phontron.com/class/anlp2021/assets/slides/anlp-13-experimentation.pdf	Carnegie Mellon University	2021
+	779	Graham Neubig	PCFG Parsing	331	https://phontron.com/class/anlp2021/assets/slides/anlp-14-grammarinduction.pdf	Carnegie Mellon University	2021
+	780	Graham Neubig	Syntax and parsing 1	331	https://phontron.com/class/anlp2021/assets/slides/anlp-14-parsing1.pdf	Carnegie Mellon University	2021
+	781	Graham Neubig	Syntax and parsing 1	331	https://phontron.com/class/anlp2021/assets/slides/anlp-14-parsing1.pptx	Carnegie Mellon University	2021
+	782	Graham Neubig	Dependency Parsing	331	https://phontron.com/class/anlp2021/assets/slides/anlp-15-dependency.pdf	Carnegie Mellon University	2021
+	783	Graham Neubig	Dependency Parsing	331	https://phontron.com/class/anlp2021/assets/slides/anlp-15-dependency.pptx	Carnegie Mellon University	2021
+	784	Graham Neubig	Dependency Parsing 2	331	https://phontron.com/class/anlp2021/assets/slides/anlp-15-parsing2.pdf	Carnegie Mellon University	2021
+	785	Graham Neubig	Executable Semantic Parsing, and Beyond	331	https://phontron.com/class/anlp2021/assets/slides/anlp-16-code-generation.pdf	Carnegie Mellon University	2021
+	786	Graham Neubig	Parsing	331	https://phontron.com/class/anlp2021/assets/slides/anlp-16-semantic-parsing.pdf	Carnegie Mellon University	2021
+	787	Graham Neubig	Language-conditioned Tasks	151	https://phontron.com/class/anlp2021/assets/slides/anlp-16-semantics.pdf	Carnegie Mellon University	2021
+	788	Graham Neubig	Text-based Question Answering	755	https://phontron.com/class/anlp2021/assets/slides/anlp-16-textbasedqa.pdf	Carnegie Mellon University	2021
+	789	Graham Neubig	Executable Semantic Parsing, and Beyond	331	https://phontron.com/class/anlp2021/assets/slides/anlp-17-code-generation.pdf	Carnegie Mellon University	2021
+	790	Graham Neubig	Semantic Parsing	331	https://phontron.com/class/anlp2021/assets/slides/anlp-17-semantic-parsing.pdf	Carnegie Mellon University	2021
+	791	Graham Neubig	Semantics	361	https://phontron.com/class/anlp2021/assets/slides/anlp-17-semantics.pdf	Carnegie Mellon University	2021
+	792	Graham Neubig	Dialog	444	https://phontron.com/class/anlp2021/assets/slides/anlp-18-dialog.pdf	Carnegie Mellon University	2021
+	793	Graham Neubig	Dialog	444	https://phontron.com/class/anlp2021/assets/slides/anlp-18-dialog.pptx	Carnegie Mellon University	2021
+	794	Graham Neubig	Fairness and Bias	932	https://phontron.com/class/anlp2021/assets/slides/anlp-19-bias.pdf	Carnegie Mellon University	2021
+	795	Graham Neubig	Computational Social Science	941	https://phontron.com/class/anlp2021/assets/slides/anlp-19-css.pdf	Carnegie Mellon University	2021
+	796	Graham Neubig	Computational Social Science	941	https://phontron.com/class/anlp2021/assets/slides/anlp-19-css.pptx	Carnegie Mellon University	2021
+	797	Graham Neubig	Knowlege Bases	835	https://phontron.com/class/anlp2021/assets/slides/anlp-20-kb.pdf	Carnegie Mellon University	2021
+	798	Graham Neubig	Document Level Models	741	https://phontron.com/class/anlp2021/assets/slides/anlp-21-document.pdf	Carnegie Mellon University	2021
+	799	Graham Neubig	Margin-Based Methods and Reinforcement Learning for Structured Prediction	857	https://phontron.com/class/anlp2021/assets/slides/anlp-22-structure.pdf	Carnegie Mellon University	2021
+	800	Graham Neubig	Models w/ Latent Random Variables	631	https://phontron.com/class/anlp2021/assets/slides/anlp-23-latent.pdf	Carnegie Mellon University	2021
+	801	Graham Neubig	Adversarial Methods	824	https://phontron.com/class/anlp2021/assets/slides/anlp-24-adversarial.pdf	Carnegie Mellon University	2021
+	802	Alan W Black and David Mortensen	Introductory Lecture	111	http://demo.clab.cs.cmu.edu/NLP/S21/files/slides/01-intro.pdf	Carnegie Mellon University	2021
+	803	Alan W Black and David Mortensen	Applications of NLP	941	http://demo.clab.cs.cmu.edu/NLP/S21/files/slides/02-apps.pdf	Carnegie Mellon University	2021
+	804	Alan W Black and David Mortensen	Projects	111	http://demo.clab.cs.cmu.edu/NLP/S21/files/slides/03-project.pdf	Carnegie Mellon University	2021
+	805	Alan W Black and David Mortensen	Words and Morphology	143	http://demo.clab.cs.cmu.edu/NLP/S21/files/slides/04-words-rev.pdf	Carnegie Mellon University	2021
+	806	Alan W Black and David Mortensen	Language Models and Smoothing	211	http://demo.clab.cs.cmu.edu/NLP/S21/files/slides/05-lm.pdf	Carnegie Mellon University	2021
+	807	Alan W Black and David Mortensen	Information Theory	129	http://demo.clab.cs.cmu.edu/NLP/S21/files/slides/06-noisychannel.pdf	Carnegie Mellon University	2021
+	808	Alan W Black and David Mortensen	Parts of Speech	231	http://demo.clab.cs.cmu.edu/NLP/S21/files/slides/08-pos.pdf	Carnegie Mellon University	2021
+	809	Alan W Black and David Mortensen	Classification	541	http://demo.clab.cs.cmu.edu/NLP/S21/files/slides/09-classification.pdf	Carnegie Mellon University	2021
+	810	Alan W Black and David Mortensen	Classification	541	http://demo.clab.cs.cmu.edu/NLP/S21/files/slides/10-classification-2.pdf	Carnegie Mellon University	2021
+	811	Alan W Black and David Mortensen	Syntax	241	http://demo.clab.cs.cmu.edu/NLP/S21/files/slides/10-syntax.pdf	Carnegie Mellon University	2021
+	812	Alan W Black and David Mortensen	The Chomsky Hierarchy	251	http://demo.clab.cs.cmu.edu/NLP/S21/files/slides/11-chomskyhierarchy.pdf	Carnegie Mellon University	2021
+	813	Alan W Black and David Mortensen	Sequence Models	741	http://demo.clab.cs.cmu.edu/NLP/S21/files/slides/11-s2smodels.pdf	Carnegie Mellon University	2021
+	814	Alan W Black and David Mortensen	Deep Learning and NLP	711	http://demo.clab.cs.cmu.edu/NLP/S21/files/slides/12-deeplearning.pdf	Carnegie Mellon University	2021
+	815	Alan W Black and David Mortensen	Treebanks and Probabilistic CFGs	241	http://demo.clab.cs.cmu.edu/NLP/S21/files/slides/15-treebanks-pcfg.pdf	Carnegie Mellon University	2021
+	816	Alan W Black and David Mortensen	Lexical Semantics	311	http://demo.clab.cs.cmu.edu/NLP/S21/files/slides/16-lexicalsemantics.pdf	Carnegie Mellon University	2021
+	817	Alan W Black and David Mortensen	Contectualized Embeddings	714	http://demo.clab.cs.cmu.edu/NLP/S21/files/slides/17-contectualized_embeddings.pdf	Carnegie Mellon University	2021
+	818	Alan W Black and David Mortensen	Vector Semantics	322	http://demo.clab.cs.cmu.edu/NLP/S21/files/slides/17-embeddings.pdf	Carnegie Mellon University	2021
+	819	Alan W Black and David Mortensen	Representing Meaning	322	http://demo.clab.cs.cmu.edu/NLP/S21/files/slides/18-verb_and_sentence_semantics.pdf	Carnegie Mellon University	2021
+	820	Alan W Black and David Mortensen	Compositional Semantics and Semantic Parsing	365	http://demo.clab.cs.cmu.edu/NLP/S21/files/slides/19-compsem.pdf	Carnegie Mellon University	2021
+	821	Alan W Black and David Mortensen	Using Speech with Computers	923	http://demo.clab.cs.cmu.edu/NLP/S21/files/slides/21-speech_1.pdf	Carnegie Mellon University	2021
+	822	Alan W Black and David Mortensen	Using Speech with Computers	923	http://demo.clab.cs.cmu.edu/NLP/S21/files/slides/22-speech_2.pdf	Carnegie Mellon University	2021
+	823	Alan W Black and David Mortensen	Discourse and Pragmatics	441	http://demo.clab.cs.cmu.edu/NLP/S21/files/slides/23-discourse_pragmatics_entity_linking.pdf	Carnegie Mellon University	2021
+	824	Alan W Black and David Mortensen	Neural Text Generation	756	http://demo.clab.cs.cmu.edu/NLP/S21/files/slides/23-NLP_Generation.pdf	Carnegie Mellon University	2021
+	825	Alan W Black and David Mortensen	Machine Translation Overview	451	http://demo.clab.cs.cmu.edu/NLP/S21/files/slides/Machine_Translation_Overview.pptx	Carnegie Mellon University	2021
+	827	Graham Neubig	Introduction	111	https://phontron.com/class/nn4nlp2021/assets/slides/nn4nlp-01-intro.pdf	Carnegie Mellon University	2021
+	828	Graham Neubig	Language Modeling	211	https://phontron.com/class/nn4nlp2021/assets/slides/nn4nlp-02-lm.pdf	Carnegie Mellon University	2021
+	829	Graham Neubig	NLP Toolkit	131	https://phontron.com/class/nn4nlp2021/assets/slides/nn4nlp-03-toolkit.pdf	Carnegie Mellon University	2021
+	830	Graham Neubig	Efficiency Tricks for Neural Net	715	https://phontron.com/class/nn4nlp2021/assets/slides/nn4nlp-04-efficiency.pdf	Carnegie Mellon University	2021
+	831	Graham Neubig	Recurrent Neural Networks	741	https://phontron.com/class/nn4nlp2021/assets/slides/nn4nlp-05-rnn.pdf	Carnegie Mellon University	2021
+	832	Graham Neubig	Conditioned Generation	431	https://phontron.com/class/nn4nlp2021/assets/slides/nn4nlp-06-condlm.pdf	Carnegie Mellon University	2021
+	833	Graham Neubig	Attention	745	https://phontron.com/class/nn4nlp2021/assets/slides/nn4nlp-07-attention.pdf	Carnegie Mellon University	2021
+	834	Graham Neubig	Pre-trained Word Representations	714	https://phontron.com/class/nn4nlp2021/assets/slides/nn4nlp-08-wordemb.pdf	Carnegie Mellon University	2021
+	835	Graham Neubig	Pre-trained Sentence	714	https://phontron.com/class/nn4nlp2021/assets/slides/nn4nlp-09-sentrep.pdf	Carnegie Mellon University	2021
+	836	Graham Neubig	Debugging Neural Networks for NLP	711	https://phontron.com/class/nn4nlp2021/assets/slides/nn4nlp-10-debugging.pdf	Carnegie Mellon University	2021
+	837	Graham Neubig	Model Debugging	711	https://phontron.com/class/nn4nlp2021/assets/slides/nn4nlp-10-interpreteval.pdf	Carnegie Mellon University	2021
+	838	Graham Neubig	Model Debugging	711	https://phontron.com/class/nn4nlp2021/assets/slides/nn4nlp-10-interpreteval.pptx	Carnegie Mellon University	2021
+	839	Graham Neubig	Structured Prediction with Local Dependencies	961	https://phontron.com/class/nn4nlp2021/assets/slides/nn4nlp-11-crf.pdf	Carnegie Mellon University	2021
+	840	Graham Neubig	Model Interpretation	933	https://phontron.com/class/nn4nlp2021/assets/slides/nn4nlp-12-interpretation.pdf	Carnegie Mellon University	2021
+	841	Graham Neubig	Generating Trees or Graphs w/ Neural Networks	961	https://phontron.com/class/nn4nlp2021/assets/slides/nn4nlp-13-parsing.pdf	Carnegie Mellon University	2021
+	842	Graham Neubig	Margin-based and Reinforcement Learning for Structured Prediction	857	https://phontron.com/class/nn4nlp2021/assets/slides/nn4nlp-14-structure.pdf	Carnegie Mellon University	2021
+	843	Graham Neubig	Advanced Sequence-to-sequence Models	741	https://phontron.com/class/nn4nlp2021/assets/slides/nn4nlp-15-seq2seq.pdf	Carnegie Mellon University	2021
+	844	Graham Neubig	Advanced Sequence-to-sequence Models	741	https://phontron.com/class/nn4nlp2021/assets/slides/nn4nlp-15-seq2seq.pptx	Carnegie Mellon University	2021
+	845	Graham Neubig	Machine Reading	755	https://phontron.com/class/nn4nlp2021/assets/slides/nn4nlp-16-machinereading.pdf	Carnegie Mellon University	2021
+	846	Graham Neubig	Knowledge Bases	835	https://phontron.com/class/nn4nlp2021/assets/slides/nn4nlp-17-kb.pdf	Carnegie Mellon University	2021
+	847	Graham Neubig	Probing Knowledge in LMs	751	https://phontron.com/class/nn4nlp2021/assets/slides/nn4nlp-17-lmkb.pdf	Carnegie Mellon University	2021
+	848	Graham Neubig	Advanced Search Algorithms	821	https://phontron.com/class/nn4nlp2021/assets/slides/nn4nlp-18-search.pdf	Carnegie Mellon University	2021
+	849	Graham Neubig	Adversarial Methods	821	https://phontron.com/class/nn4nlp2021/assets/slides/nn4nlp-19-adversarial.pdf	Carnegie Mellon University	2021
+	850	Graham Neubig	Models w/ Latent Random Variables	824	https://phontron.com/class/nn4nlp2021/assets/slides/nn4nlp-20-latent.pdf	Carnegie Mellon University	2021
+	851	Graham Neubig	Multilingual Learning	714	https://phontron.com/class/nn4nlp2021/assets/slides/nn4nlp-21-multilingual.pdf	Carnegie Mellon University	2021
+	852	Graham Neubig	Bias in NLP models	932	https://phontron.com/class/nn4nlp2021/assets/slides/nn4nlp-22-bias.pdf	Carnegie Mellon University	2021
+	853	Graham Neubig	Document Level Models	714	https://phontron.com/class/nn4nlp2021/assets/slides/nn4nlp-23-document.pdf	Carnegie Mellon University	2021
+	854	Jin Guo	System Quality	135	https://github.com/jin-guo/COMP599_Fall2021/blob/main/Slides/10-SystemQuality.pdf	McGill University	2021
+	855	Jin Guo	Continuous Delivery for ML	134	https://github.com/jin-guo/COMP599_Fall2021/blob/main/Slides/11-CD.pdf	McGill University	2021
+	856	Jin Guo	Human AI Interaction	947	https://github.com/jin-guo/COMP599_Fall2021/blob/main/Slides/12-HAI.pdf	McGill University	2021
+	857	Jin Guo	Data and Visualization	811	https://github.com/jin-guo/COMP599_Fall2021/blob/main/Slides/13-Vis.pdf	McGill University	2021
+	858	Jin Guo	Decision Making	811	https://github.com/jin-guo/COMP599_Fall2021/blob/main/Slides/14-DecisionMaking.pdf	McGill University	2021
+	859	Jin Guo	Design for Learning	811	https://github.com/jin-guo/COMP599_Fall2021/blob/main/Slides/15-Learning.pdf	McGill University	2021
+	860	Jin Guo	Design for Creativity	811	https://github.com/jin-guo/COMP599_Fall2021/blob/main/Slides/16-Creativity.pdf	McGill University	2021
+	861	Jin Guo	Inclusion Design	811	https://github.com/jin-guo/COMP599_Fall2021/blob/main/Slides/17-Inclusion.pdf	McGill University	2021
+	862	Jin Guo	AI Safety	811	https://github.com/jin-guo/COMP599_Fall2021/blob/main/Slides/19-Safety.pdf	McGill University	2021
+	863	Jin Guo	Introduction	111	https://github.com/jin-guo/COMP599_Fall2021/blob/main/Slides/1-Intro.pdf	McGill University	2021
+	864	Jin Guo	Privacy	811	https://github.com/jin-guo/COMP599_Fall2021/blob/main/Slides/20-SecurityPrivacy.pdf	McGill University	2021
+	865	Jin Guo	Privacy	811	https://github.com/jin-guo/COMP599_Fall2021/blob/main/Slides/21-Privacy.pdf	McGill University	2021
+	866	Jin Guo	Accountability	811	https://github.com/jin-guo/COMP599_Fall2021/blob/main/Slides/22-Accountability.pdf	McGill University	2021
+	867	Jin Guo	Transparency and Explainability	933	https://github.com/jin-guo/COMP599_Fall2021/blob/main/Slides/23-TransparencyExplainability.pdf	McGill University	2021
+	868	Jin Guo	Fairness and Bias	932	https://github.com/jin-guo/COMP599_Fall2021/blob/main/Slides/24-Fairness.pdf	McGill University	2021
+	869	Jin Guo	Introduction to Software Engineering	811	https://github.com/jin-guo/COMP599_Fall2021/blob/main/Slides/2-SE.pdf	McGill University	2021
+	870	Jin Guo	AI and ML	811	https://github.com/jin-guo/COMP599_Fall2021/blob/main/Slides/3-AI&ML.pdf	McGill University	2021
+	871	Jin Guo	Model Quality	811	https://github.com/jin-guo/COMP599_Fall2021/blob/main/Slides/4-ModelQuality.pdf	McGill University	2021
+	872	Jin Guo	ML Systems	134	https://github.com/jin-guo/COMP599_Fall2021/blob/main/Slides/5-MLSystems.pdf	McGill University	2021
+	873	Jin Guo	Data Management	134	https://github.com/jin-guo/COMP599_Fall2021/blob/main/Slides/6-DataManagement.pdf	McGill University	2021
+	874	Jin Guo	Requirements and Intelligent Systems	811	https://github.com/jin-guo/COMP599_Fall2021/blob/main/Slides/7-Requirement-1.pdf	McGill University	2021
+	875	Jin Guo	Requirements and Intelligent Systems	811	https://github.com/jin-guo/COMP599_Fall2021/blob/main/Slides/7-Requirement-2.pdf	McGill University	2021
+	876	Jin Guo	Team and Collaboration	811	https://github.com/jin-guo/COMP599_Fall2021/blob/main/Slides/8-Collaboration.pdf	McGill University	2021
+	877	Jin Guo	Data Quality	811	https://github.com/jin-guo/COMP599_Fall2021/blob/main/Slides/9-DataQuality.pdf	McGill University	2021
+	878	Jin Guo	Requirements Engineering for AI	811	https://github.com/jin-guo/COMP599_Fall2021/blob/main/Slides/Ada-Requirements Engineering for AI.pdf	McGill University	2021
+	879	Jin Guo	MLOps	134	https://github.com/jin-guo/COMP599_Fall2021/blob/main/Slides/Avinash-MLOps.pdf	McGill University	2021
+	880	Jin Guo	Privacy	811	https://github.com/jin-guo/COMP599_Fall2021/blob/main/Slides/Felix_Privacy.pdf	McGill University	2021
+	881	Jin Guo	Privacy in the Age of AI	811	https://github.com/jin-guo/COMP599_Fall2021/blob/main/Slides/Hashem_Privacy.pdf	McGill University	2021
+	882	Jin Guo	An Investigation of Bias Through the Lens of Social Data	811	https://github.com/jin-guo/COMP599_Fall2021/blob/main/Slides/Kevin_Bias.pdf	McGill University	2021
+	883	Jin Guo	Data Accquisition and Management	811	https://github.com/jin-guo/COMP599_Fall2021/blob/main/Slides/Luca-DataAcquisition.pdf	McGill University	2021
+	884	Jin Guo	Team & Collaboration	111	https://github.com/jin-guo/COMP599_Fall2021/blob/main/Slides/mpoemsl_team_and_collaboration_for_intelligent_systems.pdf	McGill University	2021
+	885	Jin Guo	Explainability and Interpretability in ML systems	933	https://github.com/jin-guo/COMP599_Fall2021/blob/main/Slides/Oumar_Explainability_Interpretability.pdf	McGill University	2021
+	886	Jin Guo	Intelligent System Security	811	https://github.com/jin-guo/COMP599_Fall2021/blob/main/Slides/Percy-Security.pdf	McGill University	2021
+	887	Jin Guo	Building Safe Systems	811	https://github.com/jin-guo/COMP599_Fall2021/blob/main/Slides/Roman-Safety.pdf	McGill University	2021
+	888	Jin Guo	AI Accountability	811	https://github.com/jin-guo/COMP599_Fall2021/blob/main/Slides/Souleima_Accountability.pdf	McGill University	2021
+	889	Noah Snavely	Class Overview	111	https://www.cs.cornell.edu/courses/cs5670/2021sp/lectures/lec00_intro_for_web.pdf	Cornell University	2021
+	890	Noah Snavely	Class Overview	111	https://www.cs.cornell.edu/courses/cs5670/2021sp/lectures/lec00_intro_for_web.pptx	Cornell University	2021
+	891	Noah Snavely	Image Filtering	862	https://www.cs.cornell.edu/courses/cs5670/2021sp/lectures/lec01_filter_for_web.pdf	Cornell University	2021
+	892	Noah Snavely	Image Filtering	862	https://www.cs.cornell.edu/courses/cs5670/2021sp/lectures/lec01_filter_for_web.pptx	Cornell University	2021
+	893	Noah Snavely	Edge Detection	862	https://www.cs.cornell.edu/courses/cs5670/2021sp/lectures/lec02_edge_for_web.pdf	Cornell University	2021
+	894	Noah Snavely	Edge Detection	862	https://www.cs.cornell.edu/courses/cs5670/2021sp/lectures/lec02_edge_for_web.pptx	Cornell University	2021
+	895	Noah Snavely	Image Resampling	862	https://www.cs.cornell.edu/courses/cs5670/2021sp/lectures/lec03_resample_for_web.pdf	Cornell University	2021
+	896	Noah Snavely	Image Resampling	862	https://www.cs.cornell.edu/courses/cs5670/2021sp/lectures/lec03_resample_for_web.pptx	Cornell University	2021
+	897	Noah Snavely	Feature Detection	862	https://www.cs.cornell.edu/courses/cs5670/2021sp/lectures/lec04_harris_for_web.pdf	Cornell University	2021
+	898	Noah Snavely	Feature Detection	862	https://www.cs.cornell.edu/courses/cs5670/2021sp/lectures/lec04_harris_for_web.pptx	Cornell University	2021
+	899	Noah Snavely	Feature Invarance	862	https://www.cs.cornell.edu/courses/cs5670/2021sp/lectures/lec05_invariance_for_web.pdf	Cornell University	2021
+	900	Noah Snavely	Feature Invarance	862	https://www.cs.cornell.edu/courses/cs5670/2021sp/lectures/lec05_invariance_for_web.pptx	Cornell University	2021
+	901	Noah Snavely	Feature Descriptors	862	https://www.cs.cornell.edu/courses/cs5670/2021sp/lectures/lec06_descriptors_for_web.pdf	Cornell University	2021
+	902	Noah Snavely	Feature Descriptors	862	https://www.cs.cornell.edu/courses/cs5670/2021sp/lectures/lec06_descriptors_for_web.pptx	Cornell University	2021
+	903	Noah Snavely	Feature Matching	862	https://www.cs.cornell.edu/courses/cs5670/2021sp/lectures/lec06_matching_for_web.pdf	Cornell University	2021
+	904	Noah Snavely	Feature Matching	862	https://www.cs.cornell.edu/courses/cs5670/2021sp/lectures/lec06_matching_for_web.pptx	Cornell University	2021
+	905	Noah Snavely	Image Transformations	862	https://www.cs.cornell.edu/courses/cs5670/2021sp/lectures/lec07_transformations_for_web.pdf	Cornell University	2021
+	906	Noah Snavely	Image Transformations	862	https://www.cs.cornell.edu/courses/cs5670/2021sp/lectures/lec07_transformations_for_web.pptx	Cornell University	2021
+	907	Noah Snavely	Image Alignment	862	https://www.cs.cornell.edu/courses/cs5670/2021sp/lectures/lec08_alignment_for_web.pdf	Cornell University	2021
+	908	Noah Snavely	Image Alignment	862	https://www.cs.cornell.edu/courses/cs5670/2021sp/lectures/lec08_alignment_for_web.pptx	Cornell University	2021
+	909	Noah Snavely	Ransac	862	https://www.cs.cornell.edu/courses/cs5670/2021sp/lectures/lec09_ransac_for_web.pdf	Cornell University	2021
+	910	Noah Snavely	Ransac	862	https://www.cs.cornell.edu/courses/cs5670/2021sp/lectures/lec09_ransac_for_web.pptx	Cornell University	2021
+	911	Noah Snavely	Camera	862	https://www.cs.cornell.edu/courses/cs5670/2021sp/lectures/lec10_cameras_for_web.pdf	Cornell University	2021
+	912	Noah Snavely	Camera	862	https://www.cs.cornell.edu/courses/cs5670/2021sp/lectures/lec10_cameras_for_web.pptx	Cornell University	2021
+	913	Noah Snavely	Panoramas	862	https://www.cs.cornell.edu/courses/cs5670/2021sp/lectures/lec11_panoramas_for_web.pdf	Cornell University	2021
+	914	Noah Snavely		862	https://www.cs.cornell.edu/courses/cs5670/2021sp/lectures/lec11_panoramas_for_web.pptx	Cornell University	2021
+	915	Noah Snavely	Single View Modeling	862	https://www.cs.cornell.edu/courses/cs5670/2021sp/lectures/lec12_singleview_for_web.pdf	Cornell University	2021
+	916	Noah Snavely	Single View Modeling	862	https://www.cs.cornell.edu/courses/cs5670/2021sp/lectures/lec12_singleview_for_web.pptx	Cornell University	2021
+	917	Noah Snavely	Stereo	862	https://www.cs.cornell.edu/courses/cs5670/2021sp/lectures/lec13_stereo_for_web.pdf	Cornell University	2021
+	918	Noah Snavely	Stereo	862	https://www.cs.cornell.edu/courses/cs5670/2021sp/lectures/lec13_stereo_for_web.pptx	Cornell University	2021
+	919	Noah Snavely	Multiview Stereo	862	https://www.cs.cornell.edu/courses/cs5670/2021sp/lectures/lec14_mvs_for_web.pdf	Cornell University	2021
+	920	Noah Snavely	Multiview Stereo	862	https://www.cs.cornell.edu/courses/cs5670/2021sp/lectures/lec14_mvs_for_web.pptx	Cornell University	2021
+	921	Noah Snavely	Illumination	862	https://www.cs.cornell.edu/courses/cs5670/2021sp/lectures/lec15_light_for_web.pdf	Cornell University	2021
+	922	Noah Snavely	Illumination	862	https://www.cs.cornell.edu/courses/cs5670/2021sp/lectures/lec15_light_for_web.pptx	Cornell University	2021
+	923	Noah Snavely	Photometric Stereo	862	https://www.cs.cornell.edu/courses/cs5670/2021sp/lectures/lec16_photometric_for_web.pdf	Cornell University	2021
+	924	Noah Snavely	Photometric Stereo	862	https://www.cs.cornell.edu/courses/cs5670/2021sp/lectures/lec16_photometric_for_web.pptx	Cornell University	2021
+	925	Noah Snavely	Two-view Geometry	862	https://www.cs.cornell.edu/courses/cs5670/2021sp/lectures/lec17_twoview_for_web.pdf	Cornell University	2021
+	926	Noah Snavely	Two-view Geometry	862	https://www.cs.cornell.edu/courses/cs5670/2021sp/lectures/lec17_twoview_for_web.pptx	Cornell University	2021
+	927	Noah Snavely	Structure from Motion	862	https://www.cs.cornell.edu/courses/cs5670/2021sp/lectures/lec18_sfm_for_web.pdf	Cornell University	2021
+	928	Noah Snavely	Structure from Motion	862	https://www.cs.cornell.edu/courses/cs5670/2021sp/lectures/lec18_sfm_for_web.pptx	Cornell University	2021
+	929	Noah Snavely	Introduction to Recognition	862	https://www.cs.cornell.edu/courses/cs5670/2021sp/lectures/lec19_intro_recognition_for_web.pdf	Cornell University	2021
+	930	Noah Snavely	Introduction to Recognition	862	https://www.cs.cornell.edu/courses/cs5670/2021sp/lectures/lec19_intro_recognition_for_web.pptx	Cornell University	2021
+	931	Noah Snavely	Image Classification	862	https://www.cs.cornell.edu/courses/cs5670/2021sp/lectures/lec20_classification_for_web.pdf	Cornell University	2021
+	932	Noah Snavely	Image Classification	862	https://www.cs.cornell.edu/courses/cs5670/2021sp/lectures/lec20_classification_for_web.pptx	Cornell University	2021
+	933	Noah Snavely	Convolutional Neural Networks	744	https://www.cs.cornell.edu/courses/cs5670/2021sp/lectures/lec21_cnns_for_web.pdf	Cornell University	2021
+	934	Noah Snavely	Convolutional Neural Networks	744	https://www.cs.cornell.edu/courses/cs5670/2021sp/lectures/lec21_cnns_for_web.pptx	Cornell University	2021
+	935	Noah Snavely	Convolutional Neural Networks	744	https://www.cs.cornell.edu/courses/cs5670/2021sp/lectures/lec22_cnns2_web.pdf	Cornell University	2021
+	936	Noah Snavely	Convolutional Neural Networks	744	https://www.cs.cornell.edu/courses/cs5670/2021sp/lectures/lec22_cnns2_web.pptx	Cornell University	2021
+	937	Noah Snavely	Generative Adversarial Networks	862	https://www.cs.cornell.edu/courses/cs5670/2021sp/lectures/lec23_gans_for_web.pdf	Cornell University	2021
+	938	Noah Snavely	Generative Adversarial Networks	862	https://www.cs.cornell.edu/courses/cs5670/2021sp/lectures/lec23_gans_for_web.pptx	Cornell University	2021
+	939	Noah Snavely	Ethics in Computer Vision	862	https://www.cs.cornell.edu/courses/cs5670/2021sp/lectures/lec24_ethics_for_web.pdf	Cornell University	2021
+	940	Noah Snavely	Ethics in Computer Vision	862	https://www.cs.cornell.edu/courses/cs5670/2021sp/lectures/lec24_ethics_for_web.pptx	Cornell University	2021
+	941	Noah Snavely	Geometry	862	https://www.cs.cornell.edu/courses/cs5670/2021sp/lectures/lec25_deep_geometry_for_web.pdf	Cornell University	2021
+	942	Noah Snavely	Geometry	862	https://www.cs.cornell.edu/courses/cs5670/2021sp/lectures/lec25_deep_geometry_for_web.pptx	Cornell University	2021
+	943	Noah Snavely	Course wrapup & review	862	https://www.cs.cornell.edu/courses/cs5670/2021sp/lectures/lec26_review_for_web.pdf	Cornell University	2021
+	944	Noah Snavely	Course wrapup & review	862	https://www.cs.cornell.edu/courses/cs5670/2021sp/lectures/lec26_review_for_web.pptx	Cornell University	2021
+	945	Yu-Xiang Wang	Bandits	123	https://sites.cs.ucsb.edu/~yuxiangw/classes/CS165A-2020winter/Lectures	UC Santa Barbara	2020
+	946	Yu-Xiang Wang	Bandits	123	https://sites.cs.ucsb.edu/~yuxiangw/classes/CS165A-2020winter/Lectures	UC Santa Barbara	2020
+	947	Yu-Xiang Wang	Final Review	111	https://sites.cs.ucsb.edu/~yuxiangw/classes/CS165A-2020winter/Lectures	UC Santa Barbara	2020
+	948	Yu-Xiang Wang	Introduction and Course Overview	111	https://sites.cs.ucsb.edu/~yuxiangw/classes/CS165A-2020winter/Lectures	UC Santa Barbara	2020
+	949	Yu-Xiang Wang	Logic: Propositional logic	831	https://sites.cs.ucsb.edu/~yuxiangw/classes/CS165A-2020winter/Lectures	UC Santa Barbara	2020
+	950	Yu-Xiang Wang	Logic: Propositional logic	831	https://sites.cs.ucsb.edu/~yuxiangw/classes/CS165A-2020winter/Lectures	UC Santa Barbara	2020
+	951	Yu-Xiang Wang	Markov Decision Processes	843	https://sites.cs.ucsb.edu/~yuxiangw/classes/CS165A-2020winter/Lectures	UC Santa Barbara	2020
+	952	Yu-Xiang Wang	Markov Decision Processes	843	https://sites.cs.ucsb.edu/~yuxiangw/classes/CS165A-2020winter/Lectures	UC Santa Barbara	2020
+	953	Yu-Xiang Wang	Markov Decision Processes	843	https://sites.cs.ucsb.edu/~yuxiangw/classes/CS165A-2020winter/Lectures	UC Santa Barbara	2020
+	954	Yu-Xiang Wang	Markov Decision Processes	843	https://sites.cs.ucsb.edu/~yuxiangw/classes/CS165A-2020winter/Lectures	UC Santa Barbara	2020
+	955	Yu-Xiang Wang	Midterm Review	111	https://sites.cs.ucsb.edu/~yuxiangw/classes/CS165A-2020winter/Lectures	UC Santa Barbara	2020
+	956	Yu-Xiang Wang	Midterm Review	111	https://sites.cs.ucsb.edu/~yuxiangw/classes/CS165A-2020winter/Lectures	UC Santa Barbara	2020
+	957	Yu-Xiang Wang	Supervised learning	624	https://sites.cs.ucsb.edu/~yuxiangw/classes/CS165A-2020winter/Lectures	UC Santa Barbara	2020
+	958	Yu-Xiang Wang	Supervised learning	624	https://sites.cs.ucsb.edu/~yuxiangw/classes/CS165A-2020winter/Lectures	UC Santa Barbara	2020
+	959	Yu-Xiang Wang	Continuous optimization	127	https://sites.cs.ucsb.edu/~yuxiangw/classes/CS165A-2020winter/Lectures	UC Santa Barbara	2020
+	960	Yu-Xiang Wang	Continuous optimization	127	https://sites.cs.ucsb.edu/~yuxiangw/classes/CS165A-2020winter/Lectures	UC Santa Barbara	2020
+	961	Yu-Xiang Wang	Starting PGM	251	https://sites.cs.ucsb.edu/~yuxiangw/classes/CS165A-2020winter/Lectures	UC Santa Barbara	2020
+	962	Yu-Xiang Wang	Starting PGM	251	https://sites.cs.ucsb.edu/~yuxiangw/classes/CS165A-2020winter/Lectures	UC Santa Barbara	2020
+	963	Yu-Xiang Wang	PGM	251	https://sites.cs.ucsb.edu/~yuxiangw/classes/CS165A-2020winter/Lectures	UC Santa Barbara	2020
+	964	Yu-Xiang Wang	PGM	251	https://sites.cs.ucsb.edu/~yuxiangw/classes/CS165A-2020winter/Lectures	UC Santa Barbara	2020
+	965	Yu-Xiang Wang	PGM	251	https://sites.cs.ucsb.edu/~yuxiangw/classes/CS165A-2020winter/Lectures	UC Santa Barbara	2020
+	966	Yu-Xiang Wang	PGM	251	https://sites.cs.ucsb.edu/~yuxiangw/classes/CS165A-2020winter/Lectures	UC Santa Barbara	2020
+	967	Yu-Xiang Wang	Responsible AI	811	https://sites.cs.ucsb.edu/~yuxiangw/classes/CS165A-2020winter/Lectures	UC Santa Barbara	2020
+	968	Yu-Xiang Wang	Reinforcement Learning 1	857	https://sites.cs.ucsb.edu/~yuxiangw/classes/CS165A-2020winter/Lectures	UC Santa Barbara	2020
+	969	Yu-Xiang Wang	Reinforcement Learning 1	857	https://sites.cs.ucsb.edu/~yuxiangw/classes/CS165A-2020winter/Lectures	UC Santa Barbara	2020
+	970	Yu-Xiang Wang	Reinforcement Learning 2	857	https://sites.cs.ucsb.edu/~yuxiangw/classes/CS165A-2020winter/Lectures	UC Santa Barbara	2020
+	971	Yu-Xiang Wang	Search algorithms	821	https://sites.cs.ucsb.edu/~yuxiangw/classes/CS165A-2020winter/Lectures	UC Santa Barbara	2020
+	972	Yu-Xiang Wang	Search algorithms	821	https://sites.cs.ucsb.edu/~yuxiangw/classes/CS165A-2020winter/Lectures	UC Santa Barbara	2020
+	973	Yu-Xiang Wang	Search algorithms	821	https://sites.cs.ucsb.edu/~yuxiangw/classes/CS165A-2020winter/Lectures	UC Santa Barbara	2020
+	974	Yu-Xiang Wang	Search algorithms	821	https://sites.cs.ucsb.edu/~yuxiangw/classes/CS165A-2020winter/Lectures	UC Santa Barbara	2020
+	975	Yu-Xiang Wang	Search algorithms	821	https://sites.cs.ucsb.edu/~yuxiangw/classes/CS165A-2020winter/Lectures	UC Santa Barbara	2020
+	976	Yu-Xiang Wang	Search algorithms	821	https://sites.cs.ucsb.edu/~yuxiangw/classes/CS165A-2020winter/Lectures	UC Santa Barbara	2020
+	977	Christopher Manning, Richard Socher	Word Vectors I: Introduction, SVD and Word2Vec	311	http://web.stanford.edu/class/cs224n/readings/cs224n-2019-notes01-wordvecs1.pdf	Stanford	2019
+	978	Christopher Manning, Richard Socher	word vectors ii: glove, evaluation and training	311	https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1194/	Stanford	2019
+	979	Christopher Manning, Richard Socher	neural networks, backpropagation	711	https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1194/	Stanford	2019
+	980	Christopher Manning, Richard Socher	Dependency Parsing	711	https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1194/	Stanford	2019
+	981	Christopher Manning, Richard Socher	Language Models, RNN, GRU and LSTM	711	https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1194/	Stanford	2019
+	982	Christopher Manning, Richard Socher	Neural Machine Translation, Seq2seq and Attention	711	https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1194/	Stanford	2019
+	983	Christopher Manning, Richard Socher	Question Answering	711	https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1194/	Stanford	2019
+	984	Christopher Manning, Richard Socher	Python Review Session	131	http://web.stanford.edu/class/cs224n/readings/cs224n-python-review.pdf	Stanford	2021
+	989	Christopher Manning, Richard Socher	Backprop and Neural Networks	711	http://web.stanford.edu/class/cs224n/slides/cs224n-2022-lecture03-neuralnets.pdf	Stanford	2021
+	990	Christopher Manning, Richard Socher	Dependency Parsing	711	http://web.stanford.edu/class/cs224n/slides/cs224n-2021-lecture04-dep-parsing-annotated.pdf	Stanford	2021
+	991	Christopher Manning, Richard Socher	Dependency Parsing	711	https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1194/	Stanford	2021
+	992	Christopher Manning, Richard Socher	Recurrent Neural Networks and Language Models	711	http://web.stanford.edu/class/cs224n/slides/cs224n-2022-lecture05-rnnlm.pdf	Stanford	2021
+	993	Christopher Manning, Richard Socher	Vanishing Gradients, Fancy RNNs, Seq2Seq	711	http://web.stanford.edu/class/cs224n/slides/cs224n-2022-lecture06-fancy-rnn.pdf	Stanford	2021
+	994	Christopher Manning, Richard Socher	Machine Translation, Attention, Subword Models	711	http://web.stanford.edu/class/cs224n/slides/cs224n-2022-lecture07-nmt.pdf	Stanford	2021
+	995	Christopher Manning, Richard Socher	Final Projects: Custom and Default; Practical Tips	711	http://web.stanford.edu/class/cs224n/slides/cs224n-2022-lecture08-final-project.pdf	Stanford	2021
+	996	Christopher Manning, Richard Socher	Transformers	711	http://web.stanford.edu/class/cs224n/slides/cs224n-2022-lecture09-transformers.pdf	Stanford	2021
+	997	Christopher Manning, Richard Socher	More about Transformers and Pretraining	711	http://web.stanford.edu/class/cs224n/slides/cs224n-2022-lecture10-pretraining.pdf	Stanford	2021
+	998	Christopher Manning, Richard Socher	Question Answering	711	http://web.stanford.edu/class/cs224n/slides/Danqi-QA-slides-2022.pdf	Stanford	2021
+	999	Christopher Manning, Richard Socher	Natural Language Generation	711	http://web.stanford.edu/class/cs224n/slides/cs224n-2022-lecture12-generation-final.pdf	Stanford	2021
+	1000	Christopher Manning, Richard Socher	Coreference Resolution	711	http://web.stanford.edu/class/cs224n/slides/cs224n-2022-lecture18-coref.pdf	Stanford	2021
+	1002	Megan Leszczynski	Integrating Knowledge in Language Models	711	https://web.stanford.edu/class/cs224n/slides/cs224n-2021-lecture15-lm.pdf	Stanford	2021
+	1003	Yulia Tsvetkov	Social & Ethical Considerations in NLP Systems	711	https://web.stanford.edu/class/cs224n/slides/cs224n-2021-lecture16-ethics.pdf	Stanford	2021
+	1004	John Hewitt	Model Analysis and Explanation	711	https://web.stanford.edu/class/cs224n/slides/cs224n-2021-lecture17-analysis.pdf	Stanford	2021
+	1005	Shikhar Murty	The Future of NLP + Deep Learning	711	https://web.stanford.edu/class/cs224n/slides/cs224n-2021-lecture18-future.pdf	Stanford	2021
+	1006	Christopher Manning, Richard Socher	Introduction and Word Vectors	711	http://web.stanford.edu/class/cs224n/slides/cs224n-2022-lecture01-wordvecs1.pdf	Stanford	2022
+	1007	Christopher Manning, Richard Socher	Word Vectors, Word Senses, and Neural Classifiers	711	http://web.stanford.edu/class/cs224n/readings/cs224n-2019-notes02-wordvecs2.pdf	Stanford	2022
+	1008	Christopher Potts	Analysis methods in NLP: Overview	311	https://web.stanford.edu/class/cs224u/slides/cs224u-intro-handout.pdf	Stanford	2021
+	1009	Christopher Potts	Adversarial testing	311	https://web.stanford.edu/class/cs224u/slides/cs224u-analysis-part2-handout.pdf	Stanford	2021
+	1010	Christopher Potts	Adversarial training (and testing)	311	https://web.stanford.edu/class/cs224u/slides/cs224u-analysis-part3-handout.pdf	Stanford	2021
+	1011	Christopher Potts	Probing	311	https://web.stanford.edu/class/cs224u/slides/cs224u-analysis-part4-handout.pdf	Stanford	2021
+	1012	Christopher Potts	Feature attribution	311	https://web.stanford.edu/class/cs224u/slides/cs224u-analysis-part5-handout.pdf	Stanford	2021
+	1013	Christopher Potts	Contextual word representations: Overview	723	https://web.stanford.edu/class/cs224u/slides/cs224u-contextualreps-part1-handout.pdf	Stanford	2021
+	1014	Christopher Potts	Transformers	723	https://web.stanford.edu/class/cs224u/slides/cs224u-contextualreps-part2-handout.pdf	Stanford	2021
+	1015	Christopher Potts	BERT	723	https://web.stanford.edu/class/cs224u/slides/cs224u-contextualreps-part3-handout.pdf	Stanford	2021
+	1016	Christopher Potts	RoBERTa	723	https://web.stanford.edu/class/cs224u/slides/cs224u-contextualreps-part4-handout.pdf	Stanford	2021
+	1017	Christopher Potts	ELECTRA	723	https://web.stanford.edu/class/cs224u/slides/cs224u-contextualreps-part5-handout.pdf	Stanford	2021
+	1018	Christopher Potts	Practical fine-tuning	723	https://web.stanford.edu/class/cs224u/slides/cs224u-contextualreps-part6-handout.pdf	Stanford	2021
+	1019	Christopher Potts	Grounded language understanding: Overview	141	https://web.stanford.edu/class/cs224u/slides/cs224u-grounding-part1-handout.pdf	Stanford	2021
+	1020	Christopher Potts	Grounded language understanding: Speakers: From the world to language	141	https://web.stanford.edu/class/cs224u/slides/cs224u-grounding-part2-handout.pdf	Stanford	2021
+	1021	Christopher Potts	Grounded language understanding: Listeners: From language to the world	141	https://web.stanford.edu/class/cs224u/slides/cs224u-grounding-part3-handout.pdf	Stanford	2021
+	1022	Christopher Potts	Grounded language understanding: Varieties of contextual grounding	141	https://web.stanford.edu/class/cs224u/slides/cs224u-grounding-part4-handout.pdf	Stanford	2021
+	1023	Christopher Potts	Grounded language understanding: The Rational Speech Acts model	141	https://web.stanford.edu/class/cs224u/slides/cs224u-grounding-part5-handout.pdf	Stanford	2021
+	1024	Christopher Potts	Neural RSA	141	https://web.stanford.edu/class/cs224u/slides/cs224u-grounding-part6-handout.pdf	Stanford	2021
+	1025	Christopher Potts	Introduction and course overview	112	https://web.stanford.edu/class/cs224u/slides/cs224u-intro-handout.pdf	Stanford	2021
+	1026	Christopher Potts	Methods and metrics: Overview	115	https://web.stanford.edu/class/cs224u/slides/cs224u-methods-part1-handout.pdf	Stanford	2021
+	1027	Christopher Potts	Methods and metrics: Classifier metrics	115	https://web.stanford.edu/class/cs224u/slides/cs224u-methods-part2-handout.pdf	Stanford	2021
+	1028	Christopher Potts	Methods and metrics: Natural language generation metrics	115	https://web.stanford.edu/class/cs224u/slides/cs224u-methods-part3-handout.pdf	Stanford	2021
+	1029	Christopher Potts	Methods and metrics: Data organization	115	https://web.stanford.edu/class/cs224u/slides/cs224u-methods-part4-handout.pdf	Stanford	2021
+	1030	Christopher Potts	Methods and metrics: Model evaluation	115	https://web.stanford.edu/class/cs224u/slides/cs224u-methods-part5-handout.pdf	Stanford	2021
+	1031	Christopher Potts	Natural Language Inference: Overview	751	https://web.stanford.edu/class/cs224u/slides/cs224u-nli-part1-handout.pdf	Stanford	2021
+	1032	Christopher Potts	Natural Language Inference: SNLI, MultiNLI, and Adversarial NLI	751	https://web.stanford.edu/class/cs224u/slides/cs224u-nli-part2-handout.pdf	Stanford	2021
+	1035	Christopher Potts	Natural Language Inference: Modeling strategies	751	https://web.stanford.edu/class/cs224u/slides/cs224u-nli-part4-handout.pdf	Stanford	2021
+	1036	Christopher Potts	Natural Language Inference: Attention	751	https://web.stanford.edu/class/cs224u/slides/cs224u-nli-part5-handout.pdf	Stanford	2021
+	1037	Christopher Potts	Presenting your research: Your final papers	211	https://web.stanford.edu/class/cs224u/slides/cs224u-presenting-part1-handout.pdf	Stanford	2021
+	1038	Christopher Potts	Presenting your research: Writing NLP papers	211	https://web.stanford.edu/class/cs224u/slides/cs224u-presenting-part2-handout.pdf	Stanford	2021
+	1039	Christopher Potts	Presenting your research: NLP conference submissions	211	https://web.stanford.edu/class/cs224u/slides/cs224u-presenting-part3-handout.pdf	Stanford	2021
+	1040	Christopher Potts	Presenting your research: Giving talks	211	https://web.stanford.edu/class/cs224u/slides/cs224u-presenting-part4-handout.pdf	Stanford	2021
+	1041	Bill MacCartney	Overview	233	https://web.stanford.edu/class/cs224u/2020/materials/cs224u-2020-relation-extraction.pdf	Stanford	2021
+	1042	Bill MacCartney	Data Resources	233	https://web.stanford.edu/class/cs224u/2021/slides/cs224u-2021-relext-part6.pdf	Stanford	2021
+	1043	Bill MacCartney	Problem formulation	233	https://web.stanford.edu/class/cs224u/2021/slides/cs224u-2021-relext-part3.pdf	Stanford	2021
+	1046	Bill MacCartney	Directions to explore	233	https://web.stanford.edu/class/cs224u/2021/slides/cs224u-2021-relext-part6.pdf	Stanford	2021
+	1047	Christopher Potts	Supervised sentiment analysis: Overview	381	https://web.stanford.edu/class/cs224u/slides/cs224u-sentiment-part1-handout.pdf	Stanford	2021
+	1050	Christopher Potts	Supervised sentiment analysis: Stanford Sentiment Treebank	381	https://web.stanford.edu/class/cs224u/slides/cs224u-sentiment-part3-handout.pdf	Stanford	2021
+	1051	Christopher Potts	Supervised sentiment analysis: DynaSent	381	https://web.stanford.edu/class/cs224u/slides/cs224u-sentiment-part4-handout.pdf	Stanford	2021
+	1052	Christopher Potts	Supervised sentiment analysis: sst.py	381	https://web.stanford.edu/class/cs224u/slides/cs224u-sentiment-part5-handout.pdf	Stanford	2021
+	1053	Christopher Potts	Supervised sentiment analysis: Hyperparameter search and classifier comparison	381	https://web.stanford.edu/class/cs224u/slides/cs224u-sentiment-part6-handout.pdf	Stanford	2021
+	1054	Christopher Potts	Supervised sentiment analysis: Feature representation	381	https://web.stanford.edu/class/cs224u/slides/cs224u-sentiment-part7-handout.pdf	Stanford	2021
+	1055	Christopher Potts	Supervised sentiment analysis: RNN classifiers	381	https://web.stanford.edu/class/cs224u/slides/cs224u-sentiment-part8-handout.pdf	Stanford	2021
+	1056	Christopher Potts	Distributed word representations: High-level goals and guiding hypotheses	721	https://web.stanford.edu/class/cs224u/2019/materials/cs224u-2019-vsm.pdf	Stanford	2021
+	1057	Christopher Potts	Distributed word representations: Matrix designs	721	https://web.stanford.edu/class/cs224u/2019/materials/cs224u-2019-vsm.pdf	Stanford	2021
+	1058	Christopher Potts	Distributed word representations: Vector comparison	721	https://web.stanford.edu/class/cs224u/2019/materials/cs224u-2019-vsm.pdf	Stanford	2021
+	1059	Christopher Potts	Distributed word representations: Basic reweighting	721	https://web.stanford.edu/class/cs224u/2019/materials/cs224u-2019-vsm.pdf	Stanford	2021
+	1060	Christopher Potts	Distributed word representations: Dimensionality reduction	721	https://web.stanford.edu/class/cs224u/2019/materials/cs224u-2019-vsm.pdf	Stanford	2021
+	1061	Christopher Potts	Distributed word representations: Retrofitting	721	https://web.stanford.edu/class/cs224u/2019/materials/cs224u-2019-vsm.pdf	Stanford	2021
+	1062	Christopher Potts	Distributed word representations: Static representations from contextual models	721	https://web.stanford.edu/class/cs224u/2019/materials/cs224u-2019-vsm.pdf	Stanford	2021
+	1063	Omar Khattab	NLU & IR: OVERVIEW	757	https://web.stanford.edu/class/cs224u/slides/CS224U-IR-part-1.pdf	Stanford	2021
+	1067	Omar Khattab	NLU & IR: NEURAL IR (I)	757	https://web.stanford.edu/class/cs224u/slides/CS224U-IR-part-3.pdf	Stanford	2021
+	1070	Omar Khattab	NLU & IR: NEURAL IR (III)	757	https://web.stanford.edu/class/cs224u/slides/CS224U-IR-part-5.pdf	Stanford	2021
+	1071	John Duchi	Boosting	757	http://cs229.stanford.edu/extra-notes/boosting.pdf	Stanford	2021
+	1072	John Duchi	Hoeffding’s inequality	757	http://cs229.stanford.edu/extra-notes/hoeffding.pdf	Stanford	2021
+	1073	John Duchi	Loss Functions	757	http://cs229.stanford.edu/extra-notes/loss-functions.pdf	Stanford	2021
+	1074	John Duchi	Representer Functions	757	http://cs229.stanford.edu/extra-notes/representer-function.pdf	Stanford	2021
+	1075	Fereshte Khani	Review of Linear Algebra	757	https://cs229.stanford.edu/livenotes2020spring/linearalgebra-slides.pdf	Stanford	2021
+	1077	Christopher Ré	Bias and Varience	757	http://cs229.stanford.edu/notes2020fall/notes2020fall/Bias-Variance.pdf	Stanford	2021
+	1078	Christopher Ré	Bias and Varience	757	http://cs229.stanford.edu/notes2020fall/notes2020fall/CS229_ML advice_presented-slides.pdf	Stanford	2021
+	1079	Arian Maleki and Tom Do	Review of Probability Theory	757	http://cs229.stanford.edu/notes2020fall/notes2020fall/cs229-prob.pdf	Stanford	2021
+	1080	Saahil Jain, Xinkun Nie	Python & Numpy	757	http://cs229.stanford.edu/notes2020fall/notes2020fall/cs229_python_friday.pdf	Stanford	2021
+	1081	Saahil Jain	Introduction to Deep Learning	757	http://cs229.stanford.edu/notes2020fall/notes2020fall/deep_learning_friday.pdf	Stanford	2021
+	1082	Saahil Jain	Deep Learning	757	http://cs229.stanford.edu/notes2020fall/notes2020fall/deep_learning_notes.pdf	Stanford	2021
+	1083	Saahil Jain	EM Algorithm	757	http://cs229.stanford.edu/notes2020fall/notes2020fall/draft_em.pdf	Stanford	2021
+	1211	Sergey Levine	Optimal Control and Planning	716	https://rail.eecs.berkeley.edu/deeprlcourse/static/slides/lec-10.pdf	UC Berkeley	2021
+	1212	Sergey Levine	Model-Based Reinforcement Learning	716	https://rail.eecs.berkeley.edu/deeprlcourse/static/slides/lec-11.pdf	UC Berkeley	2021
+	1213	Sergey Levine	Model-Based Policy Learning	716	https://rail.eecs.berkeley.edu/deeprlcourse/static/slides/lec-12.pdf	UC Berkeley	2021
+	1214	Sergey Levine	Exploration	716	https://rail.eecs.berkeley.edu/deeprlcourse/static/slides/lec-13.pdf	UC Berkeley	2021
+	1215	Sergey Levine	Exploration	716	https://rail.eecs.berkeley.edu/deeprlcourse/static/slides/lec-14.pdf	UC Berkeley	2021
+	1216	Sergey Levine	Offline Reinforcement Learning	716	https://rail.eecs.berkeley.edu/deeprlcourse/static/slides/lec-15.pdf	UC Berkeley	2021
+	1217	Sergey Levine	Offline Reinforcement Learning	716	https://rail.eecs.berkeley.edu/deeprlcourse/static/slides/lec-16.pdf	UC Berkeley	2021
+	1218	Sergey Levine	Reinforcement Learning Theory Basics	716	https://rail.eecs.berkeley.edu/deeprlcourse/static/slides/lec-17.pdf	UC Berkeley	2021
+	1219	Sergey Levine	Variational Inference and Generative Models	514	https://rail.eecs.berkeley.edu/deeprlcourse/static/slides/lec-18.pdf	UC Berkeley	2021
+	1220	Sergey Levine	Reframing Control as an Inference Problem	716	https://rail.eecs.berkeley.edu/deeprlcourse/static/slides/lec-19.pdf	UC Berkeley	2021
+	1221	Sergey Levine	Introduction	716	https://rail.eecs.berkeley.edu/deeprlcourse/static/slides/lec-1.pdf	UC Berkeley	2021
+	1222	Sergey Levine	Inverse Reinforcement Learning	716	https://rail.eecs.berkeley.edu/deeprlcourse/static/slides/lec-20.pdf	UC Berkeley	2021
+	1223	Sergey Levine	Transfer and Multi-Task Learning	716	https://rail.eecs.berkeley.edu/deeprlcourse/static/slides/lec-21.pdf	UC Berkeley	2021
+	1224	Sergey Levine	Meta-Learning	716	https://rail.eecs.berkeley.edu/deeprlcourse/static/slides/lec-22.pdf	UC Berkeley	2021
+	1225	Sergey Levine	Challenges and Open Problems	716	https://rail.eecs.berkeley.edu/deeprlcourse/static/slides/lec-23.pdf	UC Berkeley	2021
+	1226	Sergey Levine	Supervised Learning of Behaviors	716	https://rail.eecs.berkeley.edu/deeprlcourse/static/slides/lec-2.pdf	UC Berkeley	2021
+	1227	Sergey Levine	Introduction to Reinforcement Learning	716	https://rail.eecs.berkeley.edu/deeprlcourse/static/slides/lec-4.pdf	UC Berkeley	2021
+	1228	Sergey Levine	Policy Gradients	716	https://rail.eecs.berkeley.edu/deeprlcourse/static/slides/lec-5.pdf	UC Berkeley	2021
+	1229	Sergey Levine	Actor-Critic Algorithms	716	https://rail.eecs.berkeley.edu/deeprlcourse/static/slides/lec-6.pdf	UC Berkeley	2021
+	1230	Sergey Levine	Value Function Methods	716	https://rail.eecs.berkeley.edu/deeprlcourse/static/slides/lec-7.pdf	UC Berkeley	2021
+	1231	Sergey Levine	Deep RL with Q-Functions	716	https://rail.eecs.berkeley.edu/deeprlcourse/static/slides/lec-8.pdf	UC Berkeley	2021
+	1232	Sergey Levine	Advanced Policy Gradients	716	https://rail.eecs.berkeley.edu/deeprlcourse/static/slides/lec-9.pdf	UC Berkeley	2021
+	1233	Matthias Niessner, Laura Leal-Taixé	Lecture 9 Recap	744	https://niessner.github.io/I2DL/slides/10.CNN-2.pdf	Technische Universität München	2021
+	1234	Matthias Niessner, Laura Leal-Taixé	Recurrent Neural Networks	741	https://niessner.github.io/I2DL/slides/11.RNN.pdf	Technische Universität München	2021
+	1235	Matthias Niessner, Laura Leal-Taixé	Advanced DL topics	713	https://niessner.github.io/I2DL/slides/12.Advanced-DL-topics.pdf	Technische Universität München	2021
+	1236	Matthias Niessner, Laura Leal-Taixé	Introduction to Deep Learning	711	https://niessner.github.io/I2DL/slides/1.Intro.pdf	Technische Universität München	2021
+	1237	Matthias Niessner, Laura Leal-Taixé	Machine Learning Basics	711	https://niessner.github.io/I2DL/slides/2.Linear.pdf	Technische Universität München	2021
+	1238	Matthias Niessner, Laura Leal-Taixé	Introduction to Neural Networks	711	https://niessner.github.io/I2DL/slides/3.Intro2NN.pdf	Technische Universität München	2021
+	1239	Matthias Niessner, Laura Leal-Taixé	Optimization and Backpropagation	712	https://niessner.github.io/I2DL/slides/4.Optimization_and_Backprop.pdf	Technische Universität München	2021
+	1240	Matthias Niessner, Laura Leal-Taixé	Scaling Optimization	712	https://niessner.github.io/I2DL/slides/5.Scaling_Optimization.pdf	Technische Universität München	2021
+	1241	Matthias Niessner, Laura Leal-Taixé	Training Neural Networks	712	https://niessner.github.io/I2DL/slides/6.TrainingNN.pdf	Technische Universität München	2021
+	1242	Matthias Niessner, Laura Leal-Taixé	Training Neural Networks	712	https://niessner.github.io/I2DL/slides/7.TrainingNN-2.pdf	Technische Universität München	2021
+	1243	Matthias Niessner, Laura Leal-Taixé	Training Neural Networks	712	https://niessner.github.io/I2DL/slides/8.TrainingNN-3.pdf	Technische Universität München	2021
+	1244	Matthias Niessner, Laura Leal-Taixé	Convolutional Neural Networks	744	https://niessner.github.io/I2DL/slides/9.CNN-1.pdf	Technische Universität München	2021
+	1245	Greg Durrett	Sequence Modeling and Parsing	999	https://www.cs.utexas.edu/~gdurrett/courses/fa2021/a3.pdf	UT Austin	2021
+	1246	Greg Durrett	Final Project	999	https://www.cs.utexas.edu/~gdurrett/courses/fa2021/fp.pdf	UT Austin	2021
+	1248	Greg Durrett	POS Tagging	215	https://www.cs.utexas.edu/~gdurrett/courses/sp2021/lectures/lec11-1pp.pdf	UT Austin	2021
+	1249	Greg Durrett	POS Tagging	215	https://www.cs.utexas.edu/~gdurrett/courses/sp2021/lectures/lec11-4pp.pdf	UT Austin	2021
+	1251	Greg Durrett	Introduction	711	https://www.cs.utexas.edu/~gdurrett/courses/sp2021/lectures/lec1-1pp.pdf	UT Austin	2021
+	1252	Greg Durrett	Constituency Parsing	243	https://www.cs.utexas.edu/~gdurrett/courses/sp2021/lectures/lec12-1pp.pdf	UT Austin	2021
+	1253	Greg Durrett	Constituency Parsing	243	https://www.cs.utexas.edu/~gdurrett/courses/sp2021/lectures/lec12-4pp.pdf	UT Austin	2021
+	1255	Greg Durrett	Parser Evaluation	247	https://www.cs.utexas.edu/~gdurrett/courses/sp2021/lectures/lec13-1pp.pdf	UT Austin	2021
+	1256	Greg Durrett	Parser Evaluation	247	https://www.cs.utexas.edu/~gdurrett/courses/sp2021/lectures/lec13-4pp.pdf	UT Austin	2021
+	1259	Greg Durrett	Introduction	711	https://www.cs.utexas.edu/~gdurrett/courses/sp2021/lectures/lec1-4pp.pdf	UT Austin	2021
+	1261	Greg Durrett	Using RNNs	741	https://www.cs.utexas.edu/~gdurrett/courses/sp2021/lectures/lec16-1pp.pdf	UT Austin	2021
+	1262	Greg Durrett	Using RNNs	741	https://www.cs.utexas.edu/~gdurrett/courses/sp2021/lectures/lec16-4pp.pdf	UT Austin	2021
+	1266	Greg Durrett	Transformers	714	https://www.cs.utexas.edu/~gdurrett/courses/sp2021/lectures/lec19-1pp.pdf	UT Austin	2021
+	1267	Greg Durrett	Transformers	714	https://www.cs.utexas.edu/~gdurrett/courses/sp2021/lectures/lec19-4pp.pdf	UT Austin	2021
+	1269	Greg Durrett	Pre-training, BERT	714	https://www.cs.utexas.edu/~gdurrett/courses/sp2021/lectures/lec20-1pp.pdf	UT Austin	2021
+	1270	Greg Durrett	Pre-training, BERT	714	https://www.cs.utexas.edu/~gdurrett/courses/sp2021/lectures/lec20-4pp.pdf	UT Austin	2021
+	1271	Greg Durrett	Annotation Artifacts	999	https://www.cs.utexas.edu/~gdurrett/courses/sp2021/lectures/lec21-1pp.pdf	UT Austin	2021
+	1272	Greg Durrett	Annotation Artifacts	999	https://www.cs.utexas.edu/~gdurrett/courses/sp2021/lectures/lec21-4pp.pdf	UT Austin	2021
+	1273	Greg Durrett	Interpreting Neural Networks	933	https://www.cs.utexas.edu/~gdurrett/courses/sp2021/lectures/lec22-1pp.pdf	UT Austin	2021
+	1274	Greg Durrett	Interpreting Neural Networks	933	https://www.cs.utexas.edu/~gdurrett/courses/sp2021/lectures/lec22-4pp.pdf	UT Austin	2021
+	1275	Greg Durrett	Semantic Parsing	331	https://www.cs.utexas.edu/~gdurrett/courses/sp2021/lectures/lec23-1pp.pdf	UT Austin	2021
+	1276	Greg Durrett	Semantic Parsing	331	https://www.cs.utexas.edu/~gdurrett/courses/sp2021/lectures/lec23-4pp.pdf	UT Austin	2021
+	1277	Greg Durrett	BART, T5	714	https://www.cs.utexas.edu/~gdurrett/courses/sp2021/lectures/lec24-1pp.pdf	UT Austin	2021
+	1278	Greg Durrett	BART, T5	714	https://www.cs.utexas.edu/~gdurrett/courses/sp2021/lectures/lec24-4pp.pdf	UT Austin	2021
+	1279	Greg Durrett	Sampling Strategies and Story Generation	756	https://www.cs.utexas.edu/~gdurrett/courses/sp2021/lectures/lec25-1pp.pdf	UT Austin	2021
+	1280	Greg Durrett	Sampling Strategies and Story Generation	756	https://www.cs.utexas.edu/~gdurrett/courses/sp2021/lectures/lec25-4pp.pdf	UT Austin	2021
+	1286	Greg Durrett	Sentiment Analysis	381	https://www.cs.utexas.edu/~gdurrett/courses/sp2021/lectures/lec3-1pp.pdf	UT Austin	2021
+	1287	Greg Durrett	Sentiment Analysis	381	https://www.cs.utexas.edu/~gdurrett/courses/sp2021/lectures/lec3-4pp.pdf	UT Austin	2021
+	1290	Greg Durrett	Multiclass Examples	511	https://www.cs.utexas.edu/~gdurrett/courses/sp2021/lectures/lec5-1pp.pdf	UT Austin	2021
+	1291	Greg Durrett	Multiclass Examples	511	https://www.cs.utexas.edu/~gdurrett/courses/sp2021/lectures/lec5-4pp.pdf	UT Austin	2021
+	1293	Greg Durrett	NN Implementation	712	https://www.cs.utexas.edu/~gdurrett/courses/sp2021/lectures/lec6-1pp.pdf	UT Austin	2021
+	1294	Greg Durrett	NN Implementation	712	https://www.cs.utexas.edu/~gdurrett/courses/sp2021/lectures/lec6-4pp.pdf	UT Austin	2021
+	1296	Greg Durrett	Bias in Embeddings	731	https://www.cs.utexas.edu/~gdurrett/courses/sp2021/lectures/lec8-1pp.pdf	UT Austin	2021
+	1297	Greg Durrett	Bias in Embeddings	731	https://www.cs.utexas.edu/~gdurrett/courses/sp2021/lectures/lec8-4pp.pdf	UT Austin	2021
+	1299	Greg Durrett	Multiclass Classification	541	https://www.cs.utexas.edu/~gdurrett/courses/fa2021/multiclass.pdf	UT Austin	2021
+	1300	Greg Durrett	Connections between Perceptron and Logistic Regression	516	https://www.cs.utexas.edu/~gdurrett/courses/fa2021/perc-lr-connections.pdf	UT Austin	2021
+	1301	Greg Durrett	Viterbi Algorithm	165	https://www.cs.utexas.edu/~gdurrett/courses/fa2021/viterbi.pdf	UT Austin	2021
+	1302	Erkut Erdem	Linear Discriminant Functions, Perceptron	515	https://web.cs.hacettepe.edu.tr/~erkut/bbm406.s21/slides/l10-linear-discriminant-functions-perceptron.pdf	Hacettepe University	2021
+	1303	Erkut Erdem	Multi-layer Perceptron, Forward Pass	515	https://web.cs.hacettepe.edu.tr/~erkut/bbm406.s21/slides/l11-mlp.pdf	Hacettepe University	2021
+	1304	Erkut Erdem	Computational Graph, Backpropagation	712	https://web.cs.hacettepe.edu.tr/~erkut/bbm406.s21/slides/l12-backpropagation.pdf	Hacettepe University	2021
+	1305	Erkut Erdem	Introduction to Deep Learning	711	https://web.cs.hacettepe.edu.tr/~erkut/bbm406.s21/slides/l13-deep_learning.pdf	Hacettepe University	2021
+	1306	Erkut Erdem	Deep Convolutional Networks	744	https://web.cs.hacettepe.edu.tr/~erkut/bbm406.s21/slides/l14-convnets.pdf	Hacettepe University	2021
+	1307	Erkut Erdem	Support Vector Machines	521	https://web.cs.hacettepe.edu.tr/~erkut/bbm406.s21/slides/l15-support_vector_machines.pdf	Hacettepe University	2021
+	1308	Erkut Erdem	Soft Margin Classification, Multi-class SVMs, Kernels	521	https://web.cs.hacettepe.edu.tr/~erkut/bbm406.s21/slides/l16-soft-margin_multi-class_svm-kernels.pdf	Hacettepe University	2021
+	1309	Erkut Erdem	Kernel Trick for SVMs, Risk and Loss, Support Vector Regression	521	https://web.cs.hacettepe.edu.tr/~erkut/bbm406.s21/slides/l17-kernel_svm-svr.pdf	Hacettepe University	2021
+	1310	Erkut Erdem	Decision Trees	551	https://web.cs.hacettepe.edu.tr/~erkut/bbm406.s21/slides/l18-decision_trees.pdf	Hacettepe University	2021
+	1311	Erkut Erdem	What is Ensemble Learning? Bagging Random Forests	999	https://web.cs.hacettepe.edu.tr/~erkut/bbm406.s21/slides/l19-bagging-random_forests.pdf	Hacettepe University	2021
+	1312	Erkut Erdem	Course outline and logistics, An overview of Machine Learning	112	https://web.cs.hacettepe.edu.tr/~erkut/bbm406.s21/slides/l1-intro.pdf	Hacettepe University	2021
+	1313	Erkut Erdem	AdaBoost	999	https://web.cs.hacettepe.edu.tr/~erkut/bbm406.s21/slides/l20-adaboost.pdf	Hacettepe University	2021
+	1314	Erkut Erdem	Clustering, K-Means	571	https://web.cs.hacettepe.edu.tr/~erkut/bbm406.s21/slides/l21-kmeans.pdf	Hacettepe University	2021
+	1315	Erkut Erdem	Clustering	571	https://web.cs.hacettepe.edu.tr/~erkut/bbm406.s21/slides/l22-spectral-hierarchical-clustering.pdf	Hacettepe University	2021
+	1316	Erkut Erdem	Nearest Neighbor Classifier	511	https://web.cs.hacettepe.edu.tr/~erkut/bbm406.s21/slides/l2-knn.pdf	Hacettepe University	2021
+	1317	Erkut Erdem	Kernel Regression, Distance Metrics, Curse of Dimensionality	121	https://web.cs.hacettepe.edu.tr/~erkut/bbm406.s21/slides/l3-kernel_regression.pdf	Hacettepe University	2021
+	1318	Erkut Erdem	Linear Regression	121	https://web.cs.hacettepe.edu.tr/~erkut/bbm406.s21/slides/l4-linear_regression.pdf	Hacettepe University	2021
+	1319	Erkut Erdem	ML Methodology	711	https://web.cs.hacettepe.edu.tr/~erkut/bbm406.s21/slides/l5-ml-methodology.pdf	Hacettepe University	2021
+	1320	Erkut Erdem	Learning theory, Probability Review	713	https://web.cs.hacettepe.edu.tr/~erkut/bbm406.s21/slides/l6-colt-basic_probability.pdf	Hacettepe University	2021
+	1321	Erkut Erdem	Maximum Likelihood Estimation	711	https://web.cs.hacettepe.edu.tr/~erkut/bbm406.s21/slides/l7-mle.pdf	Hacettepe University	2021
+	1322	Erkut Erdem	Maximum a Posteriori (MAP)  Naïve Bayes Classifier	513	https://web.cs.hacettepe.edu.tr/~erkut/bbm406.s21/slides/l8-map-bayes-classifier.pdf	Hacettepe University	2021
+	1323	Erkut Erdem	Logistic Regression, Discriminative vs. Generative Classification	514	https://web.cs.hacettepe.edu.tr/~erkut/bbm406.s21/slides/l9-logistic_regression.pdf	Hacettepe University	2021
+	1324	Yulia Tsvetkov, Alan W Black	History and Philosophy	931	http://demo.clab.cs.cmu.edu/ethical_nlp/slides/02_History.pdf	CMU	2020
+	1325	Yulia Tsvetkov, Alan W Black	Using Human Subjects	931	http://demo.clab.cs.cmu.edu/ethical_nlp/slides/03_Human_Subjects.pdf	CMU	2020
+	1326	Yulia Tsvetkov, Alan W Black	Privacy and Anonymity	931	http://demo.clab.cs.cmu.edu/ethical_nlp/slides/11_Privacy.pdf	CMU	2020
+	1327	Yulia Tsvetkov, Alan W Black	Computational Propaganda	931	http://demo.clab.cs.cmu.edu/ethical_nlp/slides/12_Propaganda.pdf	CMU	2020
+	1328	Yulia Tsvetkov, Alan W Black	Fake News and Influencing Elections	931	http://demo.clab.cs.cmu.edu/ethical_nlp/slides/13_fakenews.pdf	CMU	2020
+	1330	Yulia Tsvetkov, Alan W Black	Language Technologies for Endangered Languages	931	http://demo.clab.cs.cmu.edu/ethical_nlp/slides/Endangered_Languages.pdf	CMU	2020
+	1331	Geoff Kaufman	Psychological Foundations of Implicit Bias: Mechanisms and Mitigators	931	http://demo.clab.cs.cmu.edu/ethical_nlp/slides/implicit_bias_Geoff_Kaufman.pdf	CMU	2020
+	1332	Yulia Tsvetkov, Alan W Black	Intellectual Property, Copyright And Plagiarism	931	http://demo.clab.cs.cmu.edu/ethical_nlp/slides/IP_Copyright_Plagiarism.pdf	CMU	2020
+	1333	Shrimai Prabhumoye	Abuse, hate-speech, and offensive language	931	http://demo.clab.cs.cmu.edu/ethical_nlp/slides/Shrimai_Feb_20.pdf	CMU	2020
+	1334	Alejandro Ribeiro	Graph Neural Networks	748	https://gnn.seas.upenn.edu/wp-content/uploads/2020/08/100_ml_on_graphs_handout.pdf	University of Pennsylvania	2020
+	1335	Alejandro Ribeiro	Stability of Graph Filters to Relative Perturbations	748	https://gnn.seas.upenn.edu/wp-content/uploads/2020/10/710c_handout_relative_perturbation.pdf	University of Pennsylvania	2020
+	1336	Alejandro Ribeiro	Convergence of Graph Filters in the Spectral Domain	748	https://gnn.seas.upenn.edu/wp-content/uploads/2020/11/lecture_10_handout.pdf	University of Pennsylvania	2020
+	1337	Alejandro Ribeiro	Machine Learning on Sequences	741	https://gnn.seas.upenn.edu/wp-content/uploads/2020/11/lecture_11_handout.pdf	University of Pennsylvania	2020
+	1338	Alejandro Ribeiro	Linear Algebra	121	https://gnn.seas.upenn.edu/wp-content/uploads/2020/11/lecture_12_handout.pdf	University of Pennsylvania	2020
+	1339	Alejandro Ribeiro	Lecture 1 Script	748	https://gnn.seas.upenn.edu/wp-content/uploads/2020/08/lecture_1_script.pdf	University of Pennsylvania	2020
+	1340	Alejandro Ribeiro	Artificial Intelligence as Statistical Learning	811	https://gnn.seas.upenn.edu/wp-content/uploads/2020/09/lecture_2_handout_erm.pdf	University of Pennsylvania	2020
+	1341	Alejandro Ribeiro	Artificial Intelligence as Statistical Learning	811	https://gnn.seas.upenn.edu/wp-content/uploads/2020/09/lecture_2_script.pdf	University of Pennsylvania	2020
+	1342	Alejandro Ribeiro	Graphs	748	https://gnn.seas.upenn.edu/wp-content/uploads/2020/09/lecture_3_handout.pdf	University of Pennsylvania	2020
+	1343	Alejandro Ribeiro	Graphs	748	https://gnn.seas.upenn.edu/wp-content/uploads/2020/09/lecture_3_script.pdf	University of Pennsylvania	2020
+	1344	Alejandro Ribeiro	Learning with Graph Signals	748	https://gnn.seas.upenn.edu/wp-content/uploads/2020/09/lecture_4_handout.pdf	University of Pennsylvania	2020
+	1345	Alejandro Ribeiro	Learning with Graph Signals	748	https://gnn.seas.upenn.edu/wp-content/uploads/2020/09/lecture_4_script.pdf	University of Pennsylvania	2020
+	1346	Alejandro Ribeiro	Permutation Equivariance of Graph Filters	748	https://gnn.seas.upenn.edu/wp-content/uploads/2020/10/lecture_5_handout.pdf	University of Pennsylvania	2020
+	1347	Alejandro Ribeiro	Permutation Equivariance of Graph Filters	748	https://gnn.seas.upenn.edu/wp-content/uploads/2020/10/lecture_5_script.pdf	University of Pennsylvania	2020
+	1348	Alejandro Ribeiro	Additive Perturbations of Graph Filters	748	https://gnn.seas.upenn.edu/wp-content/uploads/2020/10/lecture_6_handoutb.pdf	University of Pennsylvania	2020
+	1349	Alejandro Ribeiro	Stability of Graph Filters to Relative Perturbations	748	https://gnn.seas.upenn.edu/wp-content/uploads/2020/10/lecture_7_script.pdf	University of Pennsylvania	2020
+	1350	Alejandro Ribeiro	Midterm	111	https://gnn.seas.upenn.edu/wp-content/uploads/2020/10/lecture_8_handout.pdf	University of Pennsylvania	2020
+	1351	Alejandro Ribeiro	Midterm	111	https://gnn.seas.upenn.edu/wp-content/uploads/2020/10/lecture_8_script.pdf	University of Pennsylvania	2020
+	1352	Alejandro Ribeiro	Graphons	748	https://gnn.seas.upenn.edu/wp-content/uploads/2020/11/lecture_9_handout.pdf	University of Pennsylvania	2020
+	1353	Alejandro Ribeiro	Additive Perturbations of Graph Filters	748	https://gnn.seas.upenn.edu/wp-content/uploads/2020/10/script_600b.pdf	University of Pennsylvania	2020
+	1354	Alejandro Ribeiro	Convergence of Graph Filters in the Spectral Domain	127	https://gnn.seas.upenn.edu/wp-content/uploads/2020/11/script_lecture_10.pdf	University of Pennsylvania	2020
+	1355	Alejandro Ribeiro	Machine Learning on Sequences	741	https://gnn.seas.upenn.edu/wp-content/uploads/2020/11/script_lecture_11.pdf	University of Pennsylvania	2020
+	1356	Alejandro Ribeiro	Linear Algebra	121	https://gnn.seas.upenn.edu/wp-content/uploads/2020/11/script_lecture_12.pdf	University of Pennsylvania	2020
+	1357	Alejandro Ribeiro	Graphons	748	https://gnn.seas.upenn.edu/wp-content/uploads/2020/11/script_lecture_9_all_videos.pdf	University of Pennsylvania	2020
+	1358	Trevor Hastie and Robert Tibshirani	Classification	511	https://hastie.su.domains/MOOC-Slides/classification.pdf	Stanford School of Humanities and Sciences	2020
+	1359	Trevor Hastie and Robert Tibshirani	Cross-validation and the Bootstrap	134	https://hastie.su.domains/MOOC-Slides/cv_boot.pdf	Stanford School of Humanities and Sciences	2020
+	1360	Trevor Hastie and Robert Tibshirani	Statistical Learning	134	https://hastie.su.domains/MOOC-Slides/introduction.pdf	Stanford School of Humanities and Sciences	2020
+	1361	Trevor Hastie and Robert Tibshirani	Linear Regressioin	516	https://hastie.su.domains/MOOC-Slides/linear_regression.pdf	Stanford School of Humanities and Sciences	2020
+	1362	Trevor Hastie and Robert Tibshirani	Model Selection	134	https://hastie.su.domains/MOOC-Slides/model_selection.pdf	Stanford School of Humanities and Sciences	2020
+	1363	Trevor Hastie and Robert Tibshirani	Moving Beyond Linearity	512	https://hastie.su.domains/MOOC-Slides/nonlinear.pdf	Stanford School of Humanities and Sciences	2020
+	1364	Trevor Hastie and Robert Tibshirani	Statistical Learning	134	https://hastie.su.domains/MOOC-Slides/statistical_learning.pdf	Stanford School of Humanities and Sciences	2020
+	1365	Trevor Hastie and Robert Tibshirani	SVM	521	https://hastie.su.domains/MOOC-Slides/svm.pdf	Stanford School of Humanities and Sciences	2020
+	1366	Trevor Hastie and Robert Tibshirani	Tree-based Methods	551	https://hastie.su.domains/MOOC-Slides/trees.pdf	Stanford School of Humanities and Sciences	2020
+	1367	Trevor Hastie and Robert Tibshirani	Unsupervised Learning	571	https://hastie.su.domains/MOOC-Slides/unsupervised.pdf	Stanford School of Humanities and Sciences	2020
+	1368	Jordan Boyd-Graber	Natural Language Processing Introduction	112	https://home.cs.colorado.edu/~jbg/teaching/CMSC_470/00a_intro.pdf	University of Maryland	2021
+	1369	Jordan Boyd-Graber	Class Logic	111	https://home.cs.colorado.edu/~jbg/teaching/CMSC_470/00b_howto.pdf	University of Maryland	2021
+	1370	Jordan Boyd-Graber	Information Retrieval	611	https://home.cs.colorado.edu/~jbg/teaching/CMSC_470/01a_ir.pdf	University of Maryland	2021
+	1371	Jordan Boyd-Graber	Information Retrieval	611	https://home.cs.colorado.edu/~jbg/teaching/CMSC_470/01b_tfidf.pdf	University of Maryland	2021
+	1372	Jordan Boyd-Graber	Information Retrieval	611	https://home.cs.colorado.edu/~jbg/teaching/CMSC_470/01c_evaluation.pdf	University of Maryland	2021
+	1373	Jordan Boyd-Graber	Logistic Regression Optimization	127	https://home.cs.colorado.edu/~jbg/teaching/CMSC_470/04a_sgd.pdf	University of Maryland	2021
+	1374	Jordan Boyd-Graber	Stocastic Gradient Descent for Logistic Regression	516	https://home.cs.colorado.edu/~jbg/teaching/CMSC_470/04b_ex.pdf	University of Maryland	2021
+	1375	Jordan Boyd-Graber	Multilayer Networks	711	https://home.cs.colorado.edu/~jbg/teaching/CMSC_470/05a_deep.pdf	University of Maryland	2021
+	1376	Jordan Boyd-Graber	Multilayer Networks	711	https://home.cs.colorado.edu/~jbg/teaching/CMSC_470/05b_backprop.pdf	University of Maryland	2021
+	1377	Jordan Boyd-Graber	Frameworks	712	https://home.cs.colorado.edu/~jbg/teaching/CMSC_470/05c_compgraph.pdf	University of Maryland	2021
+	1378	Jordan Boyd-Graber	Frameworks	712	https://home.cs.colorado.edu/~jbg/teaching/CMSC_470/05d_code_ex.pdf	University of Maryland	2021
+	1379	Jordan Boyd-Graber	Deep Averaging Network	713	https://home.cs.colorado.edu/~jbg/teaching/CMSC_470/05e_dan.pdf	University of Maryland	2021
+	1380	Jordan Boyd-Graber	Multilayer Networks	712	https://home.cs.colorado.edu/~jbg/teaching/CMSC_470/05f_relu_ex.pdf	University of Maryland	2021
+	1381	Jordan Boyd-Graber	Distributional Semantics	721	https://home.cs.colorado.edu/~jbg/teaching/CMSC_470/06a_distsim.pdf	University of Maryland	2021
+	1382	Jordan Boyd-Graber	Distributional Semantics	721	https://home.cs.colorado.edu/~jbg/teaching/CMSC_470/06b_word2vec.pdf	University of Maryland	2021
+	1383	Jordan Boyd-Graber	Part of Speech Tagging	231	https://home.cs.colorado.edu/~jbg/teaching/CMSC_470/08a_rnn.pdf	University of Maryland	2021
+	1384	Jordan Boyd-Graber	LSTM	742	https://home.cs.colorado.edu/~jbg/teaching/CMSC_470/08b_lstm.pdf	University of Maryland	2021
+	1385	Jordan Boyd-Graber	Question Answering	755	https://home.cs.colorado.edu/~jbg/teaching/CMSC_470/09d_drqa.pdf	University of Maryland	2021
+	1386	Jordan Boyd-Graber	Question Answering	755	https://home.cs.colorado.edu/~jbg/teaching/CMSC_470/09e_bidaf.pdf	University of Maryland	2021
+	1387	Jordan Boyd-Graber	Constituency Parsing	331	https://home.cs.colorado.edu/~jbg/teaching/CMSC_470/12a_pcfg.pdf	University of Maryland	2021
+	1388	Jordan Boyd-Graber	Constituency Parsing	331	https://home.cs.colorado.edu/~jbg/teaching/CMSC_470/12b_ex.pdf	University of Maryland	2021
+	1393	Philipp Koehn	Basic Search	822	https://www.cs.jhu.edu/~phi/ai/slides/lecture-basic-search.pdf	The Johns Hopkins University	2020
+	1394	Philipp Koehn	Bayesian Networks	842	https://www.cs.jhu.edu/~phi/ai/slides/lecture-bayesian-networks.pdf	The Johns Hopkins University	2020
+	1395	Philipp Koehn	Cognitive Neuroscience	861	https://www.cs.jhu.edu/~phi/ai/slides/lecture-cognitive-neuroscience.pdf	The Johns Hopkins University	2020
+	1396	Philipp Koehn	Cognitive Neuroscience	861	https://www.cs.jhu.edu/~phi/ai/slides/lecture-cognitive-psychology.view.pdf	The Johns Hopkins University	2020
+	1397	Philipp Koehn	Constraint Satisfaction	827	https://www.cs.jhu.edu/~phi/ai/slides/lecture-constraint-satisfaction.pdf	The Johns Hopkins University	2020
+	1398	Philipp Koehn	Deep Reinforcement Learning	857	https://www.cs.jhu.edu/~phi/ai/slides/lecture-deep-reinforcement-learning.pdf	The Johns Hopkins University	2020
+	1399	Philipp Koehn	AI in the Public Imagination	811	https://www.cs.jhu.edu/~phi/ai/slides/lecture-fiction.pdf	The Johns Hopkins University	2020
+	1400	Philipp Koehn	First Order Logic	362	https://www.cs.jhu.edu/~phi/ai/slides/lecture-first-order-logic.pdf	The Johns Hopkins University	2020
+	1401	Philipp Koehn	Game Playing	825	https://www.cs.jhu.edu/~phi/ai/slides/lecture-game-playing.pdf	The Johns Hopkins University	2020
+	1402	Philipp Koehn	Inference in First-Order Logic	362	https://www.cs.jhu.edu/~phi/ai/slides/lecture-inference-in-first-order-logic.pdf	The Johns Hopkins University	2020
+	1403	Philipp Koehn	Informed Search	822	https://www.cs.jhu.edu/~phi/ai/slides/lecture-informed-search.pdf	The Johns Hopkins University	2020
+	1404	Philipp Koehn	Intelligent Agents	813	https://www.cs.jhu.edu/~phi/ai/slides/lecture-intelligent-agents.pdf	The Johns Hopkins University	2020
+	1405	Philipp Koehn	Introduction to AI	811	https://www.cs.jhu.edu/~phi/ai/slides/lecture-introduction.pdf	The Johns Hopkins University	2020
+	1406	Philipp Koehn	Knowledge Representation	363	https://www.cs.jhu.edu/~phi/ai/slides/lecture-knowledge-representation.pdf	The Johns Hopkins University	2020
+	1407	Philipp Koehn	Logical Agents	813	https://www.cs.jhu.edu/~phi/ai/slides/lecture-logical-agents.pdf	The Johns Hopkins University	2020
+	1408	Philipp Koehn	Machine Translation	451	https://www.cs.jhu.edu/~phi/ai/slides/lecture-machine-translation.pdf	The Johns Hopkins University	2020
+	1409	Philipp Koehn	Markov Decision Processes	843	https://www.cs.jhu.edu/~phi/ai/slides/lecture-markov-decision-processes.pdf	The Johns Hopkins University	2020
+	1410	Philipp Koehn	Natural Language Processing	112	https://www.cs.jhu.edu/~phi/ai/slides/lecture-natural-language-processing.pdf	The Johns Hopkins University	2020
+	1411	Philipp Koehn	Neural Networks	711	https://www.cs.jhu.edu/~phi/ai/slides/lecture-neural-networks.pdf	The Johns Hopkins University	2020
+	1412	Philipp Koehn	Philosophy of Mind	811	https://www.cs.jhu.edu/~phi/ai/slides/lecture-philosophy-of-mind.pdf	The Johns Hopkins University	2020
+	1413	Philipp Koehn	Planning	828	https://www.cs.jhu.edu/~phi/ai/slides/lecture-planning.pdf	The Johns Hopkins University	2020
+	1414	Philipp Koehn	Probabilistic Reasoning	831	https://www.cs.jhu.edu/~phi/ai/slides/lecture-probabilistic-reasoning.pdf	The Johns Hopkins University	2020
+	1415	Philipp Koehn	Reinforcement Learning	857	https://www.cs.jhu.edu/~phi/ai/slides/lecture-reinforcement-learning.pdf	The Johns Hopkins University	2020
+	1416	Philipp Koehn	Class Review	111	https://www.cs.jhu.edu/~phi/ai/slides/lecture-review.pdf	The Johns Hopkins University	2020
+	1417	Philipp Koehn	Statistical Learning	851	https://www.cs.jhu.edu/~phi/ai/slides/lecture-statistical-learning.pdf	The Johns Hopkins University	2020
+	1418	Carlos Fernandez-Granda	Linear regression	516	https://cds.nyu.edu/wp-content/uploads/2021/05/additional-slides-Linear-regression.pdf	New York University	2019
+	1419	Carlos Fernandez-Granda	Signal Representations Beyond Fourier	125	https://cds.nyu.edu/wp-content/uploads/2021/05/beyond_fourier-1.pdf	New York University	2019
+	1420	Carlos Fernandez-Granda	Convolutional neural networks for image denoising	744	https://cds.nyu.edu/wp-content/uploads/2021/05/cnns_handout-1.pdf	New York University	2019
+	1421	Carlos Fernandez-Granda	Convexity	127	https://cds.nyu.edu/wp-content/uploads/2021/05/convexity_handout.pdf	New York University	2019
+	1422	Carlos Fernandez-Granda	Principal component analysis	341	https://cds.nyu.edu/wp-content/uploads/2021/05/covariance_matrix_blended_lecture.pdf	New York University	2019
+	1423	Carlos Fernandez-Granda	Covariance matrix	341	https://cds.nyu.edu/wp-content/uploads/2021/05/covariance_matrix.pdf	New York University	2019
+	1424	Carlos Fernandez-Granda	Covariance matrix	341	https://cds.nyu.edu/wp-content/uploads/2021/05/Covariance-matrix.pdf	New York University	2019
+	1425	Carlos Fernandez-Granda	The Discrete Fourier Transform	125	https://cds.nyu.edu/wp-content/uploads/2021/05/dft_handout.pdf	New York University	2019
+	1426	Carlos Fernandez-Granda	Regularization via Early Stopping	712	https://cds.nyu.edu/wp-content/uploads/2021/05/early_stopping_handout.pdf	New York University	2019
+	1427	Carlos Fernandez-Granda	Frequency transformations in multiple dimensions	128	https://cds.nyu.edu/wp-content/uploads/2021/05/fourier_2D_handout.pdf	New York University	2019
+	1428	Carlos Fernandez-Granda	The frequency domain	128	https://cds.nyu.edu/wp-content/uploads/2021/05/fourier_blended_lecture_2.pdf	New York University	2019
+	1429	Carlos Fernandez-Granda	Fourier series and sampling	125	https://cds.nyu.edu/wp-content/uploads/2021/05/fourier_blended.pdf	New York University	2019
+	1430	Carlos Fernandez-Granda	The Frequency Domain	125	https://cds.nyu.edu/wp-content/uploads/2021/05/fourier.pdf	New York University	2019
+	1431	Carlos Fernandez-Granda	Fourier Series	125	https://cds.nyu.edu/wp-content/uploads/2021/05/fourier_series_handout.pdf	New York University	2019
+	1432	Carlos Fernandez-Granda	Gaussian random vectors	125	https://cds.nyu.edu/wp-content/uploads/2021/05/gaussian_vectors_handout.pdf	New York University	2019
+	1433	Carlos Fernandez-Granda	Analysis of the Lasso	712	https://cds.nyu.edu/wp-content/uploads/2021/05/lasso_analysis_handout.pdf	New York University	2019
+	1434	Carlos Fernandez-Granda	Sparse regression via the lasso	712	https://cds.nyu.edu/wp-content/uploads/2021/05/lasso_handout.pdf	New York University	2019
+	1435	Carlos Fernandez-Granda	Linear Regression	516	https://cds.nyu.edu/wp-content/uploads/2021/05/linear_regression.pdf	New York University	2019
+	1436	Carlos Fernandez-Granda	Linear translation-invariant models and convolution	123	https://cds.nyu.edu/wp-content/uploads/2021/05/lti_handout.pdf	New York University	2019
+	1437	Carlos Fernandez-Granda	Mean squared error estimation	123	https://cds.nyu.edu/wp-content/uploads/2021/05/Mean-squared-error-estimation.pdf	New York University	2019
+	1438	Carlos Fernandez-Granda	OLS Coefficient Analysis	123	https://cds.nyu.edu/wp-content/uploads/2021/05/OLS-Coefficient-Analysis.pdf	New York University	2019
+	1439	Carlos Fernandez-Granda	Ordinary least squares	123	https://cds.nyu.edu/wp-content/uploads/2021/05/Ordinary-least-squares.pdf	New York University	2019
+	1440	Carlos Fernandez-Granda	Principal component analysis	341	https://cds.nyu.edu/wp-content/uploads/2021/05/Principal-component-analysis.pdf	New York University	2019
+	1441	Carlos Fernandez-Granda	Review on Regularization for Linear Regression	516	https://cds.nyu.edu/wp-content/uploads/2021/05/regularization-1.pdf	New York University	2019
+	1442	Carlos Fernandez-Granda	Regularization	712	https://cds.nyu.edu/wp-content/uploads/2021/05/regularization_blended_lecture.pdf	New York University	2019
+	1443	Carlos Fernandez-Granda	Ridge regression	712	https://cds.nyu.edu/wp-content/uploads/2021/05/ridge_regression_handout.pdf	New York University	2019
+	1444	Carlos Fernandez-Granda	The Sampling Theorem	712	https://cds.nyu.edu/wp-content/uploads/2021/05/sampling_handout.pdf	New York University	2019
+	1445	Carlos Fernandez-Granda	Sparse regression	516	https://cds.nyu.edu/wp-content/uploads/2021/05/sparse_regression_blended_lecture.pdf	New York University	2019
+	1446	Carlos Fernandez-Granda	Sparse regression	516	https://cds.nyu.edu/wp-content/uploads/2021/05/sparse_regression.pdf	New York University	2019
+	1447	Carlos Fernandez-Granda	Stationarity	127	https://cds.nyu.edu/wp-content/uploads/2021/05/stationarity-1.pdf	New York University	2019
+	1448	Carlos Fernandez-Granda	Stationarity	127	https://cds.nyu.edu/wp-content/uploads/2021/05/stationarity_blended_lecture-1.pdf	New York University	2019
+	1449	Carlos Fernandez-Granda	Stationarity	127	https://cds.nyu.edu/wp-content/uploads/2021/05/stationarity_pca_handout-1.pdf	New York University	2019
+	1450	Carlos Fernandez-Granda	Short-Time Fourier Transform	125	https://cds.nyu.edu/wp-content/uploads/2021/05/stft_handout.pdf	New York University	2019
+	1451	Carlos Fernandez-Granda	Subgradients	127	https://cds.nyu.edu/wp-content/uploads/2021/05/subgradients_handout.pdf	New York University	2019
+	1452	Carlos Fernandez-Granda	Thresholding	127	https://cds.nyu.edu/wp-content/uploads/2021/05/thresholding.pdf	New York University	2019
+	1453	Carlos Fernandez-Granda	Time-frequency analysis	127	https://cds.nyu.edu/wp-content/uploads/2021/05/time_frequency_blended_lecture.pdf	New York University	2019
+	1454	Carlos Fernandez-Granda	Training and Test Error of the OLS Estimator	127	https://cds.nyu.edu/wp-content/uploads/2021/05/training_test_error_OLS_handout.pdf	New York University	2019
+	1455	Carlos Fernandez-Granda	Wavelets and thresholding	127	https://cds.nyu.edu/wp-content/uploads/2021/05/wavelets_and_thresholding_blended_lecture.pdf	New York University	2019
+	1456	Carlos Fernandez-Granda	Wavelets	127	https://cds.nyu.edu/wp-content/uploads/2021/05/wavelets_handout.pdf	New York University	2019
+	1457	Carlos Fernandez-Granda	Wiener filtering	127	https://cds.nyu.edu/wp-content/uploads/2021/05/wiener_handout.pdf	New York University	2019
+	1458	Carlos Fernandez-Granda	Windowing	127	https://cds.nyu.edu/wp-content/uploads/2021/05/windowing_handout.pdf	New York University	2019
+	1459	Manolis Kellis	Optimizing model likelihood using gradient descent	721	https://mit6874.github.io/assets/slides/FeedForwardBackprop.pdf	MIT	2021
+	1460	Manolis Kellis	Deep Learning in the Life Sciences	711	https://mit6874.github.io/assets/sp2021/slides/l01.pdf	MIT	2021
+	1461	Manolis Kellis	Optimizing Feedforward Networks	712	https://mit6874.github.io/assets/sp2021/slides/l02.pdf	MIT	2021
+	1462	Manolis Kellis	Convolutional Neural Networks	744	https://mit6874.github.io/assets/sp2021/slides/l03.pdf	MIT	2021
+	1463	Manolis Kellis	Recurrent Neural Networks	741	https://mit6874.github.io/assets/sp2021/slides/l04.pdf	MIT	2021
+	1464	Manolis Kellis	Interpretable Deep Learning	713	https://mit6874.github.io/assets/sp2021/slides/l05.pdf	MIT	2021
+	1465	Manolis Kellis	Generative Models: GANs, VAEs	746	https://mit6874.github.io/assets/sp2021/slides/l06.pdf	MIT	2021
+	1466	Manolis Kellis	Regulatory genomics	713	https://mit6874.github.io/assets/sp2021/slides/l07.pdf	MIT	2021
+	1467	Manolis Kellis	TF binding	713	https://mit6874.github.io/assets/sp2021/slides/l08.pdf	MIT	2021
+	1468	Manolis Kellis	Predicting gene expression and splicing	713	https://mit6874.github.io/assets/sp2021/slides/l09.pdf	MIT	2021
+	1469	Manolis Kellis	Deep Learning for single-cell genomics	713	https://mit6874.github.io/assets/sp2021/slides/l10.pdf	MIT	2021
+	1470	Manolis Kellis	Dimensionality Reduction	341	https://mit6874.github.io/assets/sp2021/slides/l11a.pdf	MIT	2021
+	1471	Manolis Kellis	Integrating multiple single-cell datasets	713	https://mit6874.github.io/assets/sp2021/slides/l11b.pdf	MIT	2021
+	1472	Manolis Kellis	Human genetics, GWAS, and disease circuitry	713	https://mit6874.github.io/assets/sp2021/slides/l12.pdf	MIT	2021
+	1473	Manolis Kellis	GWAS mechanism	713	https://mit6874.github.io/assets/sp2021/slides/l13.pdf	MIT	2021
+	1474	Manolis Kellis	Systems Genetics and EHRs	713	https://mit6874.github.io/assets/sp2021/slides/l14.pdf	MIT	2021
+	1475	Manolis Kellis	Graph Neural Networks	748	https://mit6874.github.io/assets/sp2021/slides/l15a.pdf	MIT	2021
+	1476	Manolis Kellis	Graph Neural Networks	748	https://mit6874.github.io/assets/sp2021/slides/l15b.pdf	MIT	2021
+	1477	Wengong Jin	Deep learning for drug discovery	713	https://mit6874.github.io/assets/sp2021/slides/l16.pdf	MIT	2021
+	1478	Bruno Correia	Deciphering interaction fingerprints from protein molecular surfaces using geometric deep learning	713	https://mit6874.github.io/assets/sp2021/slides/l17a.pdf	Northeastern University	2021
+	1546	Byron Wallace	Backprop	712	https://course.ccs.neu.edu/ds4440f20/lecture-materials/ds4440-backprop1.pdf	Northeastern University	2020
+	1547	Byron Wallace	Backprop	712	https://course.ccs.neu.edu/ds4440f20/lecture-materials/ds4440-backprop2.pdf	Northeastern University	2020
+	1548	Byron Wallace	Beyond Linear Models	711	https://course.ccs.neu.edu/ds4440f20/lecture-materials/ds4440-beyond-linear-models.pdf	Northeastern University	2020
+	1549	Byron Wallace	Computation Graphs	712	https://course.ccs.neu.edu/ds4440f20/lecture-materials/ds4440-comp-graphs.pdf	Northeastern University	2020
+	1550	Byron Wallace	ConvNets	744	https://course.ccs.neu.edu/ds4440f20/lecture-materials/ds4440-ConvNets-1.pdf	Northeastern University	2020
+	1551	Byron Wallace	ConvNets	744	https://course.ccs.neu.edu/ds4440f20/lecture-materials/ds4440-ConvNets-2.pdf	Northeastern University	2020
+	1552	Byron Wallace	Embeddings	721	https://course.ccs.neu.edu/ds4440f20/lecture-materials/ds4440-embeddings.pdf	Northeastern University	2020
+	1553	Byron Wallace	Formalizing Fairness	931	https://course.ccs.neu.edu/ds4440f20/lecture-materials/ds4440-fairness-notes.pdf	Northeastern University	2020
+	1554	Byron Wallace	Hard things: robustness, bias, & fairness	931	https://course.ccs.neu.edu/ds4440f20/lecture-materials/ds4440-hard-things-fairness-ethics.pdf	Northeastern University	2020
+	1555	Byron Wallace	Interpretability in Machine Learning	933	https://course.ccs.neu.edu/ds4440f20/lecture-materials/ds4440-interpretability.pdf	Northeastern University	2020
+	1556	Byron Wallace	Introduction	711	https://course.ccs.neu.edu/ds4440f20/lecture-materials/ds4440-intro-logistics.pdf	Northeastern University	2020
+	1557	Byron Wallace	Active Learning and Augmentation	999	https://course.ccs.neu.edu/ds4440f20/lecture-materials/ds4440-lowell-AL-augmentation.pdf	Northeastern University	2020
+	1558	Byron Wallace	Metrics	713	https://course.ccs.neu.edu/ds4440f20/lecture-materials/ds4440-metrics.pdf	Northeastern University	2020
+	1559	Byron Wallace	Optimizer	712	https://course.ccs.neu.edu/ds4440f20/lecture-materials/ds4440-optimizers.pdf	Northeastern University	2020
+	1560	Byron Wallace	Recurrent Neural Networks	741	https://course.ccs.neu.edu/ds4440f20/lecture-materials/ds4440-RNNs-1.pdf	Northeastern University	2020
+	1561	Byron Wallace	Recurrent Neural Networks	741	https://course.ccs.neu.edu/ds4440f20/lecture-materials/ds4440-RNNs-2.pdf	Northeastern University	2020
+	1562	Byron Wallace	Seq2Seq Models	753	https://course.ccs.neu.edu/ds4440f20/lecture-materials/ds4440-seq2seq1.pdf	Northeastern University	2020
+	1563	Byron Wallace	Seq2Seq Models	753	https://course.ccs.neu.edu/ds4440f20/lecture-materials/ds4440-seq2seq2.pdf	Northeastern University	2020
+	1564	Byron Wallace	More on Linear Models	712	https://course.ccs.neu.edu/ds4440f20/lecture-materials/ds4440-SGD-and-linear-models.pdf	Northeastern University	2020
+	1565	Byron Wallace	Supervised Learning	711	https://course.ccs.neu.edu/ds4440f20/lecture-materials/ds4440-supervised-learning-review.pdf	Northeastern University	2020
+	1566	Byron Wallace	BERT	714	https://course.ccs.neu.edu/ds4440f20/lecture-materials/ds4440-transformer-bert-seq.pdf	Northeastern University	2020
+	1567	Byron Wallace	transformers	714	https://course.ccs.neu.edu/ds4440f20/lecture-materials/ds4440-transformers.pdf	Northeastern University	2020
+	1568	Byron Wallace	autoencoders	749	https://course.ccs.neu.edu/ds4440f20/lecture-materials/ds4440-tSNE-autoencoders.pdf	Northeastern University	2020
+	1583	Moshe Y. Vardi	Useful Facts about Sets	831	http://www.cs.rice.edu/~vardi/comp409/chapter0.pdf	Rice University	2015
+	1586	Moshe Y. Vardi	Deductions	831	http://www.cs.rice.edu/~vardi/comp409/lec11.pdf	Rice University	2015
+	1587	Moshe Y. Vardi	Deduction and Resolution	831	http://www.cs.rice.edu/~vardi/comp409/lec12.pdf	Rice University	2015
+	1588	Moshe Y. Vardi	Proof Complexity	831	http://www.cs.rice.edu/~vardi/comp409/lec13.pdf	Rice University	2015
+	1589	Moshe Y. Vardi	First-Order Logic	362	http://www.cs.rice.edu/~vardi/comp409/lec14.pdf	Rice University	2015
+	1590	Moshe Y. Vardi	Semantics of First Order Logic	362	http://www.cs.rice.edu/~vardi/comp409/lec15.pdf	Rice University	2015
+	1591	Moshe Y. Vardi	Relevance Lemma and Relational Databases	831	http://www.cs.rice.edu/~vardi/comp409/lec16.pdf	Rice University	2015
+	1594	Moshe Y. Vardi	The Logic of Circuits	831	http://www.cs.rice.edu/~vardi/comp409/lec18.pdf	Rice University	2015
+	1595	Moshe Y. Vardi	The Logic of Circuits	831	http://www.cs.rice.edu/~vardi/comp409/lec19.pdf	Rice University	2015
+	1596	Moshe Y. Vardi	The Formulas of Propositional Logic	831	http://www.cs.rice.edu/~vardi/comp409/lec1.pdf	Rice University	2015
+	1597	Moshe Y. Vardi	Expressiveness of FOL	362	http://www.cs.rice.edu/~vardi/comp409/lec20.pdf	Rice University	2015
+	1598	Moshe Y. Vardi	FOL Expressiveness	362	http://www.cs.rice.edu/~vardi/comp409/lec21.pdf	Rice University	2015
+	1599	Moshe Y. Vardi	FOL Expressiveness	362	http://www.cs.rice.edu/~vardi/comp409/lec22.pdf	Rice University	2015
+	1600	Moshe Y. Vardi	The Compactness Theorem	831	http://www.cs.rice.edu/~vardi/comp409/lec23.pdf	Rice University	2015
+	1601	Moshe Y. Vardi	Truth and Complexity	831	http://www.cs.rice.edu/~vardi/comp409/lec24.pdf	Rice University	2015
+	1602	Moshe Y. Vardi	Satisfiability	831	http://www.cs.rice.edu/~vardi/comp409/lec25.pdf	Rice University	2015
+	1603	Moshe Y. Vardi	Herbrand Universes and Structures	831	http://www.cs.rice.edu/~vardi/comp409/lec26.pdf	Rice University	2015
+	1604	Moshe Y. Vardi	Parsing Propositional Formulas	831	http://www.cs.rice.edu/~vardi/comp409/lec2.pdf	Rice University	2015
+	1605	Moshe Y. Vardi	Semantics of Propositional Logic	831	http://www.cs.rice.edu/~vardi/comp409/lec3.pdf	Rice University	2015
+	1606	Moshe Y. Vardi	More Semantics	831	http://www.cs.rice.edu/~vardi/comp409/lec4.pdf	Rice University	2015
+	1607	Moshe Y. Vardi	Introduction to Complexity Theory	831	http://www.cs.rice.edu/~vardi/comp409/lec5.pdf	Rice University	2015
+	1608	Moshe Y. Vardi	Classification of Formulas	831	http://www.cs.rice.edu/~vardi/comp409/lec6.pdf	Rice University	2015
+	1609	Moshe Y. Vardi	The Satisfiability Problem	831	http://www.cs.rice.edu/~vardi/comp409/lec7.pdf	Rice University	2015
+	1610	Moshe Y. Vardi	NP Completeness	831	http://www.cs.rice.edu/~vardi/comp409/lec8.pdf	Rice University	2015
+	1654	Rose Yu	DEEP GENERATIVE MODEL	514	https://drive.google.com/file/d/1RdfDuEAPlG4J10VAfq4c8kjjnLQiaXVn/view	University of California San Diego	2020
+	1655	Rose Yu	PROBABILISTIC GRAPHICAL MODEL	172	https://drive.google.com/file/d/1kl5nAhxjHm2fqlxP6HGEOSAWlgVU2bcx/view?usp=sharing	University of California San Diego	2020
+	1656	Rose Yu	Generative Models	514	https://drive.google.com/file/d/16Lfzugm65sC_MavzcAdtlTVUJObNdiIw/view?usp=sharing	University of California San Diego	2020
+	1657	Rose Yu	Variational Autoencoders	749	https://drive.google.com/file/d/1m5WQP6xBJevth_7Vb-sXPmIB3yvRt2qQ/view?usp=sharing	University of California San Diego	2020
+	1658	Rose Yu	Normalizing Flow Models	514	https://drive.google.com/file/d/1-tVVuqJy0EYV7ahYFIx7j0Z2FVrNLD6z/view?usp=sharing	University of California San Diego	2020
+	1659	Rose Yu	GENERATIVE ADVERSARIAL NETWORK	514	https://drive.google.com/file/d/1Xggqq5qk3E3yAtMv9DKyZbx8Ee8_sROc/view?usp=sharing	University of California San Diego	2020
+	1660	Rose Yu	ENERGY-BASED MODELS	514	https://drive.google.com/file/d/1n_c2Ad521fFae4qtZPf_J89f_6xqQMrZ/view?usp=sharing	University of California San Diego	2020
+	1661	Rose Yu	Structured Data	961	https://drive.google.com/file/d/1iSATTsBkL7GCsum4AKHROVJP-dX4mwt6/view?usp=sharing	University of California San Diego	2020
+	1662	Rose Yu	EVALUATION OF GENERATIVE MODELS	514	https://drive.google.com/file/d/1cEFzG369_wwlgzOYpykqx7OoHnZTsrVk/view?usp=sharing	University of California San Diego	2020
+	1663	Ryan Cotterell	Transliteration with WFSTs	162	https://drive.google.com/file/d/1SBZGZnkRbWrQaBYicocCpG15EcFSHxme/view?usp=sharing	ETH Zürich	2021
+	1664	Ryan Cotterell	Machine Translation with Transformers	751	https://drive.google.com/file/d/1008UHRtJPtJIsTBtC1yOa6RrSJaidhke/view?usp=sharing	ETH Zürich	2021
+	1665	Ryan Cotterell	Axes of Modeling	751	https://drive.google.com/file/d/1JhLdKPxcalIk65F9Frdkgj2nr8RNCjLH/view?usp=sharing	ETH Zürich	2021
+	1666	Ryan Cotterell	Bias and Fairness in NLP	932	https://drive.google.com/file/d/1AOUrM7LyXfRg-ygPsy2_4jjwuj2lyiR4/view?usp=sharing	ETH Zürich	2021
+	1667	Ryan Cotterell	Introduction to Natural Language	112	https://drive.google.com/file/d/1LCmB_OP6pl4kmwn9fzIdS7ZWt4_K35Ax/view	ETH Zürich	2021
+	1668	Ryan Cotterell	Backpropagation	516	https://drive.google.com/file/d/121tTh964DdHfBet-U4DbE-hzwqdnsoJi/view?usp=sharing	ETH Zürich	2021
+	1669	Ryan Cotterell	Log-Linear Modeling---Meet the Softmax	512	https://drive.google.com/file/d/14gnMqCplpjoVVT0Q5Pt3YI5rOQqL6FMl/view?usp=sharing	ETH Zürich	2021
+	1670	Ryan Cotterell	Sentiment Analysis with Multi-layer Perceptrons	381	https://drive.google.com/file/d/1Dinfnb1tnK4zoN4bquh9F5D18bCNkGRs/view?usp=sharing	ETH Zürich	2021
+	1671	Ryan Cotterell	Language Modeling with *n*-grams and LSTMs	751	https://drive.google.com/file/d/1TmY6psV5pjhKd_6Ur8n35f_TTcRUtyh_/view?usp=sharing	ETH Zürich	2021
+	1672	Ryan Cotterell	Part-of-Speech Tagging with CRFs	231	https://drive.google.com/file/d/16jvZdoMmr4SAUKJaN3PeDi-nlWF82_xF/view?usp=sharing	ETH Zürich	2021
+	1673	Ryan Cotterell	Context-Free Parsing with CKY	244	https://drive.google.com/file/d/1RIbjaBSnypeu3gRJGmsGGVUF8J3o2tbZ/view?usp=sharing	ETH Zürich	2021
+	1674	Ryan Cotterell	Dependency Parsing with the Matrix-Tree Theorem	255	https://drive.google.com/file/d/1rztIaNxua6J5NkSGTLolqyUT9UDKcsQX/view?usp=sharing	ETH Zürich	2021
+	1675	Ryan Cotterell	Semantic Parsing with CCGs	261	https://drive.google.com/file/d/1e7RVwqWpvP7wBmYEtWFM0DWe7brwoETu/view?usp=sharing	ETH Zürich	2021
+	1680	Chelsea Finn, Nima Anari	Alpha-beta pruning	551	https://stanford-cs221.github.io/spring2021-extra/modules/games/alpha-beta-pruning.pdf	Stanford University	2021
+	1681	Chelsea Finn, Nima Anari	Approximate search	821	https://stanford-cs221.github.io/spring2021-extra/modules/csps/approximate-search.pdf	Stanford University	2021
+	1682	Chelsea Finn, Nima Anari	A Star Seatch	821	https://stanford-cs221.github.io/spring2021-extra/modules/search/a-star.pdf	Stanford University	2021
+	1683	Chelsea Finn, Nima Anari	A Star Relaxations	821	https://stanford-cs221.github.io/spring2021-extra/modules/search/a-star-relaxations.pdf	Stanford University	2021
+	1684	Chelsea Finn, Nima Anari	Bayes net definition and inference	364	https://stanford-cs221.github.io/spring2021-extra/modules/bayesian-networks/bayes-net-definition-and-inference.pdf	Stanford University	2021
+	1685	Chelsea Finn, Nima Anari	Best practices of training and applying neural networks.	712	https://stanford-cs221.github.io/spring2021-extra/modules/machine-learning/best-practices.pdf	Stanford University	2021
+	1686	Chelsea Finn, Nima Anari	Classification	511	https://stanford-cs221.github.io/spring2021-extra/modules/machine-learning/classification.pdf	Stanford University	2021
+	1687	Chelsea Finn, Nima Anari	Complexity	166	https://stanford-cs221.github.io/autumn2020/modules/prerequisites/complexity.pdf	Stanford University	2021
+	1688	Chelsea Finn, Nima Anari	EM algorithm	454	https://stanford-cs221.github.io/spring2021-extra/modules/bayesian-networks/em-algorithm.pdf	Stanford University	2021
+	1689	Chelsea Finn, Nima Anari	Epsilon-greedy exploration	821	https://stanford-cs221.github.io/spring2021-extra/modules/mdps/epsilon-greedy.pdf	Stanford University	2021
+	1690	Chelsea Finn, Nima Anari	Evaluation functions	821	https://stanford-cs221.github.io/spring2021-extra/modules/games/evaluation-functions.pdf	Stanford University	2021
+	1691	Chelsea Finn, Nima Anari	Factor graphs and backtracking search	824	https://stanford-cs221.github.io/spring2021-extra/modules/csps/factor-graphs-and-backtracking-search.pdf	Stanford University	2021
+	1692	Chelsea Finn, Nima Anari	First order logic	833	https://stanford-cs221.github.io/spring2021-extra/modules/logic-conclusion/first-order-logic.pdf	Stanford University	2021
+	1693	Chelsea Finn, Nima Anari	Function approximation	811	https://stanford-cs221.github.io/spring2021-extra/modules/mdps/function-approximation.pdf	Stanford University	2021
+	1694	Chelsea Finn, Nima Anari	Games	825	https://stanford-cs221.github.io/spring2021-extra/modules/games/games.pdf	Stanford University	2021
+	1695	Chelsea Finn, Nima Anari	Generalization	825	https://stanford-cs221.github.io/spring2021-extra/modules/machine-learning/generalization.pdf	Stanford University	2021
+	1696	Chelsea Finn, Nima Anari	Inference rules	834	https://stanford-cs221.github.io/spring2021-extra/modules/logic-conclusion/inference-rules.pdf	Stanford University	2021
+	1697	Chelsea Finn, Nima Anari	Introduction to AI	811	https://stanford-cs221.github.io/spring2021-extra/modules/general/Introduction-to-the-course.pdf	Stanford University	2021
+	1698	Chelsea Finn, Nima Anari	Learning and smoothing	851	https://stanford-cs221.github.io/spring2021-extra/modules/bayesian-networks/learning-and-smoothing.pdf	Stanford University	2021
+	1699	Chelsea Finn, Nima Anari	Learning demo	851	https://stanford-cs221.github.io/spring2021-extra/modules/machine-learning/learning-demo.pdf	Stanford University	2021
+	1700	Chelsea Finn, Nima Anari	Linear algebra	121	https://stanford-cs221.github.io/autumn2020/modules/prerequisites/linear-algebra.pdf	Stanford University	2021
+	1701	Chelsea Finn, Nima Anari	Markov decision processes	843	https://stanford-cs221.github.io/spring2021-extra/modules/mdps/markov-decision-processes.pdf	Stanford University	2021
+	1702	Chelsea Finn, Nima Anari	Markov networks and sampling	843	https://stanford-cs221.github.io/spring2021-extra/modules/csps/markov-networks-and-sampling.pdf	Stanford University	2021
+	1703	Chelsea Finn, Nima Anari	Model-based Monte Carlo	184	https://stanford-cs221.github.io/spring2021-extra/modules/mdps/model-based-monte-carlo.pdf	Stanford University	2021
+	1704	Chelsea Finn, Nima Anari	Model-free Monte Carlo	184	https://stanford-cs221.github.io/spring2021-extra/modules/mdps/model-free-monte-carlo.pdf	Stanford University	2021
+	1705	Chelsea Finn, Nima Anari	Nonlinear predictors	832	https://stanford-cs221.github.io/spring2021-extra/modules/machine-learning/nonlinear-predictors.pdf	Stanford University	2021
+	1706	Chelsea Finn, Nima Anari	Optimization	127	https://stanford-cs221.github.io/autumn2020/modules/prerequisites/optimization.pdf	Stanford University	2021
+	1707	Chelsea Finn, Nima Anari	Overview of logic and course conclusion	811	https://stanford-cs221.github.io/spring2021-extra/modules/logic-conclusion/overview-conclusion.pdf	Stanford University	2021
+	1708	Chelsea Finn, Nima Anari	Class overview	111	https://stanford-cs221.github.io/spring2021-extra/modules/machine-learning/overview.pdf	Stanford University	2021
+	1709	Chelsea Finn, Nima Anari	Propositional logic semantics	831	https://stanford-cs221.github.io/spring2021-extra/modules/logic-conclusion/propositional-logic-semantics-ii.pdf	Stanford University	2021
+	1710	Chelsea Finn, Nima Anari	Propositional logic semantics	831	https://stanford-cs221.github.io/spring2021-extra/modules/logic-conclusion/propositional-logic-semantics-i.pdf	Stanford University	2021
+	1711	Chelsea Finn, Nima Anari	Propositional logic syntax	831	https://stanford-cs221.github.io/spring2021-extra/modules/logic-conclusion/propositional-logic-syntax.pdf	Stanford University	2021
+	1712	Chelsea Finn, Nima Anari	Q-learning	857	https://stanford-cs221.github.io/spring2021-extra/modules/mdps/q-learning.pdf	Stanford University	2021
+	1713	Chelsea Finn, Nima Anari	Recap	811	https://stanford-cs221.github.io/spring2021-extra/modules/games/recap.pdf	Stanford University	2021
+	1714	Chelsea Finn, Nima Anari	Recurrences, Dynamic Programming	516	https://stanford-cs221.github.io/autumn2020/modules/prerequisites/recurrence.pdf	Stanford University	2021
+	1715	Chelsea Finn, Nima Anari	Regression	516	https://stanford-cs221.github.io/spring2021-extra/modules/machine-learning/regression.pdf	Stanford University	2021
+	1716	Chelsea Finn, Nima Anari	Introducing reinforcement learning	857	https://stanford-cs221.github.io/spring2021-extra/modules/mdps/reinforcement-learning.pdf	Stanford University	2021
+	1717	Chelsea Finn, Nima Anari	Model-free Monte Carlo vs SARSA	184	https://stanford-cs221.github.io/spring2021-extra/modules/mdps/sarsa.pdf	Stanford University	2021
+	1718	Chelsea Finn, Nima Anari	Stochastic gradient descent	516	https://stanford-cs221.github.io/spring2021-extra/modules/machine-learning/stochastic-gradient-descent.pdf	Stanford University	2021
+	1719	Chelsea Finn, Nima Anari	Tree search and dynamic programming	821	https://stanford-cs221.github.io/spring2021-extra/modules/search/tree-search-and-dynamic-programming.pdf	Stanford University	2021
+	1720	Chelsea Finn, Nima Anari	Uniform cost search correctness	821	https://stanford-cs221.github.io/spring2021-extra/modules/search/uniform-cost-search-correctness.pdf	Stanford University	2021
+	1721	Chelsea Finn, Nima Anari	Uniform cost search	821	https://stanford-cs221.github.io/spring2021-extra/modules/search/uniform-cost-search.pdf	Stanford University	2021
+	1722	Chelsea Finn, Nima Anari	Unsupervised learning	571	https://stanford-cs221.github.io/spring2021-extra/modules/machine-learning/unsupervised-learning.pdf	Stanford University	2021
+	1723	Chelsea Finn, Nima Anari	Vector calculus	126	https://stanford-cs221.github.io/autumn2020/modules/prerequisites/vector-calculus.pdf	Stanford University	2021
+	1724	Kristian Kersting	Statistical Machine Learning Introduction	134	https://www.ml.informatik.tu-darmstadt.de/lectures/sml2020sose/slides/lecture_01_organization.pdf	TU Darmstadt	2020
+	1725	Kristian Kersting	Linear Algebra Refresher	121	https://www.ml.informatik.tu-darmstadt.de/lectures/sml2020sose/slides/lecture_02_linear_algebra.pdf	TU Darmstadt	2020
+	1726	Kristian Kersting	Statistics Refresher	123	https://www.ml.informatik.tu-darmstadt.de/lectures/sml2020sose/slides/lecture_03_statistics.pdf	TU Darmstadt	2020
+	1727	Kristian Kersting	Optimization Refresher	187	https://www.ml.informatik.tu-darmstadt.de/lectures/sml2020sose/slides/lecture_04_optimization.pdf	TU Darmstadt	2020
+	1728	Kristian Kersting	Bayesian Decision Theory	551	https://www.ml.informatik.tu-darmstadt.de/lectures/sml2020sose/slides/lecture_05_bayesian_decision_theory.pdf	TU Darmstadt	2020
+	1729	Kristian Kersting	Probability Density Estimation	123	https://www.ml.informatik.tu-darmstadt.de/lectures/sml2020sose/slides/lecture_06_Probability_density_estimation.pdf	TU Darmstadt	2020
+	1730	Kristian Kersting	Expectation Maximization	454	https://www.ml.informatik.tu-darmstadt.de/lectures/sml2020sose/slides/lecture_07a_extra_Expectation_Maximization.pdf	TU Darmstadt	2020
+	1731	Kristian Kersting	Clustering and Evaluation	511	https://www.ml.informatik.tu-darmstadt.de/lectures/sml2020sose/slides/lecture_07b_Clustering_Evaluation.pdf	TU Darmstadt	2020
+	1732	Kristian Kersting	Regression	516	https://www.ml.informatik.tu-darmstadt.de/lectures/sml2020sose/slides/lecture_08_Regression.pdf	TU Darmstadt	2020
+	1733	Kristian Kersting	Classification	511	https://www.ml.informatik.tu-darmstadt.de/lectures/sml2020sose/slides/lecture_09_Classification.pdf	TU Darmstadt	2020
+	1735	Kristian Kersting	Support Vector Machines	521	https://www.ml.informatik.tu-darmstadt.de/lectures/sml2020sose/slides/lecture_11_Support_Vector_Machines.pdf	TU Darmstadt	2020
+	1736	Kristian Kersting	Neural Networks	712	https://www.ml.informatik.tu-darmstadt.de/lectures/sml2020sose/slides/lecture_12_Neural_Networks.pdf	TU Darmstadt	2020
+	1737	Kristian Kersting	Kernel Regression and Gaussian Processes	521	https://www.ml.informatik.tu-darmstadt.de/lectures/sml2020sose/slides/lecture_13_Kernel_Regression_Gaussian_Processes.pdf	TU Darmstadt	2020
+	1738	Yangfeng Ji	NLP Introduction	112	http://yangfengji.net/uva-nlp-course/slides/lecture-01.pdf	University of Virginia	2021
+	1739	Yangfeng Ji	Text Classification (I): Logistic Regression	541	http://yangfengji.net/uva-nlp-course/slides/lecture-02.pdf	University of Virginia	2021
+	1740	Yangfeng Ji	Text Classification (II): Neural Classifiers	541	http://yangfengji.net/uva-nlp-course/slides/lecture-02.pdf	University of Virginia	2021
+	1741	Yangfeng Ji	Text Classification: A further discussion	541	http://yangfengji.net/uva-nlp-course/slides/lecture-04.pdf	University of Virginia	2021
+	1742	Yangfeng Ji	Word Embeddings	721	http://yangfengji.net/uva-nlp-course/slides/lecture-05.pdf	University of Virginia	2021
+	1743	Yangfeng Ji	Statistical Language Modeling	751	http://yangfengji.net/uva-nlp-course/slides/lecture-06.pdf	University of Virginia	2021
+	1744	Yangfeng Ji	Recurrent Neural Networks Language Models	741	http://yangfengji.net/uva-nlp-course/slides/lecture-07.pdf	University of Virginia	2021
+	1745	Yangfeng Ji	Machine Translation	451	http://yangfengji.net/uva-nlp-course/slides/lecture-09.pdf	University of Virginia	2021
+	1746	Yangfeng Ji	Clustering Algorithms	511	http://yangfengji.net/uva-nlp-course/slides/lecture-10.pdf	University of Virginia	2021
+	1747	Yangfeng Ji	Generative Modeling	514	http://yangfengji.net/uva-nlp-course/slides/lecture-11.pdf	University of Virginia	2021
+	1748	Yangfeng Ji	Pre-training Strategies for NLP	714	http://yangfengji.net/uva-nlp-course/slides/lecture-12.pdf	University of Virginia	2021
+	1749	Yejin Choi	Deep Learning	711	https://courses.cs.washington.edu/courses/csep517/21wi/slides/DeepLearning.pdf	University of Washington	2021
+	1750	Yejin Choi	Hidden Markov Models	221	https://courses.cs.washington.edu/courses/csep517/21wi/slides/HMMs.pdf	University of Washington	2021
+	1751	Yejin Choi	NLP Introduction	112	https://courses.cs.washington.edu/courses/csep517/21wi/slides/Intro.pdf	University of Washington	2021
+	1752	Yejin Choi	Language Models	751	https://courses.cs.washington.edu/courses/csep517/21wi/slides/LanguageModels.pdf	University of Washington	2021
+	1753	Yejin Choi	Log-Linear Models	512	https://courses.cs.washington.edu/courses/csep517/21wi/slides/LogLinear.pdf	University of Washington	2021
+	1754	Yejin Choi	Neuro-Symbolic Commonsense Knowledge and Reasoning	354	https://courses.cs.washington.edu/courses/csep517/21wi/slides/neuralcommonsense.pdf	University of Washington	2021
+	1755	Yejin Choi	Neural NLG	756	https://courses.cs.washington.edu/courses/csep517/21wi/slides/NeuralGeneration.pdf	University of Washington	2021
+	1756	Yejin Choi	Learning to Reason about Social and Moral Norms	711	https://courses.cs.washington.edu/courses/csep517/21wi/slides/social-chem.pdf	University of Washington	2021
+	1757	Yejin Choi	Verb Physics	923	https://courses.cs.washington.edu/courses/csep517/21wi/slides/vp-and-fg.pdf	University of Washington	2021

@@ -1,0 +1,1021 @@
+ID	Instructor	Title	Topic	URL	Venue	Year
+0	Dragomir Radev	NLP Resources	133	http://www.cs.yale.edu/homes/radev/nlpclass/slides2018/133.pptx	Yale	2018
+1	Dragomir Radev	Syntax-based Machine Translation	241	http://www.cs.yale.edu/homes/radev/nlpclass/slides2018/455.pptx	Yale	2018
+2	Dragomir Radev	Generative and Discriminative Models 1	514	http://www.cs.yale.edu/homes/radev/nlpclass/slides2018/513.pptx	Yale	2018
+3	Dragomir Radev	Tools for Deep Learning	731	http://www.cs.yale.edu/homes/radev/nlpclass/slides2018/731.pptx	Yale	2018
+4	Dragomir Radev	Python Basics	131	http://www.cs.yale.edu/homes/radev/nlpclass/slides2018/131.pptx	Yale	2018
+5	Dragomir Radev	Social Network Extraction	236	http://www.cs.yale.edu/homes/radev/nlpclass/slides2018/976.pptx	Yale	2018
+6	Dragomir Radev	Inference	364	http://www.cs.yale.edu/homes/radev/nlpclass/slides2018/364.pptx	Yale	2018
+7	Dragomir Radev	Clustering 1	521	http://www.cs.yale.edu/homes/radev/nlpclass/slides2018/571.pptx	Yale	2018
+8	Dragomir Radev	Prepositional Phrase Attachment 2	456	http://www.cs.yale.edu/homes/radev/nlpclass/slides2018/283.pptx	Yale	2018
+9	Dragomir Radev	Long Short Term Memory Networks	742	http://www.cs.yale.edu/homes/radev/nlpclass/slides2018/742.pptx	Yale	2018
+10	Dragomir Radev	Class Logistics	111	http://www.cs.yale.edu/homes/radev/nlpclass/slides2018/111.pptx	Yale	2018
+11	Dragomir Radev	Smoothing and Interpolation	212	http://www.cs.yale.edu/homes/radev/nlpclass/slides2018/212.pptx	Yale	2018
+12	Dragomir Radev	Wordnet	315	http://www.cs.yale.edu/homes/radev/nlpclass/slides2018/315.pptx	Yale	2018
+13	Dragomir Radev	Question Answering Basics	411	http://www.cs.yale.edu/homes/radev/nlpclass/slides2018/411.pptx	Yale	2018
+14	Dragomir Radev	Examples of Text Classification	511	http://www.cs.yale.edu/homes/radev/nlpclass/slides2018/542.pptx	Yale	2018
+15	Dragomir Radev	Features and Unification	262	http://www.cs.yale.edu/homes/radev/nlpclass/slides2018/262.pptx	Yale	2018
+16	Dragomir Radev	Morphology and Semantics in Machine Translation	457	http://www.cs.yale.edu/homes/radev/nlpclass/slides2018/457.pptx	Yale	2018
+17	Dragomir Radev	Sentence Simplification	426	http://www.cs.yale.edu/homes/radev/nlpclass/slides2018/426.pptx	Yale	2018
+18	Dragomir Radev	Introduction to Hidden Markov Models	112	http://www.cs.yale.edu/homes/radev/nlpclass/slides2018/221.pptx	Yale	2018
+19	Dragomir Radev	Semi Supervised Retrieval, Pagerank	624	http://www.cs.yale.edu/homes/radev/nlpclass/slides2018/624.pptx	Yale	2018
+20	Dragomir Radev	NLP Tasks 2	151	http://www.cs.yale.edu/homes/radev/nlpclass/slides2018/152.pptx	Yale	2018
+21	Dragomir Radev	Preprocessing	153	http://www.cs.yale.edu/homes/radev/nlpclass/slides2018/153.pptx	Yale	2018
+22	Dragomir Radev	Machine Translation Techniques	452	http://www.cs.yale.edu/homes/radev/nlpclass/slides2018/452.pptx	Yale	2018
+23	Dragomir Radev	Discourse Parsing	443	http://www.cs.yale.edu/homes/radev/nlpclass/slides2018/443.pptx	Yale	2018
+24	Dragomir Radev	Regular Expressions	161	http://www.cs.yale.edu/homes/radev/nlpclass/slides2018/161.pptx	Yale	2018
+25	Dragomir Radev	Why is NLP Hard?	114	http://www.cs.yale.edu/homes/radev/nlpclass/slides2018/114.pptx	Yale	2018
+26	Dragomir Radev	Classic Parsing Methods	243	http://www.cs.yale.edu/homes/radev/nlpclass/slides2018/243.pptx	Yale	2018
+27	Dragomir Radev	Neural Question Answering	411	http://www.cs.yale.edu/homes/radev/nlpclass/slides2018/755.pptx	Yale	2018
+28	Dragomir Radev	QA Architecture and QA Systems 1	411	http://www.cs.yale.edu/homes/radev/nlpclass/slides2018/413.pptx	Yale	2018
+29	Dragomir Radev	Noisy Channel Methods for Machine Translation	453	http://www.cs.yale.edu/homes/radev/nlpclass/slides2018/453.pptx	Yale	2018
+30	Dragomir Radev	Linguistics Basics	103	http://www.cs.yale.edu/homes/radev/nlpclass/slides2018/141.pptx	Yale	2018
+31	Dragomir Radev	Introduction to Support Vector Machines and Kernels	112	http://www.cs.yale.edu/homes/radev/nlpclass/slides2018/521.pptx	Yale	2018
+32	Dragomir Radev	Semantic Similarity	314	http://www.cs.yale.edu/homes/radev/nlpclass/slides2018/314.pptx	Yale	2018
+33	Dragomir Radev	Text Kernels	342	http://www.cs.yale.edu/homes/radev/nlpclass/slides2018/342.pptx	Yale	2018
+34	Dragomir Radev	Finite State Transducers	163	http://www.cs.yale.edu/homes/radev/nlpclass/slides2018/163.pptx	Yale	2018
+35	Dragomir Radev	Parsing and Context-Free Grammars	256	http://www.cs.yale.edu/homes/radev/nlpclass/slides2018/242.pptx	Yale	2018
+36	Dragomir Radev	Natural Language Generation Systems	431	http://www.cs.yale.edu/homes/radev/nlpclass/slides2018/432.pptx	Yale	2018
+37	Dragomir Radev	NLP Tasks 1	151	http://www.cs.yale.edu/homes/radev/nlpclass/slides2018/151.pptx	Yale	2018
+38	Dragomir Radev	SyntaxNet	241	http://www.cs.yale.edu/homes/radev/nlpclass/slides2018/911.pptx	Yale	2018
+39	Dragomir Radev	Coherence and Prosody	926	http://www.cs.yale.edu/homes/radev/nlpclass/slides2018/442.pptx	Yale	2018
+40	Dragomir Radev	Word Distributions	144	http://www.cs.yale.edu/homes/radev/nlpclass/slides2018/144.pptx	Yale	2018
+41	Dragomir Radev	Search Engine Architecture	612	http://www.cs.yale.edu/homes/radev/nlpclass/slides2018/612.pptx	Yale	2018
+42	Dragomir Radev	Parsing Evaluation	247	http://www.cs.yale.edu/homes/radev/nlpclass/slides2018/247.pptx	Yale	2018
+43	Dragomir Radev	Recursive Neural Networks	743	http://www.cs.yale.edu/homes/radev/nlpclass/slides2018/743.pptx	Yale	2018
+44	Dragomir Radev	Semantic Role Labeling	367	http://www.cs.yale.edu/homes/radev/nlpclass/slides2018/367.pptx	Yale	2018
+45	Dragomir Radev	Methods used in NLP	115	http://www.cs.yale.edu/homes/radev/nlpclass/slides2018/115.pptx	Yale	2018
+46	Dragomir Radev	Evaluation of Language Modeling	213	http://www.cs.yale.edu/homes/radev/nlpclass/slides2018/213.pptx	Yale	2018
+47	Dragomir Radev	Phrase Based Machine Translation, Evaluation	456	http://www.cs.yale.edu/homes/radev/nlpclass/slides2018/456.pptx	Yale	2018
+48	Dragomir Radev	Summarization Evaluation	425	http://www.cs.yale.edu/homes/radev/nlpclass/slides2018/425.pptx	Yale	2018
+49	Dragomir Radev	Introduction to Word Sense Disambiguation	112	http://www.cs.yale.edu/homes/radev/nlpclass/slides2018/391.pptx	Yale	2018
+50	Dragomir Radev	Practical Considerations of Classification	511	http://www.cs.yale.edu/homes/radev/nlpclass/slides2018/545.pptx	Yale	2018
+51	Dragomir Radev	Sentiment Analysis	381	http://www.cs.yale.edu/homes/radev/nlpclass/slides2018/381.pptx	Yale	2018
+52	Dragomir Radev	Bayes Theorem	125	http://www.cs.yale.edu/homes/radev/nlpclass/slides2018/125.pptx	Yale	2018
+53	Dragomir Radev	Query Modification	622	http://www.cs.yale.edu/homes/radev/nlpclass/slides2018/622.pptx	Yale	2018
+54	Dragomir Radev	Unlexicalized Parsing	253	http://www.cs.yale.edu/homes/radev/nlpclass/slides2018/254.pptx	Yale	2018
+55	Dragomir Radev	Evaluation of Question Answering	411	http://www.cs.yale.edu/homes/radev/nlpclass/slides2018/412.pptx	Yale	2018
+56	Dragomir Radev	QA Architecture and QA Systems 2	411	http://www.cs.yale.edu/homes/radev/nlpclass/slides2018/414.pptx	Yale	2018
+57	Dragomir Radev	Collocations	352	http://www.cs.yale.edu/homes/radev/nlpclass/slides2018/352.pptx	Yale	2018
+58	Dragomir Radev	Morphology and Lexicon	142	http://www.cs.yale.edu/homes/radev/nlpclass/slides2018/143.pptx	Yale	2018
+59	Dragomir Radev	Introduction to Information Retrieval	112	http://www.cs.yale.edu/homes/radev/nlpclass/slides2018/611.pptx	Yale	2018
+60	Dragomir Radev	Introduction to Language Modeling	112	http://www.cs.yale.edu/homes/radev/nlpclass/slides2018/211.pptx	Yale	2018
+61	Dragomir Radev	Probabilities 2	123	http://www.cs.yale.edu/homes/radev/nlpclass/slides2018/124.pptx	Yale	2018
+62	Dragomir Radev	Summarization 4	421	http://www.cs.yale.edu/homes/radev/nlpclass/slides2018/424.pptx	Yale	2018
+63	Dragomir Radev	Lexicalized Parsing	253	http://www.cs.yale.edu/homes/radev/nlpclass/slides2018/253.pptx	Yale	2018
+64	Dragomir Radev	Edit Distance	313	http://www.cs.yale.edu/homes/radev/nlpclass/slides2018/313.pptx	Yale	2018
+65	Dragomir Radev	Neural Architectures, Training Neural Networks	712	http://www.cs.yale.edu/homes/radev/nlpclass/slides2018/712.pptx	Yale	2018
+66	Dragomir Radev	Prepositional Phrase Attachment 3	456	http://www.cs.yale.edu/homes/radev/nlpclass/slides2018/284.pptx	Yale	2018
+67	Dragomir Radev	The Noisy Channel	214	http://www.cs.yale.edu/homes/radev/nlpclass/slides2018/214.pptx	Yale	2018
+68	Dragomir Radev	Natural Language Generation Basics	431	http://www.cs.yale.edu/homes/radev/nlpclass/slides2018/431.pptx	Yale	2018
+69	Dragomir Radev	Introduction to Dimensionality Reduction	112	http://www.cs.yale.edu/homes/radev/nlpclass/slides2018/341.pptx	Yale	2018
+70	Dragomir Radev	Summarization 1	421	http://www.cs.yale.edu/homes/radev/nlpclass/slides2018/421.pptx	Yale	2018
+71	Dragomir Radev	Language and Complexity	166	http://www.cs.yale.edu/homes/radev/nlpclass/slides2018/166.pptx	Yale	2018
+72	Dragomir Radev	Stemming	312	http://www.cs.yale.edu/homes/radev/nlpclass/slides2018/312.pptx	Yale	2018
+73	Dragomir Radev	Machine Translation Basics	451	http://www.cs.yale.edu/homes/radev/nlpclass/slides2018/451.pptx	Yale	2018
+74	Dragomir Radev	Introduction to Part of Speech Tagging	112	http://www.cs.yale.edu/homes/radev/nlpclass/slides2018/215.pptx	Yale	2018
+75	Dragomir Radev	Neural Summarization	754	http://www.cs.yale.edu/homes/radev/nlpclass/slides2018/754.pptx	Yale	2018
+76	Dragomir Radev	Dialogue Systems	444	http://www.cs.yale.edu/homes/radev/nlpclass/slides2018/445.pptx	Yale	2018
+77	Dragomir Radev	Dialogue	444	http://www.cs.yale.edu/homes/radev/nlpclass/slides2018/444.pptx	Yale	2018
+78	Dragomir Radev	Random Walks and Harmonic Functions	623	http://www.cs.yale.edu/homes/radev/nlpclass/slides2018/623.pptx	Yale	2018
+79	Dragomir Radev	Entailment and Paraphrasing	351	http://www.cs.yale.edu/homes/radev/nlpclass/slides2018/351.pptx	Yale	2018
+80	Dragomir Radev	Sentiment Lexicons	382	http://www.cs.yale.edu/homes/radev/nlpclass/slides2018/382.pptx	Yale	2018
+81	Dragomir Radev	NACLO Problems on Parsing	271	http://www.cs.yale.edu/homes/radev/nlpclass/slides2018/271.pptx	Yale	2018
+82	Dragomir Radev	Classification and kNN 1	511	http://www.cs.yale.edu/homes/radev/nlpclass/slides2018/511.pptx	Yale	2018
+83	Dragomir Radev	Toolkits for Information Retrieval	614	http://www.cs.yale.edu/homes/radev/nlpclass/slides2018/614.pptx	Yale	2018
+84	Dragomir Radev	Neural Machine Translation	753	http://www.cs.yale.edu/homes/radev/nlpclass/slides2018/753.pptx	Yale	2018
+85	Dragomir Radev	Penn Treebank	256	http://www.cs.yale.edu/homes/radev/nlpclass/slides2018/246.pptx	Yale	2018
+86	Dragomir Radev	Summarization 3	421	http://www.cs.yale.edu/homes/radev/nlpclass/slides2018/423.pptx	Yale	2018
+87	Dragomir Radev	Thesaurus-based Similarity	316	http://www.cs.yale.edu/homes/radev/nlpclass/slides2018/316.pptx	Yale	2018
+88	Dragomir Radev	Evaluation of Information Retrieval	613	http://www.cs.yale.edu/homes/radev/nlpclass/slides2018/613.pptx	Yale	2018
+89	Dragomir Radev	Alternative Syntactic Formalisms	261	http://www.cs.yale.edu/homes/radev/nlpclass/slides2018/261.pptx	Yale	2018
+90	Dragomir Radev	Logistic Regression 1	512	http://www.cs.yale.edu/homes/radev/nlpclass/slides2018/516.pptx	Yale	2018
+91	Dragomir Radev	Discourse Analysis	441	http://www.cs.yale.edu/homes/radev/nlpclass/slides2018/441.pptx	Yale	2018
+92	Dragomir Radev	Information Extraction and Named Entity Recognition	232	http://www.cs.yale.edu/homes/radev/nlpclass/slides2018/232.pptx	Yale	2018
+93	Dragomir Radev	Miscellaneous Projects	913	http://www.cs.yale.edu/homes/radev/nlpclass/slides2018/921.pptx	Yale	2018
+94	Dragomir Radev	Introduction to Semantics and Logic	112	http://www.cs.yale.edu/homes/radev/nlpclass/slides2018/361.pptx	Yale	2018
+95	Dragomir Radev	Prepositional Phrase Attachment 1	456	http://www.cs.yale.edu/homes/radev/nlpclass/slides2018/282.pptx	Yale	2018
+96	Dragomir Radev	Relation Extraction	233	http://www.cs.yale.edu/homes/radev/nlpclass/slides2018/233.pptx	Yale	2018
+97	Dragomir Radev	Linear Algebra 2	121	http://www.cs.yale.edu/homes/radev/nlpclass/slides2018/122.pptx	Yale	2018
+98	Dragomir Radev	Convolutional Neural Networks	744	http://www.cs.yale.edu/homes/radev/nlpclass/slides2018/744.pptx	Yale	2018
+99	Dragomir Radev	Vector Representations	321	http://www.cs.yale.edu/homes/radev/nlpclass/slides2018/321.pptx	Yale	2018
+100	Dragomir Radev	Knowledge Representation	363	http://www.cs.yale.edu/homes/radev/nlpclass/slides2018/363.pptx	Yale	2018
+101	Dragomir Radev	Parts of Speech	142	http://www.cs.yale.edu/homes/radev/nlpclass/slides2018/142.pptx	Yale	2018
+102	Dragomir Radev	Neural Generation, Dialogue Systems	431	http://www.cs.yale.edu/homes/radev/nlpclass/slides2018/756.pptx	Yale	2018
+103	Dragomir Radev	Statistical Parsing	252	http://www.cs.yale.edu/homes/radev/nlpclass/slides2018/252.pptx	Yale	2018
+104	Dragomir Radev	Neural Parsing	752	http://www.cs.yale.edu/homes/radev/nlpclass/slides2018/752.pptx	Yale	2018
+105	Dragomir Radev	Summarization 2	421	http://www.cs.yale.edu/homes/radev/nlpclass/slides2018/422.pptx	Yale	2018
+106	Dragomir Radev	Introduction to Neural Networks and Deep Learning	112	http://www.cs.yale.edu/homes/radev/nlpclass/slides2018/711.pptx	Yale	2018
+107	Dragomir Radev	Tree Adjoining Grammar	263	http://www.cs.yale.edu/homes/radev/nlpclass/slides2018/263.pptx	Yale	2018
+108	Dragomir Radev	The IBM Models	454	http://www.cs.yale.edu/homes/radev/nlpclass/slides2018/454.pptx	Yale	2018
+109	Dragomir Radev	Recurrent Neural Networks	741	http://www.cs.yale.edu/homes/radev/nlpclass/slides2018/741.pptx	Yale	2018
+110	Dragomir Radev	Learning for Hidden Markov Models	222	http://www.cs.yale.edu/homes/radev/nlpclass/slides2018/222.pptx	Yale	2018
+111	Dragomir Radev	Perceptron	515	http://www.cs.yale.edu/homes/radev/nlpclass/slides2018/515.pptx	Yale	2018
+112	Dragomir Radev	First Order Logic	362	http://www.cs.yale.edu/homes/radev/nlpclass/slides2018/362.pptx	Yale	2018
+113	Dragomir Radev	NN Sequence Parsing	259	http://www.cs.yale.edu/homes/radev/nlpclass/slides2018/281.pptx	Yale	2018
+114	Dragomir Radev	Dependency Syntax	241	http://www.cs.yale.edu/homes/radev/nlpclass/slides2018/255.pptx	Yale	2018
+115	Dragomir Radev	Classification and kNN 2	511	http://www.cs.yale.edu/homes/radev/nlpclass/slides2018/512.pptx	Yale	2018
+116	Dragomir Radev	Evaluation of Dependency Parsing	258	http://www.cs.yale.edu/homes/radev/nlpclass/slides2018/258.pptx	Yale	2018
+117	Dragomir Radev	Earley Parsing	245	http://www.cs.yale.edu/homes/radev/nlpclass/slides2018/245.pptx	Yale	2018
+118	Dragomir Radev	Semantic Parsing	331	http://www.cs.yale.edu/homes/radev/nlpclass/slides2018/365.pptx	Yale	2018
+119	Dragomir Radev	Word Embeddings	721	http://www.cs.yale.edu/homes/radev/nlpclass/slides2018/721.pptx	Yale	2018
+120	Dragomir Radev	Transition-based Dependency Parsing	257	http://www.cs.yale.edu/homes/radev/nlpclass/slides2018/257.pptx	Yale	2018
+121	Dragomir Radev	NLTK	132	http://www.cs.yale.edu/homes/radev/nlpclass/slides2018/132.pptx	Yale	2018
+122	Dragomir Radev	Combinatory Categorial Grammar	264	http://www.cs.yale.edu/homes/radev/nlpclass/slides2018/264.pptx	Yale	2018
+123	Dragomir Radev	Vector Semantics	322	http://www.cs.yale.edu/homes/radev/nlpclass/slides2018/322.pptx	Yale	2018
+124	Dragomir Radev	History of NLP	113	http://www.cs.yale.edu/homes/radev/nlpclass/slides2018/113.pptx	Yale	2018
+125	Dragomir Radev	Introduction to Dependency Parsing	112	http://www.cs.yale.edu/homes/radev/nlpclass/slides2018/256.pptx	Yale	2018
+126	Dragomir Radev	Probabilities 1	123	http://www.cs.yale.edu/homes/radev/nlpclass/slides2018/123.pptx	Yale	2018
+127	Dragomir Radev	Machine Learning Resources	107	http://www.cs.yale.edu/homes/radev/nlpclass/slides2018/134.pptx	Yale	2018
+128	Dragomir Radev	CKY Parsing	244	http://www.cs.yale.edu/homes/radev/nlpclass/slides2018/244.pptx	Yale	2018
+129	Dragomir Radev	Text Similarity Intro	311	http://www.cs.yale.edu/homes/radev/nlpclass/slides2018/311.pptx	Yale	2018
+130	Dragomir Radev	Introduction	112	http://www.cs.yale.edu/homes/radev/nlpclass/slides2018/112.pptx	Yale	2018
+131	Dragomir Radev	Feature Selection	543	http://www.cs.yale.edu/homes/radev/nlpclass/slides2018/543.pptx	Yale	2018
+132	Dragomir Radev	Probabilistic Grammars	251	http://www.cs.yale.edu/homes/radev/nlpclass/slides2018/251.pptx	Yale	2018
+133	Dragomir Radev	Natural Language Generation: Features and Unification	262	http://www.cs.yale.edu/homes/radev/nlpclass/slides2018/433.pptx	Yale	2018
+134	Dragomir Radev	Syntax Basics	241	http://www.cs.yale.edu/homes/radev/nlpclass/slides2018/241.pptx	Yale	2018
+135	Dragomir Radev	Evaluation of Text Classification	511	http://www.cs.yale.edu/homes/radev/nlpclass/slides2018/544.pptx	Yale	2018
+136	Dragomir Radev	Statistical Part of Speech Tagging	231	http://www.cs.yale.edu/homes/radev/nlpclass/slides2018/231.pptx	Yale	2018
+137	George Konidaris	Planning	451	https://www2.cs.duke.edu/courses/spring16/compsci270/slides/270_11.pdf	Duke	2016
+138	George Konidaris	First-Order Logic	362	https://www2.cs.duke.edu/courses/spring16/compsci270/slides/270_6.pdf	Duke	2016
+139	George Konidaris	Machine Learning	107	https://www2.cs.duke.edu/courses/spring16/compsci270/slides/270_14.pdf	Duke	2016
+140	George Konidaris	Uncertainty	841	https://www2.cs.duke.edu/courses/spring16/compsci270/slides/270_7.pdf	Duke	2016
+141	George Konidaris	Unsupervised Learning	112	https://www2.cs.duke.edu/courses/spring16/compsci270/slides/270_16.pdf	Duke	2016
+142	George Konidaris	Introduction to Artificial Intelligence	112	https://www2.cs.duke.edu/courses/spring16/compsci270/slides/270_1.pdf	Duke	2016
+143	George Konidaris	Informed Search	822	https://www2.cs.duke.edu/courses/spring16/compsci270/slides/270_3.pdf	Duke	2016
+144	George Konidaris	Hidden Markov Models	221	https://www2.cs.duke.edu/courses/spring16/compsci270/slides/270_10.pdf	Duke	2016
+145	George Konidaris	GameTheory	825	https://www2.cs.duke.edu/courses/spring16/compsci270/slides/game_theory.pdf	Duke	2016
+146	George Konidaris	Search	612	https://www2.cs.duke.edu/courses/spring16/compsci270/slides/270_2.pdf	Duke	2016
+147	George Konidaris	Philosophical, Social, and Ethical Issues	941	https://www2.cs.duke.edu/courses/spring16/compsci270/slides/270_18.pdf	Duke	2016
+148	George Konidaris	Bayesian Networks II	842	https://www2.cs.duke.edu/courses/spring16/compsci270/slides/270_9.pdf	Duke	2016
+149	George Konidaris	Robot Motion Planning	871	https://www2.cs.duke.edu/courses/spring16/compsci270/slides/270_13.pdf	Duke	2016
+150	George Konidaris	Adversarial Search	824	https://www2.cs.duke.edu/courses/spring16/compsci270/slides/270_4.pdf	Duke	2016
+151	George Konidaris	Computing Game-Theoretic Solutions for Security	825	https://www2.cs.duke.edu/courses/spring16/compsci270/slides/conitzer_guest_lecture.pdf	Duke	2016
+152	George Konidaris	Python	131	https://www2.cs.duke.edu/courses/spring16/compsci270/slides/python-static.pdf	Duke	2016
+153	George Konidaris	Probabilistic Planning	828	https://www2.cs.duke.edu/courses/spring16/compsci270/slides/270_12.pdf	Duke	2016
+154	George Konidaris	Machine Learning	107	https://www2.cs.duke.edu/courses/spring16/compsci270/slides/270_15.pdf	Duke	2016
+155	George Konidaris	Knowledge Representation and Reasoning	363	https://www2.cs.duke.edu/courses/spring16/compsci270/slides/270_5.pdf	Duke	2016
+156	George Konidaris	Bayesian Networks	842	https://www2.cs.duke.edu/courses/spring16/compsci270/slides/270_8.pdf	Duke	2016
+157	George Konidaris	A*: Proof of Optimality	612	https://www2.cs.duke.edu/courses/spring16/compsci270/slides/astar.pdf	Duke	2016
+158	George Konidaris	Reinforcement Learning	857	https://www2.cs.duke.edu/courses/spring16/compsci270/slides/270_17.pdf	Duke	2016
+159	Chuck Dyer	Uncertainty	841	http://pages.cs.wisc.edu/~dyer/cs540/notes/12_uncertainty.pdf	University of Wisconsin-Madison	2018
+160	Chuck Dyer	Introduction	112	http://pages.cs.wisc.edu/~dyer/cs540/notes/01_intro.pdf	University of Wisconsin-Madison	2018
+161	Chuck Dyer	Game Playing	825	http://pages.cs.wisc.edu/~dyer/cs540/notes/06_gamePlaying.pdf	University of Wisconsin-Madison	2018
+162	Chuck Dyer	Bayesian Networks	842	http://pages.cs.wisc.edu/~dyer/cs540/notes/13_bayes-net.pdf	University of Wisconsin-Madison	2018
+163	Chuck Dyer	Supervised Learning Methods k-nearest-neighbors(k-NN) Decisiontrees(Chapter18.3) Neuralnetworks(ANN) Supportvectormachines(SVM)	511	http://pages.cs.wisc.edu/~dyer/cs540/notes/11_learning-decision-trees.pdf	University of Wisconsin-Madison	2018
+164	Chuck Dyer	Supervised Learning Methods k-nearest-neighbors (k-NN)  Decision trees  Support vector machines (SVM)  Neural networks	511	http://pages.cs.wisc.edu/~dyer/cs540/notes/10_svm.pdf	University of Wisconsin-Madison	2018
+165	Chuck Dyer	Face Detection and Recognition I	862	http://pages.cs.wisc.edu/~dyer/cs540/notes/16.0_face-detection.pdf	University of Wisconsin-Madison	2018
+166	Chuck Dyer	Introduction	112	http://pages.cs.wisc.edu/~dyer/cs540/notes/09_neuralNets.pdf	University of Wisconsin-Madison	2018
+167	Chuck Dyer	Informed Search	822	http://pages.cs.wisc.edu/~dyer/cs540/notes/04_informedSearch.pdf	University of Wisconsin-Madison	2018
+168	Chuck Dyer	Face Detection and Recognition II	862	http://pages.cs.wisc.edu/~dyer/cs540/notes/16.1_face-recognition.pdf	University of Wisconsin-Madison	2018
+169	Chuck Dyer	Constraint Satisfaction Problems	827	http://pages.cs.wisc.edu/~dyer/cs540/notes/07_csp.pdf	University of Wisconsin-Madison	2018
+170	Chuck Dyer	Speech Recognition	924	http://pages.cs.wisc.edu/~dyer/cs540/notes/14_speech.pdf	University of Wisconsin-Madison	2018
+171	Chuck Dyer	Machine Learning: Introduction and Unsupervised Learning	107	http://pages.cs.wisc.edu/~dyer/cs540/notes/08_learning-intro.pdf	University of Wisconsin-Madison	2018
+172	Chuck Dyer	Genetic Algorithms	826	http://pages.cs.wisc.edu/~dyer/cs540/notes/05_geneticAlgorithms.pdf	University of Wisconsin-Madison	2018
+173	Chuck Dyer	Uninformed Search	822	http://pages.cs.wisc.edu/~dyer/cs540/notes/03_uninformedSearch.pdf	University of Wisconsin-Madison	2018
+174	David McAllester	Invariant Theory	107	http://ttic.uchicago.edu/~dmcallester/DeepClass18/03CNNs/CNNb.pdf	Chicago	2017
+175	David McAllester	Deep Graphical Models III	842	http://ttic.uchicago.edu/~dmcallester/DeepClass18/09GraphicalModels/DGMs3.pdf	Chicago	2017
+176	David McAllester	Variational Autoencoders	112	http://ttic.uchicago.edu/~dmcallester/DeepClass18/11AutoEncoders/Variational.pdf	Chicago	2017
+177	David McAllester	Deep Graphical Models II	112	http://ttic.uchicago.edu/~dmcallester/DeepClass18/09GraphicalModels/DGMs2.pdf	Chicago	2017
+178	David McAllester	Gradients as Dual Vectors	112	http://ttic.uchicago.edu/~dmcallester/DeepClass18/13SGD2/loose.pdf	Chicago	2017
+179	David McAllester	Gated RNNs	741	http://ttic.uchicago.edu/~dmcallester/DeepClass18/04Highway/highway.pdf	Chicago	2017
+180	David McAllester	Introduction and Historical Notes	112	http://ttic.uchicago.edu/~dmcallester/DeepClass18/01intro/intro.pdf	Chicago	2017
+181	David McAllester	Language Modeling	211	http://ttic.uchicago.edu/~dmcallester/DeepClass18/05RNNs/RNN.pdf	Chicago	2017
+182	David McAllester	Information Theory	611	http://ttic.uchicago.edu/~dmcallester/DeepClass18/08InfoTheory/information.pdf	Chicago	2017
+183	David McAllester	Rate-Distortion Autoencoders	112	http://ttic.uchicago.edu/~dmcallester/DeepClass18/11AutoEncoders/Rate.pdf	Chicago	2017
+184	David McAllester	Multiclass Logistic Regression	512	http://ttic.uchicago.edu/~dmcallester/DeepClass18/02MLP/MLPa.pdf	Chicago	2017
+185	David McAllester	Stochastic Gradient Descent	127	http://ttic.uchicago.edu/~dmcallester/DeepClass18/06SGD/SGD.pdf	Chicago	2017
+186	David McAllester	AlphaZero	825	http://ttic.uchicago.edu/~dmcallester/DeepClass18/16alpha/alphago.pdf	Chicago	2017
+187	David McAllester	Computation Graphs and Backpropagation	112	http://ttic.uchicago.edu/~dmcallester/DeepClass18/02MLP/MLPb.pdf	Chicago	2017
+188	David McAllester	Convolutional Neural Networks â€” CNNs	744	http://ttic.uchicago.edu/~dmcallester/DeepClass18/03CNNs/CNNs.pdf	Chicago	2017
+189	David McAllester	In Search of AGI	112	http://ttic.uchicago.edu/~dmcallester/DeepClass18/18AGI/arch.pdf	Chicago	2017
+190	David McAllester	Deep Reinforcement Learning	731	http://ttic.uchicago.edu/~dmcallester/DeepClass18/15RL/RL.pdf	Chicago	2017
+191	David McAllester	Regularization	857	http://ttic.uchicago.edu/~dmcallester/DeepClass18/07regularization/regularization.pdf	Chicago	2017
+192	David McAllester	Deep Graphical Models I	112	http://ttic.uchicago.edu/~dmcallester/DeepClass18/09GraphicalModels/DGMs.pdf	Chicago	2017
+193	David McAllester	Generative Adversarial Networks (GANs)	999	http://ttic.uchicago.edu/~dmcallester/DeepClass18/14GANs/Gans.pdf	Chicago	2017
+194	Efstratios Gavves	Introduction to Deep Learning	112	https://uvadlc.github.io/lectures/apr2019/lecture1-intro.pdf	University of Amsterdam	2019
+195	Efstratios Gavves	Modular Learning	112	https://uvadlc.github.io/lectures/apr2019/lecture2-modularity.pdf	University of Amsterdam	2019
+196	Efstratios Gavves	Deep Learning Optimizations	127	https://uvadlc.github.io/lectures/apr2019/lecture3-optimization.pdf	University of Amsterdam	2019
+197	Efstratios Gavves	Convolutional Neural Networks	744	https://uvadlc.github.io/lectures/apr2019/lecture4-convnets.pdf	University of Amsterdam	2019
+198	Efstratios Gavves	Modern Convnets	744	https://uvadlc.github.io/lectures/apr2019/lecture5-modern_convnets.pdf	University of Amsterdam	2019
+199	Efstratios Gavves	Recurrent & Graph NNs	741	https://uvadlc.github.io/lectures/apr2019/lecture6-rnns.pdf	University of Amsterdam	2019
+200	Efstratios Gavves	Generative Adversarial Networks	999	https://uvadlc.github.io/lectures/apr2019/lecture7-gan.pdf	University of Amsterdam	2019
+201	Furong Huang	Introduction to Machine Learning	107	http://www.cs.umd.edu/class/spring2018/cmsc422-0101/slides0201/lecture_20.pdf	UMD	2018
+202	Furong Huang	Review and Practice Problems	107	http://www.cs.umd.edu/class/spring2018/cmsc422-0101/slides0201/lecture_11.pdf	UMD	2018
+203	Furong Huang	Geometry and Nearest Neighbors	511	http://www.cs.umd.edu/class/spring2018/cmsc422-0101/slides0201/lecture_04.pdf	UMD	2018
+204	Furong Huang	(Sub)gradient Descent	127	http://www.cs.umd.edu/class/spring2018/cmsc422-0101/slides0201/lecture_14.pdf	UMD	2018
+205	Furong Huang	The Perceptron	515	http://www.cs.umd.edu/class/spring2018/cmsc422-0101/slides0201/lecture_06.pdf	UMD	2018
+206	Furong Huang	Neural Networks II	112	http://www.cs.umd.edu/class/spring2018/cmsc422-0101/slides0201/lecture_19.pdf	UMD	2018
+207	Furong Huang	Introduction to Machine Learning	107	http://www.cs.umd.edu/class/spring2018/cmsc422-0101/slides0201/lecture_01.pdf	UMD	2018
+208	Furong Huang	Unsupervised Learning Principal Component Analysis	341	http://www.cs.umd.edu/class/spring2018/cmsc422-0101/slides0201/lecture_17.pdf	UMD	2018
+209	Furong Huang	Decision Trees & Limits of Learning	107	http://www.cs.umd.edu/class/spring2018/cmsc422-0101/slides0201/lecture_03.pdf	UMD	2018
+210	Furong Huang	A Probabilistic View of Machine Learning I	107	http://www.cs.umd.edu/class/spring2018/cmsc422-0101/slides0201/lecture_15.pdf	UMD	2018
+211	Furong Huang	Practical Issues: Features, Evaluation, Debugging	107	http://www.cs.umd.edu/class/spring2018/cmsc422-0101/slides0201/lecture_08.pdf	UMD	2018
+212	Furong Huang	Imbalanced Data and Reductions	107	http://www.cs.umd.edu/class/spring2018/cmsc422-0101/slides0201/lecture_09.pdf	UMD	2018
+213	Furong Huang	K-Means Clustering (Unsupervised Learning)	521	http://www.cs.umd.edu/class/spring2018/cmsc422-0101/slides0201/lecture_05.pdf	UMD	2018
+214	Furong Huang	Bias and Fairness	107	http://www.cs.umd.edu/class/spring2018/cmsc422-0101/slides0201/lecture_12.pdf	UMD	2018
+215	Furong Huang	Decision Trees	107	http://www.cs.umd.edu/class/spring2018/cmsc422-0101/slides0201/lecture_02.pdf	UMD	2018
+216	Furong Huang	A Probabilistic View of Machine Learning II	107	http://www.cs.umd.edu/class/spring2018/cmsc422-0101/slides0201/lecture_16.pdf	UMD	2018
+217	Furong Huang	Neural Networks I	112	http://www.cs.umd.edu/class/spring2018/cmsc422-0101/slides0201/lecture_18.pdf	UMD	2018
+218	Furong Huang	The Perceptron	515	http://www.cs.umd.edu/class/spring2018/cmsc422-0101/slides0201/lecture_07.pdf	UMD	2018
+219	Furong Huang	Deep Learning II	112	http://www.cs.umd.edu/class/spring2018/cmsc422-0101/slides0201/lecture_21.pdf	UMD	2018
+220	Furong Huang	Multiclass Classification and Reductions	511	http://www.cs.umd.edu/class/spring2018/cmsc422-0101/slides0201/lecture_10.pdf	UMD	2018
+221	Furong Huang	Binary Classification with Linear Models	511	http://www.cs.umd.edu/class/spring2018/cmsc422-0101/slides0201/lecture_13.pdf	UMD	2018
+222	John Paisley	Principal components analysis	341	http://www.columbia.edu/~jwp2128/Teaching/W4721/Spring2017/slides/lecture_4-6-17.pdf	Columbia	2017
+223	John Paisley	Unsupervised Learning	112	http://www.columbia.edu/~jwp2128/Teaching/W4721/Spring2017/slides/lecture_3-21-17.pdf	Columbia	2017
+224	John Paisley	Maximum Margin Classifiers	999	http://www.columbia.edu/~jwp2128/Teaching/W4721/Spring2017/slides/lecture_2-23-17.pdf	Columbia	2017
+225	John Paisley	Bias-Variance Tradeoff	125	http://www.columbia.edu/~jwp2128/Teaching/W4721/Spring2017/slides/lecture_1-26-17.pdf	Columbia	2017
+226	John Paisley	Decision Trees	107	http://www.columbia.edu/~jwp2128/Teaching/W4721/Spring2017/slides/lecture_2-28-17.pdf	Columbia	2017
+227	John Paisley	Logistic Regression	123	http://www.columbia.edu/~jwp2128/Teaching/W4721/Spring2017/slides/lecture_2-16-17.pdf	Columbia	2017
+228	John Paisley	Machine Learning for Data Science	107	http://www.columbia.edu/~jwp2128/Teaching/W4721/Spring2017/slides/lecture_1-17-17.pdf	Columbia	2017
+229	John Paisley	Boosting	115	http://www.columbia.edu/~jwp2128/Teaching/W4721/Spring2017/slides/lecture_3-2-17.pdf	Columbia	2017
+230	John Paisley	Feature Expansions	543	http://www.columbia.edu/~jwp2128/Teaching/W4721/Spring2017/slides/lecture_2-21-17.pdf	Columbia	2017
+231	John Paisley	Linear Classification	511	http://www.columbia.edu/~jwp2128/Teaching/W4721/Spring2017/slides/lecture_2-14-17.pdf	Columbia	2017
+232	John Paisley	Hidden Markov Models	221	http://www.columbia.edu/~jwp2128/Teaching/W4721/Spring2017/slides/lecture_4-13-17.pdf	Columbia	2017
+233	John Paisley	Least Squares Continued	512	http://www.columbia.edu/~jwp2128/Teaching/W4721/Spring2017/slides/lecture_1-24-17.pdf	Columbia	2017
+234	John Paisley	Model Selection	107	http://www.columbia.edu/~jwp2128/Teaching/W4721/Spring2017/slides/lecture_4-25-17.pdf	Columbia	2017
+235	John Paisley	Bayesian Linear Regression	123	http://www.columbia.edu/~jwp2128/Teaching/W4721/Spring2017/slides/lecture_1-31-17.pdf	Columbia	2017
+236	John Paisley	Markov Chains	221	http://www.columbia.edu/~jwp2128/Teaching/W4721/Spring2017/slides/lecture_4-11-17.pdf	Columbia	2017
+237	John Paisley	Markov Models	221	http://www.columbia.edu/~jwp2128/Teaching/W4721/Spring2017/slides/lecture_4-18-17.pdf	Columbia	2017
+238	John Paisley	Linear Regression	512	http://www.columbia.edu/~jwp2128/Teaching/W4721/Spring2017/slides/lecture_1-19-17.pdf	Columbia	2017
+239	John Paisley	Minimum L2 Regression	512	http://www.columbia.edu/~jwp2128/Teaching/W4721/Spring2017/slides/lecture_2-2-17.pdf	Columbia	2017
+240	John Paisley	Soft Clustering vs Hard Clustering	521	http://www.columbia.edu/~jwp2128/Teaching/W4721/Spring2017/slides/lecture_3-28-17.pdf	Columbia	2017
+241	John Paisley	Association Analysis	134	http://www.columbia.edu/~jwp2128/Teaching/W4721/Spring2017/slides/lecture_4-20-17.pdf	Columbia	2017
+242	John Paisley	Topic Modeling	632	http://www.columbia.edu/~jwp2128/Teaching/W4721/Spring2017/slides/lecture_4-4-17.pdf	Columbia	2017
+243	John Paisley	Maximum Likelihood	102	http://www.columbia.edu/~jwp2128/Teaching/W4721/Spring2017/slides/lecture_3-23-17.pdf	Columbia	2017
+244	John Paisley	Collaborative Filtering	107	http://www.columbia.edu/~jwp2128/Teaching/W4721/Spring2017/slides/lecture_3-30-17.pdf	Columbia	2017
+245	John Paisley	Classification	511	http://www.columbia.edu/~jwp2128/Teaching/W4721/Spring2017/slides/lecture_2-7-17.pdf	Columbia	2017
+246	Ethem AlpaydÄ±n	Introduction	107	https://www.cmpe.boun.edu.tr/~ethem/i2ml3e/3e_v1-0/i2ml3e-chap1.pdf	Boğaziçi University	2014
+247	Ethem AlpaydÄ±n	Non-parametric Methods	134	https://www.cmpe.boun.edu.tr/~ethem/i2ml3e/3e_v1-0/i2ml3e-chap8.pdf	Boğaziçi University	2014
+248	Ethem AlpaydÄ±n	Dimensionality Reduction	112	https://www.cmpe.boun.edu.tr/~ethem/i2ml3e/3e_v1-0/i2ml3e-chap6.pdf	Boğaziçi University	2014
+249	Ethem AlpaydÄ±n	Clustering	521	https://www.cmpe.boun.edu.tr/~ethem/i2ml3e/3e_v1-0/i2ml3e-chap7.pdf	Boğaziçi University	2014
+250	Ethem AlpaydÄ±n	Supervised Learning	511	https://www.cmpe.boun.edu.tr/~ethem/i2ml3e/3e_v1-0/i2ml3e-chap2.pdf	Boğaziçi University	2014
+251	Ethem AlpaydÄ±n	Kernel Methods	112	https://www.cmpe.boun.edu.tr/~ethem/i2ml3e/3e_v1-0/i2ml3e-chap13.pdf	Boğaziçi University	2014
+252	Ethem AlpaydÄ±n	Bayesian Decision Theory	842	https://www.cmpe.boun.edu.tr/~ethem/i2ml3e/3e_v1-0/i2ml3e-chap3.pdf	Boğaziçi University	2014
+253	Ethem AlpaydÄ±n	Multivariate Methods	134	https://www.cmpe.boun.edu.tr/~ethem/i2ml3e/3e_v1-0/i2ml3e-chap5.pdf	Boğaziçi University	2014
+254	Ethem AlpaydÄ±n	Decision Trees	107	https://www.cmpe.boun.edu.tr/~ethem/i2ml3e/3e_v1-0/i2ml3e-chap9.pdf	Boğaziçi University	2014
+255	Ethem AlpaydÄ±n	Linear Discrimination	514	https://www.cmpe.boun.edu.tr/~ethem/i2ml3e/3e_v1-0/i2ml3e-chap10.pdf	Boğaziçi University	2014
+256	Ethem AlpaydÄ±n	Parametric Models	134	https://www.cmpe.boun.edu.tr/~ethem/i2ml3e/3e_v1-0/i2ml3e-chap4.pdf	Boğaziçi University	2014
+257	Ethem AlpaydÄ±n	Hidden Markov Models	221	https://www.cmpe.boun.edu.tr/~ethem/i2ml3e/3e_v1-0/i2ml3e-chap15.pdf	Boğaziçi University	2014
+258	Ethem AlpaydÄ±n	Multi-layer perceptrons	515	https://www.cmpe.boun.edu.tr/~ethem/i2ml3e/3e_v1-0/i2ml3e-chap11.pdf	Boğaziçi University	2014
+259	Ethem AlpaydÄ±n	Graphical Models	172	https://www.cmpe.boun.edu.tr/~ethem/i2ml3e/3e_v1-0/i2ml3e-chap14.pdf	Boğaziçi University	2014
+260	Ethem AlpaydÄ±n	Combining Multiple Learners	107	https://www.cmpe.boun.edu.tr/~ethem/i2ml3e/3e_v1-0/i2ml3e-chap17.pdf	Boğaziçi University	2014
+261	Ethem AlpaydÄ±n	Bayesian Estimation	107	https://www.cmpe.boun.edu.tr/~ethem/i2ml3e/3e_v1-0/i2ml3e-chap16.pdf	Boğaziçi University	2014
+262	Ethem AlpaydÄ±n	Local Models	107	https://www.cmpe.boun.edu.tr/~ethem/i2ml3e/3e_v1-0/i2ml3e-chap12.pdf	Boğaziçi University	2014
+263	Ethem AlpaydÄ±n	Reinforcement Learning	857	https://www.cmpe.boun.edu.tr/~ethem/i2ml3e/3e_v1-0/i2ml3e-chap18.pdf	Boğaziçi University	2014
+264	Ethem AlpaydÄ±n	Design and Analysis of Machine Learning Experiments	107	https://www.cmpe.boun.edu.tr/~ethem/i2ml3e/3e_v1-0/i2ml3e-chap19.pdf	Boğaziçi University	2014
+265	Nicholas Zabaras	Sequential Monte Carlo (Continued) and Conditional Linear Gaussian Models	184	https://www.dropbox.com/s/z5c5vlfut4mw8ia/Lec21-ConditionalLinearGaussianModels.pdf?dl=0	Notre  Dame	2017
+266	Nicholas Zabaras	Importance Sampling Prof. Nicholas Zabaras	184	https://www.dropbox.com/s/jv0r65uxy1gty9v/Lec15-ImportanceSampling.pdf?dl=0	Notre  Dame	2017
+267	Nicholas Zabaras	Robbins-Monro for Sequential MLE, Curse of Dimensionality, Conditional and Marginal Gaussian Distributions	184	https://www.dropbox.com/s/j54clc30s2nthm5/Lec4-RobbinsMonro-CurseOfDimensionality-ConditionalGaussians.pdf?dl=0	Notre  Dame	2017
+268	Nicholas Zabaras	Implementation of Bayesian Regression and Variable Selection	184	https://www.dropbox.com/s/pk2caw144nvzjcd/Lec12-CaterpillarRegressionExample.pdf?dl=0	Notre  Dame	2017
+269	Nicholas Zabaras	Exponential Family and Generalized Linear Models	184	https://www.dropbox.com/s/q31dbbt01wqa071/Lec7-ExponentialFamilyGLMBayesianInf4MultivariateGaussian.pdf?dl=0	Notre  Dame	2017
+270	Nicholas Zabaras	Introduction to Probability and Statistics	102	https://www.dropbox.com/s/f10vs0qrkh7428a/Lec2-IntroToProbabilityAndStatistics.pdf?dl=0	Notre  Dame	2017
+271	Nicholas Zabaras	Prior and Hierarchical Modeling	184	https://www.dropbox.com/s/y6m9f11sshugfnw/Lec8-PriorHierarchicalModels.pdf?dl=0	Notre  Dame	2017
+272	Nicholas Zabaras	Introduction to Bayesian Linear Regression, Model Comparison and Selection	512	https://www.dropbox.com/s/ecp5tkeefd7h47h/Lec9-Intro2RegressionOccamsRazor.pdf?dl=0	Notre  Dame	2017
+273	Nicholas Zabaras	Kernel Methods and Introduction to Gaussian Processes	512	https://www.dropbox.com/s/2yonhmzn57lvv1d/Lec27-KernelMethods.pdf?dl=0	Notre  Dame	2017
+274	Nicholas Zabaras	Gaussian Processes for Classification Problems, Course Summary	112	https://www.dropbox.com/s/54pudgwif0zo8mt/Lec28-Summary.pdf?dl=0	Notre  Dame	2017
+275	Nicholas Zabaras	Statistical Computing for Scientists and Engineers	184	https://www.dropbox.com/s/121sglcweantr2d/Lec1-IntroToProbabilityAndStatistics.pdf?dl=0	Notre  Dame	2017
+276	Nicholas Zabaras	Variable Dimension Models: Reversible Jump MCMC	184	https://www.dropbox.com/s/i7d28g05ikfpt79/Lec22-ReversibleJumpMCMC.pdf?dl=0	Notre  Dame	2017
+277	Nicholas Zabaras	Continuous Latent Variable Models: Probabilistic and Bayesian PCA,Kernel PCA	184	https://www.dropbox.com/s/xhe95z6yoic8207/Lec26-ContinuousLatentVariableModels.pdf?dl=0	Notre  Dame	2017
+278	Nicholas Zabaras	Sequential Monte Carlo (Continued) and Conditional Linear Gaussian Models	184	https://www.dropbox.com/s/z5c5vlfut4mw8ia/Lec21-ConditionalLinearGaussianModels.pdf?dl=0	Notre  Dame	2017
+279	Nicholas Zabaras	Introduction to Bayesian Statistics, Exponential Family of Distributions	184	https://www.dropbox.com/s/ggwvlumy240o6fk/Lec6-Intro2BayesianStatisticsAndTheExponentialFamily.pdf?dl=0	Notre  Dame	2017
+280	Nicholas Zabaras	Gibbs Sampling	184	https://www.dropbox.com/s/g2s1g9u9vj6779o/Lec16-GibbsSampling.pdf?dl=0	Notre  Dame	2017
+281	Nicholas Zabaras	Reverse Sampling, Transformation Methods, Composition Methods, Accept-Reject Methods, Stratified/Systematic Sampling	184	https://www.dropbox.com/s/b18tdp81l9mx45z/Lec14-RandomVariableGeneration.pdf?dl=0	Notre  Dame	2017
+282	Nicholas Zabaras	Information Theory, Multivariate Gaussian, MLE Estimation, Robbins-Monro algorithm	184	https://www.dropbox.com/s/q23vr7ok2nkc2gg/Lec3-InfoTheory-CLTApplications-MLE.pdf?dl=0	Notre  Dame	2017
+283	Nicholas Zabaras	Introduction to State Space Models and Sequential Importance Sampling	184	https://www.dropbox.com/s/pb555x6z5i8kxd8/Lec18-Intro2StateSpaceModelsAndSequentialImportanceSampling.pdf?dl=0	Notre  Dame	2017
+284	Nicholas Zabaras	Introduction to Monte Carlo Methods, Sampling from Discrete and Continuum Distributions	184	https://www.dropbox.com/s/a8wyucgomltz8sa/Lec13-MonteCarloMethods.pdf?dl=0	Notre  Dame	2017
+285	Nicholas Zabaras	Markov Chain Monte Carlo and Metropolis-Hasting Algorithm	184	https://www.dropbox.com/s/ek4n2cxtr8pfv7x/Lec17-MetropolisHastings.pdf?dl=0	Notre  Dame	2017
+286	Nicholas Zabaras	Principal Component Analysis	112	https://www.dropbox.com/s/xf20q0jagldxvnj/Lec25-Intro2PCA.pdf?dl=0	Notre  Dame	2017
+287	Nicholas Zabaras	Sequential Importance Sampling with Resampling	102	https://www.dropbox.com/s/vl10u6yrj7yenny/Lec19-SequentialImportanceSamplingResampling.pdf?dl=0	Notre  Dame	2017
+288	Nicholas Zabaras	Bayesian Linear Regression (continued)	512	https://www.dropbox.com/s/d6zruv69fmu5wmi/Lec11-RegressionModelsB.pdf?dl=0	Notre  Dame	2017
+289	Nicholas Zabaras	Bayesian Regression	512	https://www.dropbox.com/s/zt6w0wwmg866xtx/Lec10-RegressionModelsA.pdf?dl=0	Notre  Dame	2017
+290	Nicholas Zabaras	Introduction to Expectation-Maximization (EM)	453	https://www.dropbox.com/s/2xoalhj26sh4da2/Lec23-IntroductiontoExpectationMaximization.pdf?dl=0	Notre  Dame	2017
+291	Nicholas Zabaras	Likelihood calculations, MAP estimate and Regularized Least Squares, Linear Gaussian Models	102	https://www.dropbox.com/s/5wethziitk5wzmk/Lec5-Likelihood-MAP-GaussianLinearSystems.pdf?dl=0	Notre  Dame	2017
+292	David Sontag	Decision trees	123	http://people.csail.mit.edu/dsontag/courses/ml16/slides/lecture11.pdf	New York University	2016
+293	David Sontag	Unsupervised learning (part1)	581	http://people.csail.mit.edu/dsontag/courses/ml16/slides/lecture19.pdf	New York University	2016
+294	David Sontag	Gradient, Subgradient and how they may affect your grade(ient)	127	http://people.csail.mit.edu/dsontag/courses/ml16/slides/notes_convexity16.pdf	New York University	2016
+295	David Sontag	Hierarchical & Spectral clustering	521	http://people.csail.mit.edu/dsontag/courses/ml16/slides/lecture13.pdf	New York University	2016
+296	David Sontag	Introduction to Bayesian methods continued 2	842	http://people.csail.mit.edu/dsontag/courses/ml16/slides/lecture17.pdf	New York University	2016
+297	David Sontag	Learning theory and Decision trees	107	http://people.csail.mit.edu/dsontag/courses/ml16/slides/lecture10.pdf	New York University	2016
+298	David Sontag	Introduction To Machine Learning	107	http://people.csail.mit.edu/dsontag/courses/ml16/slides/lecture21.pdf	New York University	2016
+299	David Sontag	Clustering	521	http://people.csail.mit.edu/dsontag/courses/ml16/slides/lecture12.pdf	New York University	2016
+300	David Sontag	Introduction to Bayesian methods	842	http://people.csail.mit.edu/dsontag/courses/ml16/slides/lecture14.pdf	New York University	2016
+301	David Sontag	Introduction to Bayesian methods continued 1	842	http://people.csail.mit.edu/dsontag/courses/ml16/slides/lecture16.pdf	New York University	2016
+302	David Sontag	Introduction to Learning	107	http://people.csail.mit.edu/dsontag/courses/ml16/slides/lecture2.pdf	New York University	2016
+303	David Sontag	Learning theory	107	http://people.csail.mit.edu/dsontag/courses/ml16/slides/lecture9.pdf	New York University	2016
+304	David Sontag	Support vector machines (SVMs) Lecture 3	521	http://people.csail.mit.edu/dsontag/courses/ml16/slides/lecture3.pdf	New York University	2016
+305	David Sontag	Bayesian networks	842	http://people.csail.mit.edu/dsontag/courses/ml16/slides/lecture18.pdf	New York University	2016
+306	David Sontag	Support vector machines (SVMs)	521	http://people.csail.mit.edu/dsontag/courses/ml16/slides/lecture5.pdf	New York University	2016
+307	David Sontag	Introduction To Machine Learning	107	http://people.csail.mit.edu/dsontag/courses/ml16/slides/lecture22.pdf	New York University	2016
+308	David Sontag	L1 regularization & Intro to learning theory	107	http://people.csail.mit.edu/dsontag/courses/ml16/slides/lecture8.pdf	New York University	2016
+309	David Sontag	Neural networks	112	http://people.csail.mit.edu/dsontag/courses/ml16/slides/lecture24.pdf	New York University	2016
+310	David Sontag	Support vector machines (SVMs)	112	http://people.csail.mit.edu/dsontag/courses/ml16/slides/lecture6.pdf	New York University	2016
+311	David Sontag	Introduction to Machine Learning	107	http://people.csail.mit.edu/dsontag/courses/ml16/slides/lecture1.pdf	New York University	2016
+312	David Sontag	A History of AI	811	http://people.csail.mit.edu/dsontag/courses/ml16/slides/lecture20.pdf	New York University	2016
+313	David Sontag	Machine Learning	107	http://people.csail.mit.edu/dsontag/courses/ml16/slides/lecture6_notes.pdf	New York University	2016
+314	David Sontag	Dimensionality Reduction	341	http://people.csail.mit.edu/dsontag/courses/ml16/slides/lecture23.pdf	New York University	2016
+315	David Sontag	Support vector machines (SVMs)	521	http://people.csail.mit.edu/dsontag/courses/ml16/slides/lecture4.pdf	New York University	2016
+316	Roger Grosse	Introduction	107	http://www.cs.toronto.edu/~rgrosse/courses/csc421_2019/slides/lec01.pdf	University of Toronto	2019
+317	Roger Grosse	Linear Models	112	http://www.cs.toronto.edu/~rgrosse/courses/csc421_2019/slides/lec02.pdf	University of Toronto	2019
+318	Roger Grosse	Multilayer Perceptrons	515	http://www.cs.toronto.edu/~rgrosse/courses/csc421_2019/slides/lec03.pdf	University of Toronto	2019
+319	Roger Grosse	Backpropagation	112	http://www.cs.toronto.edu/~rgrosse/courses/csc421_2019/slides/lec04.pdf	University of Toronto	2019
+320	Roger Grosse	Distributed Representations	721	http://www.cs.toronto.edu/~rgrosse/courses/csc421_2019/slides/lec05.pdf	University of Toronto	2019
+321	Roger Grosse	Automatic Differentiation	127	http://www.cs.toronto.edu/~rgrosse/courses/csc421_2019/slides/lec06.pdf	University of Toronto	2019
+322	Roger Grosse	Optimization	127	http://www.cs.toronto.edu/~rgrosse/courses/csc421_2019/slides/lec07.pdf	University of Toronto	2019
+323	Roger Grosse	Convolutional Networks	744	http://www.cs.toronto.edu/~rgrosse/courses/csc421_2019/slides/lec09.pdf	University of Toronto	2019
+324	Roger Grosse	Image Classification	712	http://www.cs.toronto.edu/~rgrosse/courses/csc421_2019/slides/lec10.pdf	University of Toronto	2019
+325	Roger Grosse	Optimizing the Input	712	http://www.cs.toronto.edu/~rgrosse/courses/csc421_2019/slides/lec11.pdf	University of Toronto	2019
+326	Roger Grosse	Generalization	999	http://www.cs.toronto.edu/~rgrosse/courses/csc421_2019/slides/lec12.pdf	University of Toronto	2019
+327	Roger Grosse	Recurrent Neural Nets	741	http://www.cs.toronto.edu/~rgrosse/courses/csc421_2019/slides/lec13.pdf	University of Toronto	2019
+328	Roger Grosse	Exploding and Vanishing Gradients	712	http://www.cs.toronto.edu/~rgrosse/courses/csc421_2019/slides/lec14.pdf	University of Toronto	2019
+329	Roger Grosse	Autoregressive and Reversible Models	999	http://www.cs.toronto.edu/~rgrosse/courses/csc421_2019/slides/lec15.pdf	University of Toronto	2019
+330	Roger Grosse	Attention	745	http://www.cs.toronto.edu/~rgrosse/courses/csc421_2019/slides/lec16.pdf	University of Toronto	2019
+331	Roger Grosse	Variational Autoencoders	712	http://www.cs.toronto.edu/~rgrosse/courses/csc421_2019/slides/lec17.pdf	University of Toronto	2019
+332	Roger Grosse	GANs	107	http://www.cs.toronto.edu/~rgrosse/courses/csc421_2019/slides/lec18.pdf	University of Toronto	2019
+333	Roger Grosse	Bayesian Neural Nets	842	http://www.cs.toronto.edu/~rgrosse/courses/csc421_2019/slides/lec19.pdf	University of Toronto	2019
+334	Roger Grosse	Policy Gradient	857	http://www.cs.toronto.edu/~rgrosse/courses/csc421_2019/slides/lec20.pdf	University of Toronto	2019
+335	Roger Grosse	Q-Learning	857	http://www.cs.toronto.edu/~rgrosse/courses/csc421_2019/slides/lec21.pdf	University of Toronto	2019
+336	Roger Grosse	Go	213	http://www.cs.toronto.edu/~rgrosse/courses/csc421_2019/slides/lec22.pdf	University of Toronto	2019
+337	Matt Gormley	Optimization for ML	127	http://www.cs.cmu.edu/~mgormley/courses/10601-s17/slides/lecture7-opt.pdf	Carnegie Mellon University	2016
+338	Matt Gormley	Support vector machines (SVMs)	521	http://www.cs.cmu.edu/~mgormley/courses/10601-s17/slides/lecture12-svm.pdf	Carnegie Mellon University	2016
+339	Matt Gormley	Backpropagation	112	http://www.cs.cmu.edu/~mgormley/courses/10601-s17/slides/lecture20-backprop.pdf	Carnegie Mellon University	2016
+340	Matt Gormley	Learning Theory	107	http://www.cs.cmu.edu/~mgormley/courses/10601-s17/slides/lecture13-theory.pdf	Carnegie Mellon University	2016
+341	Matt Gormley	Gaussian Naive Bayes	514	http://www.cs.cmu.edu/~mgormley/courses/10601-s17/slides/lecture6-gnb.pdf	Carnegie Mellon University	2016
+342	Matt Gormley	The Probabilistic Approach to Learning from Data	123	http://www.cs.cmu.edu/~mgormley/courses/10601-s17/slides/lecture4-prob.pdf	Carnegie Mellon University	2016
+343	Matt Gormley	Machine Learning in Practice + k-Nearest Neighbors	521	http://www.cs.cmu.edu/~mgormley/courses/10601-s17/slides/lecture2-knn.pdf	Carnegie Mellon University	2016
+344	Matt Gormley	Perceptron and Kernels	861	http://www.cs.cmu.edu/~mgormley/courses/10601-s17/slides/lecture11-kernels.pdf	Carnegie Mellon University	2016
+345	Matt Gormley	Overview	111	http://www.cs.cmu.edu/~mgormley/courses/10601-s17/slides/lecture1-overview.pdf	Carnegie Mellon University	2016
+346	Matt Gormley	CNNs	744	http://www.cs.cmu.edu/~mgormley/courses/10601-s17/slides/lecture21-cnn.pdf	Carnegie Mellon University	2016
+347	Matt Gormley	Logistic Regression, Nonlinear Features, Regularization	512	http://www.cs.cmu.edu/~mgormley/courses/10601-s17/slides/lecture9-logreg.pdf	Carnegie Mellon University	2016
+348	Matt Gormley	K-Means and GMMs	521	http://www.cs.cmu.edu/~mgormley/courses/10601-s17/slides/lecture16-gmm.pdf	Carnegie Mellon University	2016
+349	Matt Gormley	Linear Regression	121	http://www.cs.cmu.edu/~mgormley/courses/10601-s17/slides/lecture8-linreg.pdf	Carnegie Mellon University	2016
+350	Matt Gormley	k-Nearest Neighbors	511	http://www.cs.cmu.edu/~mgormley/courses/10601-s17/slides/lecture3-exp.pdf	Carnegie Mellon University	2016
+351	Matt Gormley	Clustering(K-Means)	521	http://www.cs.cmu.edu/~mgormley/courses/10601-s17/slides/lecture15-cluster.pdf	Carnegie Mellon University	2016
+352	Matt Gormley	Midterm	111	http://www.cs.cmu.edu/~mgormley/courses/10601-s17/slides/lecture14-midterm.pdf	Carnegie Mellon University	2016
+353	Matt Gormley	PCA and Neural Networks	112	http://www.cs.cmu.edu/~mgormley/courses/10601-s17/slides/lecture18-pca.pdf	Carnegie Mellon University	2016
+354	Matt Gormley	Bayesian Networks	842	http://www.cs.cmu.edu/~mgormley/courses/10601-s17/slides/lecture22-bayesnet1.pdf	Carnegie Mellon University	2016
+355	Matt Gormley	Neural Networks and Backpropagation	712	http://www.cs.cmu.edu/~mgormley/courses/10601-s17/slides/lecture19-nn.pdf	Carnegie Mellon University	2016
+356	Matt Gormley	EM and PCA	731	http://www.cs.cmu.edu/~mgormley/courses/10601-s17/slides/lecture17-em.pdf	Carnegie Mellon University	2016
+357	Matt Gormley	MLE/MAP and Naïve Bayes	842	http://www.cs.cmu.edu/~mgormley/courses/10601-s17/slides/lecture5-nb.pdf	Carnegie Mellon University	2016
+358	Matt Gormley	Regularization and Perceptron	861	http://www.cs.cmu.edu/~mgormley/courses/10601-s17/slides/lecture10-perc.pdf	Carnegie Mellon University	2016
+359	Tom M. Mitchell	Naive Bayes	511	http://www.cs.cmu.edu/~ninamf/courses/601sp15/slides/03_MLE_MAP_NBayes-1-21-2015_ann.pdf	Carnegie Mellon University	2015
+360	Maria-Florina Balcan	Machine Learning and Differential Privacy	999	http://www.cs.cmu.edu/~ninamf/courses/601sp15/slides/26_privacy_4-22-2015.pdf	Carnegie Mellon University	2015
+361	Maria-Florina Balcan	Support Vector Machines (SVMs)	521	http://www.cs.cmu.edu/~ninamf/courses/601sp15/slides/18_svm-ssl_03-25-2015.pdf	Carnegie Mellon University	2015
+362	Maria-Florina Balcan	Reinforcement Learning	857	http://www.cs.cmu.edu/~ninamf/courses/601sp15/slides/25_rl_4-20-2015.pdf	Carnegie Mellon University	2015
+363	Tom M. Mitchell	Sample Complexity for Function Approximation and Model Selection	999	http://www.cs.cmu.edu/~ninamf/courses/601sp15/slides/10_Theory3_2-16-2015.pdf	Carnegie Mellon University	2015
+364	Tom M. Mitchell	Bayesian Network	842	http://www.cs.cmu.edu/~ninamf/courses/601sp15/slides/12_GrMod1_2-23-2015-ann.pdf	Carnegie Mellon University	2015
+365	Maria-Florina Balcan	PCA, Kernel PCA, ICA Learning Representations. Dimensionality Reduction.	341	http://www.cs.cmu.edu/~ninamf/courses/601sp15/slides/22_pca-04-09-2015.pdf	Carnegie Mellon University	2015
+366	Maria-Florina Balcan	Boosting Approach to ML Perceptron, Margins, Kernels	861	http://www.cs.cmu.edu/~ninamf/courses/601sp15/slides/16_boosting-percepton-margins_03-18-2015.pdf	Carnegie Mellon University	2015
+367	Tom M. Mitchell	Graphical models and Bayes Nets	842	http://www.cs.cmu.edu/~ninamf/courses/601sp15/slides/13_GrMod3_2-25-2015-ann.pdf	Carnegie Mellon University	2015
+368	Tom M. Mitchell	Bayes Rule and Estimating parameters	125	http://www.cs.cmu.edu/~ninamf/courses/601sp15/slides/03_MLE_MAP_NBayes-1-21-2015.pdf	Carnegie Mellon University	2015
+369	Maria-Florina Balcan	The Boosting Approach to Machine Learning	107	http://www.cs.cmu.edu/~ninamf/courses/601sp15/slides/15_boosting_3-16-2015.pdf	Carnegie Mellon University	2015
+370	Tom M. Mitchell	Bias, Variance and Error	107	http://www.cs.cmu.edu/~ninamf/courses/601sp15/slides/11_GrMod1_2-18-2015-ann.pdf	Carnegie Mellon University	2015
+371	Maria-Florina Balcan	Semi-Supervised Learning	112	http://www.cs.cmu.edu/~ninamf/courses/601sp15/slides/19_ssl_03-30-2015.pdf	Carnegie Mellon University	2015
+372	Maria-Florina Balcan	Math Review and Decision Trees	511	http://www.cs.cmu.edu/~ninamf/courses/601sp15/slides/r01_math_decision_trees.pdf	Carnegie Mellon University	2015
+373	Tom M. Mitchell	Graphical models and Bayes Nets	842	http://www.cs.cmu.edu/~ninamf/courses/601sp15/slides/11_GrMod1_2-18-2015.pdf	Carnegie Mellon University	2015
+374	Tom M. Mitchell	Machine Learning Theory II	107	http://www.cs.cmu.edu/~ninamf/courses/601sp15/slides/09_Theory2_2-11-2015.pdf	Carnegie Mellon University	2015
+375	Tom M. Mitchell	Naive Bayes	842	http://www.cs.cmu.edu/~ninamf/courses/601sp15/slides/05_GNB_1-28-2015.pdf	Carnegie Mellon University	2015
+376	Tom M. Mitchell	Overfitting and probability	123	http://www.cs.cmu.edu/~ninamf/courses/601sp15/slides/02_Overfitting_ProbReview-1-14-2015_ann.pdf	Carnegie Mellon University	2015
+377	Maria-Florina Balcan	Never-Ending Language Learning	103	http://www.cs.cmu.edu/~ninamf/courses/601sp15/slides/23_nell_4-13-2015.pdf	Carnegie Mellon University	2015
+378	Tom M. Mitchell	Naive Bayes	511	http://www.cs.cmu.edu/~ninamf/courses/601sp15/slides/04_NBayes-1-26-2015.pptx.pdf	Carnegie Mellon University	2015
+379	Tom M. Mitchell	Overfitting and probability	123	http://www.cs.cmu.edu/~ninamf/courses/601sp15/slides/02_Overfitting_ProbReview-1-14-2015.pdf	Carnegie Mellon University	2015
+380	Maria-Florina Balcan	Clustering. Unsupervised Learning	521	http://www.cs.cmu.edu/~ninamf/courses/601sp15/slides/21_clustering_4-6-2015.pdf	Carnegie Mellon University	2015
+381	Tom M. Mitchell	Logistic regression and Generative/Discriminative classifiers	514	http://www.cs.cmu.edu/~ninamf/courses/601sp15/slides/06_GenDiscr_LR_2-2-2015.pdf	Carnegie Mellon University	2015
+382	Tom M. Mitchell	Bayes Classifiers	842	http://www.cs.cmu.edu/~ninamf/courses/601sp15/slides/04_NBayes-1-26-2015-ann.pdf	Carnegie Mellon University	2015
+383	Tom M. Mitchell	Linear regression	511	http://www.cs.cmu.edu/~ninamf/courses/601sp15/slides/07_GenDiscr2_2-4-2015-ann.pdf	Carnegie Mellon University	2015
+384	Tom M. Mitchell	Graphical models and Bayes Nets	842	http://www.cs.cmu.edu/~ninamf/courses/601sp15/slides/14_GrMod4_3-4-2015-ann.pdf	Carnegie Mellon University	2015
+385	Tom M. Mitchell	Graphical models and Bayes Nets	842	http://www.cs.cmu.edu/~ninamf/courses/601sp15/slides/14_GrMod4_3-4-2015.pdf	Carnegie Mellon University	2015
+386	Tom M. Mitchell	Machine Learning Theory	107	http://www.cs.cmu.edu/~ninamf/courses/601sp15/slides/08_Theory_2-9-2015.pdf	Carnegie Mellon University	2015
+387	Maria-Florina Balcan	Kernels Methods in Machine Learning	515	http://www.cs.cmu.edu/~ninamf/courses/601sp15/slides/17_margins-kernels_03-23-2015.pdf	Carnegie Mellon University	2015
+388	Maria-Florina Balcan	Active Learning	999	http://www.cs.cmu.edu/~ninamf/courses/601sp15/slides/20_al_4-1-2015.pdf	Carnegie Mellon University	2015
+389	Maria-Florina Balcan	Impact of Deep Learning	711	http://www.cs.cmu.edu/~ninamf/courses/601sp15/slides/26_deep_4-22-2015.pdf	Carnegie Mellon University	2015
+390	Tom M. Mitchell	Naive Bayes	842	http://www.cs.cmu.edu/~ninamf/courses/601sp15/slides/05_GNB_1-28-2015-ann.pdf	Carnegie Mellon University	2015
+391	Tom M. Mitchell	Graphical models and Bayes Nets	842	http://www.cs.cmu.edu/~ninamf/courses/601sp15/slides/13_GrMod3_2-25-2015.pdf	Carnegie Mellon University	2015
+392	Maria-Florina Balcan	10-601 Machine Learning Maria-Florina Balcan	515	http://www.cs.cmu.edu/~ninamf/courses/601sp15/slides/perceptron-notes.pdf	Carnegie Mellon University	2015
+393	Tom M. Mitchell	Decision Trees	511	http://www.cs.cmu.edu/~ninamf/courses/601sp15/slides/01_DTreesAndOverfitting-1-12-2015.pdf	Carnegie Mellon University	2015
+394	Tom M. Mitchell	Linear regression	511	http://www.cs.cmu.edu/~ninamf/courses/601sp15/slides/07_GenDiscr2_2-4-2015.pdf	Carnegie Mellon University	2015
+395	Tom M. Mitchell	Logistic regression and Generative/Discriminative classifiers	514	http://www.cs.cmu.edu/~ninamf/courses/601sp15/slides/06_GenDiscr_LR_2-2-2015-ann.pdf	Carnegie Mellon University	2015
+396	Maria-Florina Balcan	Neural Networks, Backpropagation, Recurrent Networks, Convolutional Networks, Deep Belief Networks, Deep Boltzman Machines	112	http://www.cs.cmu.edu/~ninamf/courses/601sp15/slides/24_nn_4-15-2015.pdf	Carnegie Mellon University	2015
+397	Dan Roth	EM Algorithm	731	http://www.seas.upenn.edu/~cis519/spring2018/assets/lectures/lecture-10/10-LecEM.pdf	University of Pennsylvania	2018
+398	Dan Roth	Lecture Introduction	111	http://www.seas.upenn.edu/~cis519/spring2018/assets/lectures/lecture-1/01-LecIntro.pdf	University of Pennsylvania	2018
+399	Dan Roth	Evaluation	451	http://www.seas.upenn.edu/~cis519/spring2018/assets/lectures/lecture-3/03-eval.pdf	University of Pennsylvania	2018
+400	Dan Roth	Lecture Introduction	111	http://www.seas.upenn.edu/~cis519/spring2018/assets/lectures/lecture-0/00-LecIntro.pdf	University of Pennsylvania	2018
+401	Dan Roth	Neural Networks	112	http://www.seas.upenn.edu/~cis519/spring2018/assets/lectures/lecture-8/08-LecNN.pdf	University of Pennsylvania	2018
+402	Dan Roth	Probability and Bayes Theorem	123	http://www.seas.upenn.edu/~cis519/spring2018/assets/lectures/lecture-9/09-LecBayes.pdf	University of Pennsylvania	2018
+403	Dan Roth	Decision Trees	511	http://www.seas.upenn.edu/~cis519/spring2018/assets/lectures/lecture-2/02-LecDT.pdf	University of Pennsylvania	2018
+404	Dan Roth	Perceptron	515	http://www.seas.upenn.edu/~cis519/spring2018/assets/lectures/lecture-4/04-LecOnLine.pdf	University of Pennsylvania	2018
+405	Dan Roth	Support Vector Machines	521	http://www.seas.upenn.edu/~cis519/spring2018/assets/lectures/lecture-6/06-LecSVM.pdf	University of Pennsylvania	2018
+406	Joan Bruna	RNN and Memory	741	https://github.com/joanbruna/stat212b/blob/master/lec13.pdf	GitHub	2016
+407	Joan Bruna	Classification with Scattering	112	https://github.com/joanbruna/stat212b/blob/master/lec6.pdf	GitHub	2016
+408	Joan Bruna	Introduction	111	https://github.com/joanbruna/stat212b/blob/master/lec1.pdf	GitHub	2016
+409	Joan Bruna	Seperable Scattering Operators	511	https://github.com/joanbruna/stat212b/blob/master/lec5.pdf	GitHub	2016
+410	Joan Bruna	CNN and near-diagonalisation	744	https://github.com/joanbruna/stat212b/blob/master/lec7.pdf	GitHub	2016
+411	Joan Bruna	Sequence Structured Prediction	112	https://github.com/joanbruna/stat212b/blob/master/lec14.pdf	GitHub	2016
+412	Joan Bruna	Latent Graphical Models	582	https://github.com/joanbruna/stat212b/blob/master/lec16.pdf	GitHub	2016
+413	Joan Bruna	Embeddings, Extensions to Non-Euclidean Domains, Representations of Stationary Processes	711	https://github.com/joanbruna/stat212b/blob/master/lec10.pdf	GitHub	2016
+414	Joan Bruna	Gibbs models	222	https://github.com/joanbruna/stat212b/blob/master/lec18.pdf	GitHub	2016
+415	Joan Bruna	GAN, MCMC, Self-Supervised Learning	107	https://github.com/joanbruna/stat212b/blob/master/lec17.pdf	GitHub	2016
+416	Joan Bruna	Discrete Neural Turing Machines	107	https://github.com/joanbruna/stat212b/blob/master/lec11_guest_wojciechzaremba.pdf	GitHub	2016
+417	Joan Bruna	Representation of Stationary Process	112	https://github.com/joanbruna/stat212b/blob/master/lec12.pdf	GitHub	2016
+418	Joan Bruna	Transformation Groups	543	https://github.com/joanbruna/stat212b/blob/master/lec3.pdf	GitHub	2016
+419	Joan Bruna	Random Forests	511	https://github.com/joanbruna/stat212b/blob/master/lec9.pdf	GitHub	2016
+420	Joan Bruna	Local invariants and convolution	543	https://github.com/joanbruna/stat212b/blob/master/lec4.pdf	GitHub	2016
+421	Joan Bruna	Auto encoders	144	https://github.com/joanbruna/stat212b/blob/master/lec15.pdf	GitHub	2016
+422	Joan Bruna	Selection Models	456	https://github.com/joanbruna/stat212b/blob/master/lec8.pdf	GitHub	2016
+423	Joan Bruna	Classification, kernels and metrics	511	https://github.com/joanbruna/stat212b/blob/master/lec2.pdf	GitHub	2016
+424	David Smith	Information Retrieval 3	611	https://course.ccs.neu.edu/cs6200f13/cs6200-f13-3.pdf	Northeastern University	2013
+425	David Smith	Information Retrieval 1	611	https://course.ccs.neu.edu/cs6200f13/cs6200-f13-1.pdf	Northeastern University	2013
+426	David Smith	Information Retrieval 8	611	https://course.ccs.neu.edu/cs6200f13/cs6200-f13-8.pdf	Northeastern University	2013
+427	David Smith	Information Retrieval 4	611	https://course.ccs.neu.edu/cs6200f13/cs6200-f13-4.pdf	Northeastern University	2013
+428	David Smith	Information Retrieval 5	611	https://course.ccs.neu.edu/cs6200f13/cs6200-f13-5.pdf	Northeastern University	2013
+429	David Smith	Information Retrieval 7	611	https://course.ccs.neu.edu/cs6200f13/cs6200-f13-7.pdf	Northeastern University	2013
+430	David Smith	Information Retrieval 6	611	https://course.ccs.neu.edu/cs6200f13/cs6200-f13-6.pdf	Northeastern University	2013
+431	David Smith	Information Retrieval 2	611	https://course.ccs.neu.edu/cs6200f13/cs6200-f13-2.pdf	Northeastern University	2013
+432	Christopher Manning	Experiences with MapReduce, an Abstraction for Large-Scale Computation	821	http://web.stanford.edu/class/cs276/handouts/mapreduce-pact06-keynote.pdf	Stanford University	2017
+433	Christopher Manning	Hypertext and Link Analysis	632	http://web.stanford.edu/class/cs276/handouts/lecture17-linkanalysis-six-per-page.pdf	Stanford University	2017
+434	Christopher Manning	Efficient Scoring	632	http://web.stanford.edu/class/cs276/handouts/lecture10-efficient-scoring-six-per-page.pdf	Stanford University	2017
+435	Christopher Manning	Introducing Information Retrieval and Web Search	112	http://web.stanford.edu/class/cs276/handouts/lecture1-intro-handout-1-per.pdf	Stanford University	2017
+436	Christopher Manning	Distributed representations	721	http://web.stanford.edu/class/cs276/handouts/lecture20-distributed-representations-6up.pdf	Stanford University	2017
+437	Christopher Manning	Tolerant Retrieval	611	http://web.stanford.edu/class/cs276/handouts/lecture3-tolerant-retrieval-handout-6-per.pdf	Stanford University	2017
+438	Christopher Manning	Text Classification 1	511	http://web.stanford.edu/class/cs276/handouts/lecture12-textcat.pdf	Stanford University	2017
+439	Christopher Manning	Ranking Principle	611	http://web.stanford.edu/class/cs276/handouts/lecture11-probir-6up.pdf	Stanford University	2017
+440	Christopher Manning	Compression	611	http://web.stanford.edu/class/cs276/handouts/lecture5-compression-handout-6-per.pdf	Stanford University	2017
+441	Christopher Manning	Hypertext and Link Analysis	632	http://web.stanford.edu/class/cs276/handouts/lecture17-linkanalysis-one-per-page.pdf	Stanford University	2017
+442	Christopher Manning	Evaluation	611	http://web.stanford.edu/class/cs276/handouts/lecture8-evaluation_2014-one-per-page.pdf	Stanford University	2017
+443	Christopher Manning	Document Ingestion,Tokenization, Stemming and Lemmatization	611	http://web.stanford.edu/class/cs276/handouts/lecture2-dictionary-handout-1-per.pdf	Stanford University	2017
+444	Christopher Manning	Evaluation	611	http://web.stanford.edu/class/cs276/handouts/lecture8-evaluation-handout-1-per.pdf	Stanford University	2017
+445	Christopher Manning	Efficient Scoring	632	http://web.stanford.edu/class/cs276/handouts/lecture10-efficient-scoring-one-per-page.pdf	Stanford University	2017
+446	Christopher Manning	Text Classification 1	511	http://web.stanford.edu/class/cs276/handouts/lecture12-textcat-6up.pdf	Stanford University	2017
+447	Christopher Manning	Information Retrieval: Lecture Introduction	111	http://web.stanford.edu/class/cs276/handouts/lecture1-intro-handout-6-per.pdf	Stanford University	2017
+448	Christopher Manning	Index Construction	611	http://web.stanford.edu/class/cs276/handouts/lecture4-indexconstruction-handout-6-per.pdf	Stanford University	2017
+449	Christopher Manning	TF-IDF	107	http://web.stanford.edu/class/cs276/handouts/lecture6-tfidf-handout-1-per.pdf	Stanford University	2017
+450	Christopher Manning	Web Crawling	107	http://web.stanford.edu/class/cs276/handouts/lecture18-crawling-6-per-page.pdf	Stanford University	2017
+451	Christopher Manning	Personalization	107	http://web.stanford.edu/class/cs276/handouts/personalization-lecture-1-per-page.pdf	Stanford University	2017
+452	Christopher Manning	SVMs	521	http://web.stanford.edu/class/cs276/handouts/lecture13-SVMs-6up.pdf	Stanford University	2017
+453	Christopher Manning	Tolerant Retrieval	611	http://web.stanford.edu/class/cs276/handouts/lecture3-tolerant-retrieval-handout-1-per.pdf	Stanford University	2017
+454	Christopher Manning	Evaluation	611	http://web.stanford.edu/class/cs276/handouts/lecture8-evaluation-handout-6-per.pdf	Stanford University	2017
+455	Christopher Manning	Personalization	107	http://web.stanford.edu/class/cs276/handouts/personalization-lecture-6-per-page.pdf	Stanford University	2017
+456	Christopher Manning	Index Construction	611	http://web.stanford.edu/class/cs276/handouts/lecture4-indexconstruction-handout-1-per.pdf	Stanford University	2017
+457	Christopher Manning	Distributed representations	721	http://web.stanford.edu/class/cs276/handouts/lecture20-distributed-representations.pdf	Stanford University	2017
+458	Christopher Manning	BM25, BM25F, and User Behavior	107	http://web.stanford.edu/class/cs276/handouts/lecture12-bm25etc-6up.pdf	Stanford University	2017
+459	Christopher Manning	Learning Ranking	107	http://web.stanford.edu/class/cs276/handouts/lecture14-learning-ranking-6up.pdf	Stanford University	2017
+460	Christopher Manning	Introduction to Information Retrieval	112	http://web.stanford.edu/class/cs276/handouts/lecture12-bm25etc.pdf	Stanford University	2017
+461	Christopher Manning	TF-IDF	107	http://web.stanford.edu/class/cs276/handouts/lecture6-tfidf-handout-6-per.pdf	Stanford University	2017
+462	Christopher Manning	Document Ingestion,Tokenization, Stemming and Lemmatization	611	http://web.stanford.edu/class/cs276/handouts/lecture2-dictionary-handout-6-per.pdf	Stanford University	2017
+463	Christopher Manning	Learning Ranking	626	http://web.stanford.edu/class/cs276/handouts/lecture14-learning-ranking.pdf	Stanford University	2017
+464	Christopher Manning	Evaluation	611	http://web.stanford.edu/class/cs276/handouts/lecture8-evaluation_2014-six-per-page.pdf	Stanford University	2017
+465	Christopher Manning	Web Crawling	107	http://web.stanford.edu/class/cs276/handouts/lecture18-crawling-1-per-page.pdf	Stanford University	2017
+466	Christopher Manning	Spell Correction	107	http://web.stanford.edu/class/cs276/handouts/spell_correction.pdf	Stanford University	2017
+467	Christopher Manning	SVMs	521	http://web.stanford.edu/class/cs276/handouts/lecture13-SVMs.pdf	Stanford University	2017
+468	Christopher Manning	Scoring and results assembly	626	http://web.stanford.edu/class/cs276/handouts/lecture7-vectorspace-6per.pdf	Stanford University	2017
+469	Christopher Manning	Ranking problem	626	http://web.stanford.edu/class/cs276/handouts/lecture5-compression-handout-1-per.pdf	Stanford University	2017
+470	Christopher Manning	Probabilistic Information Retrieval	632	http://web.stanford.edu/class/cs276/handouts/lecture11-probir.pdf	Stanford University	2017
+471	Christopher Manning	Web-QA	411	http://web.stanford.edu/class/cs276/handouts/lecture19-Web-QA-6up.pdf	Stanford University	2017
+472	Christopher Manning	Spell Correction	107	http://web.stanford.edu/class/cs276/handouts/spell_correction-6up.pdf	Stanford University	2017
+473	Christopher Manning	Web-QA	411	http://web.stanford.edu/class/cs276/handouts/lecture19-Web-QA.pdf	Stanford University	2017
+474	Christopher Manning	Scoring and results assembly	626	http://web.stanford.edu/class/cs276/handouts/lecture7-vectorspace-1per.pdf	Stanford University	2017
+475	Hinrich Sch¨utze	Dictionaries and Tolerant Retrieval	611	http://www.cis.lmu.de/~hs/teach/14s/ir/pdf/03dict.flat.pdf	University of Munich	2014
+476	Hinrich Sch¨utze	Hierarchical Clustering	521	http://www.cis.lmu.de/~hs/teach/14s/ir/pdf/17hier.flat.pdf	University of Munich	2014
+477	Hinrich Sch¨utze	Probabilistic Information Retrieval	611	http://www.cis.lmu.de/~hs/teach/14s/ir/pdf/11prob.flat.pdf	University of Munich	2014
+478	Hinrich Sch¨utze	Learning to Rank	611	http://www.cis.lmu.de/~hs/teach/14s/ir/pdf/15ltr.flat.pdf	University of Munich	2014
+479	Hinrich Sch¨utze	Link Analysis	624	http://www.cis.lmu.de/~hs/teach/14s/ir/pdf/21link.flat.pdf	University of Munich	2014
+480	Hinrich Sch¨utze	Flat Clustering	521	http://www.cis.lmu.de/~hs/teach/14s/ir/pdf/16flat.flat.pdf	University of Munich	2014
+481	Hinrich Sch¨utze	Index Construction	611	http://www.cis.lmu.de/~hs/teach/14s/ir/pdf/04const.flat.pdf	University of Munich	2014
+482	Hinrich Sch¨utze	Vector Space Classification	511	http://www.cis.lmu.de/~hs/teach/14s/ir/pdf/14vcat.flat.pdf	University of Munich	2014
+483	Hinrich Sch¨utze	The term vocabulary and postings lists	611	http://www.cis.lmu.de/~hs/teach/14s/ir/pdf/02voc.flat.pdf	University of Munich	2014
+484	Hinrich Sch¨utze	Latent Semantic Indexing	632	http://www.cis.lmu.de/~hs/teach/14s/ir/pdf/18lsi.flat.pdf	University of Munich	2014
+485	Hinrich Sch¨utze	Language Models for IR	632	http://www.cis.lmu.de/~hs/teach/14s/ir/pdf/12model.flat.pdf	University of Munich	2014
+486	Hinrich Sch¨utze	Scores in a Complete Search System	613	http://www.cis.lmu.de/~hs/teach/14s/ir/pdf/07system.flat.pdf	University of Munich	2014
+487	Hinrich Sch¨utze	Relevance Feedback & Query Expansion	622	http://www.cis.lmu.de/~hs/teach/14s/ir/pdf/09expand.flat.pdf	University of Munich	2014
+488	Hinrich Sch¨utze	Index Compression	611	http://www.cis.lmu.de/~hs/teach/14s/ir/pdf/05comp.flat.pdf	University of Munich	2014
+489	Hinrich Sch¨utze	Crawling	611	http://www.cis.lmu.de/~hs/teach/14s/ir/pdf/20crawl.flat.pdf	University of Munich	2014
+490	Hinrich Sch¨utze	Recap Clustering: Introduction	521	http://www.cis.lmu.de/~hs/teach/14s/ir/pdf/16flat.pdf	University of Munich	2014
+491	Hinrich Sch¨utze	XML Retrieval	611	http://www.cis.lmu.de/~hs/teach/14s/ir/pdf/10xml.flat.pdf	University of Munich	2014
+492	Hinrich Sch¨utze	Scoring, Term Weighting, The Vector Space Model	613	http://www.cis.lmu.de/~hs/teach/14s/ir/pdf/06score.flat.pdf	University of Munich	2014
+493	Hinrich Sch¨utze	Support Vector Machines	521	http://www.cis.lmu.de/~hs/teach/14s/ir/pdf/15svm.flat.pdf	University of Munich	2014
+494	Hinrich Sch¨utze	Evaluation & Result Summaries	613	http://www.cis.lmu.de/~hs/teach/14s/ir/pdf/08eval.flat.pdf	University of Munich	2014
+495	Hinrich Sch¨utze	Text Classification & Naive Bayes	511	http://www.cis.lmu.de/~hs/teach/14s/ir/pdf/13bayes.flat.pdf	University of Munich	2014
+496	Hinrich Sch¨utze	Web Search	611	http://www.cis.lmu.de/~hs/teach/14s/ir/pdf/19web.flat.pdf	University of Munich	2014
+497	Hinrich Sch¨utze	Boolean Retrieval	611	http://www.cis.lmu.de/~hs/teach/14s/ir/pdf/01intro.flat.pdf	University of Munich	2014
+498	Chris Callison-Burch	Translation without bilingual parallel corpora	452	http://mt-class.org/penn/slides/20-translation-without-parallel-corpora.pdf	Johns Kopkins University	2018
+499	Chris Callison-Burch	Syntax-based Translation Part 1: Re-ordering for Phrase-based translation	452	http://mt-class.org/penn/slides/13-reordering-phrase-based-mt.pdf	Johns Kopkins University	2018
+500	Chris Callison-Burch	Decoding and Inference with Syntactic Translation Models	452	http://mt-class.org/penn/slides/15-decoding-and-inference.pdf	Johns Kopkins University	2018
+501	Chris Callison-Burch	Harvesng Parallel Documents from the Web	452	http://mt-class.org/penn/slides/16-harvesting-parallel-corpora.pdf	Johns Kopkins University	2018
+502	Chris Callison-Burch	Course Wrap UpMachine Translation	452	http://mt-class.org/penn/slides/26-course-wrapup.pdf	Johns Kopkins University	2018
+503	Chris Callison-Burch	Learning and Generating Paraphrases	456	http://mt-class.org/penn/slides/guest-lecture-wei-xu.pdf	Johns Kopkins University	2018
+504	Chris Callison-Burch	Human Ranking of Machine Translation	456	http://mt-class.org/penn/slides/guest-lecture-matt-post.pdf	Johns Kopkins University	2018
+505	Chris Callison-Burch	Trees and Forests in Machine Translation	452	http://mt-class.org/penn/slides/guest-lecture-liang-huang.pdf	Johns Kopkins University	2018
+506	Chris Callison-Burch	Large-scale Paraphrasing for Natural Language Generation	452	http://mt-class.org/penn/slides/18-paraphrasing.pdf	Johns Kopkins University	2018
+507	Chris Callison-Burch	CRF Word Alignment & Noisy Channel Translation Machine Translation	453	http://mt-class.org/penn/slides/6-discriminative_alignment.pdf	Johns Kopkins University	2018
+508	Chris Callison-Burch	Faster Decoding for Phrases and Syntax	451	http://mt-class.org/penn/slides/guest-lecture-kenneth-heafield.pdf	Johns Kopkins University	2018
+509	Chris Callison-Burch	Phrase-Based Machine Translation	456	http://mt-class.org/penn/slides/7-phrase-based-mt.pdf	Johns Kopkins University	2018
+510	Chris Callison-Burch	Quality Estimation	452	http://mt-class.org/penn/slides/guest-lecture-christian-buck.pdf	Johns Kopkins University	2018
+511	Chris Callison-Burch	Phrase-Based Machine Translation	456	http://mt-class.org/penn/slides/8-phrase-based-mt-part2.pdf	Johns Kopkins University	2018
+512	Chris Callison-Burch	Crowdsourcing Translation	951	http://mt-class.org/penn/slides/17-crowdsourcing-translation.pdf	Johns Kopkins University	2018
+513	Chris Callison-Burch	Introduction to Probability and Statistics	123	http://mt-class.org/penn/slides/2-probability.pdf	Johns Kopkins University	2018
+514	Chris Callison-Burch	Lexical Translation Models 1	241	http://mt-class.org/penn/slides/4-lexical_translation.pdf	Johns Kopkins University	2018
+515	Chris Callison-Burch	Machine Translation	451	http://mt-class.org/penn/slides/1-intro.pdf	Johns Kopkins University	2018
+516	Chris Callison-Burch	Discriminative Training part 2	514	http://mt-class.org/penn/slides/12-discriminative-training-part2.pdf	Johns Kopkins University	2018
+517	Chris Callison-Burch	Language Models Machine Translation	211	http://mt-class.org/penn/slides/3-lm.pdf	Johns Kopkins University	2018
+518	Chris Callison-Burch	Discriminative Training	514	http://mt-class.org/penn/slides/11-discriminative-training.pdf	Johns Kopkins University	2018
+519	Chris Callison-Burch	Syntax-based Translation Part 2	241	http://mt-class.org/penn/slides/14-synchronous-context-free-grammars.pdf	Johns Kopkins University	2018
+520	Chris Callison-Burch	Evaluating translation quality part 1	456	http://mt-class.org/penn/slides/9-evaluating-translation-quality.pdf	Johns Kopkins University	2018
+521	Chris Callison-Burch	Lexical Translation Models	241	http://mt-class.org/penn/slides/5-lexical_translation2.pdf	Johns Kopkins University	2018
+522	Chris Callison-Burch	Evaluating translation quality part 2	456	http://mt-class.org/penn/slides/10-evaluating-translation-quality-2.pdf	Johns Kopkins University	2018
+523	Kai-Wei Chang	Representing Words	321	https://uclanlp.github.io/CS269-17/slides/CS269-06.pdf	GitHub	2017
+524	Kai-Wei Chang	Learning to Search	821	https://uclanlp.github.io/CS269-17/slides/CS269-08.pdf	GitHub	2017
+525	Kai-Wei Chang	Multi-Class Classification	511	https://uclanlp.github.io/CS269-17/slides/CS269-03.pdf	GitHub	2017
+526	Kai-Wei Chang	Structured Prediction Models	582	https://uclanlp.github.io/CS269-17/slides/CS269-04.pdf	GitHub	2017
+527	Kai-Wei Chang	Binary Classification	511	https://uclanlp.github.io/CS269-17/slides/CS269-02.pdf	GitHub	2017
+528	Kai-Wei Chang	Introduction to NLP	112	https://uclanlp.github.io/CS269-17/slides/CS269-01.pdf	GitHub	2017
+529	Kai-Wei Chang	Language Structure: Grammar	106	https://uclanlp.github.io/CS269-17/slides/CS269-07.pdf	GitHub	2017
+530	Kai-Wei Chang	Semantic Parsing	331	https://uclanlp.github.io/CS269-17/slides/CS269-09.pdf	GitHub	2017
+531	Kai-Wei Chang	Representation Learning	321	https://uclanlp.github.io/CS269-17/slides/CS269-05.pdf	GitHub	2017
+532	Kai-Wei Chang	Final Project	111	https://uclanlp.github.io/CS269-17/slides/CS269-Project.pdf	GitHub	2017
+533	Michael Collins,	Log-Linear Models for Tagging (Maximum-entropy Markov Models)	112	http://www.cs.columbia.edu/~mcollins/cs4705-spring2018/slides/loglinear-tagging-slides.pdf	Columbia University	2018
+534	Michael Collins,	Tagging Problems, and Hidden Markov Models	222	http://www.cs.columbia.edu/~mcollins/cs4705-spring2018/slides/tagging.pdf	Columbia University	2018
+535	Michael Collins,	Probabilistic Context-Free Grammars	165	http://www.cs.columbia.edu/~mcollins/cs4705-spring2018/slides/parsing2.pdf	Columbia University	2018
+536	Michael Collins,	Log-Linear Models for History-Based Parsing	243	http://www.cs.columbia.edu/~mcollins/cs4705-spring2018/slides/loglinear-historybasedparsing.pdf	Columbia University	2018
+537	Michael Collins,	Word Embeddings in Feedforward Networks, Tagging and Dependency Parsing using Feedforward Networks	721	http://www.cs.columbia.edu/~mcollins/cs4705-spring2018/slides/ff3-slides.pdf	Columbia University	2018
+538	Michael Collins,	The IBM Translation Models	451	http://www.cs.columbia.edu/~mcollins/cs4705-spring2018/slides/mt2.pdf	Columbia University	2018
+539	Michael Collins,	Lexicalized Probabilistic Context-Free Grammars	165	http://www.cs.columbia.edu/~mcollins/cs4705-spring2018/slides/parsing3.pdf	Columbia University	2018
+540	Michael Collins,	Language Modeling	112	http://www.cs.columbia.edu/~mcollins/cs4705-spring2018/slides/lmslides.pdf	Columbia University	2018
+541	Michael Collins,	Log-Linear Models	512	http://www.cs.columbia.edu/~mcollins/cs4705-spring2018/slides/loglinear-slides.pdf	Columbia University	2018
+542	Michael Collins,	Recurrent Networks, and Attention for Statistical Machine Translation	741	http://www.cs.columbia.edu/~mcollins/cs4705-spring2018/slides/lstm2-slides.pdf	Columbia University	2018
+543	Michael Collins,	Parsing, and Context-Free Grammars	165	http://www.cs.columbia.edu/~mcollins/cs4705-spring2018/slides/parsing1.pdf	Columbia University	2018
+544	Michael Collins,	Feedforward Neural Networks	711	http://www.cs.columbia.edu/~mcollins/cs4705-spring2018/slides/ff-slides.pdf	Columbia University	2018
+545	Michael Collins,	Computational Graphs, Backpropagation	712	http://www.cs.columbia.edu/~mcollins/cs4705-spring2018/slides/ff2-slides.pdf	Columbia University	2018
+546	Michael Collins,	Weaknesses of Probabilistic Context-Free Grammars	165	http://www.cs.columbia.edu/~mcollins/cs4705-spring2018/slides/parsing2.2.pdf	Columbia University	2018
+547	Michael Collins,	Recurrent Networks, and LSTMs, for NLP	741	http://www.cs.columbia.edu/~mcollins/cs4705-spring2018/slides/lstm1-slides.pdf	Columbia University	2018
+548	Shay Cohen	Introduction and Course Administration	111	http://www.inf.ed.ac.uk/teaching/courses/inf2a/slides2017/inf2a_L01_slides.pdf	The University of Edinburgh	2017
+549	Shay Cohen	The Complexity of Human Language Informatics	166	http://www.inf.ed.ac.uk/teaching/courses/inf2a/slides2017/inf2a_L27_slides.pdf	The University of Edinburgh	2017
+550	Shay Cohen	LL(1) grammars: summary Fixing problems with grammars	106	http://www.inf.ed.ac.uk/teaching/courses/inf2a/slides2017/inf2a_L13_slides.pdf	The University of Edinburgh	2017
+551	Shay Cohen	Agreement, Types and Natural Language Semantics	112	http://www.inf.ed.ac.uk/teaching/courses/inf2a/slides2017/inf2a_L25_slides.pdf	The University of Edinburgh	2017
+552	Shay Cohen	Morphology parsing	457	http://www.inf.ed.ac.uk/teaching/courses/inf2a/slides2017/inf2a_L15_slides.pdf	The University of Edinburgh	2017
+553	Shay Cohen	Pushdown automata	165	http://www.inf.ed.ac.uk/teaching/courses/inf2a/slides2017/inf2a_L10_slides.pdf	The University of Edinburgh	2017
+554	Shay Cohen	Types and Static Type Checking	165	http://www.inf.ed.ac.uk/teaching/courses/inf2a/slides2017/inf2a_L14_slides.pdf	The University of Edinburgh	2017
+555	Shay Cohen	Lexing Verication of concurrent systems Lexing and other applications	311	http://www.inf.ed.ac.uk/teaching/courses/inf2a/slides2017/inf2a_L07_slides.pdf	The University of Edinburgh	2017
+556	Shay Cohen	Phrase Structure and Parsing as Search Informatics	243	http://www.inf.ed.ac.uk/teaching/courses/inf2a/slides2017/inf2a_L19_slides.pdf	The University of Edinburgh	2017
+557	Shay Cohen	Fun with weighted FSTs Informatics	221	http://www.inf.ed.ac.uk/teaching/courses/inf2a/slides2017/inf2a_L18_slides.pdf	The University of Edinburgh	2017
+558	Shay Cohen	What Is Inf2a about?	103	http://www.inf.ed.ac.uk/teaching/courses/inf2a/slides2017/inf2a_L02_slides.pdf	The University of Edinburgh	2017
+559	Shay Cohen	An Earley Parsing Example	245	http://www.inf.ed.ac.uk/teaching/courses/inf2a/slides2017/earley-example.pdf	The University of Edinburgh	2017
+560	Shay Cohen	Context-sensitive languages	165	http://www.inf.ed.ac.uk/teaching/courses/inf2a/slides2017/inf2a_L29_slides.pdf	The University of Edinburgh	2017
+561	Shay Cohen	CKY Algorithm	244	http://www.inf.ed.ac.uk/teaching/courses/inf2a/slides2017/inf2a_L20_slides.pdf	The University of Edinburgh	2017
+562	Shay Cohen	Part-of-Speech Tagging Informatics	142	http://www.inf.ed.ac.uk/teaching/courses/inf2a/slides2017/inf2a_L17_slides.pdf	The University of Edinburgh	2017
+563	Shay Cohen	Generating parse tables	142	http://www.inf.ed.ac.uk/teaching/courses/inf2a/slides2017/inf2a_L12_slides.pdf	The University of Edinburgh	2017
+564	Shay Cohen	Earley Parsing	242	http://www.inf.ed.ac.uk/teaching/courses/inf2a/slides2017/inf2a_L21_slides.pdf	The University of Edinburgh	2017
+565	Shay Cohen	Computing Natural Language Semantics Informatics	112	http://www.inf.ed.ac.uk/teaching/courses/inf2a/slides2017/inf2a_L26_slides.pdf	The University of Edinburgh	2017
+566	Shay Cohen	Turing machines	112	http://www.inf.ed.ac.uk/teaching/courses/inf2a/slides2017/inf2a_L31_slides.pdf	The University of Edinburgh	2017
+567	Shay Cohen	Revision Lecture	111	http://www.inf.ed.ac.uk/teaching/courses/inf2a/slides2017/inf2a_L32_slides.pdf	The University of Edinburgh	2017
+568	Shay Cohen	String and pattern matching and Applications to string and pattern matching	444	http://www.inf.ed.ac.uk/teaching/courses/inf2a/slides2017/inf2a_L06_slides.pdf	The University of Edinburgh	2017
+569	Shay Cohen	Constructions on Finite Automata	133	http://www.inf.ed.ac.uk/teaching/courses/inf2a/slides2017/inf2a_L04_slides.pdf	The University of Edinburgh	2017
+570	Shay Cohen	Regular expressions and Kleene’s theorem	161	http://www.inf.ed.ac.uk/teaching/courses/inf2a/slides2017/inf2a_L05_slides.pdf	The University of Edinburgh	2017
+571	Shay Cohen	Predictive parsing	243	http://www.inf.ed.ac.uk/teaching/courses/inf2a/slides2017/inf2a_L11_slides.pdf	The University of Edinburgh	2017
+572	Shay Cohen	Languages and Automata	133	http://www.inf.ed.ac.uk/teaching/courses/inf2a/slides2017/inf2a_L03_slides.pdf	The University of Edinburgh	2017
+573	Shay Cohen	Turing machines and linear bounded automata	112	http://www.inf.ed.ac.uk/teaching/courses/inf2a/slides2017/inf2a_L30_slides.pdf	The University of Edinburgh	2017
+574	Shay Cohen	Dening languages via grammars	106	http://www.inf.ed.ac.uk/teaching/courses/inf2a/slides2017/inf2a_L09_slides.pdf	The University of Edinburgh	2017
+575	Shay Cohen	Parameter Estimation and Lexicalisation for PCFGs Informatics	251	http://www.inf.ed.ac.uk/teaching/courses/inf2a/slides2017/inf2a_L23_slides.pdf	The University of Edinburgh	2017
+576	Shay Cohen	What is programming language semantics?	133	http://www.inf.ed.ac.uk/teaching/courses/inf2a/slides2017/inf2a_L28_slides.pdf	The University of Edinburgh	2017
+577	Shay Cohen	limitations of regular languages	133	http://www.inf.ed.ac.uk/teaching/courses/inf2a/slides2017/inf2a_L08_slides.pdf	The University of Edinburgh	2017
+578	Shay Cohen	Parts-of-speech and the Lexicon in Natural Language	142	http://www.inf.ed.ac.uk/teaching/courses/inf2a/slides2017/inf2a_L16_slides.pdf	The University of Edinburgh	2017
+579	Shay Cohen	Probabilistic Context-Free Grammars	251	http://www.inf.ed.ac.uk/teaching/courses/inf2a/slides2017/inf2a_L22_slides.pdf	The University of Edinburgh	2017
+580	Yejin Choi	HMMs	221	https://courses.cs.washington.edu/courses/cse447/18wi/slides/HMMs.pdf	University of Washington	2018
+581	Yejin Choi	Language Models	112	https://courses.cs.washington.edu/courses/cse447/18wi/slides/LanguageModels.pdf	University of Washington	2018
+582	Yejin Choi	Log Linear Models	512	https://courses.cs.washington.edu/courses/cse447/18wi/slides/LogLinear.pdf	University of Washington	2018
+583	Yejin Choi	Parsing	256	https://courses.cs.washington.edu/courses/cse447/18wi/slides/Parsing.pdf	University of Washington	2018
+584	Yejin Choi	Distributed Semantics	112	https://courses.cs.washington.edu/courses/cse447/18wi/slides/DistributedSemantics.pdf	University of Washington	2018
+585	Yejin Choi	Machine Translation	451	https://courses.cs.washington.edu/courses/cse447/18wi/slides/MT.pdf	University of Washington	2018
+586	Yejin Choi	Deep Learning	112	https://courses.cs.washington.edu/courses/cse447/18wi/slides/DeepLearning.pdf	University of Washington	2018
+587	Yejin Choi	Dependency Parsing And Other Grammar Formalisms	112	https://courses.cs.washington.edu/courses/cse447/18wi/slides/Parsing-dep.pdf	University of Washington	2018
+588	Yejin Choi	Greedy Algorithm	171	https://courses.cs.washington.edu/courses/cse447/18wi/slides/edmond.pdf	University of Washington	2018
+589	Yejin Choi	Frame Semantics	112	https://courses.cs.washington.edu/courses/cse447/18wi/slides/Frame.pdf	University of Washington	2018
+590	Yejin Choi	Natural Language Processing Introduction	112	https://courses.cs.washington.edu/courses/cse447/18wi/slides/Intro.pdf	University of Washington	2018
+591	Frank Keller	Application of Bayes Theorem	123	http://www.inf.ed.ac.uk/teaching/courses/fmcs1/slides/lecture19.pdf	University of Edinburgh	2016
+592	Frank Keller	Continuous Random Variables and Density 2	123	http://www.inf.ed.ac.uk/teaching/courses/fmcs1/slides/lecture21-2x2.pdf	University of Edinburgh	2016
+593	Frank Keller	Noisy Channel Model and Applications	214	http://www.inf.ed.ac.uk/teaching/courses/fmcs1/slides/lecture29.pdf	University of Edinburgh	2016
+594	Frank Keller	Distributions Independence	123	http://www.inf.ed.ac.uk/teaching/courses/fmcs1/slides/lecture20-2x2.pdf	University of Edinburgh	2016
+595	Frank Keller	What is Probability Theory? Probability and Cognition Combinatorial Methods 2	123	http://www.inf.ed.ac.uk/teaching/courses/fmcs1/slides/lecture16-2x2.pdf	University of Edinburgh	2016
+596	Frank Keller	Entropy Rate, Mutual Information	133	http://www.inf.ed.ac.uk/teaching/courses/fmcs1/slides/lecture26.pdf	University of Edinburgh	2016
+597	Frank Keller	Formal Modeling in Cognitive Science: introduction	112	http://www.inf.ed.ac.uk/teaching/courses/fmcs1/slides/lecture00.pdf	University of Edinburgh	2016
+598	Frank Keller	Kraft Inequality, Source Coding Theorem, Huffman Coding	133	http://www.inf.ed.ac.uk/teaching/courses/fmcs1/slides/lecture28.pdf	University of Edinburgh	2016
+599	Frank Keller	Sample Spaces and Events Probability of an Event	123	http://www.inf.ed.ac.uk/teaching/courses/fmcs1/slides/lecture17.pdf	University of Edinburgh	2016
+600	Frank Keller	Application of Bayes Theorem 2	123	http://www.inf.ed.ac.uk/teaching/courses/fmcs1/slides/lecture19-2x2.pdf	University of Edinburgh	2016
+601	Frank Keller	Expectation and Related Concepts Chebyshevs Theorem	133	http://www.inf.ed.ac.uk/teaching/courses/fmcs1/slides/lecture22-2x2.pdf	University of Edinburgh	2016
+602	Frank Keller	Continuous Random Variables and Density	123	http://www.inf.ed.ac.uk/teaching/courses/fmcs1/slides/lecture21.pdf	University of Edinburgh	2016
+603	Frank Keller	What is Probability Theory? Probability and Cognition Combinatorial Methods	123	http://www.inf.ed.ac.uk/teaching/courses/fmcs1/slides/lecture16.pdf	University of Edinburgh	2016
+604	Frank Keller	Sample Spaces and Events Probability of an Event	123	http://www.inf.ed.ac.uk/teaching/courses/fmcs1/slides/lecture17-2x2.pdf	University of Edinburgh	2016
+605	Frank Keller	Conditional Probability and Independence Bayes Theorem	125	http://www.inf.ed.ac.uk/teaching/courses/fmcs1/slides/lecture18.pdf	University of Edinburgh	2016
+606	Frank Keller	Entropy	133	http://www.inf.ed.ac.uk/teaching/courses/fmcs1/slides/lecture25.pdf	University of Edinburgh	2016
+607	Frank Keller	Expectation and Related Concepts Chebyshevs Theorem	133	http://www.inf.ed.ac.uk/teaching/courses/fmcs1/slides/lecture22.pdf	University of Edinburgh	2016
+608	Frank Keller	Bayesian Cognitive Science Cognitive	123	http://www.inf.ed.ac.uk/teaching/courses/fmcs1/slides/lecture24b.pdf	University of Edinburgh	2016
+609	Frank Keller	Special Probability Distributions Special Probability Densities	123	http://www.inf.ed.ac.uk/teaching/courses/fmcs1/slides/lecture23-2x2.pdf	University of Edinburgh	2016
+610	Frank Keller	Application: Discovering Collocations	352	http://www.inf.ed.ac.uk/teaching/courses/fmcs1/slides/lecture27.pdf	University of Edinburgh	2016
+611	Frank Keller	Conditional Probability and Independence Bayesian Theorem Formal Modeling in Cognitive Science	444	http://www.inf.ed.ac.uk/teaching/courses/fmcs1/slides/lecture18-2x2.pdf	University of Edinburgh	2016
+612	Frank Keller	Distributions Independence	123	http://www.inf.ed.ac.uk/teaching/courses/fmcs1/slides/lecture20.pdf	University of Edinburgh	2016
+613	Frank Keller	Special Probability Distributions Special Probability Densities	123	http://www.inf.ed.ac.uk/teaching/courses/fmcs1/slides/lecture23.pdf	University of Edinburgh	2016
+614	Chris Dyer	Lagrangian Relaxa,on for MAP Inference	364	http://demo.clab.cs.cmu.edu/fa2015-11763/slides/lagrangian-relaxation.pdf	Carnegie Mellon University	2015
+615	Chris Dyer	Decoding	214	http://demo.clab.cs.cmu.edu/fa2015-11763/slides/decoding-1.pdf	Carnegie Mellon University	2015
+616	Chris Dyer	Spectral Learning	182	http://demo.clab.cs.cmu.edu/fa2015-11763/slides/spectral_slides.pdf	Carnegie Mellon University	2015
+617	Chris Dyer	Probability Distributions on Structured Objects	582	http://demo.clab.cs.cmu.edu/fa2015-11763/slides/probability.pdf	Carnegie Mellon University	2015
+618	Chris Dyer	Minimum Bayes Risk	125	http://demo.clab.cs.cmu.edu/fa2015-11763/slides/mbr.pdf	Carnegie Mellon University	2015
+619	Chris Dyer	Approximate Inference: Randomized Methods	364	http://demo.clab.cs.cmu.edu/fa2015-11763/slides/random-search.pdf	Carnegie Mellon University	2015
+620	Chris Dyer	Structured Prediction for Language and Other Discrete Data	582	http://demo.clab.cs.cmu.edu/fa2015-11763/slides/intro.pdf	Carnegie Mellon University	2015
+621	Chris Dyer	Experimentation	107	http://demo.clab.cs.cmu.edu/fa2015-11763/slides/experimentation.pdf	Carnegie Mellon University	2015
+622	Chris Dyer	HMM Review	221	http://demo.clab.cs.cmu.edu/fa2015-11763/slides/hmm-review-2.pdf	Carnegie Mellon University	2015
+623	Chris Dyer	Learning Generative Models	511	http://demo.clab.cs.cmu.edu/fa2015-11763/slides/gen-learning1.pdf	Carnegie Mellon University	2015
+624	Chris Dyer	Neural Networks in Structured Prediction 2	112	http://demo.clab.cs.cmu.edu/fa2015-11763/slides/neural2.pdf	Carnegie Mellon University	2015
+625	Chris Dyer	Empirical Risk Minimization	107	http://demo.clab.cs.cmu.edu/fa2015-11763/slides/erm.pdf	Carnegie Mellon University	2015
+626	Chris Dyer	Structure and Support Vector Machines	521	http://demo.clab.cs.cmu.edu/fa2015-11763/slides/ssvm.pdf	Carnegie Mellon University	2015
+627	Chris Dyer	Conditional Models	123	http://demo.clab.cs.cmu.edu/fa2015-11763/slides/conditional-models.pdf	Carnegie Mellon University	2015
+628	Chris Dyer	Neural Networks in Structured Prediction	112	http://demo.clab.cs.cmu.edu/fa2015-11763/slides/neural1.pdf	Carnegie Mellon University	2015
+629	Chris Dyer	HMM Review	221	http://demo.clab.cs.cmu.edu/fa2015-11763/slides/hmm-review-1.pdf	Carnegie Mellon University	2015
+630	Chris Dyer	Natural Language Parsing with Context-Free Grammars	165	http://demo.clab.cs.cmu.edu/fa2015-11763/slides/cfparsing.pdf	Carnegie Mellon University	2015
+631	Chris Dyer	Natural Language Dependency Parsing	112	http://demo.clab.cs.cmu.edu/fa2015-11763/slides/depparsing.pdf	Carnegie Mellon University	2015
+632	Chris Dyer	How much linguistics is needed for NLP?	112	http://demo.clab.cs.cmu.edu/fa2015-11763/slides/HowMuchLinguistics2015.pdf	Carnegie Mellon University	2015
+633	Chris Dyer	Writng Well in NLP and ML	112	http://demo.clab.cs.cmu.edu/fa2015-11763/slides/writing.pdf	Carnegie Mellon University	2015
+634	Chris Dyer	Soft Inference and Posterior Probabilities	364	http://demo.clab.cs.cmu.edu/fa2015-11763/slides/softinference.pdf	Carnegie Mellon University	2015
+635	David Bamman	Classification	511	http://people.ischool.berkeley.edu/~dbamman/nlpF17/slides/2_classification_1.pdf	UC Berkeley	2017
+636	David Bamman	POS	112	http://people.ischool.berkeley.edu/~dbamman/nlpF17/slides/9_POS.pdf	UC Berkeley	2017
+637	David Bamman	Truth ethics	133	http://people.ischool.berkeley.edu/~dbamman/nlpF17/slides/5_truth_ethics.pdf	UC Berkeley	2017
+638	David Bamman	Vector Semantics	322	http://people.ischool.berkeley.edu/~dbamman/nlpF17/slides/8_vector_semantics.pdf	UC Berkeley	2017
+639	David Bamman	Classification 2	511	http://people.ischool.berkeley.edu/~dbamman/nlpF17/slides/3_classification_2.pdf	UC Berkeley	2017
+640	David Bamman	Classification 3	511	http://people.ischool.berkeley.edu/~dbamman/nlpF17/slides/4_classification_3.pdf	UC Berkeley	2017
+641	David Bamman	Features and hypothesis tests	543	http://people.ischool.berkeley.edu/~dbamman/nlpF17/slides/12_significance.pdf	UC Berkeley	2017
+642	David Bamman	LSTM	742	http://people.ischool.berkeley.edu/~dbamman/nlpF17/slides/11_crf_lstm.pdf	UC Berkeley	2017
+643	David Bamman	Language models 1	211	http://people.ischool.berkeley.edu/~dbamman/nlpF17/slides/6_LM_1.pdf	UC Berkeley	2017
+644	David Bamman	Language models 2	211	http://people.ischool.berkeley.edu/~dbamman/nlpF17/slides/7_LM_2.pdf	UC Berkeley	2017
+645	David Bamman	Sequence Labeling 1	221	http://people.ischool.berkeley.edu/~dbamman/nlpF17/slides/10_hmm_memm.pdf	UC Berkeley	2017
+646	David Bamman	Natural Language Processing Introduction	112	http://people.ischool.berkeley.edu/~dbamman/nlpF17/slides/1_intro.pdf	UC Berkeley	2017
+647	Nathan Schneider	Discriminative Sequence	514	http://people.cs.georgetown.edu/nschneid/cosc572/s18/14_discriminative-sequence.pdf	Georgetown University	2018
+648	Nathan Schneider	What is Linguistics?	103	http://people.cs.georgetown.edu/nschneid/cosc572/s18/03_ling.pdf	Georgetown University	2018
+649	Nathan Schneider	Algorithms for Natural Language Processing	112	http://people.cs.georgetown.edu/nschneid/cosc572/s18/08a_lexsem_slides.pdf	Georgetown University	2018
+650	Nathan Schneider	Language Models: More smoothing	212	http://people.cs.georgetown.edu/nschneid/cosc572/s18/06_LM2_slides.pdf	Georgetown University	2018
+651	Nathan Schneider	Linear Models for Classication: Features & Weights	112	http://people.cs.georgetown.edu/nschneid/cosc572/s18/08b_discriminative-features.pdf	Georgetown University	2018
+652	Nathan Schneider	Parts of Speech	112	http://people.cs.georgetown.edu/nschneid/cosc572/s18/10_pos_slides.pdf	Georgetown University	2018
+653	Nathan Schneider	A note about NLP tools NLTK	133	http://people.cs.georgetown.edu/nschneid/cosc572/s18/19_srl_slides.pdf	Georgetown University	2018
+654	Nathan Schneider	Context in Language	154	http://people.cs.georgetown.edu/nschneid/cosc572/s18/23_context.pdf	Georgetown University	2018
+655	Nathan Schneider	Coreference Resolution	133	http://people.cs.georgetown.edu/nschneid/cosc572/s18/18_coref_slides.pdf	Georgetown University	2018
+656	Nathan Schneider	Machine Translation	451	http://people.cs.georgetown.edu/nschneid/cosc572/s18/20_MT_slides.pdf	Georgetown University	2018
+657	Nathan Schneider	Linear Models for Classication: Discriminative Learning (Perceptron, SVMs, MaxEnt)	112	http://people.cs.georgetown.edu/nschneid/cosc572/s18/09_discriminative-learning.pdf	Georgetown University	2018
+658	Nathan Schneider	English Syntax & CFGs	165	http://people.cs.georgetown.edu/nschneid/cosc572/s18/15_syntax_slides.pdf	Georgetown University	2018
+659	Nathan Schneider	Text Corpora	154	http://people.cs.georgetown.edu/nschneid/cosc572/s18/02a_slides.pdf	Georgetown University	2018
+660	Nathan Schneider	Parsing with Context Free Grammars	165	http://people.cs.georgetown.edu/nschneid/cosc572/s18/16_parsing_slides.pdf	Georgetown University	2018
+661	Nathan Schneider	Wrapping Up	112	http://people.cs.georgetown.edu/nschneid/cosc572/s18/24_wrapup.pdf	Georgetown University	2018
+662	Nathan Schneider	Basic Text Processing Regular Expressions	161	http://people.cs.georgetown.edu/nschneid/cosc572/s18/02b_TextProc.pdf	Georgetown University	2018
+663	Nathan Schneider	Deep Learning & Neural Networks	112	http://people.cs.georgetown.edu/nschneid/cosc572/s18/22_deep_learning.pdf	Georgetown University	2018
+664	Nathan Schneider	Part-of-speech tagging and HMMs	221	http://people.cs.georgetown.edu/nschneid/cosc572/s18/11_pos_hmm_slides.pdf	Georgetown University	2018
+665	Nathan Schneider	N-gram Language Models	112	http://people.cs.georgetown.edu/nschneid/cosc572/s18/05_LM_slides.pdf	Georgetown University	2018
+666	Nathan Schneider	Dependency Parsing	112	http://people.cs.georgetown.edu/nschneid/cosc572/s18/17_dependency-parsing_slides.pdf	Georgetown University	2018
+667	Nathan Schneider	Annotation	151	http://people.cs.georgetown.edu/nschneid/cosc572/s18/13_annotation_slides.pdf	Georgetown University	2018
+668	Nathan Schneider	Natural Language Processing Introduction	112	http://people.cs.georgetown.edu/nschneid/cosc572/s18/01_slides.pdf	Georgetown University	2018
+669	Nathan Schneider	Distributional Semantics	112	http://people.cs.georgetown.edu/nschneid/cosc572/s18/21_distributional_slides.pdf	Georgetown University	2018
+670	Nathan Schneider	Classication: Nave Bayes	381	http://people.cs.georgetown.edu/nschneid/cosc572/s18/07_NB_classification.pdf	Georgetown University	2018
+671	Nathan Schneider	Algorithms for HMMs	221	http://people.cs.georgetown.edu/nschneid/cosc572/s18/12_viterbi_slides.pdf	Georgetown University	2018
+672	Brendan O’Connor	Project discussion	111	http://people.cs.umass.edu/~brenocon/inlp2015/10-projects.pdf	Umass University	2015
+673	Brendan O’Connor	Natural Language Processing Introduction	112	http://people.cs.umass.edu/~brenocon/inlp2015/05-phonotactics-jarosz-cs585-guestlecture-20150925.pdf	Umass University	2015
+674	Brendan O’Connor	Machine Translation Part 3, Alternatives & Evaluation	451	http://people.cs.umass.edu/~brenocon/inlp2015/15-mt-more.pdf	Umass University	2015
+675	Brendan O’Connor	Probability, Naive Bayes	123	http://people.cs.umass.edu/~brenocon/inlp2015/02-probnb.pdf	Umass University	2015
+676	Brendan O’Connor	CKY Algorithm	244	http://people.cs.umass.edu/~brenocon/inlp2015/17-cky.pdf	Umass University	2015
+677	Brendan O’Connor	NLP Evaluation: Bootstrapping & sig tests	151	http://people.cs.umass.edu/~brenocon/inlp2015/16-sigtests.pdf	Umass University	2015
+678	Brendan O’Connor	Lecture 1: Course Introduction	111	http://people.cs.umass.edu/~brenocon/inlp2015/01-intro.pdf	Umass University	2015
+679	Brendan O’Connor	Parts of speech	112	http://people.cs.umass.edu/~brenocon/inlp2015/06-pos.pdf	Umass University	2015
+680	Brendan O’Connor	Machine Translation Part 2, and the EM Algorithm	451	http://people.cs.umass.edu/~brenocon/inlp2015/14-mt-em.pdf	Umass University	2015
+681	Brendan O’Connor	Classification	112	http://people.cs.umass.edu/~brenocon/inlp2015/03-classif.pdf	Umass University	2015
+682	Brendan O’Connor	CKY Algorithm 2	244	http://people.cs.umass.edu/~brenocon/inlp2015/18-cky.pdf	Umass University	2015
+683	Brendan O’Connor	Coreference and Entity Resolution	133	http://people.cs.umass.edu/~brenocon/inlp2015/19-coref.pdf	Umass University	2015
+684	Brendan O’Connor	Logistic Regression	512	http://people.cs.umass.edu/~brenocon/inlp2015/04-logreg.pdf	Umass University	2015
+685	Brendan O’Connor	Log-linear models and CRFs	512	http://people.cs.umass.edu/~brenocon/inlp2015/08-discseq.pdf	Umass University	2015
+686	Brendan O’Connor	Machine Translation (Part 1)	451	http://people.cs.umass.edu/~brenocon/inlp2015/13-mt.pdf	Umass University	2015
+687	Brendan O’Connor	Viterbi Algorithm	171	http://people.cs.umass.edu/~brenocon/inlp2015/10-boardphotos.pdf	Umass University	2015
+688	Brendan O’Connor	Syntactic Dependencies	241	http://people.cs.umass.edu/~brenocon/inlp2015/19-deps.pdf	Umass University	2015
+689	Brendan O’Connor	CRF and Structured Perceptron	515	http://people.cs.umass.edu/~brenocon/inlp2015/09-discseq-perc.pdf	Umass University	2015
+690	Brendan O’Connor	NLP Evaluation	151	http://people.cs.umass.edu/~brenocon/inlp2015/15-eval.pdf	Umass University	2015
+691	Brendan O’Connor	Distributional Semantics	112	http://people.cs.umass.edu/~brenocon/inlp2015/22-distsim.pdf	Umass University	2015
+692	Brendan O’Connor	Lexical Semantics	311	http://people.cs.umass.edu/~brenocon/inlp2015/21-lexsem.pdf	Umass University	2015
+693	Brendan O’Connor	Edit Distance, Spelling Correction, and the Noisy Channel	214	http://people.cs.umass.edu/~brenocon/inlp2015/06-lecnotes.pdf	Umass University	2015
+694	Brendan O’Connor	Coreference and Entity Resolution	133	http://people.cs.umass.edu/~brenocon/inlp2015/20-coref.pdf	Umass University	2015
+695	Brendan O’Connor	Edit Distance, Spelling Correction, and the Noisy Channel	214	http://people.cs.umass.edu/~brenocon/inlp2015/12-editdist.pdf	Umass University	2015
+696	Brendan O’Connor	Introduction to Natural Language Processing	112	http://people.cs.umass.edu/~brenocon/inlp2015/16-syntax.pdf	Umass University	2015
+697	Richard Socher	More Word Vectors	721	http://cs224d.stanford.edu/lectures/CS224d-Lecture3.pdf	Stanford University	2016
+698	Richard Socher	Recap, Projects and Fancy Recurrent Neural Networks for Machine Translation	451	http://cs224d.stanford.edu/lectures/CS224d-Lecture9.pdf	Stanford University	2016
+699	Richard Socher	Sequence to Sequence Learning	721	http://cs224d.stanford.edu/lectures/CS224d-Lecture16.pdf	Stanford University	2016
+700	Richard Socher	Word Window Classification and Neural Networks	711	http://cs224d.stanford.edu/lectures/CS224d-Lecture4.pdf	Stanford University	2016
+701	Richard Socher	Neural Networks in Speech Recognition	711	http://cs224d.stanford.edu/lectures/CS224d-Lecture14.pdf	Stanford University	2016
+702	Richard Socher	Neural Machine Translation	753	http://cs224d.stanford.edu/lectures/CS224d-Lecture15.pdf	Stanford University	2016
+703	Richard Socher	Advanced Recursive Neural Networks	743	http://cs224d.stanford.edu/lectures/CS224d-Lecture11.pdf	Stanford University	2016
+704	Richard Socher	Word Vectors	721	http://cs224d.stanford.edu/lectures/CS224d-Lecture2.pdf	Stanford University	2016
+705	Richard Socher	Recurrent Neural Networks	741	http://cs224d.stanford.edu/lectures/CS224d-Lecture8.pdf	Stanford University	2016
+706	Richard Socher	Wrap up: LSTMs and Recursive Neural Networks	742	http://cs224d.stanford.edu/lectures/CS224d-Lecture10.pdf	Stanford University	2016
+707	Richard Socher	Project Information Neural Networks & Backprop	711	http://cs224d.stanford.edu/lectures/CS224d-Lecture5.pdf	Stanford University	2016
+708	Richard Socher	AWS Tutorial	731	http://cs224d.stanford.edu/lectures/CS224D-Lecture7-2.pdf	Stanford University	2016
+709	Richard Socher	Convolutional Neural Networks (for NLP)	744	http://cs224d.stanford.edu/lectures/CS224d-Lecture13.pdf	Stanford University	2016
+710	Richard Socher	Deep Learning for Natural Language Processing: Introductioin	112	http://cs224d.stanford.edu/lectures/CS224d-Lecture1.pdf	Stanford University	2016
+711	Richard Socher	Dynamic Memory Networks for Question Answering over Text and Images	411	http://cs224d.stanford.edu/lectures/CS224d-Lecture17.pdf	Stanford University	2016
+712	Richard Socher	Midterm Review	111	http://cs224d.stanford.edu/lectures/CS224d-Lecture12.pdf	Stanford University	2016
+713	Richard Socher	TensorFlow Tutorial	731	http://cs224d.stanford.edu/lectures/CS224d-Lecture7.pdf	Stanford University	2016
+714	Richard Socher	Neural Tips and Tricks Recurrent Neural Networks	712	http://cs224d.stanford.edu/lectures/CS224d-Lecture6.pdf	Stanford University	2016
+715	Marine Carpuat	Loss-augmented Structured Prediction	961	http://www.cs.umd.edu/class/fall2017/cmsc723/slides/slides_11.pdf	University of Maryland	2017
+716	Marine Carpuat	Vector Semantics Dense Vectors	322	http://www.cs.umd.edu/class/fall2017/cmsc723/slides/slides_06.pdf	University of Maryland	2017
+717	Marine Carpuat	Word Meaning: Distributional Representations and Word Sense Disambiguation	721	http://www.cs.umd.edu/class/fall2017/cmsc723/slides/slides_02.pdf	University of Maryland	2017
+718	Marine Carpuat	Phrase-Based Machine Translation	456	http://www.cs.umd.edu/class/fall2017/cmsc723/slides/slides_19.pdf	University of Maryland	2017
+719	Marine Carpuat	Introduction to Machine Translation	451	http://www.cs.umd.edu/class/fall2017/cmsc723/slides/slides_15.pdf	University of Maryland	2017
+720	Marine Carpuat	Text Classification & Linear Models	511	http://www.cs.umd.edu/class/fall2017/cmsc723/slides/slides_03.pdf	University of Maryland	2017
+721	Marine Carpuat	Sequence to Sequence Models for Machine Translation 2	721	http://www.cs.umd.edu/class/fall2017/cmsc723/slides/slides_17.pdf	University of Maryland	2017
+722	Marine Carpuat	Computational Linguistics	103	http://www.cs.umd.edu/class/fall2017/cmsc723/slides/slides_01.pdf	University of Maryland	2017
+723	Marine Carpuat	POS tagging	112	http://www.cs.umd.edu/class/fall2017/cmsc723/slides/slides_09.pdf	University of Maryland	2017
+724	Marine Carpuat	Dependency Parsing 2	112	http://www.cs.umd.edu/class/fall2017/cmsc723/slides/slides_13.pdf	University of Maryland	2017
+725	Marine Carpuat	Sequence to Sequence Models for Machine Translation	721	http://www.cs.umd.edu/class/fall2017/cmsc723/slides/slides_16.pdf	University of Maryland	2017
+726	Marine Carpuat	Logistic Regression & Neural Networks	512	http://www.cs.umd.edu/class/fall2017/cmsc723/slides/slides_05.pdf	University of Maryland	2017
+727	Marine Carpuat	Alignment in Machine Translation	452	http://www.cs.umd.edu/class/fall2017/cmsc723/slides/slides_18.pdf	University of Maryland	2017
+728	Marine Carpuat	From Dependency Parsing to Imitation Learning	257	http://www.cs.umd.edu/class/fall2017/cmsc723/slides/slides_14.pdf	University of Maryland	2017
+729	Marine Carpuat	POS tagging	112	http://www.cs.umd.edu/class/fall2017/cmsc723/slides/slides_10.pdf	University of Maryland	2017
+730	Marine Carpuat	Linear Models Continued: Perceptron & Logistic Regression	861	http://www.cs.umd.edu/class/fall2017/cmsc723/slides/slides_04.pdf	University of Maryland	2017
+731	Marine Carpuat	Language Modeling Introduction	112	http://www.cs.umd.edu/class/fall2017/cmsc723/slides/slides_07.pdf	University of Maryland	2017
+732	Marine Carpuat	Dependency Parsing	112	http://www.cs.umd.edu/class/fall2017/cmsc723/slides/slides_12.pdf	University of Maryland	2017
+733	Jacob Eisenstein	Shallow Semantics	311	https://github.com/shichao116/NLP/blob/master/slides.2014/srl-slides.pdf	GitHub	2014
+734	Jacob Eisenstein	Distributional Lexical Semantics	311	https://github.com/shichao116/NLP/blob/master/slides.2014/distributional-slides.pdf	GitHub	2014
+735	Jacob Eisenstein	Naïve Bayes,Perceptron	515	https://github.com/shichao116/NLP/blob/master/slides.2014/lec3-slides.pdf	GitHub	2014
+736	Jacob Eisenstein	Introduction to Natural Language Processing	112	https://github.com/shichao116/NLP/blob/master/slides.2014/lec1.pdf	GitHub	2014
+737	Jacob Eisenstein	Morphology	142	https://github.com/shichao116/NLP/blob/master/slides.2014/lec7-morphology-slides.pdf	GitHub	2014
+738	Jacob Eisenstein	Examples of Viterbi, Forward, and Backward	712	https://github.com/shichao116/NLP/blob/master/slides.2014/sequence-slides.pdf	GitHub	2014
+739	Jacob Eisenstein	Language Models	211	https://github.com/shichao116/NLP/blob/master/slides.2014/lec6-slides.pdf	GitHub	2014
+740	Jacob Eisenstein	Dependency parsing	112	https://github.com/shichao116/NLP/blob/master/slides.2014/lec14-depparsing-slides.pdf	GitHub	2014
+741	Jacob Eisenstein	WSD Key Concepts Word	391	https://github.com/shichao116/NLP/blob/master/slides.2014/lec4-slides.pdf	GitHub	2014
+742	Jacob Eisenstein	Administrative corrections	111	https://github.com/shichao116/NLP/blob/master/slides.2014/lec2-slides.pdf	GitHub	2014
+743	Jacob Eisenstein	Classication key concepts	112	https://github.com/shichao116/NLP/blob/master/slides.2014/lec5-slides.pdf	GitHub	2014
+744	Jacob Eisenstein	Semi-Supervised Learning 1	112	https://github.com/shichao116/NLP/blob/master/slides.2014/ssl-slides.pdf	GitHub	2014
+745	Jacob Eisenstein	Information Extraction	232	https://github.com/shichao116/NLP/blob/master/slides.2014/ie-slides.pdf	GitHub	2014
+746	Jacob Eisenstein	Anaphora and coreference	133	https://github.com/shichao116/NLP/blob/master/slides.2014/coref-slides.pdf	GitHub	2014
+747	Jacob Eisenstein	Beyond Context-Free Grammars	165	https://github.com/shichao116/NLP/blob/master/slides.2014/beyond-cfg.pdf	GitHub	2014
+748	Jacob Eisenstein	Discourse Structure	441	https://github.com/shichao116/NLP/blob/master/slides.2014/discourse-slides.pdf	GitHub	2014
+749	Jacob Eisenstein	Natural Language Semantics	112	https://github.com/shichao116/NLP/blob/master/slides.2014/formal-semantics-slides.pdf	GitHub	2014
+750	Jacob Eisenstein	Finite-State Transducers	163	https://github.com/shichao116/NLP/blob/master/slides.2014/lec8-slides.pdf	GitHub	2014
+751	Jacob Eisenstein	Context Free Grammars and Parsing	256	https://github.com/shichao116/NLP/blob/master/slides.2014/parsing-slides.pdf	GitHub	2014
+752	Jacob Eisenstein	Examples of Viterbi, Forward, and Backward	712	https://github.com/shichao116/NLP/blob/master/slides.2014/lec9-hmm-slides.pdf	GitHub	2014
+753	Jacob Eisenstein	Modern statistical parsers	252	https://github.com/shichao116/NLP/blob/master/slides.2014/modern-cfg-parsing.pdf	GitHub	2014
+754	Dan Klein	Natural Language Processing: A Speech Example	711	https://people.eecs.berkeley.edu/~klein/cs288/fa14/slides/fa14lecture2-6pp.pdf	UC Berkeley	2014
+755	Dan Klein	Natural Language Processing: Classification I	511	https://people.eecs.berkeley.edu/~klein/cs288/fa14/slides/fa14lecture13-1pp.pdf	UC Berkeley	2014
+756	Dan Klein	Natural Language Processing: Machine Translation III	753	https://people.eecs.berkeley.edu/~klein/cs288/fa14/slides/fa14lecture19-1pp.pdf	UC Berkeley	2014
+757	Dan Klein	Natural Language Processing: Language Modeling II	211	https://people.eecs.berkeley.edu/~klein/cs288/fa14/slides/fa14lecture3-6pp.pdf	UC Berkeley	2014
+758	Dan Klein	Natural Language Processing: Language Modeling III	211	https://people.eecs.berkeley.edu/~klein/cs288/fa14/slides/fa14lecture4-1pp.pdf	UC Berkeley	2014
+759	Dan Klein	Natural Language Processing: Speech Inference	921	https://people.eecs.berkeley.edu/~klein/cs288/fa14/slides/fa14lecture7-1pp.pdf	UC Berkeley	2014
+760	Dan Klein	Natural Language Processing: Tasks	151	https://people.eecs.berkeley.edu/~klein/cs288/fa14/slides/fa14lecture21-1pp.pdf	UC Berkeley	2014
+761	Dan Klein	Natural Language Processing: The Speech Signal	921	https://people.eecs.berkeley.edu/~klein/cs288/fa14/slides/fa14lecture5-1pp.pdf	UC Berkeley	2014
+762	Dan Klein	Natural Language Processing: Course Information	111	https://people.eecs.berkeley.edu/~klein/cs288/fa14/slides/fa14lecture1-6pp.pdf	UC Berkeley	2014
+763	Dan Klein	Natural Language Processing: Parsing	242	https://people.eecs.berkeley.edu/~klein/cs288/fa14/slides/fa14lecture10-1pp.pdf	UC Berkeley	2014
+764	Dan Klein	Grounded Semantics	321	https://people.eecs.berkeley.edu/~klein/cs288/fa14/slides/fa14lecture22-1pp.pdf	UC Berkeley	2014
+765	Dan Klein	Natural Language Processing Classification II	515	https://people.eecs.berkeley.edu/~klein/cs288/fa14/slides/fa14lecture14-1pp.pdf	UC Berkeley	2014
+766	Dan Klein	Natural Language Processing Classification III	515	https://people.eecs.berkeley.edu/~klein/cs288/fa14/slides/fa14lecture15-1pp.pdf	UC Berkeley	2014
+767	Dan Klein	Natural Language Processing Machine Translation	721	https://people.eecs.berkeley.edu/~klein/cs288/fa14/slides/fa14lecture18-1pp.pdf	UC Berkeley	2014
+768	Dan Klein	Natural Language Processing Parsing I	244	https://people.eecs.berkeley.edu/~klein/cs288/fa14/slides/fa14lecture9-1pp.pdf	UC Berkeley	2014
+769	Dan Klein	Natural Language Processing Machine Translation	721	https://people.eecs.berkeley.edu/~klein/cs288/fa14/slides/fa14lecture17-1pp.pdf	UC Berkeley	2014
+770	Dan Klein	Natural Language Processing Part of Speech Tagging	256	https://people.eecs.berkeley.edu/~klein/cs288/fa14/slides/fa14lecture8-1pp.pdf	UC Berkeley	2014
+771	Dan Klein	Natural Language Processing Diachronics	456	https://people.eecs.berkeley.edu/~klein/cs288/fa14/slides/fa14lecture25-1pp.pdf	UC Berkeley	2014
+772	Dan Klein	Natural Language Processing Historical Document Transcription	214	https://people.eecs.berkeley.edu/~klein/cs288/fa14/slides/fa14lecture26-1pp.pdf	UC Berkeley	2014
+773	Dan Klein	Natural Language Processing Compositional Semantics	331	https://people.eecs.berkeley.edu/~klein/cs288/fa14/slides/fa14lecture16-1pp.pdf	UC Berkeley	2014
+774	Dan Klein	Natural Language Processing Parsing III	112	https://people.eecs.berkeley.edu/~klein/cs288/fa14/slides/fa14lecture11-1pp.pdf	UC Berkeley	2014
+775	Dan Klein	Automatic Summarization (and other stuff)	624	https://people.eecs.berkeley.edu/~klein/cs288/fa14/slides/fa14lecture23-1pp.pdf	UC Berkeley	2014
+776	Dan Klein	Natural Language Processing Acoustic Models	322	https://people.eecs.berkeley.edu/~klein/cs288/fa14/slides/fa14lecture6-1pp.pdf	UC Berkeley	2014
+777	Dan Klein	Natural Language Processing Machine Translation III	244	https://people.eecs.berkeley.edu/~klein/cs288/fa14/slides/fa14lecture20-1pp.pdf	UC Berkeley	2014
+778	Dan Klein	Natural Language Processing Parsing IV	112	https://people.eecs.berkeley.edu/~klein/cs288/fa14/slides/fa14lecture12-1pp.pdf	UC Berkeley	2014
+779	Dan Klein	Natural Language Processing Question Answering	411	https://people.eecs.berkeley.edu/~klein/cs288/fa14/slides/fa14lecture24-1pp.pdf	UC Berkeley	2014
+780	Julia Hockenmaier	Lecture 8: Variational inference	144	https://courses.engr.illinois.edu/cs598jhm/sp2013/Slides/Lecture08.pdf	University of Illinois at Urbana-Champaign	2013
+781	Julia Hockenmaier	Lecture 1: Introduction	511	https://courses.engr.illinois.edu/cs598jhm/sp2013/Slides/Lecture01.pdf	University of Illinois at Urbana-Champaign	2013
+782	Julia Hockenmaier	Covariance in Unsupervised Learning of Probabilistic Grammars	256	https://courses.engr.illinois.edu/cs598jhm/sp2013/Slides/Lecture25.pdf	University of Illinois at Urbana-Champaign	2013
+783	Julia Hockenmaier	The Innite Hidden Markov Model	112	https://courses.engr.illinois.edu/cs598jhm/sp2013/Slides/Lecture22.pdf	University of Illinois at Urbana-Champaign	2013
+784	Julia Hockenmaier	Lecture 13: Dirichlet Processes	382	https://courses.engr.illinois.edu/cs598jhm/sp2013/Slides/Lecture13.pdf	University of Illinois at Urbana-Champaign	2013
+785	Julia Hockenmaier	Lecture 7: Topic Models (Latent Dirichlet Allocation)	421	https://courses.engr.illinois.edu/cs598jhm/sp2013/Slides/Lecture07.pdf	University of Illinois at Urbana-Champaign	2013
+786	Julia Hockenmaier	Lecture 2: Statistical inferences	125	https://courses.engr.illinois.edu/cs598jhm/sp2013/Slides/Lecture02.pdf	University of Illinois at Urbana-Champaign	2013
+787	Julia Hockenmaier	Discovering Morphological Paradigms from Plain Text Using a Dirichlet Process Mixture Model	144	https://courses.engr.illinois.edu/cs598jhm/sp2013/Slides/Lecture26.pdf	University of Illinois at Urbana-Champaign	2013
+788	Julia Hockenmaier	Unsupervised Coreference Resolution in a Nonparametric	456	https://courses.engr.illinois.edu/cs598jhm/sp2013/Slides/Lecture24.pdf	University of Illinois at Urbana-Champaign	2013
+789	Julia Hockenmaier	Correlated Topic Models	144	https://courses.engr.illinois.edu/cs598jhm/sp2013/Slides/Lecture09.pdf	University of Illinois at Urbana-Champaign	2013
+790	Julia Hockenmaier	MODELING ANNOTATED DATA	452	https://courses.engr.illinois.edu/cs598jhm/sp2013/Slides/Lecture12.pdf	University of Illinois at Urbana-Champaign	2013
+791	Julia Hockenmaier	Multilingual Part-of-Speech Tagging: Two Unsupervised Approaches	112	https://courses.engr.illinois.edu/cs598jhm/sp2013/Slides/Lecture27.pdf	University of Illinois at Urbana-Champaign	2013
+792	Julia Hockenmaier	Lecture 14: Inference in Dirichlet Processes	431	https://courses.engr.illinois.edu/cs598jhm/sp2013/Slides/Lecture14.pdf	University of Illinois at Urbana-Champaign	2013
+793	Julia Hockenmaier	Reading Tea Leaves: How Humans Interpret Topic Models	421	https://courses.engr.illinois.edu/cs598jhm/sp2013/Slides/Lecture10.pdf	University of Illinois at Urbana-Champaign	2013
+794	Julia Hockenmaier	HDP-CCG Yonatan Bisk	322	https://courses.engr.illinois.edu/cs598jhm/sp2013/Slides/Lecture17.pdf	University of Illinois at Urbana-Champaign	2013
+795	Julia Hockenmaier	Probabilistic Grammars and Hierarchical Dirichlet	252	https://courses.engr.illinois.edu/cs598jhm/sp2013/Slides/Lecture23.pdf	University of Illinois at Urbana-Champaign	2013
+796	Julia Hockenmaier	Lecture 3: Comparing frequentist and Bayesian estimation techniques	382	https://courses.engr.illinois.edu/cs598jhm/sp2013/Slides/Lecture03.pdf	University of Illinois at Urbana-Champaign	2013
+797	Julia Hockenmaier	Unsupervised HMM POS Tagger Comparison	125	https://courses.engr.illinois.edu/cs598jhm/sp2013/Slides/Lecture21.pdf	University of Illinois at Urbana-Champaign	2013
+798	Julia Hockenmaier	Lecture 5: Sampling (Monte Carlo Methods)	382	https://courses.engr.illinois.edu/cs598jhm/sp2013/Slides/Lecture05.pdf	University of Illinois at Urbana-Champaign	2013
+799	Julia Hockenmaier	A Hierarchical Bayesian Language Model Based on	112	https://courses.engr.illinois.edu/cs598jhm/sp2013/Slides/Lecture18.pdf	University of Illinois at Urbana-Champaign	2013
+800	Julia Hockenmaier	Lecture 6: (Probabilistic) Latent Semantic Analysis	112	https://courses.engr.illinois.edu/cs598jhm/sp2013/Slides/Lecture06.pdf	University of Illinois at Urbana-Champaign	2013
+801	Julia Hockenmaier	Indian Buffet Process	543	https://courses.engr.illinois.edu/cs598jhm/sp2013/Slides/Lecture28.pdf	University of Illinois at Urbana-Champaign	2013
+802	Yoav Artzi	Language Models	212	http://www.cs.cornell.edu/courses/cs5740/2018sp/lectures/06-lm.pdf	Cornell University	2018
+803	Yoav Artzi	Introduction	112	http://www.cs.cornell.edu/courses/cs5740/2018sp/lectures/01-intro.pdf	Cornell University	2018
+804	Yoav Artzi	Computation Graphs	112	http://www.cs.cornell.edu/courses/cs5740/2018sp/lectures/04-nn-compgraph.pdf	Cornell University	2018
+805	Yoav Artzi	Recurrent Neural Networks	753	http://www.cs.cornell.edu/courses/cs5740/2018sp/lectures/08-rnn.pdf	Cornell University	2018
+806	Yoav Artzi	IBM Translation Models	454	http://www.cs.cornell.edu/courses/cs5740/2018sp/lectures/11-mt-alignments.pdf	Cornell University	2018
+807	Yoav Artzi	Meta NLP	456	http://www.cs.cornell.edu/courses/cs5740/2018sp/lectures/12-meta-nlp.pdf	Cornell University	2018
+808	Yoav Artzi	Text Classification	511	http://www.cs.cornell.edu/courses/cs5740/2018sp/lectures/02-textclass.pdf	Cornell University	2018
+809	Yoav Artzi	Sequence Prediction and Part-of-speech Tagging	142	http://www.cs.cornell.edu/courses/cs5740/2018sp/lectures/07-seq.pdf	Cornell University	2018
+810	Yoav Artzi	Dependency Parsing	112	http://www.cs.cornell.edu/courses/cs5740/2018sp/lectures/09-parsing-dep.pdf	Cornell University	2018
+811	Yoav Artzi	Constituency Parsing	256	http://www.cs.cornell.edu/courses/cs5740/2018sp/lectures/10-parsing-const.pdf	Cornell University	2018
+812	Yoav Artzi	Lexical Semantics	311	http://www.cs.cornell.edu/courses/cs5740/2018sp/lectures/05-lexical.pdf	Cornell University	2018
+813	Yoav Artzi	Neural Networks	112	http://www.cs.cornell.edu/courses/cs5740/2018sp/lectures/03-nn.pdf	Cornell University	2018
+814	Andrew McCallum	Probability Lecture #7	123	https://people.cs.umass.edu/~mccallum/courses/inlp2007/lect7-probability.ppt.pdf	University of Massachusetts Amherst	2007
+815	Andrew McCallum	Chart Parsing Lecture #6	244	https://people.cs.umass.edu/~mccallum/courses/inlp2007/lect6-cyk.ppt.pdf	University of Massachusetts Amherst	2007
+816	Andrew McCallum	Machine Translation Lecture #17	451	https://people.cs.umass.edu/~mccallum/courses/inlp2007/lect17-mt.key.pdf	University of Massachusetts Amherst	2007
+817	Andrew McCallum	Maximum Entropy Lecture #13	102	https://people.cs.umass.edu/~mccallum/courses/inlp2007/lect14-maxent.ppt.pdf	University of Massachusetts Amherst	2007
+818	Andrew McCallum	Intro Questions	444	https://people.cs.umass.edu/~mccallum/courses/inlp2007/lect19-pragmatics.pdf	University of Massachusetts Amherst	2007
+819	Andrew McCallum	Introduction to Python Lecture #3	131	https://people.cs.umass.edu/~mccallum/courses/inlp2007/lect3-python.ppt.pdf	University of Massachusetts Amherst	2007
+820	Andrew McCallum	Information Extraction Introduction to Natural Language Processing	232	https://people.cs.umass.edu/~mccallum/courses/inlp2007/lect20-ie.ppt.pdf	University of Massachusetts Amherst	2007
+821	Andrew McCallum	Part-of-speech Tagging & Hidden Markov Model Intro Lecture #10	112	https://people.cs.umass.edu/~mccallum/courses/inlp2007/lect10-tagginghmm1.ppt.pdf	University of Massachusetts Amherst	2007
+822	Andrew McCallum	Classification & Information Theory Lecture #8	511	https://people.cs.umass.edu/~mccallum/courses/inlp2007/lect8-infotheory.ppt.pdf	University of Massachusetts Amherst	2007
+823	Andrew McCallum	Sequence Labeling	511	https://people.cs.umass.edu/~mccallum/courses/inlp2007/lect15-memm-crf.ppt.pdf	University of Massachusetts Amherst	2007
+824	Andrew McCallum	Statistical Models of Semantics and Unsupervised Language Discovery Lecture #18	112	https://people.cs.umass.edu/~mccallum/courses/inlp2007/lect18-unsup.ppt.pdf	University of Massachusetts Amherst	2007
+825	Andrew McCallum	Noisy Channel, N-grams & Smoothing Lecture #9	214	https://people.cs.umass.edu/~mccallum/courses/inlp2007/lect9-noisychannel.ppt.pdf	University of Massachusetts Amherst	2007
+826	Andrew McCallum	Probabilistic Context Free Grammars	256	https://people.cs.umass.edu/~mccallum/courses/inlp2007/lect12-pcfg.key.pdf	University of Massachusetts Amherst	2007
+827	Andrew McCallum	Lecture 5: Context Free Grammars	256	https://people.cs.umass.edu/~mccallum/courses/inlp2007/lect5-cfg.pdf	University of Massachusetts Amherst	2007
+828	Andrew McCallum	The pragmatics of questions and answers	411	https://people.cs.umass.edu/~mccallum/courses/inlp2007/lect16-potts-semantics.pdf	University of Massachusetts Amherst	2007
+829	Andrew McCallum	Course Overview Lecture #1	112	https://people.cs.umass.edu/~mccallum/courses/inlp2007/lect1-intro.ppt.pdf	University of Massachusetts Amherst	2007
+830	Andrew McCallum	String Edit Distance (and intro to dynamic programming)	313	https://people.cs.umass.edu/~mccallum/courses/inlp2007/lect4-stredit.ppt.pdf	University of Massachusetts Amherst	2007
+831	Andrew McCallum	Regular Languages Lecture #2	831	https://people.cs.umass.edu/~mccallum/courses/inlp2007/lect2-regex.ppt.pdf	University of Massachusetts Amherst	2007
+832	Andrew McCallum	Information Extraction: Coreference and Relation Extraction	232	https://people.cs.umass.edu/~mccallum/courses/inlp2007/lect20-coref.ppt.pdf	University of Massachusetts Amherst	2007
+833	Andrew McCallum	Probabilistic Parsing in Practice	252	https://people.cs.umass.edu/~mccallum/courses/inlp2007/lect13-probparsing.key.pdf	University of Massachusetts Amherst	2007
+834	Yoav Goldberg	Practical Sentiment Analysis Tutorial	381	http://u.cs.biu.ac.il/~89-680/sentiment.pdf	The University of Texas at Austin	2018
+835	Yoav Goldberg	Design Challenges and Misconceptions in Named Entity Recognition	232	http://u.cs.biu.ac.il/~89-680/NER-ratinov.pdf	The University of Texas at Austin	2018
+836	Yoav Goldberg	Probabilistic approaches to semantic representation	331	http://u.cs.biu.ac.il/~89-680/topic-models-steyvers-griffiths.pdf	The University of Texas at Austin	2018
+837	Yoav Goldberg	More PCFG Parsing	252	http://u.cs.biu.ac.il/~89-680/parsing2.pdf	The University of Texas at Austin	2018
+838	Yoav Goldberg	Summarization	421	http://u.cs.biu.ac.il/~89-680/summ.pdf	The University of Texas at Austin	2018
+839	Yoav Goldberg	WORD SENSE DISAMBIGUATION	391	http://u.cs.biu.ac.il/~89-680/lex-sem.pdf	The University of Texas at Austin	2018
+840	Yoav Goldberg	Part of Speech Tagging and HMMs	142	http://u.cs.biu.ac.il/~89-680/hmm.pdf	The University of Texas at Austin	2018
+841	Yoav Goldberg	עיבוד שפות טבעיות	311	http://u.cs.biu.ac.il/~89-680/intro.pdf	The University of Texas at Austin	2018
+842	Yoav Goldberg	Unsupervised Learning and Topic Modeling	632	http://u.cs.biu.ac.il/~89-680/unsupervised-lda.pdf	The University of Texas at Austin	2018
+843	Yoav Goldberg	Chunking with Support Vector Machines	241	http://u.cs.biu.ac.il/~89-680/chunking-svm.pdf	The University of Texas at Austin	2018
+844	Yoav Goldberg	A Note on Latent Semantic Analysis	112	http://u.cs.biu.ac.il/~89-680/lsa.pdf	The University of Texas at Austin	2018
+845	Yoav Goldberg	Relation Extraction (RE) via Supervised Classification	233	http://u.cs.biu.ac.il/~89-680/semapp-re.pdf	The University of Texas at Austin	2018
+846	Yoav Goldberg	Parsing, PCFGs, and the CKY Algorithm	256	http://u.cs.biu.ac.il/~89-680/parsing-and-cky-extended.pdf	The University of Texas at Austin	2018
+847	Yoav Goldberg	Semi-Markov Conditional Random Fields for Information Extraction	232	http://u.cs.biu.ac.il/~89-680/semiCrf.pdf	The University of Texas at Austin	2018
+848	Yoav Goldberg	root nsubj	112	http://u.cs.biu.ac.il/~89-680/dep_trees.pdf	The University of Texas at Austin	2018
+849	Yoav Goldberg	Simple Probabilistic Modeling and PP Attachment	456	http://u.cs.biu.ac.il/~89-680/pp.pdf	The University of Texas at Austin	2018
+850	Yoav Goldberg	Document Level Models (1) Coreference Resolution	232	http://u.cs.biu.ac.il/~89-680/coref.pdf	The University of Texas at Austin	2018
+851	Yoav Goldberg	Feature-based Discriminative Models More Sequence Models	514	http://u.cs.biu.ac.il/~89-680/disc.pdf	The University of Texas at Austin	2018
+852	Yoav Goldberg	Parts of Speech 1	142	http://u.cs.biu.ac.il/~89-680/pos.pdf	The University of Texas at Austin	2018
+853	Yoav Goldberg	A Theoretical and Practical Implementation Tutorial on Topic Modeling and Gibbs Sampling	632	http://u.cs.biu.ac.il/~89-680/darling-lda.pdf	The University of Texas at Austin	2018
+854	Yoav Goldberg	Dependency Parsing	112	http://u.cs.biu.ac.il/~89-680/depparsing.pdf	The University of Texas at Austin	2018
+855	Yoav Goldberg	Sequence Segmentation Models	232	http://u.cs.biu.ac.il/~89-680/segmentation.pdf	The University of Texas at Austin	2018
+856	Sameer Singh	Machine Translation Contd	451	http://sameersingh.org/courses/statnlp/wi17/slides/lecture-0302-machine-translation-2.pdf	University of California	2017
+857	Sameer Singh	Discourse and Summarization	421	http://sameersingh.org/courses/statnlp/wi17/slides/lecture-0316-discourse-summarization.pdf	University of California	2017
+858	Sameer Singh	Sequence Labeling, Contd	511	http://sameersingh.org/courses/statnlp/wi17/slides/lecture-0202-sequence-labeling-contd.pdf	University of California	2017
+859	Sameer Singh	Logical Forms	831	http://sameersingh.org/courses/statnlp/wi17/slides/lecture-0221-ccg-contd.pdf	University of California	2017
+860	Sameer Singh	Question Answering (and Textual Entailment)	411	http://sameersingh.org/courses/statnlp/wi17/slides/lecture-0314-question-answering.pdf	University of California	2017
+861	Sameer Singh	Information Extraction	232	http://sameersingh.org/courses/statnlp/wi17/slides/lecture-0221-info-extr.pdf	University of California	2017
+862	Sameer Singh	Machine Translation	451	http://sameersingh.org/courses/statnlp/wi17/slides/lecture-0228-machine-translation.pdf	University of California	2017
+863	Sameer Singh	Discriminative Language Models	211	http://sameersingh.org/courses/statnlp/wi17/slides/lecture-0126-discriminative-lms.pdf	University of California	2017
+864	Sameer Singh	Text Classification Contd + Document Representations	511	http://sameersingh.org/courses/statnlp/wi17/slides/lecture-0117-classification2.pdf	University of California	2017
+865	Sameer Singh	Semantics: Roles and Relations	314	http://sameersingh.org/courses/statnlp/wi17/slides/lecture-0214-semantic-relations.pdf	University of California	2017
+866	Sameer Singh	Coreference & Entity Linking	232	http://sameersingh.org/courses/statnlp/wi17/slides/lecture-0309-entities.pdf	University of California	2017
+867	Sameer Singh	Sequence Labeling	511	http://sameersingh.org/courses/statnlp/wi17/slides/lecture-0131-sequence-labeling.pdf	University of California	2017
+868	Sameer Singh	Parsing, Contd	241	http://sameersingh.org/courses/statnlp/wi17/slides/lecture-0209-dependency-parsing.pdf	University of California	2017
+869	Sameer Singh	Language Modeling	211	http://sameersingh.org/courses/statnlp/wi17/slides/lecture-0124-lang-models.pdf	University of California	2017
+870	Sameer Singh	Machine Translation Contd	451	http://sameersingh.org/courses/statnlp/wi17/slides/lecture-0307-machine-translation-3.pdf	University of California	2017
+871	Sameer Singh	Syntactic Parsing	241	http://sameersingh.org/courses/statnlp/wi17/slides/lecture-0207-syntactic-parsing.pdf	University of California	2017
+872	Sameer Singh	Vector Space Models	112	http://sameersingh.org/courses/statnlp/wi17/slides/lecture-0119-vector-spaces.pdf	University of California	2017
+873	Sameer Singh	Text Classification 1	511	http://sameersingh.org/courses/statnlp/wi17/slides/lecture-0112-classification.pdf	University of California	2017
+874	Sameer Singh	Introduction to the Course	112	http://sameersingh.org/courses/statnlp/wi17/slides/lecture-0110-intro.pdf	University of California	2017
+875	Sameer Singh	Relation Extraction	233	http://sameersingh.org/courses/statnlp/wi17/slides/lecture-0223-relation-extraction.pdf	University of California	2017
+876	Sameer Singh	Logical Forms	831	http://sameersingh.org/courses/statnlp/wi17/slides/lecture-0216-logical-forms.pdf	University of California	2017
+877	Kevin Gimpel	Lecture 12:  Bayesian Inference, Unsupervised NLP	842	http://ttic.uchicago.edu/~kgimpel/teaching/31210/lectures/12.pdf	Toyota Technological Institute at Chicago	2017
+878	Kevin Gimpel	Lecture 14: Finish up Bayesian/Unsupervised NLP,  Start Structured Prediction	842	http://ttic.uchicago.edu/~kgimpel/teaching/31210/lectures/14.pdf	Toyota Technological Institute at Chicago	2017
+879	Kevin Gimpel	Lecture 13: Introduction to Bayesian Nonparametrics for NLP	842	http://ttic.uchicago.edu/~kgimpel/teaching/31210/lectures/13.pdf	Toyota Technological Institute at Chicago	2017
+880	Kevin Gimpel	Lecture 10: Introduction to Bayesian NLP	842	http://ttic.uchicago.edu/~kgimpel/teaching/31210/lectures/10.pdf	Toyota Technological Institute at Chicago	2017
+881	Kevin Gimpel	Lecture 8: Neural Machine TranslaEon	753	http://ttic.uchicago.edu/~kgimpel/teaching/31210/lectures/8.pdf	Toyota Technological Institute at Chicago	2017
+882	Kevin Gimpel	Lecture 11: Inference in Bayesian NLP	364	http://ttic.uchicago.edu/~kgimpel/teaching/31210/lectures/11.pdf	Toyota Technological Institute at Chicago	2017
+883	Kevin Gimpel	Lecture 5: Sequence-to-Sequence Modeling and Sentence Embeddings	999	http://ttic.uchicago.edu/~kgimpel/teaching/31210/lectures/5.pdf	Toyota Technological Institute at Chicago	2017
+884	Kevin Gimpel	Lecture 2: Elements of Neural NLP	112	http://ttic.uchicago.edu/~kgimpel/teaching/31210/lectures/2.pdf	Toyota Technological Institute at Chicago	2017
+885	Kevin Gimpel	Lecture 15: Structured Prediction	582	http://ttic.uchicago.edu/~kgimpel/teaching/31210/lectures/15.pdf	Toyota Technological Institute at Chicago	2017
+886	Kevin Gimpel	Lecture 9: NMT, finishing up Neural NLP	753	http://ttic.uchicago.edu/~kgimpel/teaching/31210/lectures/9.pdf	Toyota Technological Institute at Chicago	2017
+887	Kevin Gimpel	Lecture 16: Structured Prediction in NLP, Syntactic & Semantic Formalisms	582	http://ttic.uchicago.edu/~kgimpel/teaching/31210/lectures/16.pdf	Toyota Technological Institute at Chicago	2017
+888	Kevin Gimpel	Lecture 4: Word Embeddings (2)	721	http://ttic.uchicago.edu/~kgimpel/teaching/31210/lectures/4.pdf	Toyota Technological Institute at Chicago	2017
+889	Kevin Gimpel	Lecture 1: Introduction	112	http://ttic.uchicago.edu/~kgimpel/teaching/31210/lectures/1.pdf	Toyota Technological Institute at Chicago	2017
+890	Kevin Gimpel	Lecture 3: Word Embeddings	721	http://ttic.uchicago.edu/~kgimpel/teaching/31210/lectures/3.pdf	Toyota Technological Institute at Chicago	2017
+891	Kevin Gimpel	Lecture 7: Sequence-to-Sequence Modeling and Attention	745	http://ttic.uchicago.edu/~kgimpel/teaching/31210/lectures/7.pdf	Toyota Technological Institute at Chicago	2017
+892	Kevin Gimpel	Structured Prediction with Neural Networks in Speech Recognition	961	http://ttic.uchicago.edu/~kgimpel/teaching/31210/lectures/6.pdf	Toyota Technological Institute at Chicago	2017
+893	Raymond J. Mooney	Semantic Parsing	331	https://www.cs.utexas.edu/~mooney/cs388/slides/sem-parse.ppt	The University of Texas at Austin	2017
+894	Raymond J. Mooney	Introduction	112	https://www.cs.utexas.edu/~mooney/cs388/slides/intro.ppt	The University of Texas at Austin	2017
+895	Raymond J. Mooney	Machine Translation	451	https://www.cs.utexas.edu/~mooney/cs388/slides/mt.ppt	The University of Texas at Austin	2017
+896	Raymond J. Mooney	Syntactic Parsing	256	https://www.cs.utexas.edu/~mooney/cs388/slides/syntax.ppt	The University of Texas at Austin	2017
+897	Raymond J. Mooney	Semantic Role Labeling	367	https://www.cs.utexas.edu/~mooney/cs388/slides/srl.ppt	The University of Texas at Austin	2017
+898	Raymond J. Mooney	vector-space (distributional) lexical semantics	311	https://www.cs.utexas.edu/~mooney/cs388/slides/vector-semantics.pptx	The University of Texas at Austin	2017
+899	Raymond J. Mooney	Part-Of-Speech Tagging Sequence Labeling and Hidden Markov	142	https://www.cs.utexas.edu/~mooney/cs388/slides/pos-tagging.ppt	The University of Texas at Austin	2017
+900	Raymond J. Mooney	Story Understanding	241	https://www.cs.utexas.edu/~mooney/cs388/slides/story.ppt	The University of Texas at Austin	2017
+901	Raymond J. Mooney	Text Clustering	521	https://www.cs.utexas.edu/~mooney/cs388/slides/TextClustering.ppt	The University of Texas at Austin	2017
+902	Raymond J. Mooney	Probabilistic Context Free Grammar (PCFG)	251	https://www.cs.utexas.edu/~mooney/cs388/slides/stats-parsing.ppt	The University of Texas at Austin	2017
+903	Raymond J. Mooney	Discriminative Training and Conditional Random Fields (CRFs)	511	https://www.cs.utexas.edu/~mooney/cs388/slides/crf.ppt	The University of Texas at Austin	2017
+904	Raymond J. Mooney	Information Extraction	232	https://www.cs.utexas.edu/~mooney/cs388/slides/ie.ppt	The University of Texas at Austin	2017
+905	Raymond J. Mooney	N-Gram Language Models	112	https://www.cs.utexas.edu/~mooney/cs388/slides/ngrams.ppt	The University of Texas at Austin	2017
+906	Raymond J. Mooney	N-Gram Model Formulas	112	https://www.cs.utexas.edu/~mooney/cs388/slides/equation-sheet.ppt	The University of Texas at Austin	2017
+907	Raymond J. Mooney	Text Categorization	511	https://www.cs.utexas.edu/~mooney/cs388/slides/TextCategorization.pptx	The University of Texas at Austin	2017
+908	Raymond J. Mooney	Word Sense Disambiguation	112	https://www.cs.utexas.edu/~mooney/cs388/slides/wsd.ppt	The University of Texas at Austin	2017
+909	Philipp Koehn	Empirical Methods in Natural Language Processing Lecture 13	443	http://www.inf.ed.ac.uk/teaching/courses/emnlp/slides/emnlp13.pdf	The University of Edinburgh	2008
+910	Philipp Koehn	Empirical Method in Natural Language Processing Tagging (I): Part-of-speech tagging with HMM	221	http://www.inf.ed.ac.uk/teaching/courses/emnlp/slides/emnlp05.pdf	The University of Edinburgh	2008
+911	Philipp Koehn	Data Intensive Linguistics Lecture 16	103	http://www.inf.ed.ac.uk/teaching/courses/emnlp/slides/emnlp16.pdf	The University of Edinburgh	2008
+912	Philipp Koehn	Empirical Methods in Natural Language Processing Lecture 19	452	http://www.inf.ed.ac.uk/teaching/courses/emnlp/slides/emnlp19.pdf	The University of Edinburgh	2008
+913	Philipp Koehn	Empirical Methods in Natural Language Processing Lecture 14	451	http://www.inf.ed.ac.uk/teaching/courses/emnlp/slides/emnlp14.pdf	The University of Edinburgh	2008
+914	Philipp Koehn	Empirical Methods in Natural Language Processing Lecture 12	521	http://www.inf.ed.ac.uk/teaching/courses/emnlp/slides/emnlp12.pdf	The University of Edinburgh	2008
+915	Philipp Koehn	Empirical Methods in Natural Language Processing Language Modeling (II): Smoothing and Back-O	212	http://www.inf.ed.ac.uk/teaching/courses/emnlp/slides/emnlp04.pdf	The University of Edinburgh	2008
+916	Philipp Koehn	Empirical Methods in Natural Language Processing Lecture 9	256	http://www.inf.ed.ac.uk/teaching/courses/emnlp/slides/emnlp09.pdf	The University of Edinburgh	2008
+917	Philipp Koehn	Empirical Methods in Natural Language Processing Lecture 1	123	http://www.inf.ed.ac.uk/teaching/courses/emnlp/slides/emnlp01.pdf	The University of Edinburgh	2008
+918	Philipp Koehn	Empirical Methods in Natural Language Processing Lecture 11	391	http://www.inf.ed.ac.uk/teaching/courses/emnlp/slides/emnlp11.pdf	The University of Edinburgh	2008
+919	Philipp Koehn	Empirical Methods in Natural Language Processing Lecture 15	144	http://www.inf.ed.ac.uk/teaching/courses/emnlp/slides/emnlp15.pdf	The University of Edinburgh	2008
+920	Philipp Koehn	Empirical Methods in Natural Language Processing Lecture 10	252	http://www.inf.ed.ac.uk/teaching/courses/emnlp/slides/emnlp10.pdf	The University of Edinburgh	2008
+921	Philipp Koehn	Empirical Methods in Natural Language Processing Lecture 6	142	http://www.inf.ed.ac.uk/teaching/courses/emnlp/slides/emnlp06.pdf	The University of Edinburgh	2008
+922	Philipp Koehn	Empirical Methods in Natural Language Processing Language Modeling (I): From counts to smoothing	112	http://www.inf.ed.ac.uk/teaching/courses/emnlp/slides/emnlp03.pdf	The University of Edinburgh	2008
+923	Philipp Koehn	Empirical Methods in Natural Language Processing Lecture 8	142	http://www.inf.ed.ac.uk/teaching/courses/emnlp/slides/emnlp08.pdf	The University of Edinburgh	2008
+924	Philipp Koehn	Data Intensive Linguistics Lecture 17	103	http://www.inf.ed.ac.uk/teaching/courses/emnlp/slides/emnlp17.pdf	The University of Edinburgh	2008
+925	Philipp Koehn	Empirical Methods in Natural Language Processing Lecture 2	123	http://www.inf.ed.ac.uk/teaching/courses/emnlp/slides/emnlp02.pdf	The University of Edinburgh	2008
+926	Philipp Koehn	Assignment: Named Entity Recognition	232	http://www.inf.ed.ac.uk/teaching/courses/emnlp/slides/emnlp07.pdf	The University of Edinburgh	2008
+927	Kevin Gimpel	Lecture 12:  Syntax and Parsing	241	http://ttic.uchicago.edu/~kgimpel/teaching/31190/lectures/12.pdf	Toyota Technological Institute at Chicago	2016
+928	Kevin Gimpel	Lecture 14: Introduction to Computational Semantics	331	http://ttic.uchicago.edu/~kgimpel/teaching/31190/lectures/14.pdf	Toyota Technological Institute at Chicago	2016
+929	Kevin Gimpel	Lecture 13: Dependency Syntax/Parsing & Review for Midterm	241	http://ttic.uchicago.edu/~kgimpel/teaching/31190/lectures/13.pdf	Toyota Technological Institute at Chicago	2016
+930	Kevin Gimpel	Lecture 10: Neural Networks for NLP	112	http://ttic.uchicago.edu/~kgimpel/teaching/31190/lectures/10.pdf	Toyota Technological Institute at Chicago	2016
+931	Kevin Gimpel	Lecture 8: Inference in Structured Prediction	582	http://ttic.uchicago.edu/~kgimpel/teaching/31190/lectures/8.pdf	Toyota Technological Institute at Chicago	2016
+932	Kevin Gimpel	Lecture 11: Recurrent and Convolutional Neural Networks in NLP	741	http://ttic.uchicago.edu/~kgimpel/teaching/31190/lectures/11.pdf	Toyota Technological Institute at Chicago	2016
+933	Kevin Gimpel	Lecture 5: Word Vectors	721	http://ttic.uchicago.edu/~kgimpel/teaching/31190/lectures/5.pdf	Toyota Technological Institute at Chicago	2016
+934	Kevin Gimpel	Lecture 2: Text Classification	511	http://ttic.uchicago.edu/~kgimpel/teaching/31190/lectures/2.pdf	Toyota Technological Institute at Chicago	2016
+935	Kevin Gimpel	Lecture 15: Introduction to Machine Translation	456	http://ttic.uchicago.edu/~kgimpel/teaching/31190/lectures/15.pdf	Toyota Technological Institute at Chicago	2016
+936	Kevin Gimpel	Lecture 9: Sequence Models	221	http://ttic.uchicago.edu/~kgimpel/teaching/31190/lectures/9.pdf	Toyota Technological Institute at Chicago	2016
+937	Kevin Gimpel	Lecture 16: Machine Translation and other NLP Applications	451	http://ttic.uchicago.edu/~kgimpel/teaching/31190/lectures/16.pdf	Toyota Technological Institute at Chicago	2016
+938	Kevin Gimpel	Lecture 4: Lexical Semantics	246	http://ttic.uchicago.edu/~kgimpel/teaching/31190/lectures/4.pdf	Toyota Technological Institute at Chicago	2016
+939	Kevin Gimpel	Lecture 1: Introduction	311	http://ttic.uchicago.edu/~kgimpel/teaching/31190/lectures/1.pdf	Toyota Technological Institute at Chicago	2016
+940	Kevin Gimpel	Lecture 3: Words	721	http://ttic.uchicago.edu/~kgimpel/teaching/31190/lectures/3.pdf	Toyota Technological Institute at Chicago	2016
+941	Kevin Gimpel	Lecture 7: Sequence Models	112	http://ttic.uchicago.edu/~kgimpel/teaching/31190/lectures/7.pdf	Toyota Technological Institute at Chicago	2016
+942	Kevin Gimpel	Lecture 6: Language Modeling	112	http://ttic.uchicago.edu/~kgimpel/teaching/31190/lectures/6.pdf	Toyota Technological Institute at Chicago	2016
+943	Noah Smith	Natural Language Processing (CSEP 517): Distributional Semantics	321	https://courses.cs.washington.edu/courses/csep517/17sp/slides/lecture8a.pdf	University of Washington	2017
+944	Noah Smith	Natural Language Processing (CSEP 517): Predicate-Argument and Compositional Semantics	321	https://courses.cs.washington.edu/courses/csep517/17sp/slides/lecture7.pdf	University of Washington	2017
+945	Noah Smith	Natural Language Processing (CSEP 517): Language Models, Continued	112	https://courses.cs.washington.edu/courses/csep517/17sp/slides/lecture2.pdf	University of Washington	2017
+946	Noah Smith	Natural Language Processing (CSEP 517): Computational Pragmatics	444	https://courses.cs.washington.edu/courses/csep517/17sp/slides/lecture9a.pdf	University of Washington	2017
+947	Noah Smith	Natural Language Processing (CSEP 517): Text Classication	511	https://courses.cs.washington.edu/courses/csep517/17sp/slides/lecture3.pdf	University of Washington	2017
+948	Noah Smith	Natural Language Processing (CSEP 517): Phrase Structure Syntax and Parsing	256	https://courses.cs.washington.edu/courses/csep517/17sp/slides/lecture5.pdf	University of Washington	2017
+949	Noah Smith	Natural Language Processing (CSEP 517): Machine Translation	451	https://courses.cs.washington.edu/courses/csep517/17sp/slides/lecture8b.pdf	University of Washington	2017
+950	Noah Smith	Natural Language Processing (CSEP 517): Dependency Syntax and Parsing	112	https://courses.cs.washington.edu/courses/csep517/17sp/slides/lecture6.pdf	University of Washington	2017
+951	Noah Smith	Natural Language Processing (CSEP 517): Introduction & Language Models	112	https://courses.cs.washington.edu/courses/csep517/17sp/slides/lecture1.pdf	University of Washington	2017
+952	Noah Smith	Natural Language Processing (CSEP 517): Sequence Models	112	https://courses.cs.washington.edu/courses/csep517/17sp/slides/lecture4.pdf	University of Washington	2017
+953	Noah Smith	Natural Language Processing (CSEP 517): Machine Translation (Continued),	451	https://courses.cs.washington.edu/courses/csep517/17sp/slides/lecture9b.pdf	University of Washington	2017
+954	Graham Neubig	CS11-747 Neural Networks for NLP Reinforcement Learning for NLP	857	http://phontron.com/class/nn4nlp2017/assets/slides/nn4nlp-16-rl.pdf	Carnegie Mellon University	2017
+955	Graham Neubig	CS11-747 Neural Networks for NLP Conditioned Generation Graham Neubig	144	http://phontron.com/class/nn4nlp2017/assets/slides/nn4nlp-08-condlm.pdf	Carnegie Mellon University	2017
+956	Graham Neubig	CS11-747 Neural Networks for NLP Convolutional Networks	744	http://phontron.com/class/nn4nlp2017/assets/slides/nn4nlp-05-cnn.pdf	Carnegie Mellon University	2017
+957	Graham Neubig	CS11-747 Neural Networks for NLP Recurrent Neural Networks	741	http://phontron.com/class/nn4nlp2017/assets/slides/nn4nlp-06-rnn.pdf	Carnegie Mellon University	2017
+958	Graham Neubig	CS11-747 Neural Networks for NLP Structured Prediction with Local Dependencies	582	http://phontron.com/class/nn4nlp2017/assets/slides/nn4nlp-11-crf.pdf	Carnegie Mellon University	2017
+959	Graham Neubig	CS11-747 Neural Networks for NLP Models of Words	721	http://phontron.com/class/nn4nlp2017/assets/slides/nn4nlp-03-wordemb.pdf	Carnegie Mellon University	2017
+960	Graham Neubig	CS11-747 Neural Networks for NLP Multi-task, Multi-lingual	112	http://phontron.com/class/nn4nlp2017/assets/slides/nn4nlp-25-multitask.pdf	Carnegie Mellon University	2017
+961	Graham Neubig	CS11-747 Neural Networks for NLP Unsupervised and Semi-supervised	112	http://phontron.com/class/nn4nlp2017/assets/slides/nn4nlp-18-unsup.pdf	Carnegie Mellon University	2017
+962	Graham Neubig	CS11-747 Neural Networks for NLP Using/Evaluating Sentence	351	http://phontron.com/class/nn4nlp2017/assets/slides/nn4nlp-07-sentrep.pdf	Carnegie Mellon University	2017
+963	Graham Neubig	CS11-747 Neural Networks for NLP  Advanced Search Algorithms	821	http://phontron.com/class/nn4nlp2017/assets/slides/nn4nlp-24-search.pdf	Carnegie Mellon University	2017
+964	Graham Neubig	CS11-747 Neural Networks for NLP Models of Dialog and	431	http://phontron.com/class/nn4nlp2017/assets/slides/nn4nlp-20-dialog.pdf	Carnegie Mellon University	2017
+965	Graham Neubig	CS11-747 Neural Networks for NLP Neural Semantic Parsing	331	http://phontron.com/class/nn4nlp2017/assets/slides/nn4nlp-14-semanticparsing.pdf	Carnegie Mellon University	2017
+966	Graham Neubig	CS11-747 Neural Networks for NLP Debugging Neural Networks for NLP	112	http://phontron.com/class/nn4nlp2017/assets/slides/nn4nlp-23-debugging.pdf	Carnegie Mellon University	2017
+967	Graham Neubig	CS11-747 Neural Networks for NLP Why is word2vec so fast? Efciency tricks for neural nets	721	http://phontron.com/class/nn4nlp2017/assets/slides/nn4nlp-04-efficiency.pdf	Carnegie Mellon University	2017
+968	Graham Neubig	CS11-747 Neural Networks for NLP Intro	103	http://phontron.com/class/nn4nlp2017/assets/slides/nn4nlp-01-intro.pdf	Carnegie Mellon University	2017
+969	Graham Neubig	CS11-747 Neural Networks for NLP Learning From/For Knowledge Bases	363	http://phontron.com/class/nn4nlp2017/assets/slides/nn4nlp-21-kb.pdf	Carnegie Mellon University	2017
+970	Graham Neubig	CS11-747 Neural Networks for NLP Attention	745	http://phontron.com/class/nn4nlp2017/assets/slides/nn4nlp-09-attention.pdf	Carnegie Mellon University	2017
+971	Graham Neubig	CS11-747 Neural Networks for NLP A Simple Exercise:Predicting the Next Word	511	http://phontron.com/class/nn4nlp2017/assets/slides/nn4nlp-02-lm.pdf	Carnegie Mellon University	2017
+972	Graham Neubig	CS11-747 Neural Networks for NLP Structured Prediction Basics	582	http://phontron.com/class/nn4nlp2017/assets/slides/nn4nlp-10-structure.pdf	Carnegie Mellon University	2017
+973	Graham Neubig	CS11-747 Neural Networks for NLP Models w/ Latent Random	631	http://phontron.com/class/nn4nlp2017/assets/slides/nn4nlp-15-latent.pdf	Carnegie Mellon University	2017
+974	Graham Neubig	CS11-747 Neural Networks for NLP Document Level	443	http://phontron.com/class/nn4nlp2017/assets/slides/nn4nlp-19-document.pdf	Carnegie Mellon University	2017
+975	Graham Neubig	CS11-747 Neural Networks for NLP Parsing with Dynamic Programming	112	http://phontron.com/class/nn4nlp2017/assets/slides/nn4nlp-13-dpparsing.pdf	Carnegie Mellon University	2017
+976	Graham Neubig	CS11-747 Neural Networks for NLP Adversarial Methods Zihang Dai & Qizhe Xie	824	http://phontron.com/class/nn4nlp2017/assets/slides/nn4nlp-17-adversarial.pdf	Carnegie Mellon University	2017
+977	Dan Jurafsky	Computing with a Thesaurus	315	https://web.stanford.edu/~jurafsky/slp3/slides/Chapter18_introandsimilarity.pdf	Stanford University	2017
+978	Dan Jurafsky	Vector Semantics Dense Vectors	721	https://web.stanford.edu/~jurafsky/slp3/slides/vector2.pdf	Stanford University	2017
+979	Dan Jurafsky	Word Sense Disambiguation	112	https://web.stanford.edu/~jurafsky/slp3/slides/Chapter18.wsd.pdf	Stanford University	2017
+980	Dan Jurafsky	Basic Text Processing Regular Expressions	161	https://web.stanford.edu/~jurafsky/slp3/slides/2_TextProc.pdf	Stanford University	2017
+981	Dan Jurafsky	Text Classification and Nave Bayes The Task of Text Classification	514	https://web.stanford.edu/~jurafsky/slp3/slides/7_NB.pdf	Stanford University	2017
+982	Dan Jurafsky	Computing with Affective Lexicons Affective, Sentimental,	382	https://web.stanford.edu/~jurafsky/slp3/slides/21_SentLex.pdf	Stanford University	2017
+983	Dan Jurafsky	Spelling Correction and the Noisy	214	https://web.stanford.edu/~jurafsky/slp3/slides/6_Spell.pdf	Stanford University	2017
+984	Dan Jurafsky	Selectional Restrictions	362	https://web.stanford.edu/~jurafsky/slp3/slides/22_select.pdf	Stanford University	2017
+985	Dan Jurafsky	Sentiment Analysis What is Sentiment	381	https://web.stanford.edu/~jurafsky/slp3/slides/7_Sent.pdf	Stanford University	2017
+986	Dan Jurafsky	Language Modeling Introduction to N-grams	112	https://web.stanford.edu/~jurafsky/slp3/slides/LM_4.pdf	Stanford University	2017
+987	Dan Jurafsky	Semantic Role Labeling	367	https://web.stanford.edu/~jurafsky/slp3/slides/22_SRL.pdf	Stanford University	2017
+988	Dan Jurafsky	Minimum Edit Distance	313	https://web.stanford.edu/~jurafsky/slp3/slides/2_EditDistance.pdf	Stanford University	2017
+989	Dan Jurafsky	Vector Semantics	721	https://web.stanford.edu/~jurafsky/slp3/slides/vector1.pdf	Stanford University	2017
+990	Susan W. Brown	Phonology and speech applications with weighted automata	314	http://verbs.colorado.edu/~mpalmer/CSCI5832/slides/lecture_11_Phonology_Mans.pdf	The University of Colorado Boulder	2015
+991	Susan W. Brown	Finite state morphology and phonology	163	http://verbs.colorado.edu/~mpalmer/CSCI5832/slides/lecture_03_morph_FSTs.pdf	The University of Colorado Boulder	2015
+992	Susan W. Brown	Predicate Logic and Proposition Bank	362	http://verbs.colorado.edu/~mpalmer/CSCI5832/slides/lecture_20_pred_logic_propbank.pdf	The University of Colorado Boulder	2015
+993	Susan W. Brown	Natural Language Processing Lecture 1	103	http://verbs.colorado.edu/~mpalmer/CSCI5832/slides/lecture_01.pdf	The University of Colorado Boulder	2015
+994	Susan W. Brown	Natural Language Processing Lecture 15	142	http://verbs.colorado.edu/~mpalmer/CSCI5832/slides/lecture_15_parsingMP.pdf	The University of Colorado Boulder	2015
+995	Susan W. Brown	Natural Language Processing Lecture 19.2	112	http://verbs.colorado.edu/~mpalmer/CSCI5832/slides/lecture_19.2_prop_logic.pdf	The University of Colorado Boulder	2015
+996	Susan W. Brown	Natural Language Processing Lecture 14	256	http://verbs.colorado.edu/~mpalmer/CSCI5832/slides/lecture_14_Parsing-MP.pdf	The University of Colorado Boulder	2015
+997	Susan W. Brown	Natural Language Processing Lecture 18.2	256	http://verbs.colorado.edu/~mpalmer/CSCI5832/slides/lecture_18.2_StatsMP.pdf	The University of Colorado Boulder	2015
+998	Susan W. Brown	Natural Language Processing Lecture 16, 17, 18.1	256	http://verbs.colorado.edu/~mpalmer/CSCI5832/slides/lecture_16-18.1parsing_MP.pdf	The University of Colorado Boulder	2015
+999	Susan W. Brown	Natural Language Processing Lecture 9	112	http://verbs.colorado.edu/~mpalmer/CSCI5832/slides/lecture_09_POS_HMM2-Shumin.pdf	The University of Colorado Boulder	2015
+1000	Susan W. Brown	Natural Language Processing Lecture 10	112	http://verbs.colorado.edu/~mpalmer/CSCI5832/slides/lecture_10_HMM3-Shumin.pdf	The University of Colorado Boulder	2015
+1001	Susan W. Brown	Natural Language Processing Lecture 4	241	http://verbs.colorado.edu/~mpalmer/CSCI5832/slides/lecture_04_morph_FSTs.pdf	The University of Colorado Boulder	2015
+1002	Susan W. Brown	Natural Language Processing Lecture 13	256	http://verbs.colorado.edu/~mpalmer/CSCI5832/slides/lecture_13_Parsing-MP.pdf	The University of Colorado Boulder	2015
+1003	Susan W. Brown	Natural Language Processing Lecture 19.1	256	http://verbs.colorado.edu/~mpalmer/CSCI5832/slides/lecture_19.1_StatsMP.pdf	The University of Colorado Boulder	2015
+1004	Trevor Cohn	Subject Overview	999	https://trevorcohn.github.io/comp90042/slides/WSTA_L1_introduction.pdf	Github	2019
+1005	Trevor Cohn	Information Retrieval with the vector space model	999	https://trevorcohn.github.io/comp90042/slides/WSTA_L2_ir_vsm.pdf	Github	2019
+1006	Trevor Cohn	Index compression and efficient query processing	999	https://trevorcohn.github.io/comp90042/slides/WSTA_L3_IR.pdf	Github	2019
+1007	Trevor Cohn	Query completion and query expansion	999	https://trevorcohn.github.io/comp90042/slides/WSTA_L4_IR.pdf	Github	2019
+1008	Trevor Cohn	Index construction and advanced queries	999	https://trevorcohn.github.io/comp90042/slides/WSTA_L5_IR.pdf	Github	2019
+1009	Trevor Cohn	IR Evaluation and Learning to Rank	999	https://trevorcohn.github.io/comp90042/slides/WSTA_L6_IR_evaluation.pdf	Github	2019
+1010	Trevor Cohn	Text classification	999	https://trevorcohn.github.io/comp90042/slides/WSTA_L7_text_classification.pdf	Github	2019
+1011	Trevor Cohn	Ngram language modelling	999	https://trevorcohn.github.io/comp90042/slides/WSTA_L8_n-gram_language_models.pdf	Github	2019
+1012	Trevor Cohn	Lexical semantics	999	https://trevorcohn.github.io/comp90042/slides/WSTA_L9_lexical_semantics.pdf	Github	2019
+1013	Trevor Cohn	Distributional semantics	999	https://trevorcohn.github.io/comp90042/slides/WSTA_L10_distributional_semantics.pdf	Github	2019
+1014	Trevor Cohn	Part of Speech Tagging	999	https://trevorcohn.github.io/comp90042/slides/WSTA_L11_part_of_speech_tagging.pdf	Github	2019
+1015	Trevor Cohn	Deep learning for language models and tagging	999	https://trevorcohn.github.io/comp90042/slides/WSTA_L12_neural_sequence_models.pdf	Github	2019
+1016	Trevor Cohn	Information Extraction	999	https://trevorcohn.github.io/comp90042/slides/WSTA_L13_information_extraction.pdf	Github	2019
+1017	Trevor Cohn	Question Answering	999	https://trevorcohn.github.io/comp90042/slides/WSTA_L14_question_answering.pdf	Github	2019
+1018	Trevor Cohn	Probabilisitic Sequence Modelling	999	https://trevorcohn.github.io/comp90042/slides/WSTA_L15_probabilistic_sequence_models.pdf	Github	2019
+1019	Trevor Cohn	Language theory and automata	999	https://trevorcohn.github.io/comp90042/slides/WSTA_L16_finite_state_automata.pdf	Github	2019
