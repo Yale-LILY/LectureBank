@@ -3,10 +3,7 @@
 
 This is the github page for our paper [*What Should I Learn First: Introducing LectureBank for NLP Education and Prerequisite Chain Learning*](https://arxiv.org/abs/1811.12181) in the proceedings AAAI 2019. 
 
-Code for replicating the results will be uploaded soon. Stay tuned.
-
-
-![An example of prerequisite relations from lecture slides depicted as a directed graph](https://github.com/Yale-LILY/LectureBank/blob/master/imgs/slide_diagram_final.png)
+![An example of prerequisite relations from lecture slides depicted as a directed graph](https://github.com/Yale-LILY/LectureBank/blob/master/LB-Paper/imgs/slide_diagram_final.png)
 
 The list of descriptions can be found in the following:
 
