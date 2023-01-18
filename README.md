@@ -30,8 +30,9 @@ We went through a URL check on May, 2022, here are the valid resource numbers:
 - 3564 lb3.tsv
 - 3136 lb4.tsv
 - 1321 lb5.tsv
+- 397 lb6.tsv
 
-**NOTE**: we combined all five batches of LectureBank, and remove duplicates and invlaid urls. All data can be found in [`alldata.tsv`](https://github.com/Yale-LILY/LectureBank/blob/master/alldata.tsv) with a total number to be **7104**. 
+**NOTE**: we combined all five batches of LectureBank, and remove duplicates and invlaid urls. All data can be found in [`alldata.tsv`](https://github.com/Yale-LILY/LectureBank/blob/master/alldata.tsv) with a total number to be **7499**. 
 
 
 ## Taxonomy
