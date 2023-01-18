@@ -1,0 +1,398 @@
+ID	Instructor	Title	Topic	URL	Venue	Year
+1	Tatsunori Hashimoto, Jiajun Wu	CS221 Problem Workout Week 1	711	https://stanford-cs221.github.io/winter2021/workouts/week1.pdf	Stanford University	2021
+2	Tatsunori Hashimoto, Jiajun Wu	CS221 Problem Workout Solutions	711	https://stanford-cs221.github.io/winter2021/workouts/week1_solutions.pdf	Stanford University	2021
+3	Tatsunori Hashimoto, Jiajun Wu	CS221 Problem Workout	711	https://stanford-cs221.github.io/winter2021/workouts/week2.pdf	Stanford University	2021
+4	Tatsunori Hashimoto, Jiajun Wu	CS221 Problem Workout Solutions	711	https://stanford-cs221.github.io/winter2021/workouts/week2_solutions.pdf	Stanford University	2021
+5	Tatsunori Hashimoto, Jiajun Wu	CS221 Problem Workout	711	https://stanford-cs221.github.io/winter2021/workouts/week2_whiteboard.pdf	Stanford University	2021
+6	Tatsunori Hashimoto, Jiajun Wu	CS221 Problem Workout	711	https://stanford-cs221.github.io/winter2021/workouts/week3.pdf	Stanford University	2021
+7	Tatsunori Hashimoto, Jiajun Wu	CS221 Section 3: Search	711	https://stanford-cs221.github.io/winter2021/workouts/week3_slides.pdf	Stanford University	2021
+8	Tatsunori Hashimoto, Jiajun Wu	CS221 Problem Workout Solutions	711	https://stanford-cs221.github.io/winter2021/workouts/week3_solutions.pdf	Stanford University	2021
+9	Tatsunori Hashimoto, Jiajun Wu	CS221 Problem Workout	711	https://stanford-cs221.github.io/winter2021/workouts/week4.pdf	Stanford University	2021
+10	Tatsunori Hashimoto, Jiajun Wu	MDPs: overview	711	https://stanford-cs221.github.io/winter2021/workouts/week4_slides.pdf	Stanford University	2021
+11	Tatsunori Hashimoto, Jiajun Wu	CS221 Problem Workout Solutions	711	https://stanford-cs221.github.io/winter2021/workouts/week4_solutions.pdf	Stanford University	2021
+12	Tatsunori Hashimoto, Jiajun Wu	CS221 Problem Workout	711	https://stanford-cs221.github.io/winter2021/workouts/week5.pdf	Stanford University	2021
+13	Tatsunori Hashimoto, Jiajun Wu	GAMES	711	https://stanford-cs221.github.io/winter2021/workouts/week5_slides.pdf	Stanford University	2021
+14	Tatsunori Hashimoto, Jiajun Wu	CS221 Problem Workout Solutions	711	https://stanford-cs221.github.io/winter2021/workouts/week5_solutions.pdf	Stanford University	2021
+15	Tatsunori Hashimoto, Jiajun Wu	CS221 Problem Workout	711	https://stanford-cs221.github.io/winter2021/workouts/week7.pdf	Stanford University	2021
+16	Tatsunori Hashimoto, Jiajun Wu	CSPs: overview	711	https://stanford-cs221.github.io/winter2021/workouts/week7_slides.pdf	Stanford University	2021
+17	Tatsunori Hashimoto, Jiajun Wu	CS221 Problem Workout Solutions	711	https://stanford-cs221.github.io/winter2021/workouts/week7_solutions.pdf	Stanford University	2021
+18	Tatsunori Hashimoto, Jiajun Wu	CS221 Problem Workout	711	https://stanford-cs221.github.io/winter2021/workouts/week8.pdf	Stanford University	2021
+19	Tatsunori Hashimoto, Jiajun Wu	CS221 Section 7 Bayesian Networks	711	https://stanford-cs221.github.io/winter2021/workouts/week8_slides.pdf	Stanford University	2021
+20	Tatsunori Hashimoto, Jiajun Wu	CS221 Problem Workout Solutions	711	https://stanford-cs221.github.io/winter2021/workouts/week8_solutions.pdf	Stanford University	2021
+21	Tatsunori Hashimoto, Jiajun Wu	CS221 Problem Workout	711	https://stanford-cs221.github.io/winter2021/workouts/week9.pdf	Stanford University	2021
+22	Tatsunori Hashimoto, Jiajun Wu	Logic	711	https://stanford-cs221.github.io/winter2021/workouts/week9_slides.pdf	Stanford University	2021
+23	Tatsunori Hashimoto, Jiajun Wu	CS221 Problem Workout Solutions	711	https://stanford-cs221.github.io/winter2021/workouts/week9_solutions.pdf	Stanford University	2021
+24	Erick Galinkin	Information Geometry A Crash Course	999	https://cnchou.github.io/docs/mini-course/slides/public-advanced-IIa.pdf	Harvard University	2022
+25	Giancola Simone	Simulated Annealing of the Travelling Salesman Problem	999	https://cnchou.github.io/docs/mini-course/slides/public-advanced-IIb.pdf	Harvard University	2022
+26	Reijo Jaakkola	Undecidability of the halting problem The end and G¨odel’s incompleteness theorems	999	https://cnchou.github.io/docs/mini-course/slides/public-advanced-Ia.pdf	Harvard University	2022
+27	K. Prahlad Narasimhan	The 4-Color Theorem: History and Implications	999	https://cnchou.github.io/docs/mini-course/slides/public-advanced-Ib.pdf	Harvard University	2021
+28	Chi-Ning Chou	What is Computation? Concluding Lecture	999	https://cnchou.github.io/docs/mini-course/slides/public-concluding.pdf	Harvard University	2022
+29	Chi-Ning Chou	What is Computation? Introductory Lecture	999	https://cnchou.github.io/docs/mini-course/slides/public-intro.pdf	Harvard University	2022
+30	Chi-Ning Chou	Entering the Living World: Algorithms & Computations in Biology	999	https://cnchou.github.io/docs/mini-course/slides/public-lec-IIIa.pdf	Harvard University	2022
+31	Chi-Ning Chou	Two Mysteries: Evolution and Neuroscience	999	https://cnchou.github.io/docs/mini-course/slides/public-lec-IIIb.pdf	Harvard University	2022
+32	Chi-Ning Chou	Challenges and Hopes: A Tango between Biology & Computation	999	https://cnchou.github.io/docs/mini-course/slides/public-lec-IIIc.pdf	Harvard University	2022
+33	Chi-Ning Chou	After the Falling Apple: Classical and Statistical Mechanics	999	https://cnchou.github.io/docs/mini-course/slides/public-lec-IIa.pdf	Harvard University	2022
+34	Chi-Ning Chou	Two Extremes: Quantum and Gravitational Theories	999	https://cnchou.github.io/docs/mini-course/slides/public-lec-IIb.pdf	Harvard University	2022
+35	Chi-Ning Chou	The Road to Reality: New Insights from Computation?	999	https://cnchou.github.io/docs/mini-course/slides/public-lec-IIc.pdf	Harvard University	2022
+36	Chi-Ning Chou	Departure: Reasoning about Computation via Mathematics	999	https://cnchou.github.io/docs/mini-course/slides/public-lec-Ia.pdf	Harvard University	2022
+37	Chi-Ning Chou	Modern Developments: Models, Resources, Reductions	999	https://cnchou.github.io/docs/mini-course/slides/public-lec-Ib.pdf	Harvard University	2022
+38	Chi-Ning Chou	Reflection: Turing Machine and Reality	999	https://cnchou.github.io/docs/mini-course/slides/public-lec-Ic.pdf	Harvard University	2022
+39	Sebastian Raschka	Intro to ML	112	https://sebastianraschka.com/pdf/lecture-notes/stat451fs21/01-ml-overview__slides.pdf	University of Wisconsin-Madison	2021
+40	Sebastian Raschka	Nearest Neighbor Methods	511	https://sebastianraschka.com/pdf/lecture-notes/stat451fs21/02-knn__slides.pdf	University of Wisconsin-Madison	2021
+41	Sebastian Raschka	Data Preprocessing and Machine Learning with Scikit-Learn	131	https://sebastianraschka.com/pdf/lecture-notes/stat451fs21/05-preprocessing-and-sklearn__slides.pdf	University of Wisconsin-Madison	2021
+42	Sebastian Raschka	Decision Trees	551	https://sebastianraschka.com/pdf/lecture-notes/stat451fs21/06-trees__slides.pdf	University of Wisconsin-Madison	2021
+43	Sebastian Raschka	Ensemble Methods	511	https://sebastianraschka.com/pdf/lecture-notes/stat451fs21/07-ensembles__slides_part1.pdf	University of Wisconsin-Madison	2021
+44	Sebastian Raschka	Ensemble Methods Part 2/3	511	https://sebastianraschka.com/pdf/lecture-notes/stat451fs21/07-ensembles__slides_part2.pdf	University of Wisconsin-Madison	2021
+45	Sebastian Raschka	Ensemble Methods Part 3/3	511	https://sebastianraschka.com/pdf/lecture-notes/stat451fs21/07-ensembles__slides_part3.pdf	University of Wisconsin-Madison	2021
+46	Sebastian Raschka	Introduction to Overfitting and Underfitting	511	https://sebastianraschka.com/pdf/lecture-notes/stat451fs21/08-model-eval-1-intro__slides.pdf	University of Wisconsin-Madison	2021
+47	Sebastian Raschka	Confidence Intervals and Resampling Methods	511	https://sebastianraschka.com/pdf/lecture-notes/stat451fs21/09-eval2-ci__slides.pdf	University of Wisconsin-Madison	2021
+48	Sebastian Raschka	Cross Validation	511	https://sebastianraschka.com/pdf/lecture-notes/stat451fs21/10_eval3-cv__slides.pdf	University of Wisconsin-Madison	2021
+49	Sebastian Raschka	Algorithm Comparisons	511	https://sebastianraschka.com/pdf/lecture-notes/stat451fs21/11-eval4-algo__slides.pdf	University of Wisconsin-Madison	2021
+50	Sebastian Raschka	Performance Metrics	511	https://sebastianraschka.com/pdf/lecture-notes/stat451fs21/12_eval5-metrics__slides.pdf	University of Wisconsin-Madison	2021
+51	Sebastian Raschka	Feature Selection	543	https://sebastianraschka.com/pdf/lecture-notes/stat451fs21/13_feat-sele__slides.pdf	University of Wisconsin-Madison	2021
+52	Sebastian Raschka	What Are Machine Learning And Deep Learning? An Overview	711	https://sebastianraschka.com/pdf/lecture-notes/stat453ss21/L01-intro_slides.pdf	University of Wisconsin-Madison	2021
+53	Sebastian Raschka	A Brief Summary of the History of Neural Networks and Deep Learning	711	https://sebastianraschka.com/pdf/lecture-notes/stat453ss21/L02_dl-history_slides.pdf	University of Wisconsin-Madison	2021
+54	Sebastian Raschka	The Perceptron An Introduction to Single Layer Neural Networks	515	https://sebastianraschka.com/pdf/lecture-notes/stat453ss21/L03_perceptron_slides.pdf	University of Wisconsin-Madison	2021
+55	Sebastian Raschka	Linear Algebra for Deep Learning	711	https://sebastianraschka.com/pdf/lecture-notes/stat453ss21/L04_linalg-dl_slides.pdf	University of Wisconsin-Madison	2021
+56	Sebastian Raschka	Fitting Neurons with Gradient Descent	516	https://sebastianraschka.com/pdf/lecture-notes/stat453ss21/L05_gradient-descent_slides.pdf	University of Wisconsin-Madison	2021
+57	Sebastian Raschka	Automatic Differentiation with PyTorch	711	https://sebastianraschka.com/pdf/lecture-notes/stat453ss21/L06_pytorch_slides.pdf	University of Wisconsin-Madison	2021
+58	Sebastian Raschka	Cloud Computing Resources	731	https://sebastianraschka.com/pdf/lecture-notes/stat453ss21/L07_cloud-computing_slides.pdf	University of Wisconsin-Madison	2021
+59	Sebastian Raschka	Logistic Regression and Multi-class classification	516	https://sebastianraschka.com/pdf/lecture-notes/stat453ss21/L08_logistic__slides.pdf	University of Wisconsin-Madison	2021
+60	Sebastian Raschka	Multilayer Perceptrons	515	https://sebastianraschka.com/pdf/lecture-notes/stat453ss21/L09_mlp__slides.pdf	University of Wisconsin-Madison	2021
+61	Sebastian Raschka	Regularization Methods for Neural Networks	711	https://sebastianraschka.com/pdf/lecture-notes/stat453ss21/L10_regularization__slides.pdf	University of Wisconsin-Madison	2021
+62	Sebastian Raschka	Feature Normalization and Weight Initialization	712	https://sebastianraschka.com/pdf/lecture-notes/stat453ss21/L11_norm-and-init__slides.pdf	University of Wisconsin-Madison	2021
+63	Sebastian Raschka	Improving Gradient Descent-based Optimization	712	https://sebastianraschka.com/pdf/lecture-notes/stat453ss21/L12_optim__slides.pdf	University of Wisconsin-Madison	2021
+64	Sebastian Raschka	Introduction to Convolutional Neural Networks	744	https://sebastianraschka.com/pdf/lecture-notes/stat453ss21/L13_intro-cnn__slides.pdf	University of Wisconsin-Madison	2021
+65	Sebastian Raschka	Introduction to CNNs Part 2 -- CNN Architectures	744	https://sebastianraschka.com/pdf/lecture-notes/stat453ss21/L14_cnn-architectures_slides.pdf	University of Wisconsin-Madison	2021
+66	Sebastian Raschka	Introduction to Recurrent Neural Networks	741	https://sebastianraschka.com/pdf/lecture-notes/stat453ss21/L15_intro-rnn__slides.pdf	University of Wisconsin-Madison	2021
+67	Sebastian Raschka	Introduction to Autoencoders	749	https://sebastianraschka.com/pdf/lecture-notes/stat453ss21/L16_autoencoder__slides.pdf	University of Wisconsin-Madison	2021
+68	Sebastian Raschka	Introduction to Variational Autoencoders	749	https://sebastianraschka.com/pdf/lecture-notes/stat453ss21/L17_vae__slides.pdf	University of Wisconsin-Madison	2021
+69	Sebastian Raschka	Introduction to Generative Adversarial Networks	749	https://sebastianraschka.com/pdf/lecture-notes/stat453ss21/L18_gan__slides.pdf	University of Wisconsin-Madison	2021
+70	Sebastian Raschka	RNNs and Transformers for Sequence-to-Sequence Modeling	714	https://sebastianraschka.com/pdf/lecture-notes/stat453ss21/L19_seq2seq_rnn-transformers__slides.pdf	University of Wisconsin-Madison	2021
+71	Sam Bowman	Introduction	711	https://drive.google.com/file/d/1meFKc6SGlhv33Ez7REKwbOlZfF2aDNw2/view?usp=sharing	NYU	2022
+72	Sam Bowman	Sentiment Analysis	381	https://drive.google.com/file/d/1aMAIwVHO8zAq3UyjMeqYcYqz6fj81cjJ/view?usp=sharing	NYU	2022
+73	Sam Bowman	Pretraining and Transfer in NLU	715	https://drive.google.com/file/d/1SofDiso6wfvRonBXg4yHFgAaXAKCEI7n/view?usp=sharing	NYU	2022
+74	Sam Bowman	More about Large Pretrained Language Models and How To Use Them	715	https://drive.google.com/file/d/1sHBl5mGgXw8vRNfMHEcDURU3BR78J8NB/view?usp=sharing	NYU	2022
+75	Sam Bowman	Aligning and Using Large Language Models	751	https://drive.google.com/file/d/1m0l9J9e4kDDtvXWSnQZGplEncGRwkpkc/view?usp=sharing	NYU	2022
+76	Sam Bowman	Neural Networks	711	https://drive.google.com/file/d/1azf4IEUNkVx4g0NDZEgbVjKTlLbgKvzK/view?usp=sharing	NYU	2022
+77	Sam Bowman	Syntax and Parsing	241	https://drive.google.com/file/d/1eIO3fDhl7YZZj8GEbM4zeahx2t_xcZSZ/view?usp=sharing	NYU	2022
+78	Sam Bowman	Formal approaches to sentence meaning	361	https://drive.google.com/file/d/1HikL8hckNG4Y9-2mHV32Z1ZYC7g1sKCD/view?usp=sharing	NYU	2022
+79	Sam Bowman	Experimental Design	715	https://drive.google.com/file/d/1xg2dDEjG-5Z92QZQIqzrjDkEla5ocCU-/view?usp=sharing	NYU	2022
+80	Sam Bowman	Model Analysis	715	https://drive.google.com/file/d/1BwYHUoGy6yJcJeNmsfzRI7J3DHSMpKYH/view?usp=sharing	NYU	2022
+81	Sam Bowman	Applications & Ethics	931	https://drive.google.com/file/d/1XNPoTOTtDRAb1IxBtkvlxMs8q81G9o-3/view?usp=sharing	NYU	2022
+82	Sam Bowman	Writing and Publishing in NLP	999	https://drive.google.com/file/d/1isX3V7KIlti4M81knYZrYmdFRjMpGJiF/view?usp=sharing	NYU	2022
+83	FRANÇOIS FLEURET	From neural networks to deep learning	711	https://fleuret.org/dlc/materials/dlc-handout-1-1-from-anns-to-deep-learning.pdf	University of Geneva	2022
+84	FRANÇOIS FLEURET	Deep learning 1.2. Current applications and success	711	https://fleuret.org/dlc/materials/dlc-handout-1-2-current-success.pdf	University of Geneva	2022
+85	FRANÇOIS FLEURET	Deep learning 1.3. What is really happening?	711	https://fleuret.org/dlc/materials/dlc-handout-1-3-what-is-happening.pdf	University of Geneva	2022
+86	FRANÇOIS FLEURET	Deep learning 1.4. Tensor basics and linear regression	711	https://fleuret.org/dlc/materials/dlc-handout-1-4-tensors-and-linear-regression.pdf	University of Geneva	2022
+87	FRANÇOIS FLEURET	Deep learning 1.5. High dimension tensors	711	https://fleuret.org/dlc/materials/dlc-handout-1-5-high-dimension-tensors.pdf	University of Geneva	2022
+88	FRANÇOIS FLEURET	Deep learning 1.6. Tensor internals	711	https://fleuret.org/dlc/materials/dlc-handout-1-6-tensor-internals.pdf	University of Geneva	2022
+89	FRANÇOIS FLEURET	Deep learning 10.1. Auto-regression	711	https://fleuret.org/dlc/materials/dlc-handout-10-1-autoregression.pdf	University of Geneva	2022
+90	FRANÇOIS FLEURET	Deep learning 10.2. Causal convolutions	711	https://fleuret.org/dlc/materials/dlc-handout-10-2-causal-convolutions.pdf	University of Geneva	2022
+91	FRANÇOIS FLEURET	Deep learning 10.3. Non-volume preserving networks	711	https://fleuret.org/dlc/materials/dlc-handout-10-3-NVP.pdf	University of Geneva	2022
+92	FRANÇOIS FLEURET	Deep learning 11.1. Generative Adversarial Networks	746	https://fleuret.org/dlc/materials/dlc-handout-11-1-GAN.pdf	University of Geneva	2022
+93	FRANÇOIS FLEURET	Deep learning 11.2. Wasserstein GAN	746	https://fleuret.org/dlc/materials/dlc-handout-11-2-Wasserstein-GAN.pdf	University of Geneva	2022
+94	FRANÇOIS FLEURET	Deep learning 11.3. Conditional GAN and image translation	746	https://fleuret.org/dlc/materials/dlc-handout-11-3-conditional-GAN.pdf	University of Geneva	2022
+95	FRANÇOIS FLEURET	Deep learning 11.4. Model persistence and checkpoints	746	https://fleuret.org/dlc/materials/dlc-handout-11-4-persistence.pdf	University of Geneva	2022
+96	FRANÇOIS FLEURET	Deep learning 12.1. Recurrent Neural Networks	741	https://fleuret.org/dlc/materials/dlc-handout-12-1-RNN-basics.pdf	University of Geneva	2022
+97	FRANÇOIS FLEURET	Deep learning 12.2. LSTM and GRU	742	https://fleuret.org/dlc/materials/dlc-handout-12-2-LSTM-and-GRU.pdf	University of Geneva	2022
+98	FRANÇOIS FLEURET	Deep learning 12.3. Word embeddings and translation	721	https://fleuret.org/dlc/materials/dlc-handout-12-3-word-embeddings-and-translation.pdf	University of Geneva	2022
+99	FRANÇOIS FLEURET	Deep learning 13.1. Attention for Memory and Sequence Translation	745	https://fleuret.org/dlc/materials/dlc-handout-13-1-attention-memory-translation.pdf	University of Geneva	2022
+100	FRANÇOIS FLEURET	Deep learning 13.2. Attention Mechanisms	745	https://fleuret.org/dlc/materials/dlc-handout-13-2-attention-mechanisms.pdf	University of Geneva	2022
+101	FRANÇOIS FLEURET	Deep learning 13.3. Transformer Networks	714	https://fleuret.org/dlc/materials/dlc-handout-13-3-transformers.pdf	University of Geneva	2022
+102	FRANÇOIS FLEURET	Deep learning 2.1. Loss and risk	712	https://fleuret.org/dlc/materials/dlc-handout-2-1-loss-and-risk.pdf	University of Geneva	2022
+103	FRANÇOIS FLEURET	Deep learning 2.2. Over and under fitting	712	https://fleuret.org/dlc/materials/dlc-handout-2-2-overfitting.pdf	University of Geneva	2022
+104	FRANÇOIS FLEURET	Deep learning 2.3. Bias-variance dilemma	712	https://fleuret.org/dlc/materials/dlc-handout-2-3-bias-variance-dilemma.pdf	University of Geneva	2022
+105	FRANÇOIS FLEURET	Deep learning 2.4. Proper evaluation protocols	712	https://fleuret.org/dlc/materials/dlc-handout-2-4-evaluation-protocols.pdf	University of Geneva	2022
+106	FRANÇOIS FLEURET	Deep learning 2.5. Basic clusterings and embeddings	712	https://fleuret.org/dlc/materials/dlc-handout-2-5-basic-embeddings.pdf	University of Geneva	2022
+107	FRANÇOIS FLEURET	Deep learning 3.1. The perceptron	515	https://fleuret.org/dlc/materials/dlc-handout-3-1-perceptron.pdf	University of Geneva	2022
+108	FRANÇOIS FLEURET	Deep learning 3.2. Probabilistic view of a linear classifier	511	https://fleuret.org/dlc/materials/dlc-handout-3-2-LDA.pdf	University of Geneva	2022
+109	FRANÇOIS FLEURET	Deep learning 3.3. Linear separability and feature design	511	https://fleuret.org/dlc/materials/dlc-handout-3-3-features.pdf	University of Geneva	2022
+110	FRANÇOIS FLEURET	Deep learning 3.4. Multi-Layer Perceptrons	711	https://fleuret.org/dlc/materials/dlc-handout-3-4-MLP.pdf	University of Geneva	2022
+111	FRANÇOIS FLEURET	Deep learning 3.5. Gradient descent	712	https://fleuret.org/dlc/materials/dlc-handout-3-5-gradient-descent.pdf	University of Geneva	2022
+112	FRANÇOIS FLEURET	Deep learning 3.6. Back-propagation	712	https://fleuret.org/dlc/materials/dlc-handout-3-6-backprop.pdf	University of Geneva	2022
+113	FRANÇOIS FLEURET	Deep learning 4.1. DAG networks	713	https://fleuret.org/dlc/materials/dlc-handout-4-1-DAG-networks.pdf	University of Geneva	2022
+114	FRANÇOIS FLEURET	Deep learning 4.2. Autograd	713	https://fleuret.org/dlc/materials/dlc-handout-4-2-autograd.pdf	University of Geneva	2022
+115	FRANÇOIS FLEURET	Deep learning 4.3. PyTorch modules and batch processing	713	https://fleuret.org/dlc/materials/dlc-handout-4-3-modules-and-batch-processing.pdf	University of Geneva	2022
+116	FRANÇOIS FLEURET	Deep learning 4.4. Convolutions	744	https://fleuret.org/dlc/materials/dlc-handout-4-4-convolutions.pdf	University of Geneva	2022
+117	FRANÇOIS FLEURET	Deep learning 4.5. Pooling	744	https://fleuret.org/dlc/materials/dlc-handout-4-5-pooling.pdf	University of Geneva	2022
+118	FRANÇOIS FLEURET	Deep learning 4.6. Writing a PyTorch module	713	https://fleuret.org/dlc/materials/dlc-handout-4-6-writing-a-module.pdf	University of Geneva	2022
+119	FRANÇOIS FLEURET	Deep learning 5.1. Cross-entropy loss	712	https://fleuret.org/dlc/materials/dlc-handout-5-1-cross-entropy-loss.pdf	University of Geneva	2022
+120	FRANÇOIS FLEURET	Deep learning 5.2. Stochastic gradient descent	712	https://fleuret.org/dlc/materials/dlc-handout-5-2-SGD.pdf	University of Geneva	2022
+121	FRANÇOIS FLEURET	Deep learning 5.3. PyTorch optimizers	712	https://fleuret.org/dlc/materials/dlc-handout-5-3-optim.pdf	University of Geneva	2022
+122	FRANÇOIS FLEURET	Deep learning 5.4. L2 and L1 penalties	712	https://fleuret.org/dlc/materials/dlc-handout-5-4-l2-l1-penalties.pdf	University of Geneva	2022
+123	FRANÇOIS FLEURET	Deep learning 5.5. Parameter initialization	712	https://fleuret.org/dlc/materials/dlc-handout-5-5-initialization.pdf	University of Geneva	2022
+124	FRANÇOIS FLEURET	Deep learning 5.6. Architecture choice and training protocol	712	https://fleuret.org/dlc/materials/dlc-handout-5-6-architecture-and-training.pdf	University of Geneva	2022
+125	FRANÇOIS FLEURET	Deep learning 5.7. Writing an autograd function	712	https://fleuret.org/dlc/materials/dlc-handout-5-7-writing-an-autograd-function.pdf	University of Geneva	2022
+126	FRANÇOIS FLEURET	Deep learning 6.1. Benefits of depth	711	https://fleuret.org/dlc/materials/dlc-handout-6-1-benefits-of-depth.pdf	University of Geneva	2022
+127	FRANÇOIS FLEURET	Deep learning 6.2. Rectifiers	711	https://fleuret.org/dlc/materials/dlc-handout-6-2-rectifiers.pdf	University of Geneva	2022
+128	FRANÇOIS FLEURET	Deep learning 6.3. Dropout	711	https://fleuret.org/dlc/materials/dlc-handout-6-3-dropout.pdf	University of Geneva	2022
+129	FRANÇOIS FLEURET	Deep learning 6.4. Batch normalization	711	https://fleuret.org/dlc/materials/dlc-handout-6-4-batch-normalization.pdf	University of Geneva	2022
+130	FRANÇOIS FLEURET	Deep learning 6.5. Residual networks	711	https://fleuret.org/dlc/materials/dlc-handout-6-5-residual-networks.pdf	University of Geneva	2022
+131	FRANÇOIS FLEURET	Deep learning 6.6. Using GPUs	711	https://fleuret.org/dlc/materials/dlc-handout-6-6-using-GPUs.pdf	University of Geneva	2022
+132	FRANÇOIS FLEURET	Deep learning 7.1. Transposed convolutions	744	https://fleuret.org/dlc/materials/dlc-handout-7-1-transposed-convolutions.pdf	University of Geneva	2022
+133	FRANÇOIS FLEURET	Deep learning 7.2. Deep Autoencoders	749	https://fleuret.org/dlc/materials/dlc-handout-7-2-autoencoders.pdf	University of Geneva	2022
+134	FRANÇOIS FLEURET	Deep learning 7.3. Denoising autoencoders	749	https://fleuret.org/dlc/materials/dlc-handout-7-3-denoising-autoencoders.pdf	University of Geneva	2022
+135	FRANÇOIS FLEURET	Deep learning 7.4. Variational autoencoders	749	https://fleuret.org/dlc/materials/dlc-handout-7-4-VAE.pdf	University of Geneva	2022
+136	FRANÇOIS FLEURET	Deep learning 8.1. Computer vision tasks	944	https://fleuret.org/dlc/materials/dlc-handout-8-1-CV-tasks.pdf	University of Geneva	2022
+137	FRANÇOIS FLEURET	Deep learning 8.2. Networks for image classification	944	https://fleuret.org/dlc/materials/dlc-handout-8-2-image-classification.pdf	University of Geneva	2022
+138	FRANÇOIS FLEURET	Deep learning 8.3. Networks for object detection	944	https://fleuret.org/dlc/materials/dlc-handout-8-3-object-detection.pdf	University of Geneva	2022
+139	FRANÇOIS FLEURET	Deep learning 8.4. Networks for semantic segmentation	944	https://fleuret.org/dlc/materials/dlc-handout-8-4-segmentation.pdf	University of Geneva	2022
+140	FRANÇOIS FLEURET	Deep learning 8.5. DataLoader and neuro-surgery	944	https://fleuret.org/dlc/materials/dlc-handout-8-5-dataloader-and-surgery.pdf	University of Geneva	2022
+141	FRANÇOIS FLEURET	Deep learning 9.1. Looking at parameters	712	https://fleuret.org/dlc/materials/dlc-handout-9-1-looking-at-parameters.pdf	University of Geneva	2022
+142	FRANÇOIS FLEURET	Deep learning 9.2. Looking at activations	712	https://fleuret.org/dlc/materials/dlc-handout-9-2-looking-at-activations.pdf	University of Geneva	2022
+143	FRANÇOIS FLEURET	Deep learning 9.3. Visualizing the processing in the input	712	https://fleuret.org/dlc/materials/dlc-handout-9-3-visualizing-in-input.pdf	University of Geneva	2022
+144	FRANÇOIS FLEURET	Deep learning 9.4. Optimizing inputs	712	https://fleuret.org/dlc/materials/dlc-handout-9-4-optimizing-inputs.pdf	University of Geneva	2022
+145	FRANÇOIS FLEURET	From neural networks to deep learning	711	https://fleuret.org/dlc/materials/dlc-slides-1-1-from-anns-to-deep-learning.pdf	University of Geneva	2022
+146	FRANÇOIS FLEURET	Deep learning 1.2. Current applications and success	711	https://fleuret.org/dlc/materials/dlc-slides-1-2-current-success.pdf	University of Geneva	2022
+147	FRANÇOIS FLEURET	Deep learning 1.3. What is really happening?	711	https://fleuret.org/dlc/materials/dlc-slides-1-3-what-is-happening.pdf	University of Geneva	2022
+148	FRANÇOIS FLEURET	Deep learning 1.4. Tensor basics and linear regression	711	https://fleuret.org/dlc/materials/dlc-slides-1-4-tensors-and-linear-regression.pdf	University of Geneva	2022
+149	FRANÇOIS FLEURET	Deep learning 1.5. High dimension tensors	711	https://fleuret.org/dlc/materials/dlc-slides-1-5-high-dimension-tensors.pdf	University of Geneva	2022
+150	FRANÇOIS FLEURET	Deep learning 1.6. Tensor internals	711	https://fleuret.org/dlc/materials/dlc-slides-1-6-tensor-internals.pdf	University of Geneva	2022
+151	FRANÇOIS FLEURET	Deep learning 10.1. Auto-regression	711	https://fleuret.org/dlc/materials/dlc-slides-10-1-autoregression.pdf	University of Geneva	2022
+152	FRANÇOIS FLEURET	Deep learning 10.2. Causal convolutions	711	https://fleuret.org/dlc/materials/dlc-slides-10-2-causal-convolutions.pdf	University of Geneva	2022
+153	FRANÇOIS FLEURET	Deep learning 10.3. Non-volume preserving networks	711	https://fleuret.org/dlc/materials/dlc-slides-10-3-NVP.pdf	University of Geneva	2022
+154	FRANÇOIS FLEURET	Deep learning 11.1. Generative Adversarial Networks	746	https://fleuret.org/dlc/materials/dlc-slides-11-1-GAN.pdf	University of Geneva	2022
+155	FRANÇOIS FLEURET	Deep learning 11.2. Wasserstein GAN	746	https://fleuret.org/dlc/materials/dlc-slides-11-2-Wasserstein-GAN.pdf	University of Geneva	2022
+156	FRANÇOIS FLEURET	Deep learning 11.3. Conditional GAN and image translation	746	https://fleuret.org/dlc/materials/dlc-slides-11-3-conditional-GAN.pdf	University of Geneva	2022
+157	FRANÇOIS FLEURET	Deep learning 11.4. Model persistence and checkpoints	746	https://fleuret.org/dlc/materials/dlc-slides-11-4-persistence.pdf	University of Geneva	2022
+158	FRANÇOIS FLEURET	Deep learning 12.1. Recurrent Neural Networks	741	https://fleuret.org/dlc/materials/dlc-slides-12-1-RNN-basics.pdf	University of Geneva	2022
+159	FRANÇOIS FLEURET	Deep learning 12.2. LSTM and GRU	742	https://fleuret.org/dlc/materials/dlc-slides-12-2-LSTM-and-GRU.pdf	University of Geneva	2022
+160	FRANÇOIS FLEURET	Deep learning 12.3. Word embeddings and translation	721	https://fleuret.org/dlc/materials/dlc-slides-12-3-word-embeddings-and-translation.pdf	University of Geneva	2022
+161	FRANÇOIS FLEURET	Deep learning 13.1. Attention for Memory and Sequence Translation	745	https://fleuret.org/dlc/materials/dlc-slides-13-1-attention-memory-translation.pdf	University of Geneva	2022
+162	FRANÇOIS FLEURET	Deep learning 13.2. Attention Mechanisms	745	https://fleuret.org/dlc/materials/dlc-slides-13-2-attention-mechanisms.pdf	University of Geneva	2022
+163	FRANÇOIS FLEURET	Deep learning 13.3. Transformer Networks	714	https://fleuret.org/dlc/materials/dlc-slides-13-3-transformers.pdf	University of Geneva	2022
+164	FRANÇOIS FLEURET	Deep learning 2.1. Loss and risk	712	https://fleuret.org/dlc/materials/dlc-slides-2-1-loss-and-risk.pdf	University of Geneva	2022
+165	FRANÇOIS FLEURET	Deep learning 2.2. Over and under fitting	712	https://fleuret.org/dlc/materials/dlc-slides-2-2-overfitting.pdf	University of Geneva	2022
+166	FRANÇOIS FLEURET	Deep learning 2.3. Bias-variance dilemma	712	https://fleuret.org/dlc/materials/dlc-slides-2-3-bias-variance-dilemma.pdf	University of Geneva	2022
+167	FRANÇOIS FLEURET	Deep learning 2.4. Proper evaluation protocols	712	https://fleuret.org/dlc/materials/dlc-slides-2-4-evaluation-protocols.pdf	University of Geneva	2022
+168	FRANÇOIS FLEURET	Deep learning 2.5. Basic clusterings and embeddings	712	https://fleuret.org/dlc/materials/dlc-slides-2-5-basic-embeddings.pdf	University of Geneva	2022
+169	FRANÇOIS FLEURET	Deep learning 3.1. The perceptron	515	https://fleuret.org/dlc/materials/dlc-slides-3-1-perceptron.pdf	University of Geneva	2022
+170	FRANÇOIS FLEURET	Deep learning 3.2. Probabilistic view of a linear classifier	511	https://fleuret.org/dlc/materials/dlc-slides-3-2-LDA.pdf	University of Geneva	2022
+171	FRANÇOIS FLEURET	Deep learning 3.3. Linear separability and feature design	511	https://fleuret.org/dlc/materials/dlc-slides-3-3-features.pdf	University of Geneva	2022
+172	FRANÇOIS FLEURET	Deep learning 3.4. Multi-Layer Perceptrons	711	https://fleuret.org/dlc/materials/dlc-slides-3-4-MLP.pdf	University of Geneva	2022
+173	FRANÇOIS FLEURET	Deep learning 3.5. Gradient descent	712	https://fleuret.org/dlc/materials/dlc-slides-3-5-gradient-descent.pdf	University of Geneva	2022
+174	FRANÇOIS FLEURET	Deep learning 3.6. Back-propagation	712	https://fleuret.org/dlc/materials/dlc-slides-3-6-backprop.pdf	University of Geneva	2022
+175	FRANÇOIS FLEURET	Deep learning 4.1. DAG networks	713	https://fleuret.org/dlc/materials/dlc-slides-4-1-DAG-networks.pdf	University of Geneva	2022
+176	FRANÇOIS FLEURET	Deep learning 4.2. Autograd	713	https://fleuret.org/dlc/materials/dlc-slides-4-2-autograd.pdf	University of Geneva	2022
+177	FRANÇOIS FLEURET	Deep learning 4.3. PyTorch modules and batch processing	713	https://fleuret.org/dlc/materials/dlc-slides-4-3-modules-and-batch-processing.pdf	University of Geneva	2022
+178	FRANÇOIS FLEURET	Deep learning 4.4. Convolutions	744	https://fleuret.org/dlc/materials/dlc-slides-4-4-convolutions.pdf	University of Geneva	2022
+179	FRANÇOIS FLEURET	Deep learning 4.5. Pooling	744	https://fleuret.org/dlc/materials/dlc-slides-4-5-pooling.pdf	University of Geneva	2022
+180	FRANÇOIS FLEURET	Deep learning 4.6. Writing a PyTorch module	713	https://fleuret.org/dlc/materials/dlc-slides-4-6-writing-a-module.pdf	University of Geneva	2022
+181	FRANÇOIS FLEURET	Deep learning 5.1. Cross-entropy loss	712	https://fleuret.org/dlc/materials/dlc-slides-5-1-cross-entropy-loss.pdf	University of Geneva	2022
+182	FRANÇOIS FLEURET	Deep learning 5.2. Stochastic gradient descent	712	https://fleuret.org/dlc/materials/dlc-slides-5-2-SGD.pdf	University of Geneva	2022
+183	FRANÇOIS FLEURET	Deep learning 5.3. PyTorch optimizers	712	https://fleuret.org/dlc/materials/dlc-slides-5-3-optim.pdf	University of Geneva	2022
+184	FRANÇOIS FLEURET	Deep learning 5.4. L2 and L1 penalties	712	https://fleuret.org/dlc/materials/dlc-slides-5-4-l2-l1-penalties.pdf	University of Geneva	2022
+185	FRANÇOIS FLEURET	Deep learning 5.5. Parameter initialization	712	https://fleuret.org/dlc/materials/dlc-slides-5-5-initialization.pdf	University of Geneva	2022
+186	FRANÇOIS FLEURET	Deep learning 5.6. Architecture choice and training protocol	712	https://fleuret.org/dlc/materials/dlc-slides-5-6-architecture-and-training.pdf	University of Geneva	2022
+187	FRANÇOIS FLEURET	Deep learning 5.7. Writing an autograd function	712	https://fleuret.org/dlc/materials/dlc-slides-5-7-writing-an-autograd-function.pdf	University of Geneva	2022
+188	FRANÇOIS FLEURET	Deep learning 6.1. Benefits of depth	711	https://fleuret.org/dlc/materials/dlc-slides-6-1-benefits-of-depth.pdf	University of Geneva	2022
+189	FRANÇOIS FLEURET	Deep learning 6.2. Rectifiers	711	https://fleuret.org/dlc/materials/dlc-slides-6-2-rectifiers.pdf	University of Geneva	2022
+190	FRANÇOIS FLEURET	Deep learning 6.3. Dropout	711	https://fleuret.org/dlc/materials/dlc-slides-6-3-dropout.pdf	University of Geneva	2022
+191	FRANÇOIS FLEURET	Deep learning 6.4. Batch normalization	711	https://fleuret.org/dlc/materials/dlc-slides-6-4-batch-normalization.pdf	University of Geneva	2022
+192	FRANÇOIS FLEURET	Deep learning 6.5. Residual networks	711	https://fleuret.org/dlc/materials/dlc-slides-6-5-residual-networks.pdf	University of Geneva	2022
+193	FRANÇOIS FLEURET	Deep learning 6.6. Using GPUs	711	https://fleuret.org/dlc/materials/dlc-slides-6-6-using-GPUs.pdf	University of Geneva	2022
+194	FRANÇOIS FLEURET	Deep learning 7.1. Transposed convolutions	744	https://fleuret.org/dlc/materials/dlc-slides-7-1-transposed-convolutions.pdf	University of Geneva	2022
+195	FRANÇOIS FLEURET	Deep learning 7.2. Deep Autoencoders	749	https://fleuret.org/dlc/materials/dlc-slides-7-2-autoencoders.pdf	University of Geneva	2022
+196	FRANÇOIS FLEURET	Deep learning 7.3. Denoising autoencoders	749	https://fleuret.org/dlc/materials/dlc-slides-7-3-denoising-autoencoders.pdf	University of Geneva	2022
+197	FRANÇOIS FLEURET	Deep learning 7.4. Variational autoencoders	749	https://fleuret.org/dlc/materials/dlc-slides-7-4-VAE.pdf	University of Geneva	2022
+198	FRANÇOIS FLEURET	Deep learning 8.1. Computer vision tasks	944	https://fleuret.org/dlc/materials/dlc-slides-8-1-CV-tasks.pdf	University of Geneva	2022
+199	FRANÇOIS FLEURET	Deep learning 8.2. Networks for image classification	944	https://fleuret.org/dlc/materials/dlc-slides-8-2-image-classification.pdf	University of Geneva	2022
+200	FRANÇOIS FLEURET	Deep learning 8.3. Networks for object detection	944	https://fleuret.org/dlc/materials/dlc-slides-8-3-object-detection.pdf	University of Geneva	2022
+201	FRANÇOIS FLEURET	Deep learning 8.4. Networks for semantic segmentation	944	https://fleuret.org/dlc/materials/dlc-slides-8-4-segmentation.pdf	University of Geneva	2022
+202	FRANÇOIS FLEURET	Deep learning 8.5. DataLoader and neuro-surgery	944	https://fleuret.org/dlc/materials/dlc-slides-8-5-dataloader-and-surgery.pdf	University of Geneva	2022
+203	FRANÇOIS FLEURET	Deep learning 9.1. Looking at parameters	712	https://fleuret.org/dlc/materials/dlc-slides-9-1-looking-at-parameters.pdf	University of Geneva	2022
+204	FRANÇOIS FLEURET	Deep learning 9.2. Looking at activations	712	https://fleuret.org/dlc/materials/dlc-slides-9-2-looking-at-activations.pdf	University of Geneva	2022
+205	FRANÇOIS FLEURET	Deep learning 9.3. Visualizing the processing in the input	712	https://fleuret.org/dlc/materials/dlc-slides-9-3-visualizing-in-input.pdf	University of Geneva	2022
+206	FRANÇOIS FLEURET	Deep learning 9.4. Optimizing inputs	712	https://fleuret.org/dlc/materials/dlc-slides-9-4-optimizing-inputs.pdf	University of Geneva	2022
+207	Alexander Amini	Introduction to Deep Learning	711	http://introtodeeplearning.com/2022/slides/6S191_MIT_DeepLearning_L1.pdf	MIT	2022
+208	Alexander Amini	Deep Sequence Modeling	711	http://introtodeeplearning.com/2022/slides/6S191_MIT_DeepLearning_L2.pdf	MIT	2022
+209	Alexander Amini	Deep Computer Vision	711	http://introtodeeplearning.com/2022/slides/6S191_MIT_DeepLearning_L3.pdf	MIT	2022
+210	Alexander Amini	Deep Generative Modeling	711	http://introtodeeplearning.com/2022/slides/6S191_MIT_DeepLearning_L4.pdf	MIT	2022
+211	Alexander Amini	Deep Reinforcement Learning	716	http://introtodeeplearning.com/2022/slides/6S191_MIT_DeepLearning_L5.pdf	MIT	2022
+212	Alexander Amini	Limitations and New Frontiers	711	http://introtodeeplearning.com/2022/slides/6S191_MIT_DeepLearning_L6.pdf	MIT	2022
+213	Louis-Philippe Morency, Amir Zadeh, Paul Liang	Dimensions of Heterogeneity	944	https://cmu-multicomp-lab.github.io/adv-mmml-course/spring2022/schedule/11877_week1.pdf	CMU	2022
+214	Louis-Philippe Morency, Amir Zadeh, Paul Liang	Beyond Language and Vision	944	https://cmu-multicomp-lab.github.io/adv-mmml-course/spring2022/schedule/11877_week10.pdf	CMU	2022
+215	Louis-Philippe Morency, Amir Zadeh, Paul Liang	Dataset and Model Biases	944	https://cmu-multicomp-lab.github.io/adv-mmml-course/spring2022/schedule/11877_week11.pdf	CMU	2022
+216	Louis-Philippe Morency, Amir Zadeh, Paul Liang	Explainability & Interpretability	944	https://cmu-multicomp-lab.github.io/adv-mmml-course/spring2022/schedule/11877_week13.pdf	CMU	2022
+217	Louis-Philippe Morency, Amir Zadeh, Paul Liang	Multimodal Generation and Ethical Concerns	944	https://cmu-multicomp-lab.github.io/adv-mmml-course/spring2022/schedule/11877_week14.pdf	CMU	2022
+218	Louis-Philippe Morency, Amir Zadeh, Paul Liang	Generalization, Low-resource & Robustness	944	https://cmu-multicomp-lab.github.io/adv-mmml-course/spring2022/schedule/11877_week15.pdf	CMU	2022
+219	Louis-Philippe Morency, Amir Zadeh, Paul Liang	Cross-Modal Interactions	944	https://cmu-multicomp-lab.github.io/adv-mmml-course/spring2022/schedule/11877_week2.pdf	CMU	2022
+220	Louis-Philippe Morency, Amir Zadeh, Paul Liang	Multimodal Co-Learning	944	https://cmu-multicomp-lab.github.io/adv-mmml-course/spring2022/schedule/11877_week3.pdf	CMU	2022
+221	Louis-Philippe Morency, Amir Zadeh, Paul Liang	Pretraining Paradigm	944	https://cmu-multicomp-lab.github.io/adv-mmml-course/spring2022/schedule/11877_week4.pdf	CMU	2022
+222	Louis-Philippe Morency, Amir Zadeh, Paul Liang	Multimodal Reasoning	944	https://cmu-multicomp-lab.github.io/adv-mmml-course/spring2022/schedule/11877_week5.pdf	CMU	2022
+223	Louis-Philippe Morency, Amir Zadeh, Paul Liang	Memory and Long-term Interactions	944	https://cmu-multicomp-lab.github.io/adv-mmml-course/spring2022/schedule/11877_week6.pdf	CMU	2022
+224	Louis-Philippe Morency, Amir Zadeh, Paul Liang	Brain and Multimodal Perception	944	https://cmu-multicomp-lab.github.io/adv-mmml-course/spring2022/schedule/11877_week9.pdf	CMU	2022
+225	Louis-Philippe Morency, Amir Zadeh, Paul Liang	Advanced Topics in Multimodal Machine Learning	944	https://cmu-multicomp-lab.github.io/adv-mmml-course/spring2022/schedule/lecture1-Introduction.pdf	CMU	2022
+226	Lluís Padró	Advanced Human Language Techonoliges Introduction	112	https://www.cs.upc.edu/~padro/ahlt/lectures/00-intro.pdf	FIB	2022
+227	Lluís Padró	Advanced Human Language Technologies Statistical Models of Language	211	https://www.cs.upc.edu/~padro/ahlt/lectures/01-modeling.pdf	FIB	2022
+228	Lluís Padró	Advanced Human Language Technologies Similarity Models	311	https://www.cs.upc.edu/~padro/ahlt/lectures/02-similarity.pdf	FIB	2022
+229	Lluís Padró	Advanced Human Language Technologies: Sequence Prediction	512	https://www.cs.upc.edu/~padro/ahlt/lectures/03-sequenceprediction.pdf	FIB	2022
+230	Lluís Padró	Advanced Human Language Technologies: Dependency Parsing	256	https://www.cs.upc.edu/~padro/ahlt/lectures/04a-parsing-constituents.pdf	FIB	2022
+231	Lluís Padró	Advanced Human Language Technologies: Dependency Parsing	256	https://www.cs.upc.edu/~padro/ahlt/lectures/04b-parsing-dependencies.pdf	FIB	2022
+232	Salvador Medina	Advanced Human Language Technologies	112	https://www.cs.upc.edu/~padro/ahlt/lectures/05a-Overview.pdf	FIB	2022
+233	Salvador Medina	WORD VECTORS	721	https://www.cs.upc.edu/~padro/ahlt/lectures/05b-WordVectors.pdf	FIB	2022
+234	Salvador Medina	Word Classification, NER, Key Concepts in Deep Learning	711	https://www.cs.upc.edu/~padro/ahlt/lectures/06-WordClassification.pdf	FIB	2022
+235	Salvador Medina	Recurrent Neural Networks/Gated Units Language Model	741	https://www.cs.upc.edu/~padro/ahlt/lectures/07-Basics-RNN-LM.pdf	FIB	2022
+236	Salvador Medina	Transformer models	714	https://www.cs.upc.edu/~padro/ahlt/lectures/08a-Transformers.pdf	FIB	2022
+237	Salvador Medina	Advanced Transformers: Pre-trained Language Modeling	714	https://www.cs.upc.edu/~padro/ahlt/lectures/08b-AdvancedTransformers.pdf	FIB	2022
+238	Salvador Medina	Food for thought about Ethics in AI	931	https://www.cs.upc.edu/~padro/ahlt/lectures/10-Ethics&Others.pdf	FIB	2022
+239	Stuart Russell, Dawn Song	Artificial Intelligence Introduction	811	https://inst.eecs.berkeley.edu/~cs188/sp22/assets/slides/Lecture1.pdf	UC Berkeley	2022
+240	Stuart Russell, Dawn Song	Inference in FOL: Propositionalization	362	https://inst.eecs.berkeley.edu/~cs188/sp22/assets/slides/Lecture11.pdf	UC Berkeley	2022
+241	Stuart Russell, Dawn Song	elementary probability	123	https://inst.eecs.berkeley.edu/~cs188/sp22/assets/slides/Lecture12.pdf	UC Berkeley	2022
+242	Stuart Russell, Dawn Song	Bayes net global semantics	125	https://inst.eecs.berkeley.edu/~cs188/sp22/assets/slides/Lecture13.pdf	UC Berkeley	2022
+243	Stuart Russell, Dawn Song	Bayes net global semantics	125	https://inst.eecs.berkeley.edu/~cs188/sp22/assets/slides/Lecture14.pdf	UC Berkeley	2022
+244	Stuart Russell, Dawn Song	Markov Models	221	https://inst.eecs.berkeley.edu/~cs188/sp22/assets/slides/Lecture15.pdf	UC Berkeley	2022
+245	Stuart Russell, Dawn Song	Dynamic Bayes Nets, Particle Filtering	125	https://inst.eecs.berkeley.edu/~cs188/sp22/assets/slides/Lecture17.pdf	UC Berkeley	2022
+246	Stuart Russell, Dawn Song	Decision Networks and VPI	551	https://inst.eecs.berkeley.edu/~cs188/sp22/assets/slides/Lecture18.pdf	UC Berkeley	2022
+247	Stuart Russell, Dawn Song	Markov Decision Processes	843	https://inst.eecs.berkeley.edu/~cs188/sp22/assets/slides/Lecture19.pdf	UC Berkeley	2022
+248	Stuart Russell, Dawn Song	Search	821	https://inst.eecs.berkeley.edu/~cs188/sp22/assets/slides/Lecture2.pdf	UC Berkeley	2022
+249	Stuart Russell, Dawn Song	Value/Policy Iteration	857	https://inst.eecs.berkeley.edu/~cs188/sp22/assets/slides/Lecture20.pdf	UC Berkeley	2022
+250	Stuart Russell, Dawn Song	Learning	857	https://inst.eecs.berkeley.edu/~cs188/sp22/assets/slides/Lecture21.pdf	UC Berkeley	2022
+251	Stuart Russell, Dawn Song	Statistical learning & Naïve Bayes	513	https://inst.eecs.berkeley.edu/~cs188/sp22/assets/slides/Lecture23.pdf	UC Berkeley	2022
+252	Stuart Russell, Dawn Song	Reinforcement Learning	857	https://inst.eecs.berkeley.edu/~cs188/sp22/assets/slides/Lecture24.pdf	UC Berkeley	2022
+253	Stuart Russell, Dawn Song	If We Succeed	931	https://inst.eecs.berkeley.edu/~cs188/sp22/assets/slides/Lecture28.pdf	UC Berkeley	2022
+254	Stuart Russell, Dawn Song	General Tree Search	821	https://inst.eecs.berkeley.edu/~cs188/sp22/assets/slides/Lecture3.pdf	UC Berkeley	2022
+255	Stuart Russell, Dawn Song	Local search	821	https://inst.eecs.berkeley.edu/~cs188/sp22/assets/slides/Lecture4.pdf	UC Berkeley	2022
+256	Stuart Russell, Dawn Song	Simulated annealing	821	https://inst.eecs.berkeley.edu/~cs188/sp22/assets/slides/Lecture5.pdf	UC Berkeley	2022
+257	Stuart Russell, Dawn Song	Expectimax and Monte Carlo Tree Search	823	https://inst.eecs.berkeley.edu/~cs188/sp22/assets/slides/Lecture6.pdf	UC Berkeley	2022
+258	Stuart Russell, Dawn Song	Propositional Logic	831	https://inst.eecs.berkeley.edu/~cs188/sp22/assets/slides/Lecture7.pdf	UC Berkeley	2022
+259	Stuart Russell, Dawn Song	Inference in Propositional Logic	831	https://inst.eecs.berkeley.edu/~cs188/sp22/assets/slides/Lecture8.pdf	UC Berkeley	2022
+260	Stuart Russell, Dawn Song	First-Order Logic	362	https://inst.eecs.berkeley.edu/~cs188/sp22/assets/slides/Lecture9.pdf	UC Berkeley	2022
+261	Silvio Savarese, Jeannette Bohg	Camera Models	944	https://web.stanford.edu/class/cs231a/course_notes/01-camera-models.pdf	Stanford	2022
+262	Silvio Savarese, Jeannette Bohg	Single View Metrology	944	https://web.stanford.edu/class/cs231a/course_notes/02-single-view-metrology.pdf	Stanford	2022
+263	Silvio Savarese, Jeannette Bohg	Epipolar Geometry	944	https://web.stanford.edu/class/cs231a/course_notes/03-epipolar-geometry_2022.pdf	Stanford	2022
+264	Silvio Savarese, Jeannette Bohg	Stereo Systems and Structure from Motion	944	https://web.stanford.edu/class/cs231a/course_notes/04-stereo-systems.pdf	Stanford	2022
+265	Silvio Savarese, Jeannette Bohg	Active and Volumetric Stereo	944	https://web.stanford.edu/class/cs231a/course_notes/05-active-volumetric-stereo.pdf	Stanford	2022
+266	Silvio Savarese, Jeannette Bohg	Fitting and Matching	944	https://web.stanford.edu/class/cs231a/course_notes/06-fitting-matching.pdf	Stanford	2022
+267	Silvio Savarese, Jeannette Bohg	Representations and Representation Learning	944	https://web.stanford.edu/class/cs231a/course_notes/07-representation-learning.pdf	Stanford	2022
+268	Silvio Savarese, Jeannette Bohg	Monocular Depth Estimation and Feature Tracking	944	https://web.stanford.edu/class/cs231a/course_notes/08-monocular_depth_estimation.pdf	Stanford	2022
+269	Silvio Savarese, Jeannette Bohg	Optical and Scene Flow	944	https://web.stanford.edu/class/cs231a/course_notes/09-optical-flow.pdf	Stanford	2022
+270	Silvio Savarese, Jeannette Bohg	Optimal Estimation	944	https://web.stanford.edu/class/cs231a/course_notes/10-optimal-estimation.pdf	Stanford	2022
+271	Silvio Savarese, Jeannette Bohg	Representation & Representation Learning	944	https://web.stanford.edu/class/cs231a/lectures/lecture10_low_level_representations_2022.pdf	Stanford	2022
+272	Silvio Savarese, Jeannette Bohg	Monocular Depth Estimation & Feature Tracking	944	https://web.stanford.edu/class/cs231a/lectures/lecture11_monocular_depth_estimation_2022.pdf	Stanford	2022
+273	Silvio Savarese, Jeannette Bohg	Optical and Scene Flow	944	https://web.stanford.edu/class/cs231a/lectures/lecture12_flow_2022.pdf	Stanford	2022
+274	Silvio Savarese, Jeannette Bohg	Optimal Estimation	944	https://web.stanford.edu/class/cs231a/lectures/lecture13_optimal_estimation.pdf	Stanford	2022
+275	Silvio Savarese, Jeannette Bohg	Optimal Estimation	944	https://web.stanford.edu/class/cs231a/lectures/lecture14_optimal_estimation_cont.pdf	Stanford	2022
+276	Silvio Savarese, Jeannette Bohg	Neural Radiance Fields for Novel View Synthesis	944	https://web.stanford.edu/class/cs231a/lectures/lecture16_nerf_2022.pdf	Stanford	2022
+277	Silvio Savarese, Jeannette Bohg	Neural Radiance Fields	944	https://web.stanford.edu/class/cs231a/lectures/lecture17_nerf_2_2022.pdf	Stanford	2022
+278	Silvio Savarese, Jeannette Bohg	Computer Vision: From 3D Reconstruction to Recognition	944	https://web.stanford.edu/class/cs231a/lectures/lecture1_introduction%202022.pdf	Stanford	2022
+279	Silvio Savarese, Jeannette Bohg	Camera Models	944	https://web.stanford.edu/class/cs231a/lectures/lecture2_camera_models_2022.pdf	Stanford	2022
+280	Silvio Savarese, Jeannette Bohg	Camera Models 2 & Camera Calibration	944	https://web.stanford.edu/class/cs231a/lectures/lecture3_camera_calibration_2022.pdf	Stanford	2022
+281	Silvio Savarese, Jeannette Bohg	Single View Metrology	944	https://web.stanford.edu/class/cs231a/lectures/lecture4_single_view_metrology_2022.pdf	Stanford	2022
+282	Silvio Savarese, Jeannette Bohg	Epipolar Geometry	944	https://web.stanford.edu/class/cs231a/lectures/lecture5_epipolar%20geometry_2022.pdf	Stanford	2022
+283	Silvio Savarese, Jeannette Bohg	Stereo Systems Multi-view geometry	944	https://web.stanford.edu/class/cs231a/lectures/lecture6_stereo_systems_2022.pdf	Stanford	2022
+284	Silvio Savarese, Jeannette Bohg	Multi-view geometry	944	https://web.stanford.edu/class/cs231a/lectures/lecture7_SFM_silvio_2022.pdf	Stanford	2022
+285	Silvio Savarese, Jeannette Bohg	Active stereo & Volumetric stereo	944	https://web.stanford.edu/class/cs231a/lectures/lecture8_volumetric_stereo_2022.pdf	Stanford	2022
+286	Silvio Savarese, Jeannette Bohg	Fitting and Matching	944	https://web.stanford.edu/class/cs231a/lectures/lecture9_fitting_matching_2022.pdf	Stanford	2022
+287	Sam Bowman	Machine Learning for Language Understanding	711	https://drive.google.com/file/d/1ICs5bxsuMSiLOQ_5YZJdcAlB8i5Btzr6/view?usp=sharing	NYU	2022
+288	Sam Bowman	Semtiment Analysis	381	https://drive.google.com/file/d/1aMAIwVHO8zAq3UyjMeqYcYqz6fj81cjJ/view?usp=sharing	NYU	2022
+289	Sam Bowman	Pretraining and Transfer in NLU	715	https://drive.google.com/file/d/1SofDiso6wfvRonBXg4yHFgAaXAKCEI7n/view?usp=sharing	NYU	2022
+290	Sam Bowman	Distributional Lexical Semantics	721	https://drive.google.com/file/d/1IUA1qth-mJDxnwxFcvYMTMeV7s2jH7NP/view?usp=sharing	NYU	2022
+291	Sam Bowman	More about Large Pretrained Language Models and How To Use Them	715	https://drive.google.com/file/d/1sHBl5mGgXw8vRNfMHEcDURU3BR78J8NB/view?usp=sharing	NYU	2022
+292	Sam Bowman	Pretraining and Transfer in NLU	715	https://drive.google.com/file/d/1MYX1IUp25WHuW8PAFKzEr_a7zC4WFVB1/view?usp=sharing	NYU	2022
+293	Sam Bowman	Beyond Pretraining	715	https://drive.google.com/file/d/1pdG0a1lNxHWIUze_m8dvohPpKCSwXYNl/view?usp=sharing	NYU	2022
+294	Sam Bowman	Neural Networks	711	https://drive.google.com/file/d/1azf4IEUNkVx4g0NDZEgbVjKTlLbgKvzK/view?usp=share_link	NYU	2022
+295	Sam Bowman	Application and Ethics	931	https://drive.google.com/file/d/1SjpDQmvW1Yz-3OMui9AJRwwZOXWlZvYZ/view?usp=sharing	NYU	2022
+296	Sam Bowman	Lexical Semantics and Related Semantic Tasks	711	https://drive.google.com/file/d/1_eSJHQwZ7Bj2D7i7zZgzN-X98tekfADm/view?usp=sharing	NYU	2022
+297	Sam Bowman	Syntax and Parsing	241	https://drive.google.com/file/d/1mb7kL_JvRucJYiqygsYnV43X2adFGJck/view?usp=sharing	NYU	2022
+298	Sam Bowman	Formal approaches to sentence meaning	361	https://drive.google.com/file/d/1HikL8hckNG4Y9-2mHV32Z1ZYC7g1sKCD/view?usp=sharing	NYU	2022
+299	Sam Bowman	Opening the Black Box	711	https://drive.google.com/file/d/1fx3LoTC14A5oRBgzvqV_OkuE5PKcND85/view?usp=sharing	NYU	2022
+300	Sam Bowman	How to desing experiments in NLU	711	https://drive.google.com/file/d/1qd0h_Tk3WuiB9Rta-7yryxkI_p7lWVqI/view?usp=sharing	NYU	2022
+301	Sam Bowman	Learning Language from Limited Data: Lessons from model probing	713	https://drive.google.com/file/d/1nPQkLMdccjIHvbxN7V5aFxNKace5o1mj/view?usp=sharing	NYU	2022
+302	Sam Bowman	Model Analysis	713	https://drive.google.com/file/d/1BwYHUoGy6yJcJeNmsfzRI7J3DHSMpKYH/view?usp=sharing	NYU	2022
+303	Sam Bowman	Writing and Publishing in NLP	711	https://drive.google.com/file/d/1Zit9TtxwGSVjqFV4LL7dwCF3NsAhCkvX/view?usp=sharing	NYU	2022
+304	Sam Bowman	Natural Language Inference and (a bit of) Commonsense Reasoning	364	https://drive.google.com/file/d/1jXo_yaGw9AVNHppWDZOhdHI6xLGrLvgK/view?usp=sharing	NYU	2022
+305	Sam Bowman	Reading Comprehension & Question Answering	755	https://drive.google.com/file/d/1yJaalWrxf_u0A9gWWa8S1CptO3I3zP_o/view?usp=sharing	NYU	2022
+306	Sam Bowman	Dataset Analysis	711	https://drive.google.com/file/d/1l-GVb-KvL17VvgC8Au-21yBQqzLkaMUx/view?usp=sharing	NYU	2022
+307	Sam Bowman	Formal approaches to sentence meaning	361	https://drive.google.com/file/d/1DSVJ5a_PWE6bptECXjyk9-hDFkWwHQnX/view?usp=sharing	NYU	2022
+308	Sam Bowman	Crowdsourcing for NLP	713	https://drive.google.com/file/d/1-7vqH-ejUGNd3v7E2_3vphGQ3Sms8pQ3/view?usp=sharing	NYU	2022
+309	Sam Bowman	Does putting a linguist in the loop improve NLU data collection?	713	https://drive.google.com/file/d/1UZfiXUKmlP-kBv9GWS8LFZ4JQ3RlsM5T/view?usp=sharing	NYU	2022
+310	Yangfeng Ji	Introduction	711	http://yangfengji.net/uva-ml-course/slides/lec00-intro.pdf	University of Virginia	2022
+311	Yangfeng Ji	Introduction to Learning Theory	999	http://yangfengji.net/uva-ml-course/slides/lec01-theory.pdf	University of Virginia	2022
+312	Yangfeng Ji	Linear Predictors	511	http://yangfengji.net/uva-ml-course/slides/lec02-predictors.pdf	University of Virginia	2022
+313	Yangfeng Ji	The Bias-Complexity Tradeof	511	http://yangfengji.net/uva-ml-course/slides/lec03-tradeoff.pdf	University of Virginia	2022
+314	Yangfeng Ji	Model Selection and Validation	511	http://yangfengji.net/uva-ml-course/slides/lec05-selection.pdf	University of Virginia	2022
+315	Yangfeng Ji	Neural Networks	711	http://yangfengji.net/uva-ml-course/slides/lec06-nns.pdf	University of Virginia	2022
+316	Yangfeng Ji	Gradient Descent	712	http://yangfengji.net/uva-ml-course/slides/lec07-optimization.pdf	University of Virginia	2022
+317	Yangfeng Ji	CNNs and RNNs	711	http://yangfengji.net/uva-ml-course/slides/lec08-rnncnn.pdf	University of Virginia	2022
+318	Yangfeng Ji	Generative Models	746	http://yangfengji.net/uva-ml-course/slides/lec09-generative.pdf	University of Virginia	2022
+319	Yangfeng Ji	Clustering	571	http://yangfengji.net/uva-ml-course/slides/lec10-cluster.pdf	University of Virginia	2022
+320	Yangfeng Ji	Dimensionality Reduction	341	http://yangfengji.net/uva-ml-course/slides/lec11-dr.pdf	University of Virginia	2022
+321	Yangfeng Ji	Machine Learning for NLP	715	http://yangfengji.net/uva-nlp-course/slides/lecture-01.pdf	University of Virginia	2022
+322	Yangfeng Ji	Text Classification (I): Logistic Regression	516	http://yangfengji.net/uva-nlp-course/slides/lecture-02.pdf	University of Virginia	2022
+323	Yangfeng Ji	Neural Classifiers	715	http://yangfengji.net/uva-nlp-course/slides/lecture-03.pdf	University of Virginia	2022
+324	Yangfeng Ji	Text Classification: A further discussion	511	http://yangfengji.net/uva-nlp-course/slides/lecture-04.pdf	University of Virginia	2022
+325	Yangfeng Ji	Word Embeddings	721	http://yangfengji.net/uva-nlp-course/slides/lecture-05.pdf	University of Virginia	2022
+326	Yangfeng Ji	Statistical Language Modeling	211	http://yangfengji.net/uva-nlp-course/slides/lecture-06.pdf	University of Virginia	2022
+327	Yangfeng Ji	Recurrent Neural Networks Language Models	741	http://yangfengji.net/uva-nlp-course/slides/lecture-07.pdf	University of Virginia	2022
+328	Yangfeng Ji	Machine Translation, Sequence-to-Sequence Models	753	http://yangfengji.net/uva-nlp-course/slides/lecture-09.pdf	University of Virginia	2022
+329	Yangfeng Ji	Clustering Algorithms	571	http://yangfengji.net/uva-nlp-course/slides/lecture-10.pdf	University of Virginia	2022
+330	Yangfeng Ji	Generative Modeling	711	http://yangfengji.net/uva-nlp-course/slides/lecture-11.pdf	University of Virginia	2022
+331	Yangfeng Ji	Pre-training Strategies for NLP	714	http://yangfengji.net/uva-nlp-course/slides/lecture-12.pdf	University of Virginia	2022
+332	Rebecca Willett	Introduction	999	https://uchicago.box.com/s/4oo9gkbejnz6n5jh6b2ev6fl4i793tyy	University of Chicago	2020
+333	Rebecca Willett	More on the SVD in ML	999	https://uchicago.box.com/s/y53pnqb5ivj6w7vlbjik55cfo6ro5408	University of Chicago	2020
+334	Rebecca Willett	PageRank and Ridge Regression	999	https://uchicago.box.com/s/qtkvdnr6iy7rxfcmqf5kk90h0eddpgis	University of Chicago	2020
+335	Rebecca Willett	Kernel Ridge Regression	999	https://uchicago.box.com/s/jy6r4pv08ra6heert3r8zn306fiddnp6	University of Chicago	2020
+336	Rebecca Willett	Support Vector Machines	521	https://uchicago.box.com/s/3qdqrd42rlzlcth7jtzldelc4us0bolt	University of Chicago	2020
+337	Rebecca Willett	Basic Convex Optimization	187	https://uchicago.box.com/s/ir2kq3lyicxr447fjc9ebgp2du8gtdqe	University of Chicago	2020
+338	Rebecca Willett	Stochastic Gradient Descent	516	https://uchicago.box.com/s/hilkj5wz422koyitvvb7gcm3qi958sap	University of Chicago	2020
+339	Rebecca Willett	Clustering and K-means	571	https://uchicago.box.com/s/ujxoalukhipcwz9lds1zw5q6o7u3dgq9	University of Chicago	2020
+340	Rebecca Willett	Vectors and Matrices	121	https://uchicago.box.com/s/vpqisd0jvcvim6scn8mr4mroztbtfkhm	University of Chicago	2020
+341	Rebecca Willett	Least Squares and Geometry	121	https://uchicago.box.com/s/fnvrk7r1thr9rwohqn267kxa3n8fi118	University of Chicago	2020
+342	Rebecca Willett	Least Squares and Optimization	121	https://uchicago.box.com/s/3cg4mfqgnem7a7oebosx1w4tg8fp94tf	University of Chicago	2020
+343	Rebecca Willett	Subspaces, Bases, and Projections	121	https://uchicago.box.com/s/luxcaa2mi7brs6yrhrvmjt7wzz8y3g34	University of Chicago	2020
+344	Rebecca Willett	Finding Orthogonal Bases	121	https://uchicago.box.com/s/4g0bgdorz9481660zu8q80eazakalc67	University of Chicago	2020
+345	Rebecca Willett	Introduction to the Singular Value Decomposition	121	https://uchicago.box.com/s/gfpx3wnw5x498qo49ib5p0uwmyub8tki	University of Chicago	2020
+346	Rebecca Willett	The Singular Value Decomposition	121	https://uchicago.box.com/s/cjre2iiaq07wizf49bu40hwuo5l07q19	University of Chicago	2020
+347	Rebecca Willett	The SVD in Machcine Learning	121	https://uchicago.box.com/s/92s3yo77s4ywgv82545xkl8ievda7i5w	University of Chicago	2020
+348	Ryan Tibshirani	Alternating Direction Method of Multipliers	187	https://www.stat.cmu.edu/~ryantibs/convexopt-F18/lectures/admm.pdf	CMU	2018
+349	Ryan Tibshirani	/algs-table	187	https://www.stat.cmu.edu/~ryantibs/convexopt-F18/lectures/algs-table.pdf	CMU	2018
+350	Ryan Tibshirani	Barrier Method	187	https://www.stat.cmu.edu/~ryantibs/convexopt-F18/lectures/barr-method.pdf	CMU	2018
+351	Ryan Tibshirani	Canonical Problem Forms	187	https://www.stat.cmu.edu/~ryantibs/convexopt-F18/lectures/canonical-probs.pdf	CMU	2018
+352	Ryan Tibshirani	Convexity I: Sets and Functions	187	https://www.stat.cmu.edu/~ryantibs/convexopt-F18/lectures/convex-fns.pdf	CMU	2018
+353	Ryan Tibshirani	Convexity II: Optimization Basics	187	https://www.stat.cmu.edu/~ryantibs/convexopt-F18/lectures/convex-opt.pdf	CMU	2018
+354	Ryan Tibshirani	Coordinate Descent	187	https://www.stat.cmu.edu/~ryantibs/convexopt-F18/lectures/coord-desc.pdf	CMU	2018
+355	Ryan Tibshirani	Dual Ascent	187	https://www.stat.cmu.edu/~ryantibs/convexopt-F18/lectures/dual-ascent.pdf	CMU	2018
+356	Ryan Tibshirani	Duality Uses and Correspondences	187	https://www.stat.cmu.edu/~ryantibs/convexopt-F18/lectures/dual-corres.pdf	CMU	2018
+357	Ryan Tibshirani	Duality in General Programs	187	https://www.stat.cmu.edu/~ryantibs/convexopt-F18/lectures/dual-gen.pdf	CMU	2018
+358	Ryan Tibshirani	Duality in Linear Programs	187	https://www.stat.cmu.edu/~ryantibs/convexopt-F18/lectures/dual-lps.pdf	CMU	2018
+359	Ryan Tibshirani	Frank-Wolfe Method	187	https://www.stat.cmu.edu/~ryantibs/convexopt-F18/lectures/frank-wolfe.pdf	CMU	2018
+360	Ryan Tibshirani	Gradient Descent	187	https://www.stat.cmu.edu/~ryantibs/convexopt-F18/lectures/grad-descent.pdf	CMU	2018
+361	Ryan Tibshirani	Introduction: Why Optimization?	187	https://www.stat.cmu.edu/~ryantibs/convexopt-F18/lectures/intro.pdf	CMU	2018
+362	Ryan Tibshirani	Karush-Kuhn-Tucker Conditions	187	https://www.stat.cmu.edu/~ryantibs/convexopt-F18/lectures/kkt.pdf	CMU	2018
+363	Ryan Tibshirani	Modern Stochastic Methods	187	https://www.stat.cmu.edu/~ryantibs/convexopt-F18/lectures/modern-sgd.pdf	CMU	2018
+364	Ryan Tibshirani	Newton’s Method	187	https://www.stat.cmu.edu/~ryantibs/convexopt-F18/lectures/newton.pdf	CMU	2018
+365	Ryan Tibshirani	Numerical Linear Algebra Primer	187	https://www.stat.cmu.edu/~ryantibs/convexopt-F18/lectures/num-lin-alg.pdf	CMU	2018
+366	Ryan Tibshirani	Numerical Linear Algebra Primer	187	https://www.stat.cmu.edu/~ryantibs/convexopt-F18/lectures/primal-dual.pdf	CMU	2018
+367	Ryan Tibshirani	Proximal Gradient Descent	187	https://www.stat.cmu.edu/~ryantibs/convexopt-F18/lectures/prox-grad.pdf	CMU	2018
+368	Ryan Tibshirani	Proximal Newton Method	187	https://www.stat.cmu.edu/~ryantibs/convexopt-F18/lectures/prox-newton.pdf	CMU	2018
+369	Ryan Tibshirani	Quasi-Newton Methods	187	https://www.stat.cmu.edu/~ryantibs/convexopt-F18/lectures/quasi-newton.pdf	CMU	2018
+370	Ryan Tibshirani	Subgradient Method	187	https://www.stat.cmu.edu/~ryantibs/convexopt-F18/lectures/sg-method.pdf	CMU	2018
+371	Ryan Tibshirani	Stochastic Gradient Descent	187	https://www.stat.cmu.edu/~ryantibs/convexopt-F18/lectures/stochastic-gd.pdf	CMU	2018
+372	Ryan Tibshirani	Subgradients	187	https://www.stat.cmu.edu/~ryantibs/convexopt-F18/lectures/subgrad.pdf	CMU	2018
+373	Yulia Tsvetkov	Natural Language Processing Introduction, course logistics	711	https://courses.cs.washington.edu/courses/cse447/22sp/assets/slides/lec01.pdf	UW	2022
+374	Yulia Tsvetkov	Natural Language Processing Introduction, course logistics	711	https://courses.cs.washington.edu/courses/cse447/22sp/assets/slides/lec02.pdf	UW	2022
+375	Yulia Tsvetkov	Introduction, Text classification	541	https://courses.cs.washington.edu/courses/cse447/22sp/assets/slides/lec03.pdf	UW	2022
+376	Yulia Tsvetkov	Text classification	541	https://courses.cs.washington.edu/courses/cse447/22sp/assets/slides/lec04.pdf	UW	2022
+377	Yulia Tsvetkov	Text classification	541	https://courses.cs.washington.edu/courses/cse447/22sp/assets/slides/lec05.pdf	UW	2022
+378	Yulia Tsvetkov	Text classification	541	https://courses.cs.washington.edu/courses/cse447/22sp/assets/slides/lec06.pdf	UW	2022
+379	Yulia Tsvetkov	Logistic Regression	516	https://courses.cs.washington.edu/courses/cse447/22sp/assets/slides/lec07.pdf	UW	2022
+380	Yulia Tsvetkov	Language modeling	211	https://courses.cs.washington.edu/courses/cse447/22sp/assets/slides/lec08.pdf	UW	2022
+381	Yulia Tsvetkov	Language modeling	211	https://courses.cs.washington.edu/courses/cse447/22sp/assets/slides/lec09.pdf	UW	2022
+382	Yulia Tsvetkov	Lexical semantics	311	https://courses.cs.washington.edu/courses/cse447/22sp/assets/slides/lec10.pdf	UW	2022
+383	Yulia Tsvetkov	Lexical semantics, representation learning	311	https://courses.cs.washington.edu/courses/cse447/22sp/assets/slides/lec11.pdf	UW	2022
+384	Yulia Tsvetkov	Neural networks	711	https://courses.cs.washington.edu/courses/cse447/22sp/assets/slides/lec12.pdf	UW	2022
+385	Yulia Tsvetkov	Self Attention and Transformers	714	https://courses.cs.washington.edu/courses/cse447/22sp/assets/slides/lec13.pdf	UW	2022
+386	Yulia Tsvetkov	Recommendation Systems	711	https://courses.cs.washington.edu/courses/cse447/22sp/assets/slides/lec14.pdf	UW	2022
+387	Yulia Tsvetkov	Sequence labeling	234	https://courses.cs.washington.edu/courses/cse447/22sp/assets/slides/lec15.pdf	UW	2022
+388	Yulia Tsvetkov	Sequence labeling	234	https://courses.cs.washington.edu/courses/cse447/22sp/assets/slides/lec16.pdf	UW	2022
+389	Yulia Tsvetkov	Sequence labeling	234	https://courses.cs.washington.edu/courses/cse447/22sp/assets/slides/lec17.pdf	UW	2022
+390	Yulia Tsvetkov	Neural sequence labeling	752	https://courses.cs.washington.edu/courses/cse447/22sp/assets/slides/lec18.pdf	UW	2022
+391	Yulia Tsvetkov	Syntactic parsing	242	https://courses.cs.washington.edu/courses/cse447/22sp/assets/slides/lec19.pdf	UW	2022
+392	Yulia Tsvetkov	Syntactic parsing	242	https://courses.cs.washington.edu/courses/cse447/22sp/assets/slides/lec20.pdf	UW	2022
+393	Yulia Tsvetkov	Syntactic parsing	242	https://courses.cs.washington.edu/courses/cse447/22sp/assets/slides/lec21.pdf	UW	2022
+394	Yulia Tsvetkov	Controlled Analyses of Social Biases in Wikipedia Bios	999	https://courses.cs.washington.edu/courses/cse447/22sp/assets/slides/lec22.pdf	UW	2022
+395	Yulia Tsvetkov	Text summarization	421	https://courses.cs.washington.edu/courses/cse447/22sp/assets/slides/lec23.pdf	UW	2022
+396	Ana Marasović	A Quick Tour of NLP Explainability	933	https://courses.cs.washington.edu/courses/cse447/22sp/assets/slides/lec24.pdf	UW	2022
+397	Yulia Tsvetkov	Computational Ethics	931	https://courses.cs.washington.edu/courses/cse447/22sp/assets/slides/lec25.pdf	UW	2022
